@@ -75,12 +75,10 @@ To finish your portfolio you can put links to relevant sites, like your GitHub p
 
 ### Other articles that may interest you:
 
-[Personal Portfolio With React][link3]
++ [Personal Portfolio With React.](https://4geeks.com/interactive-coding-tutorial/junior/personal-portfolio-react)
 
-[How to Build a GitHub Portfolio & Get Noticed by Recruiters][link1]
++ [How to Build a GitHub Portfolio & Get Noticed by Recruiters.](https://blog.vanhack.com/blog/how-to-build-a-github-portfolio-get-noticed-by-recruiters#:~:text=Setting%20up%20your%20projects%20on%20GitHub%20Portfoliotext=Describe%20the%20technologies%20and%20theforget%20API%20documentation%20if%20applicable.)
 
-[21 Best Developer Portfolio Examples][link2]
++ [21 Best Developer Portfolio Examples.](https://hackernoon.com/21-best-developer-portfolio-examples-p61j31wi)
 
-[link1]: https://blog.vanhack.com/blog/how-to-build-a-github-portfolio-get-noticed-by-recruiters/#:~:text=Setting%20up%20your%20projects%20on%20GitHub%20Portfolio&text=Describe%20the%20technologies%20and%20the,forget%20API%20documentation%20if%20applicable.
-[link2]: https://hackernoon.com/21-best-developer-portfolio-examples-p61j31wi
-[link3]: https://4geeks.com/interactive-coding-tutorial/junior/personal-portfolio-react
+
