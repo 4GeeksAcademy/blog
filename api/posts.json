@@ -1,0 +1,946 @@
+[
+  {
+    "slug": "2019-developers-salaries-report",
+    "fileName": "2019-developers-salaries-report.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
+    "date": "2019-03-20T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "4-razones-de-por-que-la-programacion-es-importante.es",
+    "fileName": "4-razones-de-por-que-la-programacion-es-importante.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "4 Razones de por qué la programación es importante",
+    "date": "2021-10-01T17:18:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "4geeks-academy-casimiro-global-foundation.us",
+    "fileName": "4geeks-academy-casimiro-global-foundation.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy + Casimiro Global Foundation",
+    "date": "2016-02-08T17:18:12+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "4geeks-academy-history.us",
+    "fileName": "4geeks-academy-history.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy Story",
+    "date": "2015-12-23T05:31:23+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "4geeks-academy-llega-a-venezuela.es",
+    "fileName": "4geeks-academy-llega-a-venezuela.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¡4Geeks Academy llega a Venezuela!",
+    "date": "2016-05-04T14:32:02+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "4geeks-academy-teaches-php-backend-language",
+    "fileName": "4geeks-academy-teaches-php-backend-language.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why 4Geeks Academy teaches PHP as Backend Language",
+    "date": "2016-01-11T03:15:12+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "4geeks-miami-dade-college-story",
+    "fileName": "4geeks-miami-dade-college-story.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy & Miami Dade College |  A Story of Success",
+    "date": "2018-11-14T03:22:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "5-mujeres-impactando-la-industria-tech",
+    "fileName": "5-mujeres-impactando-la-industria-tech.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "5 mujeres impactando la industria tech",
+    "date": "2022-03-06T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "5-women-impacting-the-stem-industry",
+    "fileName": "5-women-impacting-the-stem-industry.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "5 Women impacting the STEM industry!",
+    "date": "2022-02-10T20:44:51+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "7-hacks-to-land-a-job",
+    "fileName": "7-hacks-to-land-a-job.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "7 tips to land a job as a Software Developer ASAP",
+    "date": "2019-06-24T20:44:51+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "all-you-need-to-know-about-artificial-intelligence",
+    "fileName": "all-you-need-to-know-about-artificial-intelligence.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "All you need to know about Artificial Intelligence",
+    "date": "2021-10-28T20:44:51+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "almacenamiento-en-la-nube",
+    "fileName": "almacenamiento-en-la-nube-un-avance-tecnologico.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Almacenamiento en la nube, un avance tecnológico increíble",
+    "date": "2022-03-01T12:00:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "ama-chapter-of-fiu-4geeks-academy",
+    "fileName": "ama-chapter-of-fiu-4geeks-academy.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "AMA Chapter of FIU + 4Geeks Academy - Getting Students Closer To A Coding Education",
+    "date": "2016-02-11T15:28:28+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "aprender-a-programar-desde-cero",
+    "fileName": "aprender-a-programar-desde-cero.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Cómo aprender a programar desde cero",
+    "date": "2016-05-04T14:32:02+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "becoming-a-web-developer-in-miami",
+    "fileName": "becoming-a-web-developer-in-miami.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Learning to code in Miami",
+    "date": "2016-02-03T05:34:01+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "are-coding-bootcamp-worth-it",
+    "fileName": "are-coding-bootcamps-worth-it.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads",
+    "date": "2021-04-09T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "bootcamp-salaries-2-0",
+    "fileName": "bootcamp-salaries-2-0.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Bootcamp Graduates Salary 2017: 2.0 edition",
+    "date": "2017-10-27T23:10:20+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "carrera-de-programacion.es",
+    "fileName": "carrera-de-programacion.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "De qué trata la Carrera de Programación",
+    "date": "2016-05-04T14:32:02+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "challenges-web-developer.us",
+    "fileName": "challenges-web-developer.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The Challenges of a Web Developer, Living and working as a developer",
+    "date": "2015-12-17T17:30:43+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "choosing-coding-bootcamp",
+    "fileName": "choosing-coding-bootcamp.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "How to choose the best coding Bootcamp?",
+    "date": "2018-07-16T20:43:46+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "coding-bootcamp-syllabus-matters",
+    "fileName": "coding-bootcamp-syllabus-matters.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The coding bootcamp syllabus matters",
+    "date": "2017-11-04T00:33:50+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "como-pagar-bootcamp-programacion",
+    "fileName": "como-pagar-bootcamp-programacion.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
+    "date": "2022-10-10T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "cuanto-gana-un-desarrollador-full-stack",
+    "fileName": "cuanto-gana-un-desarrollador-full-stack.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¿Cuánto gana un Desarrollador Web Full-Stack en Chile?",
+    "date": "2021-02-24T05:29:14+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "de-que-trata-la-careera-de-programacion",
+    "fileName": "de-que-trata-la-carrera-de-programacion.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "De qué trata la Carrera de Programación",
+    "date": "2015-12-23T05:31:23+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "digital-marketing-in-the-coding-world",
+    "fileName": "digital-marketing-in-the-coding-world.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Digital Marketing in the Coding World",
+    "date": "2020-01-20T21:09:10+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "disyuntiva-para-futuros-programadores-universidad-o-bootcamp",
+    "fileName": "disyuntiva-para-futuros-programadores-universidad-o-bootcamp.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Disyuntiva para futuros programadores:  ¿Universidad o Bootcamp?",
+    "date": "2016-05-04T14:39:10+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "dont-teach-nodejs-full-stack-development-program",
+    "fileName": "dont-teach-nodejs-full-stack-development-program.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why we don't teach NodeJS in our Full-Stack Development program",
+    "date": "2017-09-25T18:07:08+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "el-instructor-ideal",
+    "fileName": "el-instructor-ideal.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "EL INSTRUCTOR IDEAL...",
+    "date": "2016-07-25T16:19:57+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "empowering-women-tech",
+    "fileName": "empowering-women-tech.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy empowering Women in Tech",
+    "date": "2018-04-12T18:18:16+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "example-delete-me",
+    "fileName": "example-delete-me.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
+    "date": "2019-03-20T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "facilidades-y-dificultades-para-aprender-a-programar",
+    "fileName": "facilidades-y-dificultades-para-aprender-a-programar.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Facilidades y dificultades para aprender a programar",
+    "date": "2021-10-18T17:18:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "feelings-learning-coding",
+    "fileName": "feelings-learning-coding.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The feelings when Learning to Code",
+    "date": "2018-06-22T03:51:55+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "free-games-to-practice-your-programming-skills",
+    "fileName": "free-games-to-practice-your-programming-skills.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Free games to practice your programming skills",
+    "date": "2022-05-05T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "freelance-espana",
+    "fileName": "freelance-espana.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Plataformas para encontrar trabajo Freelance",
+    "date": "2021-05-19T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "full-stack-web-development-at-miami-dade-college",
+    "fileName": "full-stack-web-development-at-miami-dade-college.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Learn to Code at Miami Dade College",
+    "date": "2017-05-08T21:08:07+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "geekpal",
+    "fileName": "geekpal.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Never Code Alone Again",
+    "date": "2020-04-29T05:31:23+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "growth-road-full-time-job",
+    "fileName": "growth-road-full-time-job.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The Growth Road",
+    "date": "2019-08-27T14:37:28+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "habilidades-desarrollador-full-stack",
+    "fileName": "habilidades-desarrollador-full-stack.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Habilidades de un Desarrollador Full-Stack",
+    "date": "2021-04-26T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "hacks-learn-to-code",
+    "fileName": "hacks-learn-to-code.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Hacks for learning to code: Read Less and Learn Better",
+    "date": "2019-09-18T23:16:33+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "historia-de-4geeks-academy",
+    "fileName": "historia-de-4geeks-academy.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Historia de 4Geeks Academy",
+    "date": "2016-04-13T20:36:02+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "how-does-the-web-work-html-css",
+    "fileName": "how-does-the-web-work-html-css.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "HTML + CSS - Understanding How The Web Works",
+    "date": "2015-12-28T15:53:55+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "how-to-prepare-for-a-typical-interview-for-web-development-position",
+    "fileName": "how-to-prepare-for-a-typical-interview-for-web-development-position.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "My Job Interview",
+    "date": "2016-03-04T04:48:24+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "hybrid-jobs",
+    "fileName": "hybrid-jobs.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Hybrid Jobs: An Unstoppable Movement",
+    "date": "2019-10-15T20:53:47+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "internships-bootcamps-2021",
+    "fileName": "internships-and-bootcamps-2021.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Internships and bootcamps: the keys to prepare tech companies for 2021 demands",
+    "date": "2021-02-24T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "javascript-and-python",
+    "fileName": "javascript-and-python.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "JavaScript y Python: Imprescindibles para cualquier programador",
+    "date": "2019-11-20T22:48:11+00:00",
+    "lang": "es",
+    "translations": [
+      "us"
+    ]
+  },
+  {
+    "slug": "javascript-and-python",
+    "fileName": "javascript-and-python.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "JavaScript and Python: A-must for any coder",
+    "date": "2019-11-20T22:48:11+00:00",
+    "lang": "us",
+    "translations": [
+      "es"
+    ]
+  },
+  {
+    "slug": "juegos-gratis-para-practicar-tus-habilidades-de-programacion",
+    "fileName": "juegos-gratis-para-practicar-tus-habilidades-de-programacion.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Juegos gratis para practicar tus habilidades de programación",
+    "date": "2022-05-05T05:29:14+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "launchcode-and-4geeks-academy",
+    "fileName": "launchcode-and-4geeks-academy.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy and LaunchCode.org",
+    "date": "2016-01-08T11:19:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "los-5-frameworks-fundamentales-para-frontend",
+    "fileName": "los-5-frameworks-fundamentales-para-frontend.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Los 5 Frameworks Fundamentales para Frontend",
+    "date": "2022-08-30T12:00:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "miami-coding-programs-report",
+    "fileName": "miami-coding-programs-report.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Miami Coding Bootcamps | 2018 Report",
+    "date": "2018-11-06T20:24:41+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "new-year-new-hiring-partners-launch-potato-us",
+    "fileName": "new-year-new-hiring-partners-launch-potato-us.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "New year, New Hiring Partners: Launch Potato & Us",
+    "date": "2017-12-12T21:22:15+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end",
+    "fileName": "nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Node.JS: El camino hacia el éxito de la programación Back-end",
+    "date": "2022-09-13",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "pandemic-impact-on-coding-bootcamp",
+    "fileName": "pandemic-impact-on-coding-bootcamps.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "PANDEMIC IMPACT ON CODING BOOTCAMPS",
+    "date": "2021-02-24T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "part-time-bootcamps",
+    "fileName": "part-time-bootcamps.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why is a Part-Time Coding Bootcamp  Best for You",
+    "date": "2018-10-04T15:33:22+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "part-time-future-education",
+    "fileName": "part-time-future-education.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Part-time is the future of education",
+    "date": "2016-01-08T12:00:40+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "pay-once-get-job-isa",
+    "fileName": "pay-once-get-job-isa.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Pay once you get a Job",
+    "date": "2019-04-10T17:57:47+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "pay-tuition-4geeks-academy",
+    "fileName": "pay-tuition-4geeks-academy.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Miami Dade College Coding Program: How To Pay Your Tuition?",
+    "date": "2017-01-21T00:38:45+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "pay-tuition-4geeks",
+    "fileName": "pay-tuition-4geeks.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "How to Pay your tuition at 4Geeks",
+    "date": "2017-10-24T16:29:31+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "por-que-es-una-buena-decision-convertirse-en-desarrollador-de-software",
+    "fileName": "por-que-es-una-buena-decision-convertirse-en-desarrollador-de-software.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¿Por qué es una buena decisión convertirse en Desarrollador de Software?",
+    "date": "2022-25-10T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "porque-ensenamos-python-4geeks",
+    "fileName": "porque-ensenamos-python-4geeks.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¿Porqué 4Geeks Academy enseña Python como lenguaje para Backend?",
+    "date": "2020-11-23T22:32:53+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "pre-work-phase-free-open-everybody",
+    "fileName": "pre-work-phase-free-open-everybody.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why our pre-work phase is free and open for everybody",
+    "date": "2016-01-10T09:21:18+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "python-one-of-the-most-in-demand-programming-languages",
+    "fileName": "python-one-of-the-most-in-demand-programming-languages.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Python: one of the most in-demand programming languages",
+    "date": "2022-04-07T12:00:12+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "python-uno-de-los-lenguajes-de-programacion-mas-demandados",
+    "fileName": "python-uno-de-los-lenguajes-mas-demandados.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Python: uno de los lenguajes de programación más demandados",
+    "date": "2022-04-07T12:00:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "que-es-full-stack",
+    "fileName": "que-significa-ser-full-stack.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¿Qué significa ser Full Stack?",
+    "date": "2021-04-14T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "2019-developers-salaries-report",
+    "fileName": "remote-jobs-data.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
+    "date": "2019-03-20T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "rip-ruby-on-rails",
+    "fileName": "rip-ruby-on-rails.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "R.I.P. Ruby on Rails. Thanks for everything!",
+    "date": "2016-01-18T15:02:43+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "sample",
+    "fileName": "sample.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "the coding bootcamp syllabus matters",
+    "date": "2018-11-19T00:00:00+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "ser-programador-entre-las-profesiones-con-mayor-demanda",
+    "fileName": "ser-programador-entre-las-profesiones-con-mayor-demanda.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Ser Programador… Entre las profesiones con mayor demanda",
+    "date": "2016-05-11T14:52:45+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "should-i-learn-code",
+    "fileName": "should-i-learn-code.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Should I learn to Code?",
+    "date": "2021-02-24T05:29:14+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "sindrome-del-burnout",
+    "fileName": "sindrome-de-burnout.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Síndrome de Burnout en programadores ¿Cómo afecta y cómo afrontarlo?",
+    "date": "2022-05-03T12:00:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "sindrome-del-impostor",
+    "fileName": "sindrome-del-impostor.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Síndrome del Impostor: El peor enemigo de todo programador junior",
+    "date": "2022-04-04T12:00:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "skillsfund-4geeksacademy",
+    "fileName": "skillsfund-4geeksacademy.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Skills Fund & 4Geeks Academy finally together",
+    "date": "2018-02-28T20:41:26+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "student-testimonials",
+    "fileName": "student-testimonials.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Learn to code at 4Geeks| Voices to be heard",
+    "date": "2018-11-05T22:22:21+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "techcamp-2017-beca",
+    "fileName": "techcamp-2017-beca.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "¡4Geeks Academy becó a 4 emprendedores del TechCamp Caracas 2017!",
+    "date": "2017-07-18T20:38:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "tecnologia-y-medicina-avanzada",
+    "fileName": "tecnologia-y-medicina-avanzada.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Tecnología y medicina avanzada: Una alianza estratégica",
+    "date": "2021-11-03T12:18:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "the-ideal-instructor",
+    "fileName": "the-ideal-instructor.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "THE IDEAL INSTRUCTOR",
+    "date": "2016-07-25T18:52:57+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "the-talent-tree",
+    "fileName": "the-talent-tree.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The Talent Tree",
+    "date": "2017-10-11T20:30:18+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "ticjob-se-une-a-nuestros-partners",
+    "fileName": "ticjob-se-une-a-nuestros-partners.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Ticjob se une a nuestros partners",
+    "date": "2021-03-08T05:31:23+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "tips-para-encontrar-trabajo",
+    "fileName": "tips-para-encontrar-trabajo.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "5 tips para encontrar tu próximo empleo en programación",
+    "date": "2021-07-07T00:00:00+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "todo-lo-que-necesitas-saber-sobre-inteligencia-artificial",
+    "fileName": "todo-lo-que-necesitas-saber-sobre-ia.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Todo lo que necesitas saber sobre Inteligencia Artificial",
+    "date": "2021-10-28T20:44:51+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "truth-behind-part-time-education",
+    "fileName": "truth-behind-part-time-education.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "The truth behind our Part-time education",
+    "date": "2017-12-11T23:15:20+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "turnaround-education-traditions-4geeks-academy",
+    "fileName": "turnaround-education-traditions-4geeks-academy.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Turnaround on Education Traditions | Part I",
+    "date": "2017-04-07T17:34:13+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "used-backend-programming-language-miami",
+    "fileName": "used-backend-programming-language-miami.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "What is the most used back-end programming language in Miami?",
+    "date": "2016-05-29T18:16:20+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "ventajas-de-trabajar-en-tecnologia",
+    "fileName": "ventajas-de-trabajar-en-el-area-de-tecnologia.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Ventajas de trabajar en el área de tecnología",
+    "date": "2021-12-15T12:18:12+00:00",
+    "lang": "es",
+    "translations": []
+  },
+  {
+    "slug": "wages-report-2018-1",
+    "fileName": "wages-report-2018-1.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Bootcamp Graduates Salary 2018",
+    "date": "2018-03-19T22:36:42+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "web-developer-earn-the-salary-you-deserve",
+    "fileName": "web-developer-earn-the-salary-you-deserve.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Web Developer: Earn the Salary You Deserve",
+    "date": "2015-12-09T20:18:46+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "web-development-versus-web-design",
+    "fileName": "web-development-vs-web-design.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Web Development Vs. Web Design",
+    "date": "2016-03-11T04:00:00+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "web-salaries-2017-coding-bootcamp",
+    "fileName": "web-salaries-2017-coding-bootcamp.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Web development Bootcamp graduates salary: 2017 edition",
+    "date": "2017-07-18T20:20:19+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2",
+    "fileName": "what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "What kinds of jobs do coding bootcamp graduates find?",
+    "date": "2016-03-18T00:00:00+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "why-become-a-web-developer-in-miami-dade-in-2016",
+    "fileName": "why-become-a-web-developer-in-miami-dade-in-2016.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why Become A Web Developer In Miami Dade In 2016",
+    "date": "2016-01-18T00:38:18+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "why-is-it-a-good-choice-to-become-a-software-developer",
+    "fileName": "why-is-it-a-good-choice-to-become-a-software-developer.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why is it a good choice to become a Software Developer?",
+    "date": "2022-10-25T20:44:51+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "why-we-teach-python-4geeks",
+    "fileName": "why-we-teach-python-4geeks.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why 4Geeks Academy teaches Python as Backend Language?",
+    "date": "2020-11-23T22:32:53+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "women-in-tech-2017",
+    "fileName": "women-in-tech-2017.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Women in Tech 2017",
+    "date": "2018-01-17T04:01:12+00:00",
+    "lang": "us",
+    "translations": []
+  },
+  {
+    "slug": "wyncode-ironhack-and-4geeks-academy-comparison",
+    "fileName": "wyncode-ironhack-and-4geeks-academy-comparison.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Wyncode, Ironhack and 4Geeks Academy comparison",
+    "date": "2016-01-08T11:14:46+00:00",
+    "lang": "us",
+    "translations": []
+  }
+]

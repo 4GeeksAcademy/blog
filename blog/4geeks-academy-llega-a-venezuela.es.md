@@ -2,7 +2,6 @@
 author: "4GeeksAcademy"
 date: "2016-05-04T14:32:02+00:00"
 excerpt: "4Geeks Academy llega a Venezuela! Conoce los detalles aquí"
-slug: "4geeks-academy-llega-a-venezuela"
 template: "post"
 title: "¡4Geeks Academy llega a Venezuela!"
 description: "Conoce los detalles de la llegada de 4Geeks Academy a Venezuela"
