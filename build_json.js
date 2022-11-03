@@ -30,7 +30,7 @@ const buildData = (posts) => posts
   .map(post => {
     const content = fs.readFileSync(post, 'utf8');
     const attributes = fm(content).attributes;
-    const { title, date, status, subtitle, authors } = attributes;
+    const { title, date, status, subtitle, authors, excerpt } = attributes;
     
     if(!title) throw new Error('Missing title on '+post);
     if(!date) throw new Error('Missing date on '+post);
@@ -44,7 +44,7 @@ const buildData = (posts) => posts
         slug: slug.substring(slug.indexOf("]")+1), //removing status from file name, e.g: "[unassigned]hello.md" will be "hello.md"
         fileName: path.basename(post),
         status: status || 'published', authors: authors || null,
-        title, date, lang, translations, subtitle,
+        title, date, lang, translations, subtitle, excerpt,
     };
 });
 

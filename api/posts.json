@@ -7,7 +7,8 @@
     "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
     "date": "2019-03-20T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "According to Payscale, a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period."
   },
   {
     "slug": "4-razones-de-por-que-la-programacion-es-importante.es",
@@ -17,17 +18,8 @@
     "title": "4 Razones de por qué la programación es importante",
     "date": "2021-10-01T17:18:12+00:00",
     "lang": "es",
-    "translations": []
-  },
-  {
-    "slug": "4geeks-academy-casimiro-global-foundation.us",
-    "fileName": "4geeks-academy-casimiro-global-foundation.us.md",
-    "status": "published",
-    "authors": null,
-    "title": "4Geeks Academy + Casimiro Global Foundation",
-    "date": "2016-02-08T17:18:12+00:00",
-    "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Hoy te contamos cuatro razones de por qué la programación es tan importante en nuestras vidas."
   },
   {
     "slug": "4geeks-academy-history.us",
@@ -37,7 +29,19 @@
     "title": "4Geeks Academy Story",
     "date": "2015-12-23T05:31:23+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Know in depth the history of 4Geeks Academy"
+  },
+  {
+    "slug": "4geeks-academy-casimiro-global-foundation.us",
+    "fileName": "4geeks-academy-casimiro-global-foundation.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "4Geeks Academy + Casimiro Global Foundation",
+    "date": "2016-02-08T17:18:12+00:00",
+    "lang": "us",
+    "translations": [],
+    "excerpt": "Organization leader among the Miami community of young entrepreneurs: Casimiro Global Foundation."
   },
   {
     "slug": "4geeks-academy-llega-a-venezuela.es",
@@ -47,17 +51,8 @@
     "title": "¡4Geeks Academy llega a Venezuela!",
     "date": "2016-05-04T14:32:02+00:00",
     "lang": "es",
-    "translations": []
-  },
-  {
-    "slug": "4geeks-academy-teaches-php-backend-language",
-    "fileName": "4geeks-academy-teaches-php-backend-language.us.md",
-    "status": "published",
-    "authors": null,
-    "title": "Why 4Geeks Academy teaches PHP as Backend Language",
-    "date": "2016-01-11T03:15:12+00:00",
-    "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "4Geeks Academy llega a Venezuela! Conoce los detalles aquí"
   },
   {
     "slug": "4geeks-miami-dade-college-story",
@@ -67,7 +62,19 @@
     "title": "4Geeks Academy & Miami Dade College |  A Story of Success",
     "date": "2018-11-14T03:22:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "MDC and 4Geeks Academy have been working together for more than 2 years already. Know our history here"
+  },
+  {
+    "slug": "4geeks-academy-teaches-php-backend-language",
+    "fileName": "4geeks-academy-teaches-php-backend-language.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Why 4Geeks Academy teaches PHP as Backend Language",
+    "date": "2016-01-11T03:15:12+00:00",
+    "lang": "us",
+    "translations": [],
+    "excerpt": "This post is not about what programming language is better (it's impossible to answer that), this post is about choosing the best language to learn how to code."
   },
   {
     "slug": "5-mujeres-impactando-la-industria-tech",
@@ -77,7 +84,8 @@
     "title": "5 mujeres impactando la industria tech",
     "date": "2022-03-06T20:44:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Hablaremos sobre el impacto actual de las mujeres en la industria STEM, sus historias personales, áreas de especialización y logros."
   },
   {
     "slug": "5-women-impacting-the-stem-industry",
@@ -87,7 +95,8 @@
     "title": "5 Women impacting the STEM industry!",
     "date": "2022-02-10T20:44:51+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "In this blogpost we will be talking about today’s impact of women in the STEM industry, their personal stories, areas of expertise and achievements."
   },
   {
     "slug": "7-hacks-to-land-a-job",
@@ -97,7 +106,8 @@
     "title": "7 tips to land a job as a Software Developer ASAP",
     "date": "2019-06-24T20:44:51+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Why exactly are you putting yourself through all of this mental toil and relentless sacrifice and inevitable frustration for many weeks or months?"
   },
   {
     "slug": "all-you-need-to-know-about-artificial-intelligence",
@@ -107,7 +117,8 @@
     "title": "All you need to know about Artificial Intelligence",
     "date": "2021-10-28T20:44:51+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "This article is about: What is AI? how much is growing? Market Opportunities"
   },
   {
     "slug": "almacenamiento-en-la-nube",
@@ -117,7 +128,8 @@
     "title": "Almacenamiento en la nube, un avance tecnológico increíble",
     "date": "2022-03-01T12:00:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "En los últimos años, en el mundo tech, las nubes han reemplazado a los dispositivos USB de almacenamiento y te preguntarás ¿por qué?"
   },
   {
     "slug": "ama-chapter-of-fiu-4geeks-academy",
@@ -127,7 +139,8 @@
     "title": "AMA Chapter of FIU + 4Geeks Academy - Getting Students Closer To A Coding Education",
     "date": "2016-02-11T15:28:28+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Getting Students Closer To A Coding Education"
   },
   {
     "slug": "aprender-a-programar-desde-cero",
@@ -137,17 +150,8 @@
     "title": "Cómo aprender a programar desde cero",
     "date": "2016-05-04T14:32:02+00:00",
     "lang": "es",
-    "translations": []
-  },
-  {
-    "slug": "becoming-a-web-developer-in-miami",
-    "fileName": "becoming-a-web-developer-in-miami.us.md",
-    "status": "published",
-    "authors": null,
-    "title": "Learning to code in Miami",
-    "date": "2016-02-03T05:34:01+00:00",
-    "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Guia completa sobre como aprender a programar desde cero utilizando las tecnologias más buscadas para conseguir trabajo rápidamente"
   },
   {
     "slug": "are-coding-bootcamp-worth-it",
@@ -157,7 +161,19 @@
     "title": "Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads",
     "date": "2021-04-09T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Short analysis about leads and interviews to know if coding bootcamps are worth it"
+  },
+  {
+    "slug": "becoming-a-web-developer-in-miami",
+    "fileName": "becoming-a-web-developer-in-miami.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Learning to code in Miami",
+    "date": "2016-02-03T05:34:01+00:00",
+    "lang": "us",
+    "translations": [],
+    "excerpt": "Is it possible to be a software developer working in Miami? That would be like going to heaven without having to die."
   },
   {
     "slug": "bootcamp-salaries-2-0",
@@ -167,7 +183,8 @@
     "title": "Bootcamp Graduates Salary 2017: 2.0 edition",
     "date": "2017-10-27T23:10:20+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "According to the Bureau of Labor Statistic, web developers made an annual wage of $72,890 ?."
   },
   {
     "slug": "carrera-de-programacion.es",
@@ -177,7 +194,8 @@
     "title": "De qué trata la Carrera de Programación",
     "date": "2016-05-04T14:32:02+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "La carrera de programación es una de las más demandadas y mejor pagadas actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador."
   },
   {
     "slug": "challenges-web-developer.us",
@@ -187,7 +205,8 @@
     "title": "The Challenges of a Web Developer, Living and working as a developer",
     "date": "2015-12-17T17:30:43+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "know the challenges of a web developer and how to overcome them"
   },
   {
     "slug": "choosing-coding-bootcamp",
@@ -197,7 +216,8 @@
     "title": "How to choose the best coding Bootcamp?",
     "date": "2018-07-16T20:43:46+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "There are many important elements to consider when you are choosing the best coding Bootcamp for you. We believe that you should address these four questions."
   },
   {
     "slug": "coding-bootcamp-syllabus-matters",
@@ -207,7 +227,8 @@
     "title": "The coding bootcamp syllabus matters",
     "date": "2017-11-04T00:33:50+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "The stack of technologies included in a Syllabus actually matters. It does, sorry. We all know that."
   },
   {
     "slug": "como-pagar-bootcamp-programacion",
@@ -217,7 +238,8 @@
     "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
     "date": "2022-10-10T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Opciones que puedes encontrar para que puedas realmente hacerte desarrollador de software"
   },
   {
     "slug": "cuanto-gana-un-desarrollador-full-stack",
@@ -227,7 +249,8 @@
     "title": "¿Cuánto gana un Desarrollador Web Full-Stack en Chile?",
     "date": "2021-02-24T05:29:14+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Conoce cuánto gana un desarrollador full stack en Chile en el año 2021"
   },
   {
     "slug": "de-que-trata-la-careera-de-programacion",
@@ -237,7 +260,8 @@
     "title": "De qué trata la Carrera de Programación",
     "date": "2015-12-23T05:31:23+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "La carrera de programación es una de las más demandadas y mejor pagadas actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador."
   },
   {
     "slug": "digital-marketing-in-the-coding-world",
@@ -247,7 +271,8 @@
     "title": "Digital Marketing in the Coding World",
     "date": "2020-01-20T21:09:10+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "We actually do not understand why only a few coding schools are teaching JS and Python combined into just one program."
   },
   {
     "slug": "disyuntiva-para-futuros-programadores-universidad-o-bootcamp",
@@ -257,7 +282,8 @@
     "title": "Disyuntiva para futuros programadores:  ¿Universidad o Bootcamp?",
     "date": "2016-05-04T14:39:10+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "¿Universidad o Bootcamp? Decide informado aquí"
   },
   {
     "slug": "dont-teach-nodejs-full-stack-development-program",
@@ -267,7 +293,8 @@
     "title": "Why we don't teach NodeJS in our Full-Stack Development program",
     "date": "2017-09-25T18:07:08+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "4Geeks decided to leave nodejs out from the Full-Stack Development program, click here to learn why."
   },
   {
     "slug": "el-instructor-ideal",
@@ -277,7 +304,8 @@
     "title": "EL INSTRUCTOR IDEAL...",
     "date": "2016-07-25T16:19:57+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "El instructor ideal, conoce los atributos y habilidades de un buen profesor cuándo estás aprendiendo a programar"
   },
   {
     "slug": "empowering-women-tech",
@@ -287,17 +315,8 @@
     "title": "4Geeks Academy empowering Women in Tech",
     "date": "2018-04-12T18:18:16+00:00",
     "lang": "us",
-    "translations": []
-  },
-  {
-    "slug": "example-delete-me",
-    "fileName": "example-delete-me.us.md",
-    "status": "published",
-    "authors": null,
-    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
-    "date": "2019-03-20T05:29:14+00:00",
-    "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Our most recent cohort begun with 60% of women enrollment. Women in Miami are choosing 4Geeks to build their software careers."
   },
   {
     "slug": "facilidades-y-dificultades-para-aprender-a-programar",
@@ -307,7 +326,8 @@
     "title": "Facilidades y dificultades para aprender a programar",
     "date": "2021-10-18T17:18:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Hoy te contamos algunas facilidades y dificultades cuando aprendemos a programar"
   },
   {
     "slug": "feelings-learning-coding",
@@ -317,7 +337,8 @@
     "title": "The feelings when Learning to Code",
     "date": "2018-06-22T03:51:55+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Feelings when learning and working as a developer."
   },
   {
     "slug": "free-games-to-practice-your-programming-skills",
@@ -327,17 +348,8 @@
     "title": "Free games to practice your programming skills",
     "date": "2022-05-05T05:29:14+00:00",
     "lang": "us",
-    "translations": []
-  },
-  {
-    "slug": "freelance-espana",
-    "fileName": "freelance-espana.es.md",
-    "status": "published",
-    "authors": null,
-    "title": "Plataformas para encontrar trabajo Freelance",
-    "date": "2021-05-19T20:44:51+00:00",
-    "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Here is our top 5 games you can play to practice your programming skills."
   },
   {
     "slug": "full-stack-web-development-at-miami-dade-college",
@@ -347,17 +359,30 @@
     "title": "Learn to Code at Miami Dade College",
     "date": "2017-05-08T21:08:07+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "A Full Stack Miami Dade College Web Development program. Only 14 week’s and for just $3405. No other fees are charged to the student."
   },
   {
-    "slug": "geekpal",
-    "fileName": "geekpal.us.md",
+    "slug": "freelance-espana",
+    "fileName": "freelance-espana.es.md",
     "status": "published",
     "authors": null,
-    "title": "Never Code Alone Again",
-    "date": "2020-04-29T05:31:23+00:00",
+    "title": "Plataformas para encontrar trabajo Freelance",
+    "date": "2021-05-19T20:44:51+00:00",
+    "lang": "es",
+    "translations": [],
+    "excerpt": "Conoce aquí cómo encontrar trabajo freelance desde España o el mundo"
+  },
+  {
+    "slug": "example-delete-me",
+    "fileName": "example-delete-me.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
+    "date": "2019-03-20T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "According to Payscale, a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period."
   },
   {
     "slug": "growth-road-full-time-job",
@@ -367,7 +392,8 @@
     "title": "The Growth Road",
     "date": "2019-08-27T14:37:28+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Working Full-Time During a Part-Time Bootcamp might be hard, but we have many students telling you that it's totally possible."
   },
   {
     "slug": "habilidades-desarrollador-full-stack",
@@ -377,7 +403,19 @@
     "title": "Habilidades de un Desarrollador Full-Stack",
     "date": "2021-04-26T20:44:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Conoce aquí las habilidades a desarrollar para un desarrollador full stack"
+  },
+  {
+    "slug": "geekpal",
+    "fileName": "geekpal.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Never Code Alone Again",
+    "date": "2020-04-29T05:31:23+00:00",
+    "lang": "us",
+    "translations": [],
+    "excerpt": "More information about the Geekpal system of 4Geeks Academy"
   },
   {
     "slug": "hacks-learn-to-code",
@@ -387,17 +425,8 @@
     "title": "Hacks for learning to code: Read Less and Learn Better",
     "date": "2019-09-18T23:16:33+00:00",
     "lang": "us",
-    "translations": []
-  },
-  {
-    "slug": "historia-de-4geeks-academy",
-    "fileName": "historia-de-4geeks-academy.es.md",
-    "status": "published",
-    "authors": null,
-    "title": "Historia de 4Geeks Academy",
-    "date": "2016-04-13T20:36:02+00:00",
-    "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "The key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient."
   },
   {
     "slug": "how-does-the-web-work-html-css",
@@ -407,7 +436,19 @@
     "title": "HTML + CSS - Understanding How The Web Works",
     "date": "2015-12-28T15:53:55+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "The #IntroToCoding Workshop was held on December 17th at WeWork Lincoln Road. The topic of the workshop was: How Does The Web Work?"
+  },
+  {
+    "slug": "historia-de-4geeks-academy",
+    "fileName": "historia-de-4geeks-academy.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "Historia de 4Geeks Academy",
+    "date": "2016-04-13T20:36:02+00:00",
+    "lang": "es",
+    "translations": [],
+    "excerpt": "Conoce la historia en profundidad de 4Geeks Academy"
   },
   {
     "slug": "how-to-prepare-for-a-typical-interview-for-web-development-position",
@@ -417,7 +458,8 @@
     "title": "My Job Interview",
     "date": "2016-03-04T04:48:24+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Why do I feel so nervous when I plan to go to a job interview?  The truth is that these kinds of emotions keep me alert, and make me do my task."
   },
   {
     "slug": "hybrid-jobs",
@@ -427,7 +469,8 @@
     "title": "Hybrid Jobs: An Unstoppable Movement",
     "date": "2019-10-15T20:53:47+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "The key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient."
   },
   {
     "slug": "internships-bootcamps-2021",
@@ -437,19 +480,8 @@
     "title": "Internships and bootcamps: the keys to prepare tech companies for 2021 demands",
     "date": "2021-02-24T05:29:14+00:00",
     "lang": "us",
-    "translations": []
-  },
-  {
-    "slug": "javascript-and-python",
-    "fileName": "javascript-and-python.es.md",
-    "status": "published",
-    "authors": null,
-    "title": "JavaScript y Python: Imprescindibles para cualquier programador",
-    "date": "2019-11-20T22:48:11+00:00",
-    "lang": "es",
-    "translations": [
-      "us"
-    ]
+    "translations": [],
+    "excerpt": "Find the key opportunities that internships and bootcamps are have to prepare your company for challenging market demands in a post-pandemic world"
   },
   {
     "slug": "javascript-and-python",
@@ -461,7 +493,21 @@
     "lang": "us",
     "translations": [
       "es"
-    ]
+    ],
+    "excerpt": "We actually do not understand why only a few coding schools are teaching JS and Python combined into just one program."
+  },
+  {
+    "slug": "javascript-and-python",
+    "fileName": "javascript-and-python.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "JavaScript y Python: Imprescindibles para cualquier programador",
+    "date": "2019-11-20T22:48:11+00:00",
+    "lang": "es",
+    "translations": [
+      "us"
+    ],
+    "excerpt": "No logramos comprender por qué solo algunas escuelas de programación enseñan un combinación de JS y Python en un solo programa"
   },
   {
     "slug": "juegos-gratis-para-practicar-tus-habilidades-de-programacion",
@@ -471,7 +517,8 @@
     "title": "Juegos gratis para practicar tus habilidades de programación",
     "date": "2022-05-05T05:29:14+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Aquí te dejamos nuestro top 5 de juegos gratis en los que puedes practicar tus habilidades de programación."
   },
   {
     "slug": "launchcode-and-4geeks-academy",
@@ -481,7 +528,8 @@
     "title": "4Geeks Academy and LaunchCode.org",
     "date": "2016-01-08T11:19:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "We are proud to say that we have partnered with LaunchCode.org"
   },
   {
     "slug": "los-5-frameworks-fundamentales-para-frontend",
@@ -491,7 +539,8 @@
     "title": "Los 5 Frameworks Fundamentales para Frontend",
     "date": "2022-08-30T12:00:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Vamos a conocer los 5 frameworks fundamentales que todo frontend developer necesita saber"
   },
   {
     "slug": "miami-coding-programs-report",
@@ -501,7 +550,8 @@
     "title": "Miami Coding Bootcamps | 2018 Report",
     "date": "2018-11-06T20:24:41+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Everything you need to know about Miami Coding Programs"
   },
   {
     "slug": "new-year-new-hiring-partners-launch-potato-us",
@@ -511,7 +561,8 @@
     "title": "New year, New Hiring Partners: Launch Potato & Us",
     "date": "2017-12-12T21:22:15+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "We are so pleased to announce that we have partnered with the startup technology and marketing studio: Launch Potato"
   },
   {
     "slug": "nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end",
@@ -521,7 +572,8 @@
     "title": "Node.JS: El camino hacia el éxito de la programación Back-end",
     "date": "2022-09-13",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "NodeJs, el framework que impulsa a los programadores backend hacia el éxito, conócelo"
   },
   {
     "slug": "pandemic-impact-on-coding-bootcamp",
@@ -531,7 +583,8 @@
     "title": "PANDEMIC IMPACT ON CODING BOOTCAMPS",
     "date": "2021-02-24T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Pandemic changes in coding. In the midst of Covid-19, 4Geeks has found its way to grow."
   },
   {
     "slug": "part-time-bootcamps",
@@ -541,7 +594,8 @@
     "title": "Why is a Part-Time Coding Bootcamp  Best for You",
     "date": "2018-10-04T15:33:22+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "There are many options to choose from but Part-Time is best for whoever wants to learn to code"
   },
   {
     "slug": "part-time-future-education",
@@ -551,7 +605,8 @@
     "title": "Part-time is the future of education",
     "date": "2016-01-08T12:00:40+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Part-time education could only be effective within a methodology focused on offering a premium education in a part-time schedule."
   },
   {
     "slug": "pay-once-get-job-isa",
@@ -561,7 +616,8 @@
     "title": "Pay once you get a Job",
     "date": "2019-04-10T17:57:47+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "4Geeks is now offering an ISA (Income Sharing Agreement) for anyone looking to enroll in our Full-time programs."
   },
   {
     "slug": "pay-tuition-4geeks-academy",
@@ -571,7 +627,8 @@
     "title": "Miami Dade College Coding Program: How To Pay Your Tuition?",
     "date": "2017-01-21T00:38:45+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "The Miami Dade College tuition fee for the Full Stack program is already a bargain: $3,405!!"
   },
   {
     "slug": "pay-tuition-4geeks",
@@ -581,7 +638,8 @@
     "title": "How to Pay your tuition at 4Geeks",
     "date": "2017-10-24T16:29:31+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Education has always been a matter of “How to Pay?”, “Do I qualify?”, Am I going to be accepted?”, and then, again “How do I Pay that tuition?”."
   },
   {
     "slug": "por-que-es-una-buena-decision-convertirse-en-desarrollador-de-software",
@@ -591,7 +649,8 @@
     "title": "¿Por qué es una buena decisión convertirse en Desarrollador de Software?",
     "date": "2022-25-10T20:44:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "¿Es una buena opción convertirse en un desarrollador  de software? promedio salarial *Demanda del mercado en 2022 *"
   },
   {
     "slug": "porque-ensenamos-python-4geeks",
@@ -601,7 +660,8 @@
     "title": "¿Porqué 4Geeks Academy enseña Python como lenguaje para Backend?",
     "date": "2020-11-23T22:32:53+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Ruby o Node.js no son las mejores tecnologias para convertirte en programador, aprende porqué enseñamos Python en 4Geeks Academy"
   },
   {
     "slug": "pre-work-phase-free-open-everybody",
@@ -611,7 +671,8 @@
     "title": "Why our pre-work phase is free and open for everybody",
     "date": "2016-01-10T09:21:18+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Do you want to become a developer? You have 3 choices: College, bootcamps or learn by yourself. Is only fair that we let you test it out first."
   },
   {
     "slug": "python-one-of-the-most-in-demand-programming-languages",
@@ -621,7 +682,8 @@
     "title": "Python: one of the most in-demand programming languages",
     "date": "2022-04-07T12:00:12+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "In this blog post we'll be talking about Python, why it is so popular, its libraries and use, and top jobs that include Python in their toolbox."
   },
   {
     "slug": "python-uno-de-los-lenguajes-de-programacion-mas-demandados",
@@ -631,7 +693,8 @@
     "title": "Python: uno de los lenguajes de programación más demandados",
     "date": "2022-04-07T12:00:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "En esta publicación hablaremos sobre Python, por qué es tan popular, sus bibliotecas, y los principales trabajos que incluyen Python en su caja de herramientas."
   },
   {
     "slug": "que-es-full-stack",
@@ -641,7 +704,8 @@
     "title": "¿Qué significa ser Full Stack?",
     "date": "2021-04-14T20:44:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "¿Qué es full stack? Te explicamos que significa ser full stack en el siguiente artículo de 4geeks Academy"
   },
   {
     "slug": "2019-developers-salaries-report",
@@ -651,7 +715,8 @@
     "title": "BOOTCAMP GRADUATES SALARIES 2019 EDITION",
     "date": "2019-03-20T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "According to Payscale, a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period."
   },
   {
     "slug": "rip-ruby-on-rails",
@@ -661,7 +726,8 @@
     "title": "R.I.P. Ruby on Rails. Thanks for everything!",
     "date": "2016-01-18T15:02:43+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Rails framework gave us a lot, it changed the way web products were made, but now Ruby is behind the rest. Is not even in the top 10 already."
   },
   {
     "slug": "sample",
@@ -671,7 +737,8 @@
     "title": "the coding bootcamp syllabus matters",
     "date": "2018-11-19T00:00:00+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis lacus vel augue laoreet."
   },
   {
     "slug": "ser-programador-entre-las-profesiones-con-mayor-demanda",
@@ -681,7 +748,8 @@
     "title": "Ser Programador… Entre las profesiones con mayor demanda",
     "date": "2016-05-11T14:52:45+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Conoce porque la programación esta entre las profesiones con mayor demanda"
   },
   {
     "slug": "should-i-learn-code",
@@ -691,7 +759,8 @@
     "title": "Should I learn to Code?",
     "date": "2021-02-24T05:29:14+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Should I learn to Code? Benefits of learning to code."
   },
   {
     "slug": "sindrome-del-burnout",
@@ -701,7 +770,8 @@
     "title": "Síndrome de Burnout en programadores ¿Cómo afecta y cómo afrontarlo?",
     "date": "2022-05-03T12:00:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "El Síndrome de Burnout es una realidad y afecta mucho a los profesionales, sobretodo a los programadores, lee este blog y verás cómo identificarlo y combatirlo."
   },
   {
     "slug": "sindrome-del-impostor",
@@ -711,7 +781,8 @@
     "title": "Síndrome del Impostor: El peor enemigo de todo programador junior",
     "date": "2022-04-04T12:00:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "El síndrome del impostor es un fenómeno psicológico que nos afecta a todos, en especial a los programadores, aprende con nosotros como reconocerlo y afrontarlo."
   },
   {
     "slug": "skillsfund-4geeksacademy",
@@ -721,7 +792,8 @@
     "title": "Skills Fund & 4Geeks Academy finally together",
     "date": "2018-02-28T20:41:26+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "4Geeks Academy has partnered with Skills Fund to remove all barriers to enrolling in our transformative skills training program."
   },
   {
     "slug": "student-testimonials",
@@ -731,7 +803,8 @@
     "title": "Learn to code at 4Geeks| Voices to be heard",
     "date": "2018-11-05T22:22:21+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "We want to share our student’s stories, motivations and reasons."
   },
   {
     "slug": "techcamp-2017-beca",
@@ -741,7 +814,8 @@
     "title": "¡4Geeks Academy becó a 4 emprendedores del TechCamp Caracas 2017!",
     "date": "2017-07-18T20:38:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Conoce las becas entregadas a 4 emprendedores del TechCamp Caracas 2017"
   },
   {
     "slug": "tecnologia-y-medicina-avanzada",
@@ -751,7 +825,8 @@
     "title": "Tecnología y medicina avanzada: Una alianza estratégica",
     "date": "2021-11-03T12:18:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "En los últimos años, la medicina y la tecnología han formado una alianza increíble y estratégica que ha revolucionado el mundo, te invitamos a conocer cómo"
   },
   {
     "slug": "the-ideal-instructor",
@@ -761,7 +836,8 @@
     "title": "THE IDEAL INSTRUCTOR",
     "date": "2016-07-25T18:52:57+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "The ideal instructor, know the attributes and skills of a good teacher when you are learning to code"
   },
   {
     "slug": "the-talent-tree",
@@ -771,7 +847,8 @@
     "title": "The Talent Tree",
     "date": "2017-10-11T20:30:18+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Have you ever played The Sims or League of Legends? If you have, you familiar with the concept of “earning skills”"
   },
   {
     "slug": "ticjob-se-une-a-nuestros-partners",
@@ -781,17 +858,8 @@
     "title": "Ticjob se une a nuestros partners",
     "date": "2021-03-08T05:31:23+00:00",
     "lang": "es",
-    "translations": []
-  },
-  {
-    "slug": "tips-para-encontrar-trabajo",
-    "fileName": "tips-para-encontrar-trabajo.es.md",
-    "status": "published",
-    "authors": null,
-    "title": "5 tips para encontrar tu próximo empleo en programación",
-    "date": "2021-07-07T00:00:00+00:00",
-    "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Conoce el nuevo partnership con Ticjob"
   },
   {
     "slug": "todo-lo-que-necesitas-saber-sobre-inteligencia-artificial",
@@ -801,7 +869,19 @@
     "title": "Todo lo que necesitas saber sobre Inteligencia Artificial",
     "date": "2021-10-28T20:44:51+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "¿Qué es la I.A.? ¿Cuáles son las grandes inversiones en el mercado? ¿Cuánto es la demanda de trabajo para el puesto? Salario promedio anual, el futuro."
+  },
+  {
+    "slug": "tips-para-encontrar-trabajo",
+    "fileName": "tips-para-encontrar-trabajo.es.md",
+    "status": "published",
+    "authors": null,
+    "title": "5 tips para encontrar tu próximo empleo en programación",
+    "date": "2021-07-07T00:00:00+00:00",
+    "lang": "es",
+    "translations": [],
+    "excerpt": "Conoce estos 5 tips para encontrar trabajo en programación y aterriza el trabajo que buscas"
   },
   {
     "slug": "truth-behind-part-time-education",
@@ -811,7 +891,8 @@
     "title": "The truth behind our Part-time education",
     "date": "2017-12-11T23:15:20+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Students shall start to ask: Do you need me all day every day? Or can I actually have a life and also become a developer?"
   },
   {
     "slug": "turnaround-education-traditions-4geeks-academy",
@@ -821,7 +902,8 @@
     "title": "Turnaround on Education Traditions | Part I",
     "date": "2017-04-07T17:34:13+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Education needs a change. There are more than 500.000 computer science open jobs nationwide. And it will increase up to 1.4 million by 2020."
   },
   {
     "slug": "used-backend-programming-language-miami",
@@ -831,7 +913,8 @@
     "title": "What is the most used back-end programming language in Miami?",
     "date": "2016-05-29T18:16:20+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Python, Ruby on Rails or PHP? Let's take a look at what's the best option for you."
   },
   {
     "slug": "ventajas-de-trabajar-en-tecnologia",
@@ -841,7 +924,8 @@
     "title": "Ventajas de trabajar en el área de tecnología",
     "date": "2021-12-15T12:18:12+00:00",
     "lang": "es",
-    "translations": []
+    "translations": [],
+    "excerpt": "Desde el 2020 la vida laboral ha cambiado mucho, en especial, el área de la tecnología se ha visto enormemente beneficiada, acá verás algunas razones."
   },
   {
     "slug": "wages-report-2018-1",
@@ -851,7 +935,8 @@
     "title": "Bootcamp Graduates Salary 2018",
     "date": "2018-03-19T22:36:42+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "It’s time to update our numbers. The annual average salary in the US has grown up 1% in February 2018."
   },
   {
     "slug": "web-developer-earn-the-salary-you-deserve",
@@ -861,7 +946,8 @@
     "title": "Web Developer: Earn the Salary You Deserve",
     "date": "2015-12-09T20:18:46+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Day by day companies are adapting to the increasingly digital world we live in. This is why web developers are becoming increasingly needed […]"
   },
   {
     "slug": "web-development-versus-web-design",
@@ -871,7 +957,8 @@
     "title": "Web Development Vs. Web Design",
     "date": "2016-03-11T04:00:00+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Web designers and software developers respond to different skills. The requirements of education are different and so are the opportunities they offer."
   },
   {
     "slug": "web-salaries-2017-coding-bootcamp",
@@ -881,7 +968,8 @@
     "title": "Web development Bootcamp graduates salary: 2017 edition",
     "date": "2017-07-18T20:20:19+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "According to several reports, web developers made a median salary of $64,970. Graduates from a Bootcamp are earning around $50k-$55k per year."
   },
   {
     "slug": "what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2",
@@ -891,7 +979,8 @@
     "title": "What kinds of jobs do coding bootcamp graduates find?",
     "date": "2016-03-18T00:00:00+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Companies are looking for people with coding skills. Because they need people capable of understanding how a tech-related company works"
   },
   {
     "slug": "why-become-a-web-developer-in-miami-dade-in-2016",
@@ -901,7 +990,8 @@
     "title": "Why Become A Web Developer In Miami Dade In 2016",
     "date": "2016-01-18T00:38:18+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Choosing a career is like getting married: you have to be sure you’re making the right choice."
   },
   {
     "slug": "why-is-it-a-good-choice-to-become-a-software-developer",
@@ -911,7 +1001,8 @@
     "title": "Why is it a good choice to become a Software Developer?",
     "date": "2022-10-25T20:44:51+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "*Is it a good choice to become a soft dev? *What does a Software Dev do? do? *earnings *2022 market demand."
   },
   {
     "slug": "why-we-teach-python-4geeks",
@@ -921,7 +1012,8 @@
     "title": "Why 4Geeks Academy teaches Python as Backend Language?",
     "date": "2020-11-23T22:32:53+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Ruby was a bad decision and after weeks of consideration between several programming languages we decided to start teaching Python at 4Geeks Academy"
   },
   {
     "slug": "women-in-tech-2017",
@@ -931,7 +1023,8 @@
     "title": "Women in Tech 2017",
     "date": "2018-01-17T04:01:12+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "Among the tech community, women are only taking 31% of the total workspace, but today women occupy only 18% of proportion in computer science degrees"
   },
   {
     "slug": "wyncode-ironhack-and-4geeks-academy-comparison",
@@ -941,6 +1034,7 @@
     "title": "Wyncode, Ironhack and 4Geeks Academy comparison",
     "date": "2016-01-08T11:14:46+00:00",
     "lang": "us",
-    "translations": []
+    "translations": [],
+    "excerpt": "A straightforward analysis of your main Coding Bootcamps options in Miami."
   }
 ]
