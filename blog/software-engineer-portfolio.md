@@ -1,5 +1,5 @@
 ---
-author: 
+author: "AlejandroAguirre"
 date: 
 excerpt: a software engineer portfolio is a webpage where you can show all (or some) of the skills mentioned in your resume.
 slug: "software-engineer-portfolio"
