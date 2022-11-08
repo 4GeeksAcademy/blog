@@ -1,18 +1,12 @@
 ---
 author: 
-date: 
 excerpt: "You can start preparing yourself at a 4-month Coding Bootcamp in Berlin with no previous coding experience required! This is a great tip for people that are worried about their future."
 template: "post" 
-title: "Coding Bootcamp in Berlin "
-image: "https://4GeeksAcademy.com/wp-content/uploads/2018/07/Picture-Post-1.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "draft"
-featured: true
+title: "Coding Bootcamp in Berlin"
 
 ---
 
-# Coding Bootcamp in Berlin 
+# Coding Bootcamp in Berlin are giving hope about the future
 
 Around the world, people are worried if their salaries are going to be enough at the end of the month thanks to the economic crisis affecting the worldwide economy, and while each country finds a way out of inflation and the lack of job opportunities.
 
