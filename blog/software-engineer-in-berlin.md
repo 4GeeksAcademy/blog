@@ -1,5 +1,5 @@
 ---
-author: 
+author: "VictorManuelG"
 excerpt: “Software Engineer Berlin is the most searched term by the people who want to change careers for good o better salaries"
 template: "post" 
 title: "Being a Software Engineer in Berlin is easy"
