@@ -6,20 +6,6 @@ title: "Software Engineer Portfolio"
 
 ---
 
----
-author: "AlejandroAguirre"
-date: 
-excerpt: a software engineer portfolio is a webpage where you can show all (or some) of the skills mentioned in your resume.
-slug: "software-engineer-portfolio"
-template: "post"
-title: "Software Engineer Portfolio"
-Image:
-image_alt: ""
-cluster: "software-engineer"
-status: "draft"
-
----
-
 # Software Engineer Portfolio
 
 First off, what is a software engineer portfolio? it's a webpage where you can show all, or some, of the skills mentioned in your resume.  
