@@ -1,5 +1,5 @@
 ---
-author: 
+author: "VictorManuelG"
 excerpt: "You can start preparing yourself at a 4-month Coding Bootcamp in Berlin with no previous coding experience required! This is a great tip for people that are worried about their future."
 template: "post" 
 title: "Coding Bootcamp in Berlin"
