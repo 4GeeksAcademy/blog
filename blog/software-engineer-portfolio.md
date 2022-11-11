@@ -50,7 +50,7 @@ Just having a portfolio can make the difference, but if you want to stand out mo
 
 ## What to do if I don't have enough material?
 
-If you lack material to make a robust portfolio, then the best course of action is to do projects to fill it. You could search for basic projects that interest you and make them yourself. Another option is participating in coding competitions that test your skills, but mainly this can give you a prompt that, even if you can't finish in the allotted time, you can finish and show in your portfolio if you think it's a good example of your skills. Lastly, you could join an open-source project and help in its development and then show the specific code that you made, with an explanation of its use and the project that it's a part of.
+If you lack the material to make a robust portfolio, then the best course of action is to do projects to fill it. You could search for basic projects that interest you and make them yourself. Another option is participating in coding competitions that test your skills, but mainly this can give you a prompt that, even if you can't finish in the allotted time, you can finish and show in your portfolio if you think it's a good example of your skills. Lastly, you could join an open-source project and help in its development and then show the specific code that you made, with an explanation of its use and the project that it's a part of.
 
 ![image4](https://cdn.hashnode.com/res/hashnode/image/upload/v1618305050010/EVafMiAMv.png?auto=compress,format&format=webp)
 
