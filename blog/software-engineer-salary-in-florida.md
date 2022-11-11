@@ -75,7 +75,7 @@ You can show proficiency in these areas by obtaining certificates that relate to
 
 On the more demanding, and better-paying, job opportunities it’s common that the applicants are asked to code a simple program within certain parameters. This way the interviewers can see your style of coding, problem-solving skills, and overall knowledge. An example of a common test is the FizzBuzz problem, where you have to design a program that prints the numbers from 1 to 100. But for multiples of three, it has to print "Fizz" instead of the number, and for the multiples of five print "Buzz". Lastly, for numbers that are multiples of both three and five, it has to print "FizzBuzz".
 
-Other articles that may interest you
+Other articles that may interest you:
 
 [7 tips to land a job as a Software Developer ASAP](https://4geeksacademy.com/us/career-growth/7-hacks-to-land-a-job)
 
