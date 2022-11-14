@@ -6,8 +6,6 @@ title: "Software engineer salary in Germany"
 
 ---
 
-# Software engineer salary in Germany
-
 Germany is currently at the top when it comes to innovation; thanks in part to the speed at which new technologies are developed.
 
 ## Germany’s Tech World

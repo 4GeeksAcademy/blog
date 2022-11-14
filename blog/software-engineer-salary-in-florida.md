@@ -6,8 +6,6 @@ title: "Software Engineer Salary in Florida"
 
 ---
 
-# Software Engineer Salary in Florida
-
 Getting a job as a software engineer in the current industry can be seen as a daunting task at first, but knowing how to better your chances of having a high-paying job is more simple than you think. Even then, deciding on your first job, or even just changing jobs, you need to have all the information you need. Given this, we have compiled some of what you need to know to land the best job you can get.
 
 How much a software engineer makes in Florida, depends on various factors like place of employment, experience, and responsibilities, among others. According to [Glassdoor](https://www.glassdoor.com/Salaries/florida-software-engineer-salary-SRCH_IL.0,7_IS3318_KO8,25.htm), the average salary for a software engineer in Florida sits around 94,398 $/yr. But taking into account the years of experience, we can pinpoint more precisely the salary that you should be aiming for. 
