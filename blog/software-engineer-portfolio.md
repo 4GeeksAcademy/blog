@@ -6,8 +6,6 @@ title: "Software Engineer Portfolio"
 
 ---
 
-# Software Engineer Portfolio
-
 First off, what is a software engineer portfolio? it's a webpage where you can show all, or some, of the skills mentioned in your resume.  
 
 ## Why do you need a software engineer portfolio? 🤔
