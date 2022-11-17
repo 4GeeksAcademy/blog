@@ -6,11 +6,13 @@ title: "Software Engineer Portfolio"
 
 ---
 
+# Software Engineer Portfolio
+
 First off, what is a software engineer portfolio? it's a webpage where you can show all, or some, of the skills mentioned in your resume.  
 
 ## Why do you need a software engineer portfolio? 🤔
 
-It’s well known that having a personal portfolio has plenty of benefits for your career as a software engineer. It’s about letting you show your skills and also allowing you to sell yourself to interested recruiters. It gives you the opportunity of showing your work and the idea of how you are the only one able to do it in that way, in other words, you can show your different projects and comment on why you did it, how you did it and what amount of time it took you to finish it.  
+It’s well known that having a personal portfolio has plenty of benefits for your career as a [software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp). It’s about letting you show your skills and also allowing you to sell yourself to interested recruiters. It gives you the opportunity of showing your work and the idea of how you are the only one able to do it in that way, in other words, you can show your different projects and comment on why you did it, how you did it and what amount of time it took you to finish it.  
 
 ![image1](https://cdn.hashnode.com/res/hashnode/image/upload/v1618266491592/EbZka9q09.png?auto=compress,format&format=webp)
 
@@ -36,7 +38,7 @@ In a few words, the finished projects that you are proud of. You can choose to s
     
 As a software engineer, you have to be mindful of the context in which your programs will be used. For example, you can design an app that lets you identify the name of a color with a picture, but if this app is going to be used by digital artists, it will be useful to also give the corresponding hexadecimal color code so they can use it in their projects. 
 
-![image3](https://hackernoon.com/images/MJpFVUEItkSdoh38rYo60VT7RfH3-3f342878.jpeg)
+![image3](https://storage.googleapis.com/breathecode-asset-images/58b8d6ea3474e1322087f11e13094d29bf38bfa59f2eb6ad86e8b5189923c7c0.jpeg)
 
 This would mean that software engineers may find work in projects that involve other professions like artists, lawyers, chemists, and other engineers; so your skills will be put in check. You’re a software engineer, code and automatization is your bread and butter, but to be exceptional, you have to go beyond your current knowledge and understand what these other fields need, in their respective context. 
 
