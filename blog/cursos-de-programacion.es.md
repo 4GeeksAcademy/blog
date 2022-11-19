@@ -30,3 +30,11 @@ En el contexto de un curso de programación, la palabra “Bootcamp” se refier
 En primer lugar, ¿a que se refiere que un curso te de un certificado? En pocas palabras, un certificado te da validación de tus habilidades en el uso de una herramienta especializada o en cuanto a conocimientos de algún tema. Estos certificados son de carácter temporal y deben ser renovados cada cierto tiempo. El tener que renovar tu certificación tiene que ver principalmente con los cambios y mejoras efectuados a un software o los avances realizados en cierta área, que sean relevantes para el desempeño pleno de la persona certificada. Un buen ejemplo de esto, son las herramientas de gestión de datos de SAP. Estas herramientas permiten la gestión de datos en varias áreas como cadena de suministro, recursos humanos, finanzas, etc. Pero la implementación de estas herramientas debe ser supervisada y asistida por una persona certificada en el uso de esta. El poder certificarse en el uso de las herramientas SAP, requiere tener conocimiento del código y servicios utilizados en las distintas herramientas. A pesar de que no se requiere ser un programador para certificarse en esto, es de gran ayuda tener un claro conocimiento de los fundamentos de la programación.
 
 Algo que vale la pena mencionar con este tema, es que no todos los cursos o talleres son reconocidos por SAP como capaces de dar una educación completa de la herramienta. Si quieres obtener la mejor educación posible, es bueno revisar la página principal de la herramienta en cuestión para revisar las entidades aprobadas por [SAP](https://www.sap.com/latinamerica/products/technology-platform/data-management.html?url_id=ctabutton-lao-icon-products-cloud), para dar una buena educación. Esto aplica a cualquier certificación referente a una herramienta propietaria.
+
+Otros artículos que te pueden interesar
+
+[Learn to code at 4Geeks| Voices to be heard](https://4geeksacademy.com/us/coding-bootcamps/student-testimonials)
+
+[Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads](https://4geeksacademy.com/us/coding-bootcamps/are-coding-bootcamp-worth-it)
+
+[Use These 7 Tips to Help You Learn Computer Programming Faster](https://bootcamp.berkeley.edu/blog/use-these-7-tips-to-help-you-learn-computer-programming-faster/)
