@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: ""
+excerpt: "La era de la programación, donde todo lo que hacemos depende de unas pocas que saben cómo y de ellos es la ventaja competitiva en el mercado a lo que ganancias se refiere"
 template: "post" 
 title: "Cuánto gana un programador"
 
