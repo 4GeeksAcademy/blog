@@ -5,7 +5,6 @@ template: "post"
 title: "Curso online de programación"
 
 ---
-# Cursos de Programación Online
 
 La integración de la internet en la vida de la persona común, ha permitido muchos avances en el área de la comunicación, desde redes sociales hasta plataformas de educación. Con estos avances se ha vuelto cada vez más accesible el poder educarse en temas a los cuales no tendrías acceso normalmente. Tal es el caso con la programación. La normalización del acceso de la internet y las computadoras personales ha permitido a miles de personas, el poder comenzar una carrera como programador, a pesar de no haber estudiado para ello en una entidad educativa física. 
 
@@ -17,7 +16,7 @@ Hoy en día, ser programador no requiere tener títulos universitarios costosos,
 
 A pesar de que los beneficios sean bastante aparentes, es buena idea reiterar estos puntos. Aún más para las personas que están indecisas o dudan de la efectividad de este método de estudio. 
 
-- La flexibilidad de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
+- La [flexibilidad](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
 
 - La abundancia de cursos de programación, te da acceso a cualquier área de la programación que quieras investigar. Es posible estudiar desde los conceptos más básicos, hasta los temas más avanzados y complicados de la programación moderna.
 
