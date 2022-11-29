@@ -22,37 +22,39 @@ Python tiene muchas ventajas sobre otros lenguajes, seas un principiante o un pr
 
 Otra ventaja de Python es la gran demanda de programadores bien versados en este lenguaje. Muchas compañías grandes, como Netflix y Meta, usan Python en sus servicios. Segun [Indeed](https://www.indeed.com/career/python-developer/salaries?from=top_sb) el salario promedio de un programador de Python, se encuentra alrededor de los 108,120$ al año. Además, estos empleos comúnmente incluyen beneficios muy buenos como seguro de salud, seguro dental y fondos de retiro.
 
-Habiendo hablado de los beneficios que tiene aprender a programar en Python, cabe decir que el comenzar a aprender utilizando otro lenguaje no es tiempo perdido. Las habilidades fundamentales para saber programar se pueden aprender en cualquier momento y aplican a cualquier lenguaje de programación. Habilidades como pensamiento crítico y resolución de problemas, no son exclusivas a un lenguaje como Python, y en general son la parte más importante de desarrollar durante tu aprendizaje. Así que si un curso de programación empieza enseñándote con un lenguaje como “C”, no te preocupes en cuanto a las diferencias y concéntrate en las habilidades fundamentales que realmente necesitas. 
+Habiendo explicado los beneficios que tiene aprender a programar en Python, cabe decir que el comenzar a aprender utilizando otro lenguaje, no es tiempo perdido. Las habilidades fundamentales para saber programar se pueden aprender en cualquier momento y aplican a cualquier lenguaje de programación. Habilidades como pensamiento crítico y resolución de problemas, no son exclusivas a un lenguaje como Python, y en general son la parte más importante de desarrollar durante tu aprendizaje. Así que si un curso de programación empieza enseñándote con un lenguaje como “C”, no te preocupes en cuanto a las diferencias y concéntrate en las habilidades fundamentales que realmente necesitas. 
 
-## Cursos en Línea
+## Beneficios y Desafíos de Tomar un Curso de Programación
 
-Habiendo hablado acerca de lenguajes de programación, es momento de discutir los mejores cursos para que empieces tu carrera de programador. En primer lugar no todos los cursos son iguales o tienen el mismo currículum, tampoco puede que sean sobre la misma rama de la programación.
+![image2](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-Dicho esto, vamos a comenzar con las mejores opciones que podemos recomendar:
+Aprender a programar puede ser difícil de hacer por ti solo, pero no es imposible. La cantidad de recursos a tu disposición es más de lo que crees. Hoy en día es posible encontrar guías y libros acerca de cómo aprender a programar ¡totalmente gratis! Pero este camino no es para todos. Muchas personas aprenden mejor usando un método estructurado y asistido por un profesor. Esto quiere decir que antes de comenzar tu camino de aprendizaje, es buena idea saber que necesitas para aprender mejor. ¿Eres alguien que prefiere material en forma de texto o prefieres video?, ¿Puedes trabajar solo o prefieres estar en una clase con otros estudiantes?, ¿Tienes alguna condición que dificulta tu aprendizaje?, etc.
 
-### 4Geeks Coding Bootcamp
+Si eres una de estas personas que preferiría un método más estructurado de aprendizaje, lo mejor que puedes hacer es buscar un curso de programación. La cantidad de cursos de programación disponibles tanto online como presencial, es sorprendente. No es una exageración decir que en este momento hay un curso perfecto para tí. Dicho esto, puedes preguntarte sobre cuál modalidad es mejor, online o presencial. Para responder a esta interrogante, vamos a explicarte los beneficios y desafíos de cada modalidad:
 
-[4Geeks Academy](https://4geeksacademy.com/) es una academia online y presencial que ofrece bootcamps para estudiantes que quieran ser desarrolladores de software. Tiene sedes en Estados Unidos, Latino Ameria y Europa, pero todos los bootcamps pueden ser efectuados de forma online en modalidades intensivas o a tiempo parcial. 4Geeks ofrece  cursos para aprender Full Stack, ingeniería de software y aprendizaje de IA. 
+ ### Benefícios de los Cursos Presenciales
 
-### Harvard CS50
+- Te permite tener acceso directo a un instructor calificado, que puede responder tus preguntas rápidamente.
+- Puedes interactuar con tus compañeros de estudio para comparar anotaciones, discutir problemas y compartir información que puede serte útil.
+- Lo más probable es que te den acceso a una computadora equipada con todas las herramientas que puedas necesitar durante tus estudios.
 
-El curso de [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) comienza desde los conceptos más básicos de la programación, explicándolos y ahondando en los temas esenciales para comprender la programación. Este curso usa herramientas desarrolladas especialmente para ayudarte a entender más fácilmente los temas expuestos en cada módulo. Este curso está estructurado en ocho módulos, un módulo por semana, pero el tiempo no es limitado y lo puedes distribuir de la forma en que te convenga. Las primeras lecciones usan el lenguaje “C”, junto a unas modificaciones, para enseñarte los fundamentos y herramientas básicas que puedes encontrar en otros lenguajes de programación. Cada semana dispone de un video de dos horas en donde se explican los temas del módulo y varios videos cortos que vuelven a explicar las partes más importantes, junto a talleres en donde debes aplicar las cosas enseñadas en los videos.
+### Desafíos de los Cursos Presenciales
 
-![image2](https://i.imgur.com/cOcJnCx.png)
+- Necesitas desplazarte al sitio en donde va a ser impartida la clase.
+- Tienes tiempo limitado en el entorno de aprendizaje.
+- El acceso a los equipos de programación, está limitado hasta el final del curso.
 
-Este curso es recomendado por muchos como la forma ideal y más comprehensiva de empezar a aprender programación desde cero. También cabe decir que a pesar de poder ser terminado de forma gratuita, puedes pagar para obtener el certificado de completación.
+### Beneficios de los Cursos Online
 
-### The Odin Project
+- Puedes realizar las actividades desde cualquier computador y en cualquier momento. Esto permite una mayor flexibilidad en cuanto a tus horas de estudio.
+- La gran cantidad de cursos online, te permite estudiar cualquier tema de la programación que te pueda interesar.
+- El costo de muchos de estos cursos online es muy accesible. Inclusive existen cursos de programación que pueden ser completados de forma gratuita.
 
-[The Odin Project](https://www.theodinproject.com/), o El Proyecto Odin, es un recurso totalmente gratuito y completamente online, que tiene el objetivo de ofrecer una educación de calidad a personas que estén buscando una forma de aprender programación por su cuenta, en el área de desarrollo web. 
+### Desafíos de los Cursos Online
 
-The Odin Project ofrece un curso de fundamentos y después te da a elegir dos caminos: Full Stack Ruby y Full Stack Javascript. El currículum está enfocado en aprender mediante la constante aplicación de los conocimientos aprendidos, en proyectos cada vez más complejos. El proyecto también vincula otros recursos gratuitos que pueden serte de ayuda, aunque estés haciendo otro curso. 
-
-![image3](https://i.imgur.com/ptvuExc.png)
-
-### FreeCodeCamp
-
-[FreeCodeCamp](https://www.freecodecamp.org/) es una página web que ofrece certificaciones en varias áreas de la programación. Los recursos ofrecidos permiten practicar constantemente mediante el uso de tutoriales interactivos integrados en la misma página. A pesar de no llegar a enseñar los fundamentos tan profundamente como las opciones antes habladas, esta página es especialmente útil cuando quieres aprender las mejores prácticas en las distintas áreas de la programación. Esto te permitirá prepararte mejor para tu futuro trabajo como programador.
+- Necesitas un computador equipado con todo el software necesario para realizar tus estudios. Normalmente esto no es mucho problema, pero es algo que se debe tomar en cuenta.
+- La libertad de establecer tú mismo tus horas de estudio, puede ser contraproducente si no tienes la disciplina para llevarlo a cabo.
+- La cantidad existente de cursos de programación online, puede ser paralizante. Si no sabes por dónde comenzar, es buena idea buscar las opiniones de otras personas.
 
 Otros artículos que te pueden interesar
 
