@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Los sueldos en programadoción varían según muchos aspectos. Te invitamos ingresar en nuestro blog y descubrirlo"
+excerpt: "Un programador junior en México gana un salario promedio de $300.292 anuales; y un desarrollador de alto nivel  gana un salario promedio de $650.068 por año"
 template: "post" 
 title: "Conoce cuánto gana un programador en México"
 
