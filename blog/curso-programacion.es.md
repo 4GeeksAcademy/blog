@@ -18,43 +18,37 @@ En primera instancia, esta pregunta puede parecer la más importante y, debido a
 
 Python tiene muchas ventajas sobre otros lenguajes, seas un principiante o un profesional. El lenguaje está estructurado de forma que sea fácil de comprender para personas que tengan un conocimiento básico del inglés, con palabras simples y que comunican fácilmente el uso de las funciones. Python es uno de los lenguajes más versátiles que hay. La capacidad de hacer tanto programas simples como programas complejos, permite tener una trayectoria de aprendizaje más simple que con otros lenguajes. Debido a la popularidad actual de Python, existen muchos recursos y librerías de código que pueden ayudarte a desarrollar más rápido y fácilmente, cualquier proyecto en el que estés trabajando.
 
-![image1](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
-
 Otra ventaja de Python es la gran demanda de programadores bien versados en este lenguaje. Muchas compañías grandes, como Netflix y Meta, usan Python en sus servicios. Segun [Indeed](https://www.indeed.com/career/python-developer/salaries?from=top_sb) el salario promedio de un programador de Python, se encuentra alrededor de los 108,120$ al año. Además, estos empleos comúnmente incluyen beneficios muy buenos como seguro de salud, seguro dental y fondos de retiro.
 
 Habiendo explicado los beneficios que tiene aprender a programar en Python, cabe decir que el comenzar a aprender utilizando otro lenguaje, no es tiempo perdido. Las habilidades fundamentales para saber programar se pueden aprender en cualquier momento y aplican a cualquier lenguaje de programación. Habilidades como pensamiento crítico y resolución de problemas, no son exclusivas a un lenguaje como Python, y en general son la parte más importante de desarrollar durante tu aprendizaje. Así que si un curso de programación empieza enseñándote con un lenguaje como “C”, no te preocupes en cuanto a las diferencias y concéntrate en las habilidades fundamentales que realmente necesitas. 
 
 ## Beneficios y Desafíos de Tomar un Curso de Programación
 
-![image2](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 Aprender a programar puede ser difícil de hacer por ti solo, pero no es imposible. La cantidad de recursos a tu disposición es más de lo que crees. Hoy en día es posible encontrar guías y libros acerca de cómo aprender a programar ¡totalmente gratis! Pero este camino no es para todos. Muchas personas aprenden mejor usando un método estructurado y asistido por un profesor. Esto quiere decir que antes de comenzar tu camino de aprendizaje, es buena idea saber que necesitas para aprender mejor. ¿Eres alguien que prefiere material en forma de texto o prefieres video?, ¿Puedes trabajar solo o prefieres estar en una clase con otros estudiantes?, ¿Tienes alguna condición que dificulta tu aprendizaje?, etc.
 
 Si eres una de estas personas que preferiría un método más estructurado de aprendizaje, lo mejor que puedes hacer es buscar un curso de programación. La cantidad de cursos de programación disponibles tanto online como presencial, es sorprendente. No es una exageración decir que en este momento hay un curso perfecto para tí. Dicho esto, puedes preguntarte sobre cuál modalidad es mejor, online o presencial. Para responder a esta interrogante, vamos a explicarte los beneficios y desafíos de cada modalidad:
 
- ### Benefícios de los Cursos Presenciales
+ ### Benefícios y desafios de los cursos Presenciales
 
-- Te permite tener acceso directo a un instructor calificado, que puede responder tus preguntas rápidamente.
-- Puedes interactuar con tus compañeros de estudio para comparar anotaciones, discutir problemas y compartir información que puede serte útil.
-- Lo más probable es que te den acceso a una computadora equipada con todas las herramientas que puedas necesitar durante tus estudios.
+A la hora de realizar un curso presencial, una de las grandes virtudes es que este te permite tener acceso e interacción directa con tu instructor, que puede responder tus preguntas rápidamente, y compañeros de estudio. Esta interactuar sirve como retroalimentación para comparar anotaciones, discutir problemas y asimilar información de manera mas convencional mientras desarrollas "habilidades blandas" muy bien vistas durante las entrevistas de trabajo.
 
-### Desafíos de los Cursos Presenciales
+Además, lo más probable es que te den acceso a una computadora equipada con todas las herramientas que puedas necesitar durante tus estudios por lo que no requrirías de un equipo propio para empezar tu educación.
 
-- Necesitas desplazarte al sitio en donde va a ser impartida la clase.
-- Tienes tiempo limitado en el entorno de aprendizaje.
-- El acceso a los equipos de programación, está limitado hasta el final del curso.
+Ahora por muy increíble que suene, no todo es perfeecto ya que en un cruso presencial necesitas desplazarte al sitio en donde va a ser impartida la clase o de lo contrario no podras continuar el programa. Sumado a eso, tienes tiempo limitado en el entorno de aprendizaje, el acceso a los equipos de programación, está limitado hasta el final del curso.
 
-### Beneficios de los Cursos Online
+### Beneficios y Desafíos de los Cursos Online
 
-- Puedes realizar las actividades desde cualquier computador y en cualquier momento. Esto permite una mayor flexibilidad en cuanto a tus horas de estudio.
-- La gran cantidad de cursos online, te permite estudiar cualquier tema de la programación que te pueda interesar.
-- El costo de muchos de estos cursos online es muy accesible. Inclusive existen cursos de programación que pueden ser completados de forma gratuita.
+Con un curso online puedes realizar las actividades desde cualquier computador y en cualquier momento, esto permite una mayor flexibilidad en cuanto a tus horas de estudio. Adicionalmente, El abanaico de posibilidades que puedes conseguir de cursos online, te permite estudiar cualquier tema de la programación que te pueda interesar sin estar limitado a un pensum particular en un periodo de tiempo restringido.
+ 
+El costo de muchos de estos cursos online es muy accesible. Inclusive existen cursos de programación que pueden ser completados de forma gratuita.
 
-### Desafíos de los Cursos Online
+Pero no te emociones todavía, pues al igual que los cursos presenciales, los online tambien tienen desafíos: necesitas un computador equipado con todo el software necesario para realizar tus estudios. Normalmente esto no es mucho problema, pero es algo que se debe tomar en cuenta, sin mencionar el tema de buena conectividad a internet.
 
-- Necesitas un computador equipado con todo el software necesario para realizar tus estudios. Normalmente esto no es mucho problema, pero es algo que se debe tomar en cuenta.
-- La libertad de establecer tú mismo tus horas de estudio, puede ser contraproducente si no tienes la disciplina para llevarlo a cabo.
-- La cantidad existente de cursos de programación online, puede ser paralizante. Si no sabes por dónde comenzar, es buena idea buscar las opiniones de otras personas.
+También esta la libertad de establecer tú mismo tus horas de estudio, que apesar de sonar beneficioso, puede ser contraproducente si no tienes la disciplina para llevarlo a cabo, la cual no se desarrolla facilmente. Lo que lleva al último punto que es la cantidad existente de cursos de programación online. Si no sabes por dónde comenzar, puede resultar abrumado por no saber que hacer, así que es buena idea buscar las opiniones de otras personas antes de tomar la una decisión.
+
+A la hora de aprender programación, [4geeks construyó una propuesta que agarra lo mejor de ambos mundos](https://4geeksacademy.com/us/geekpal-support), donde no solotendras el acceso a los programas y la orientación, sino también el constante apoyo de [una comunidad que busca potenciar tu futuro y ayudarte a construirlo a lo largo de tu camino](https://4geeksacademy.com/us/geekforce-career-support)
+
+No esperes mas para empezar, estas apunto de lograr tu objetivo.
 
 Otros artículos que te pueden interesar
 
