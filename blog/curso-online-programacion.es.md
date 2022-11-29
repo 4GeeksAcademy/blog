@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "UN curso online es un arma de doble filo que puede llevarte lejos siempre que tengas en cuenta los aspectos vitales de estos"
+excerpt: "Un curso online es un arma de doble filo que puede llevarte lejos siempre que tengas en cuenta los aspectos vitales de estos"
 template: "post" 
 title: "Curso online de programación"
 
