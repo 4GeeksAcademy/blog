@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: ""
+excerpt: "UN curso online es un arma de doble filo que puede llevarte lejos siempre que tengas en cuenta los aspectos vitales de estos"
 template: "post" 
 title: "Curso online de programación"
 
@@ -8,27 +8,21 @@ title: "Curso online de programación"
 
 La integración de la internet en la vida de la persona común, ha permitido muchos avances en el área de la comunicación, desde redes sociales hasta plataformas de educación. Con estos avances se ha vuelto cada vez más accesible el poder educarse en temas a los cuales no tendrías acceso normalmente. Tal es el caso con la programación. La normalización del acceso de la internet y las computadoras personales ha permitido a miles de personas, el poder comenzar una carrera como programador, a pesar de no haber estudiado para ello en una entidad educativa física. 
 
-![image3](https://images.pexels.com/photos/1015568/pexels-photo-1015568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-
 Hoy en día, ser programador no requiere tener títulos universitarios costosos, que respalden tus conocimientos o experiencia. Gracias a los cientos de cursos online al alcance de todos, una carrera exitosa de programador depende mucho más de tu esfuerzo que nunca antes. En este artículo hablaremos de los beneficios y desafíos que lleva el consigo, el estudiar usando cursos online
 
 ## Beneficios
 
 A pesar de que los beneficios sean bastante aparentes, es buena idea reiterar estos puntos. Aún más para las personas que están indecisas o dudan de la efectividad de este método de estudio. 
 
-- La [flexibilidad](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
+La [flexibilidad](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
 
-- La abundancia de cursos de programación, te da acceso a cualquier área de la programación que quieras investigar. Es posible estudiar desde los conceptos más básicos, hasta los temas más avanzados y complicados de la programación moderna.
+La abundancia de cursos de programación, te da acceso a cualquier área de la programación que quieras investigar. Es posible estudiar desde los conceptos más básicos, hasta los temas más avanzados y complicados de la programación moderna.
 
-- El costo de muchos de estos cursos es bastante accesible en comparación a obtener un título universitario. Inclusive, hay una gran cantidad de cursos que pueden ser completados de forma gratuita. Esto, sumado al hecho de que un buen portafolio de programador y participación en proyectos de código abierto, te permite ganar suficiente experiencia y prestigio para poder obtener empleos con muy buena remuneración.
+El costo de muchos de estos cursos es bastante accesible en comparación a obtener un título universitario. Inclusive, hay una gran cantidad de cursos que pueden ser completados de forma gratuita. Esto, sumado al hecho de que un buen portafolio de programador y participación en proyectos de código abierto, te permite ganar suficiente experiencia y prestigio para poder obtener empleos con muy buena remuneración.
 
-- Para programar solo se necesita una computadora y el software correcto. Inclusive existen cursos que pueden ser completados a través de tu navegador de internet, sin el uso de programas externos. Además, cuando necesites más poder de procesamiento o almacenamiento de datos, puedes alquilar espacio de procesamiento remoto mediante el uso de servicios como [IBM Cloud](https://www.ibm.com/cloud).
-
-![image1](https://i.imgur.com/ECtiHNh.png)
+Para programar solo se necesita una computadora y el software correcto. Inclusive existen cursos que pueden ser completados a través de tu navegador de internet, sin el uso de programas externos. Además, cuando necesites más poder de procesamiento o almacenamiento de datos, puedes alquilar espacio de procesamiento remoto mediante el uso de [servicios](https://www.ibm.com/cloud).
 
 ## Desafíos de un curso de programación online
-
-![image2](https://images.pexels.com/photos/52608/pexels-photo-52608.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 Habiendo hablado de los beneficios, podemos comentar en cuanto a los desafíos y aspectos negativos que conlleva estudiar mediante cursos online:
 
@@ -38,7 +32,7 @@ Habiendo hablado de los beneficios, podemos comentar en cuanto a los desafíos y
 
 - La posibilidad de poder realizar todos tus estudios de forma gratuita es un beneficio para cualquier interesado. Pero, el pagar por ciertos cursos puede ser beneficioso. Los cursos pagos normalmente te otorgan certificados de completación que, en teoría, corroboran tus conocimientos en el área respectiva. Esto puede ayudar al momento de buscar empleo, ya que hay que tomar en cuenta que los reclutadores no tienen tiempo para ver en profundidad, todos los portafolios de los candidatos. Un certificado que se muestre en tu página de Linkedin o en tu resumen personal, puede ser avistado más fácilmente en una revisión de antecedentes rápida.
 
-- El hecho de que las computadoras personales sean algo muy común hoy en día, no quiere decir que todos tengan una. Además, el avance constante de las tecnologías informáticas, muchas veces implica el tener que dejar de mantener software o hardware obsoleto, obligando a las personas a gastar mas dinero. Otro aspecto limitante puede ser la calidad de la internet. La cantidad de información transmitida a través de la internet hoy en día, puede hacer más complicado la utilización de páginas o programas, que requieran de una conexión rápida de internet para poder funcionar de forma correcta.
+El hecho de que las computadoras personales sean algo muy común hoy en día, no quiere decir que todos tengan una. Además, el avance constante de las tecnologías informáticas, muchas veces implica el tener que dejar de mantener software o hardware obsoleto, obligando a las personas a gastar mas dinero. Otro aspecto limitante puede ser la calidad de la internet. La cantidad de información transmitida a través de la internet hoy en día, puede hacer más complicado la utilización de páginas o programas, que requieran de una conexión rápida de internet para poder funcionar de forma correcta.
 
 
 ## Consejos
@@ -49,7 +43,7 @@ El saber los beneficios tanto como los desafíos de estudiar programación media
 
 - El crear proyectos personales es una buena idea que te permitirá aplicar lo que aprendas a problemas que te afectan. Este método de práctica, es especialmente efectivo para elevar tu motivación. Esto es debido a que te permitirá desarrollar perspectiva en cuanto a los diferentes usos de la programación y cómo te afecta en tu vida diaria, justificando el tiempo invertido en aprender programación.
 
-- Si no sabes por dónde comenzar a estudiar, el consejo más común tiende a ser aprender “Python” como tu primer lenguaje de programación y hacer el curso de [Harvard CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) para aprender los fundamentos de la programación. Una vez cumplido estos dos objetivos, tendrás una mejor imagen del camino que quieres tomar en tu carrera de programador.
+- Si no sabes por dónde comenzar a estudiar, recuerda que 4geeks cuenta con distintos [programas y academias](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time?caracas-venezuela&utm_source=google&utm_medium=cpc&utm_campaign=13881753805&utm_content=125220841575&utm_term=aprender%20a%20programar&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMAk6e-opLj_Wct7c2su_BcKnlLogy80eK1RUqiHPWVGVhyM1qy7kUaAqUuEALw_wcB) alrededor del mundo, donde puden orientarte desde el primer lenguaje que quieras aprender, hasta los fundamentos de la programación. Una vez cumplido estos dos objetivos, tendrás una mejor imagen del camino que quieres tomar en tu carrera de programador.
 
 Otros artículos que te pueden interesar
 
