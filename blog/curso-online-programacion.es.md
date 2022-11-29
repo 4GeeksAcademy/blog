@@ -34,7 +34,6 @@ Habiendo hablado de los beneficios, podemos comentar en cuanto a los desafíos y
 
 El hecho de que las computadoras personales sean algo muy común hoy en día, no quiere decir que todos tengan una. Además, el avance constante de las tecnologías informáticas, muchas veces implica el tener que dejar de mantener software o hardware obsoleto, obligando a las personas a gastar mas dinero. Otro aspecto limitante puede ser la calidad de la internet. La cantidad de información transmitida a través de la internet hoy en día, puede hacer más complicado la utilización de páginas o programas, que requieran de una conexión rápida de internet para poder funcionar de forma correcta.
 
-
 ## Consejos
 
 El saber los beneficios tanto como los desafíos de estudiar programación mediante cursos online, te permitirá saber si esta es la decisión correcta para tí. Pero hablar de los problemas sin ofrecer soluciones, no es nuestro estilo. Así que a continuación te vamos a dar varios consejos que te permitirán superar los problemas antes hablados:
@@ -45,7 +44,7 @@ El saber los beneficios tanto como los desafíos de estudiar programación media
 
 - Si no sabes por dónde comenzar a estudiar, recuerda que 4geeks cuenta con distintos [programas y academias](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time?caracas-venezuela&utm_source=google&utm_medium=cpc&utm_campaign=13881753805&utm_content=125220841575&utm_term=aprender%20a%20programar&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMAk6e-opLj_Wct7c2su_BcKnlLogy80eK1RUqiHPWVGVhyM1qy7kUaAqUuEALw_wcB) alrededor del mundo, donde puden orientarte desde el primer lenguaje que quieras aprender, hasta los fundamentos de la programación. Una vez cumplido estos dos objetivos, tendrás una mejor imagen del camino que quieres tomar en tu carrera de programador.
 
-Otros artículos que te pueden interesar
+Otros artículos que te pueden interesar:
 
 [Why is it a good choice to become a Software Developer?](https://4geeksacademy.com/us/learn-to-code/why-is-it-a-good-choice-to-become-a-software-developer)
 
