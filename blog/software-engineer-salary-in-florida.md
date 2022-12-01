@@ -84,12 +84,3 @@ Other articles that may interest you
 [What Is a Software Engineer’s Salary?](https://www.bestcolleges.com/bootcamps/guides/software-engineering-salary/)
 
 
-[link4]: https://www.glassdoor.com/Salary/Google-Salaries-E9079.htm
-
-[link5]: https://www.glassdoor.com/Salary/Microsoft-Salaries-E1651.htm
-
-[link6]: https://www.glassdoor.com/Salary/Apple-Salaries-E1138.htm
-
-[link7]: https://www.glassdoor.com/Salary/Cisco-Systems-Salaries-E1425.htm
-
-[link8]: https://www.glassdoor.com/Salary/IBM-Salaries-E354.htm
