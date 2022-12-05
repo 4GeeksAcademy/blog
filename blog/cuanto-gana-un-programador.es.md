@@ -15,7 +15,7 @@ Las labores de un programador consisten en la escritura, implementación y mante
 
 ## Preparación de 4Geeks para ser Programador
 
-![image2](https://4geeksacademy.com/static/e87935aadbb3844e3734315214b5f032/f6992/madrid-3.png)
+![image2](https://storage.googleapis.com/breathecode-asset-images/4ef257fe196d1942f14cd6f4e895068d54ffa409678626c3e287f42b52ad8270.png)
 
 En [4geeks Academy](https://4geeksacademy.com/), el prepararte y apoyarte en tu desarrollo como programador a lo largo de tu carrera, es de suma importancia. A diferencia de otros [bootcamps](https://4geeksacademy.com/us/geeks-vs-others), nuestro apoyo es un compromiso que no está limitado hasta que consigas un trabajo o termines nuestros cursos. 4geeks Academy, facilita el desarrollo de sus estudiantes para volverse desarrolladores “Full Stack”.
 
@@ -23,7 +23,7 @@ Un desarrollador [“Full Stack”](https://4geeksacademy.com/us/coding-bootcamp
 
 ## ¿Cuánto gana un Programador aproximadamente?
 
-El salario de un programador promedio puede variar significativamente, dependiendo de varios factores como experiencia, habilidad, especialización, industria y chance. Si investigas por tu cuenta, vas a encontrar cifras entre 50K $/año hasta 250K $/año, en Estados Unidos. Tomando en cuenta las cifras mostradas en la página de Glassdoor, podemos mostrar un rango comprensivo de los salarios posibles, en Estados Unidos, tomando en cuenta la especialización y el nivel de experiencia:
+El salario de un programador promedio puede variar significativamente, dependiendo de varios factores como experiencia, habilidad, especialización, industria y chance. Si investigas por tu cuenta, vas a encontrar cifras entre $50K /año hasta $250K/año, en Estados Unidos. Tomando en cuenta las cifras mostradas en la página de Glassdoor, podemos mostrar un rango comprensivo de los salarios posibles, en Estados Unidos, tomando en cuenta la especialización y el nivel de experiencia:
 
 | Carrera | Jr. | Promedio | Profesional |
 | ------ | ------ | ------ | ------ |
