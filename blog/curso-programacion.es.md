@@ -21,7 +21,7 @@ Otra ventaja de Python es la gran demanda de programadores bien versados en este
 
 Habiendo explicado los beneficios que tiene aprender a programar en Python, cabe decir que el comenzar a aprender utilizando otro lenguaje, no es tiempo perdido. Las habilidades fundamentales para saber programar se pueden aprender en cualquier momento y aplican a cualquier lenguaje de programación. Habilidades como pensamiento crítico y resolución de problemas, no son exclusivas a un lenguaje como Python, y en general son la parte más importante de desarrollar durante tu aprendizaje. Así que si un curso de programación empieza enseñándote con un lenguaje como “C”, no te preocupes en cuanto a las diferencias y concéntrate en las habilidades fundamentales que realmente necesitas. 
 
-## Beneficios y Desafíos de Tomar un Curso de Programación
+## Beneficios y Desafíos de Tomar un Curso Programación
 
 Aprender a programar puede ser difícil de hacer por ti solo, pero no es imposible. La cantidad de recursos a tu disposición es más de lo que crees. Hoy en día es posible encontrar guías y libros acerca de cómo aprender a programar ¡totalmente gratis! Pero este camino no es para todos. Muchas personas aprenden mejor usando un método estructurado y asistido por un profesor. Esto quiere decir que antes de comenzar tu camino de aprendizaje, es buena idea saber que necesitas para aprender mejor. ¿Eres alguien que prefiere material en forma de texto o prefieres video?, ¿Puedes trabajar solo o prefieres estar en una clase con otros estudiantes?, ¿Tienes alguna condición que dificulta tu aprendizaje?, etc.
 
