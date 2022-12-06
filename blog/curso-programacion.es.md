@@ -11,7 +11,7 @@ Pero, a pesar de la gran cantidad de recursos disponibles, el aprender una nueva
 
 Estas preguntas son más comunes de lo que esperas y son totalmente justificadas. A lo largo de este artículo, voy a tratar de responder cada una de estas preguntas y más. 
 
-## Primer Lenguaje de Programación
+## ¿Qué leguaje aprender primero en un curso programación?
 
 En primera instancia, esta pregunta puede parecer la más importante y, debido a la gran cantidad de lenguajes de programación disponibles, difícil de hacer. Pero la respuesta es muy simple hoy en día y la puedes ver mencionada en cualquier foro que discuta el mejor lenguaje de programación para principiantes: Python. 
 
