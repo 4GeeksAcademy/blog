@@ -200,14 +200,14 @@ This information is based on the results we had when using the search engines of
 
 
 PHP developers make an average salary of $80,000 nationwide and Miami is not the exception.  It takes 5 minutes to search at indeed.com:  [look for PHP jobs that pay more than $75,000 a year](https://www.indeed.com/q-Web-Developer-PHP-$75,000-l-Miami,-FL-jobs.html) **in Miami,** and you will find more than 70 job vacancies.  Here are some of them:
+
 <table class="table table-striped" >
 <tbody >
 <tr >
-
 <td >Ascendo Resources
 </td>
 
-<td >[Senior PHP Developer](https://www.indeed.com/cmp/Ascendo-Resources/jobs/Senior-PHP-Developer-3bbcde11b7f47ea0?r=1)
+	<td ><a href="https://www.indeed.com/cmp/Ascendo-Resources/jobs/Senior-PHP-Developer-3bbcde11b7f47ea0?r=1" target="_blank" rel="nofollow noopener">Senior PHP Developer</a>
 </td>
 
 <td >$100,000 a year
@@ -218,7 +218,7 @@ PHP developers make an average salary of $80,000 nationwide and Miami is not th
 <td >World NetMedia
 </td>
 
-<td >[Lead Software Developer - LAMP](https://www.indeed.com/rc/clk?jk=ce19d277c156a3d4)
+<td ><a href="https://www.indeed.com/rc/clk?jk=ce19d277c156a3d4"  target="_blank" rel="nofollow noopener">Lead Software Developer - LAMP</a>
 </td>
 
 <td >$100,000 a year
@@ -229,7 +229,7 @@ PHP developers make an average salary of $80,000 nationwide and Miami is not th
 <td >Cutting Edge Recruiting
 </td>
 
-<td >[FULL STACK PHP DEVELOPER](https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-IjLD2PGVIsu0emvbicVdi0mPULCCrb6XYGFE-rRk22MtwgwsA0MgdqGnP4Y_uP6IwDgMAbjFB57dI7EGvF27kwvORKrpdxmLa_J6Wh47ripbm75EK_zA0HgAFrxy36umE-f7IayzNL6RScrDTO9ncLIvZ4hNw4VmoEOFM226lgvKRd4gzidhSUvk5M3XfQc4GNoMUmMWnFPqXCFjL9yKjDGtNTj8eJnkv9zeJIl3-SAfccsZSmcc3fw7FUBEJtfYYHjPJ2ce120_LtkWSKoxsetAINNSobVPzFIu3tcTa0l8nSFG5CRIYhb4dFNkzKGIAY4-PB-SMXWvOUsS8cBkWQ98e4gZHXMAW3uk-BXhvirriYvHLLtEftZeaz9DcOoGFf3yJy1jGV_iGjYAj8X9D4GaiSOJDgsaD7f8UvlUnZfBPgD7FADSMVT8LAo5oFKQ8I7e3xeFQj_KM4pOWpdHZndISkmy6tt3ihngqk7JDmeSGFUwKhu0fkQ6Z2tIg_BJbCOstRQG8tXrcx2QQYFlR1v9pLF2weivvw6JJAcx-KFzO6ZgW15WX8oCbyjZgVlV5u7KkwrnBzEhBBTifkCQhujqamgTl-Vil4sAgxoisM_EAtFWvvNk9n1dEk1LBUCD8HL4nYOlr_fd55Ut-pxV-dqlvlSwYPRnCa9NPDbFUVpwoUaMjjdzSMSuv2imacd0VUdEcuB3Np9SVUGLPWKVUi1xPptKp6lE41ybrGSM9vcEiNqjKrbxeqc2l7SwqE2O4=&p=4&sk=9a6ab4c649a730e8&fvj=0)
+<td ><a href="https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-IjLD2PGVIsu0emvbicVdi0mPULCCrb6XYGFE-rRk22MtwgwsA0MgdqGnP4Y_uP6IwDgMAbjFB57dI7EGvF27kwvORKrpdxmLa_J6Wh47ripbm75EK_zA0HgAFrxy36umE-f7IayzNL6RScrDTO9ncLIvZ4hNw4VmoEOFM226lgvKRd4gzidhSUvk5M3XfQc4GNoMUmMWnFPqXCFjL9yKjDGtNTj8eJnkv9zeJIl3-SAfccsZSmcc3fw7FUBEJtfYYHjPJ2ce120_LtkWSKoxsetAINNSobVPzFIu3tcTa0l8nSFG5CRIYhb4dFNkzKGIAY4-PB-SMXWvOUsS8cBkWQ98e4gZHXMAW3uk-BXhvirriYvHLLtEftZeaz9DcOoGFf3yJy1jGV_iGjYAj8X9D4GaiSOJDgsaD7f8UvlUnZfBPgD7FADSMVT8LAo5oFKQ8I7e3xeFQj_KM4pOWpdHZndISkmy6tt3ihngqk7JDmeSGFUwKhu0fkQ6Z2tIg_BJbCOstRQG8tXrcx2QQYFlR1v9pLF2weivvw6JJAcx-KFzO6ZgW15WX8oCbyjZgVlV5u7KkwrnBzEhBBTifkCQhujqamgTl-Vil4sAgxoisM_EAtFWvvNk9n1dEk1LBUCD8HL4nYOlr_fd55Ut-pxV-dqlvlSwYPRnCa9NPDbFUVpwoUaMjjdzSMSuv2imacd0VUdEcuB3Np9SVUGLPWKVUi1xPptKp6lE41ybrGSM9vcEiNqjKrbxeqc2l7SwqE2O4=&p=4&sk=9a6ab4c649a730e8&fvj=0"  target="_blank" rel="nofollow noopener">FULL STACK PHP DEVELOPER</a>
 </td>
 
 <td >$85,000 - $120,000 a year
@@ -240,7 +240,7 @@ PHP developers make an average salary of $80,000 nationwide and Miami is not th
 <td >Tal Group
 </td>
 
-<td >[Web Developer PHP](https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-KO9erzvIxvlVA9f2oDebmhawH3uo0bb15lxQhEYo4URKiHyAhVqgW20PmNMiLg3jwAiNnsC-t8J5hx8R4xoiZgfBqRErX-B5mKIDeRjwweBWFoDEHjVu4Nypxo9ADaHDk5YVrfJKoz1ZyNFxUMTfTGoHT38q60fg34Div5G_L3gaC1s8rkh7UeeB3-fWGFfiLhWK_4EomEIcL1Rh8rTdSTaEDtPJQ4KspiAlENT_P4V02GqXZDbEYK6olYtuVYxT-hntXL63Ev6m6P1HyBVyuIc_FvQfzMBo9xwPWiHZsHBeAtCIgJTKP1AkWFH3jEyR33qQzGkVtDkP4QWVBMYVPKw0qX19TVobc5X5wkkFG0Za_V_tDbeHSJ2R74T1wnj323HHvOut9iNQDYoAuUy6HKDkTwN_8DwiznEEjDuZuyCwz9dduREDXxtJjyH7YzUiOQEAaAlFIXlvrmQK6VuwF0B1jbCnfaWSyldUH4n7gSYjboitsJePsotyZhaaHQ8yILuc4H85_uq74QO0tno2qnmO788kmUMp4E2-57Ura3rAZ5TdkxsSKrH4GNM9XEqPUv3owHeF1uFUYtWLlLQL6XZo4nhne3jTdn_pxmbhGUYmkIxNZKRelU6hUVqvzxFG5slkzvsTYydSdEwhV5fl8yTu55psWFckpi_Sqd3sKj1jXGPVVLwvSwfhofyb9b1Uxe9UE_F0-NBs6C6uy4BvIqfJV6pJGODUB1IuMZfWDseWG8Z_WdJBwZ0Q8WhSVNsfE=&p=2&sk=4ce7d012be8f6dbf&fvj=0)
+	<td ><a href="https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-KO9erzvIxvlVA9f2oDebmhawH3uo0bb15lxQhEYo4URKiHyAhVqgW20PmNMiLg3jwAiNnsC-t8J5hx8R4xoiZgfBqRErX-B5mKIDeRjwweBWFoDEHjVu4Nypxo9ADaHDk5YVrfJKoz1ZyNFxUMTfTGoHT38q60fg34Div5G_L3gaC1s8rkh7UeeB3-fWGFfiLhWK_4EomEIcL1Rh8rTdSTaEDtPJQ4KspiAlENT_P4V02GqXZDbEYK6olYtuVYxT-hntXL63Ev6m6P1HyBVyuIc_FvQfzMBo9xwPWiHZsHBeAtCIgJTKP1AkWFH3jEyR33qQzGkVtDkP4QWVBMYVPKw0qX19TVobc5X5wkkFG0Za_V_tDbeHSJ2R74T1wnj323HHvOut9iNQDYoAuUy6HKDkTwN_8DwiznEEjDuZuyCwz9dduREDXxtJjyH7YzUiOQEAaAlFIXlvrmQK6VuwF0B1jbCnfaWSyldUH4n7gSYjboitsJePsotyZhaaHQ8yILuc4H85_uq74QO0tno2qnmO788kmUMp4E2-57Ura3rAZ5TdkxsSKrH4GNM9XEqPUv3owHeF1uFUYtWLlLQL6XZo4nhne3jTdn_pxmbhGUYmkIxNZKRelU6hUVqvzxFG5slkzvsTYydSdEwhV5fl8yTu55psWFckpi_Sqd3sKj1jXGPVVLwvSwfhofyb9b1Uxe9UE_F0-NBs6C6uy4BvIqfJV6pJGODUB1IuMZfWDseWG8Z_WdJBwZ0Q8WhSVNsfE=&p=2&sk=4ce7d012be8f6dbf&fvj=0" target="_blank" rel="nofollow noopener">Web Developer PHP</a>
 </td>
 
 <td >$80,000 a year
@@ -248,6 +248,7 @@ PHP developers make an average salary of $80,000 nationwide and Miami is not th
 </tr>
 </tbody>
 </table>
+
 We are not saying that you will earn that much from Day 1, but those jobs only ask for 3-5 years experience.  If you are good, you could probably start earning $40,000 to $50,000 a year and start growing from there.
 
 
