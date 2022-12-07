@@ -22,7 +22,7 @@ El costo de muchos de estos cursos es bastante accesible en comparación a obten
 
 Para programar solo se necesita una computadora y el software correcto. Inclusive existen cursos que pueden ser completados a través de tu navegador de internet, sin el uso de programas externos. Además, cuando necesites más poder de procesamiento o almacenamiento de datos, puedes alquilar espacio de procesamiento remoto mediante el uso de [servicios](https://www.ibm.com/cloud).
 
-## Desafíos de un curso de programación online
+## Desafíos de aprender a programar online
 
 Habiendo hablado de los beneficios, podemos comentar en cuanto a los desafíos y aspectos negativos que conlleva estudiar mediante cursos online:
 
