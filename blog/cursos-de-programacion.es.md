@@ -2,22 +2,22 @@
 author: "alesanchezr"
 excerpt: "Al empezar un curso, existen distintas opciones por las que podemos optar; pero lo que garantiza el exito es saber cuál debemos tomar"
 template: "post" 
-title: "Cursos de programación"
+title: "Tipos de Cursos de programación"
 
 ---
 
 Estudiar programación puede ser una labor tediosa y difícil de hacer por tu propia cuenta. Tal vez hayas comprado un libro que dice poder enseñarte todo lo necesario para tu éxito como programador. Aún así, encuentras imposible el poder entender los conceptos dictados en este libro y te preguntas si hay una mejor forma de llegar a tu meta de ser un programador. Lo primero que puedes pensar es ver videos en Youtube que te expliquen cada detalle y tema que desees. Pero la cantidad de información puede ser agobiante y no te permite saber desde donde puedes comenzar. Debido a esto los cursos de programación son ideales. El poder proveer un aprendizaje estructurado a un principiante, puede hacer mucho más cómodo una tarea que a primera vista puede parecer imposible.
 
-Pero los cursos de programación no están dirigidos solamente a principiantes que busquen comenzar su carrera de programador. Los cursos de programación pueden estar dirigidos a profesionales que busquen actualizar sus conocimientos, especializarse en un área o inclusive certificarse en el uso de herramientas especializadas. En este artículo te vamos a mostrar los distintos tipos de cursos de programación, para que sirven y algunos ejemplos que te permitirán empezar o avanzar tu carrera de programador.
+Pero los [cursos de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero) no están dirigidos solamente a principiantes que busquen comenzar su carrera de programador. Los cursos de programación pueden estar dirigidos a profesionales que busquen actualizar sus conocimientos, especializarse en un área o inclusive certificarse en el uso de herramientas especializadas. En este artículo te vamos a mostrar los distintos tipos de cursos de programación, para que sirven y algunos ejemplos que te permitirán empezar o avanzar tu carrera de programador.
 
-## Cursos gratuitos
+## Cursos de Programación gratuitos
 
 Los cursos gratuitos son aquellos que no requieren de ninguna transacción para poder realizarlos hasta el final del contenido proveído. Esto quiere decir que cualquiera es capaz de entrar en estos cursos mientras tengan el equipo necesario. El hecho de que sean gratuitos muchas veces puede implicar que el conocimiento de verdad útil puede ser accedido al pagar, pero hoy en día hay proyectos cuyo único propósito es proveer una educación completamente gratuita y que te permita ser un programador capaz de encontrar trabajo en distintas áreas. Por ejemplo, existen recursos totalmente gratuitos y completamiente online que ogrecen una [educación optima](https://www.theodinproject.com/), de calidad a personas que estén buscando una forma de aprender programación por su cuenta, en el área de desarrollo web. Estos programas ofrecen un curso de fundamentos y después te da a elegir dos caminos: Full Stack Ruby y Full Stack Javascript. El currículum está enfocado en aprender mediante la constante aplicación de los conocimientos aprendidos, en proyectos cada vez más complejos. El proyecto también vincula otros recursos gratuitos que pueden serte de ayuda, aunque estés haciendo otro curso. 
 
 En el caso de [4Geeks Academy](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time?caracas-venezuela&utm_source=google&utm_medium=cpc&utm_campaign=13662759735&utm_content=122432178925&utm_term=4geeks%20academy&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMZJ3VXDbqJuXPqLa7twqJ6AfcReNSjbzAD-EuJgU7SAG9yJcoUVD4aAmjpEALw_wcB), ofrece certificaciones en varias áreas de la programación. Los recursos ofrecidos permiten practicar constantemente mediante el uso de tutoriales interactivos integrados en la misma página. A pesar de no llegar a enseñar los fundamentos tan profundamente como las opciones antes habladas, esta página es especialmente útil cuando quieres aprender las mejores prácticas en las distintas áreas de la programación. Esto te permitirá prepararte mejor para tu futuro trabajo como programador.
 
 
-## Curso de formación profesional
+## Cursos de formación profesional
 
 Un curso de formación profesional está estructurado de forma que aprendas todos los conceptos necesarios para comenzar una carrera de programador. Comenzar desde los conceptos más básicos te permitirá tener un entendimiento comprensivo de todas las áreas de la programación. Una vez finalizado este tipo de cursos, podrás saltar a otros cursos más especializados en determinadas áreas de la programación. Este tipo de curso puede ser tanto pago como gratuito, e inclusive puede ser ambos. Por ejemplo tenemos el curso de Harvard CS50.
 
@@ -29,7 +29,7 @@ Este tipo de programas pueden ser terminados de forma gratuita por completo, per
 
 En el contexto de un curso de programación, la palabra “Bootcamp” se refiere a un período corto de entrenamiento intensivo con el objetivo de aprender lo más posible de un tema, en un corto lapso de tiempo. La estructura de un “Bootcamp” se adapta para una persona que está comenzando su aprendizaje, pero puede ser una herramienta útil para personas con conocimiento previo del área tratada. La modalidad intensiva de estos cursos permite obtener conocimientos, en el caso de tener que prepararse rápidamente para una oportunidad de empleo o cuando quieras cambiar de empleo en otra área que te interese. Normalmente, los “Bootcamps” se limitan a temas específicos cuya instrucción es factible de completar en un corto plazo. Por ejemplo, 4Geeks Academy ofrece  cursos para aprender Full Stack que pueden ser completados en 9 semanas. 
 
-![image3](https://i.imgur.com/GNAZpZi.png)
+![image3](https://storage.googleapis.com/breathecode-asset-images/dded5a20f2d37960517eb1a02bdfbb8f66fa7417649305ae8c24763ce1aadd58.png)
 
 [4Geeks Academy](https://4geeksacademy.com/) es una academia online y presencial que ofrece bootcamps para estudiantes que quieran ser desarrolladores de software. Tiene sedes en Estados Unidos, Latinoaméria y Europa, pero todos los bootcamps pueden ser efectuados de forma online en modalidades intensivas o a tiempo parcial. 4Geeks ofrece cursos para aprender [Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [ingeniería de software](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) y [aprendizaje de IA](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering). 
 
@@ -38,11 +38,3 @@ En el contexto de un curso de programación, la palabra “Bootcamp” se refier
 En primer lugar, ¿a que se refiere que un curso te de un certificado? En pocas palabras, un certificado te da validación de tus habilidades en el uso de una herramienta especializada o en cuanto a conocimientos de algún tema. Estos certificados son de carácter temporal y deben ser renovados cada cierto tiempo. El tener que renovar tu certificación tiene que ver principalmente con los cambios y mejoras efectuados a un software o los avances realizados en cierta área, que sean relevantes para el desempeño pleno de la persona certificada. Un buen ejemplo de esto, son las herramientas de gestión de datos de SAP. Estas herramientas permiten la gestión de datos en varias áreas como cadena de suministro, recursos humanos, finanzas, etc. Pero la implementación de estas herramientas debe ser supervisada y asistida por una persona certificada en el uso de esta. El poder certificarse en el uso de las herramientas SAP, requiere tener conocimiento del código y servicios utilizados en las distintas herramientas. A pesar de que no se requiere ser un programador para certificarse en esto, es de gran ayuda tener un claro conocimiento de los fundamentos de la programación.
 
 Algo que vale la pena mencionar con este tema, es que no todos los cursos o talleres son reconocidos por SAP como capaces de dar una educación completa de la herramienta. Si quieres obtener la mejor educación posible, es bueno revisar la página principal de la herramienta en cuestión para revisar las entidades aprobadas por [SAP](https://www.sap.com/latinamerica/products/technology-platform/data-management.html?url_id=ctabutton-lao-icon-products-cloud), para dar una buena educación. Esto aplica a cualquier certificación referente a una herramienta propietaria.
-
-Otros artículos que te pueden interesar
-
-[Learn to code at 4Geeks| Voices to be heard](https://4geeksacademy.com/us/coding-bootcamps/student-testimonials)
-
-[Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads](https://4geeksacademy.com/us/coding-bootcamps/are-coding-bootcamp-worth-it)
-
-[Use These 7 Tips to Help You Learn Computer Programming Faster](https://bootcamp.berkeley.edu/blog/use-these-7-tips-to-help-you-learn-computer-programming-faster/)
