@@ -37,6 +37,8 @@ Para responder [cuánto gana un programador](https://4geeksacademy.com/es/cuanto
 
 Ten en cuenta que esto es solo una pequeña muestra del rango completo de especializaciones y salarios posibles.
 
+<call-to-action button_text="Ver programa" button_link="/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsa tu carrera, aprendiendo a programar con nuestro Programa Full Stack Developer."></call-to-action>
+
 ## Tipos de Programador
 
 Sabiendo las funciones generales de un programador, podemos hablar de algunas de las posibles especializaciones a considerar:
@@ -54,9 +56,3 @@ Sabiendo las funciones generales de un programador, podemos hablar de algunas de
 ##  Importancia de tener un buen trabajo como programador
 
 En primer lugar, ¿a que nos referimos como un buen trabajo de programador? La carrera de un programador requiere invertir mucho tiempo en tareas tediosas, en la resolución de problemas que parecieran ocasionarse sin razón obvia y en horas pensando cómo resolver un problema. Esto hace que la carrera de un programador pueda ser muy demandante. Por lo tanto, un buen empleo debe tomar en cuenta la salud y el compromiso de cada empleado, debe valorar su tiempo y debe garantizar que su trabajo sea significativo. Es esencial que cuando estés [buscando un trabajo](https://4geeksacademy.notion.site/Job-search-006637b5e9384a6599bd96f7cb7c1f3a), estés atento al paquete de beneficios que ofrecen, la cultura de trabajo y las normativas de trabajo. Esto te permitirá encontrar el trabajo ideal para ti y ganar el sueldo que mereces.
-
-Otros artículos que te pueden interesar:
-
-[Síndrome del Impostor](https://4geeksacademy.com/es/desarrollo-profesional/sindrome-del-impostor): El peor enemigo de todo programador junior.
-
-[Plataformas para encontrar trabajo Freelance](https://4geeksacademy.com/es/desarrollo-profesional/freelance-espana)
