@@ -1,6 +1,8 @@
 ---
 author: "alesanchezr"
 excerpt: "The world is becoming increasingly competitive, as well as the software engineer salary. For newcomers, this is the key to start with the right foot."
+image: "https://storage.googleapis.com/media-breathecode/dd42a6171e36282608d5f8f151880d02d1ebc892800f35996cebdd7dcbcdf5e2"
+image_alt: "One-line drawing of software engineer earning its first salary"
 template: "landing_post" 
 title: "What is the salary of a Software Engineer"
 ---
