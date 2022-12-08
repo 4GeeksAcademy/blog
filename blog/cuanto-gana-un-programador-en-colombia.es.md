@@ -6,13 +6,13 @@ title: "Conoce cuánto gana un programador en Colombia"
 
 ---
 
-Cuando una persona está en búsqueda de la opción perfecta que se adecue a sus necesidades y aspiraciones, sin duda, la  tecnológica está presente como elección. En este BlogPost mencionaremos la importancia de conocer cuánto gana un programador en Colombia y las  ventajas que ofrece el [aprender a programar en Colombia](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-colombia).
+Cuando una persona está en búsqueda de la opción perfecta que se adecue a sus necesidades y aspiraciones, sin duda, la  tecnológica está presente como elección. En este BlogPost mencionaremos la importancia de conocer [cuánto gana un programador en Colombia](url principal) y las  ventajas que ofrece el [aprender a programar en Colombia](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-colombia).
 
 Esta es la oportunidad más cercana que muchos toman en cuenta al momento de elegir estar en el mundo tecnológico por la alta demanda y poca oferta que hay actualmente en el mercado. 
 
-El hecho de saber cuánto gana un programador en Colombia te hace dar cuenta que es una de las profesiones mejor pagadas en varias regiones en LATAM.
+El hecho de saber el sueldo de un programador en Colombia te hace dar cuenta que es una de las profesiones mejor pagadas en varias regiones en LATAM.
 
-## Mira cuánto gana un programador en Colombia siendo junior
+## Mira cuánto gana un programador junior en Colombia 
 
 Al vivir en Latinoamérica, es altamente probable que el salario de un Programador sea superior al promedio en la mayoría de las profesiones.
 
@@ -35,7 +35,7 @@ Acá te mencionaremos algunas de estas:
 - 4 Por último, el Arquitecto de Software 8.097.014 COP. 
 Datos proporcionados por glassdoor. 
 
-### Pero si deseas saber cuánto gana un programador en Colombia siendo experimentado, aquí te lo decimos:
+## Mira cuánto gana un programador experimentado en Colombia
 
 El saber cuánto gana un programador en Colombia dependerá de diversos factores como la experiencia, la empresa y el tipo de puesto disponible si el trabajo es Home Office o debes trasladarte hasta el sitio. 
 Sin embargo, al conocer el sueldo de un programador siendo experimentado podrá tener la posibilidad de ganar mensualmente un promedio entre 7.000.000 COP según co.talent  hasta 10,405,635 COP. Según la encuestadora glassdoor. 
@@ -49,7 +49,7 @@ Es importante tomar en cuenta que aquellas personas que prefieren trabajar desde
 Dentro de las empresas que lograron un puesto en los primeros 30 escalones del ranking se encuentra la clara presencia de las marcas mayoristas que le apuestan a la distribución y comercialización de hardware y software, entre las que figuran Nexsys, MPS Mayorista, Ingram Micro, XCB, entre otras...
 También estuvieron presentes las clásicas compañías del mercado, como IBM, y actores emergentes del sector e-commerce como Mercado Libre y Pay U.
 
-![Los mayoristas mueven el ranking de las tecnología](https://img.lalr.co/cms/2022/07/06184115/Emp_1000EmpTecnologia_Web-1.jpg)
+![Los mayoristas mueven el ranking de las tecnología](https://storage.googleapis.com/breathecode-asset-images/cd2e646d3342c1e9521779ae8e0f0b32cb0d980c72f33d3c8dff969c47c2b471.jpg)
 
 Cabe destacar que de acuerdo con el Ministerio de Tecnologías de la Información y Comunicaciones (MinTiC). En el 2025 se calcula que Colombia tendrá una brecha de talento digital de entre 68.000 y 112.000 desarrolladores de software.
 
