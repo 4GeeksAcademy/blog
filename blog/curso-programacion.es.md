@@ -48,11 +48,3 @@ También esta la libertad de establecer tú mismo tus horas de estudio, que apes
 A la hora de aprender programación, 4Geeks construyó una propuesta que agarra [lo mejor de ambos mundos](https://4geeksacademy.com/us/geekpal-support), donde no solo tendrás el acceso a los programas y la orientación, sino también el constante apoyo de una comunidad que busca potenciar tu futuro y ayudarte a construirlo a lo [largo de tu camino](https://4geeksacademy.com/us/geekforce-career-support)
 
 No esperes mas para empezar, estas apunto de lograr tu objetivo.
-
-Otros artículos que te pueden interesar
-
-[Learn to code at 4Geeks| Voices to be heard](https://4geeksacademy.com/us/coding-bootcamps/student-testimonials)
-
-[Why 4Geeks Academy teaches Python as Backend Language?](https://4geeksacademy.com/us/coding-bootcamps/why-we-teach-python-4geeks)
-
-[Beginner's Guide to Python](https://wiki.python.org/moin/BeginnersGuide)
