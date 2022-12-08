@@ -1,7 +1,9 @@
 ---
 author: "alesanchezr"
-excerpt: "La era de la programación, donde todo lo que hacemos depende de unas pocas que saben cómo y de ellos es la ventaja competitiva en el mercado a lo que ganancias se refiere"
-template: "post"
+excerpt: "Los programadores son una de las profesiones mejor pagadas del mundo, conoce los salarios y cuando gana un programador alreadedor del mundo. Las diferencias son más grandes de lo que te imaginas."
+template: "landing_post"
+image: "https://storage.googleapis.com/media-breathecode/4dff8e8ae1a0936fe65e94542387ac565903941f6456492f898cd7a5ad903bd6"
+image_alt: "cuanto gana un programador alrededor del mundo"
 title: "Cuánto gana un programador"
 ---
 
