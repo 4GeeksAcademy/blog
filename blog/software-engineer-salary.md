@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 excerpt: "The world is becoming increasingly competitive, as well as the software engineer salary. For newcomers, this is the key to start with the right foot."
-template: "post" 
+template: "landing_post" 
 title: "What is the salary of a Software Engineer"
 ---
 
@@ -37,7 +37,7 @@ Of course, these benefits are not without disadvantages. The job of a software e
 
 By this point, you should have a pretty good idea of the challenges ahead, if you choose a career as a software engineer. But where to begin? The first step may be searching for a way to reach some kind of certification in this field. You could try to earn a bachelor's degree in software engineering, but this may prove too costly. Luckily, there are shorter paths that are cheaper and are equally valued in the current job market. 
 
-![image3](https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/260/original/Logo-B_4Geeks_Nuevo.png)
+![image3](https://storage.googleapis.com/breathecode-asset-images/997ba3e72e0d8228d40719945b2b52e2750674c7f9e59ee3ed76bc83379cbd46.png)
 
 [4Geeks](https://4geeksacademy.com/) offers the opportunity to participate in a boot camp designed to teach everything you need to [become a software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp). 4Geeks Academy has won various accolades for their coding bootcamps and study programs, earning the trust of many organizations as a good source of potential hires. 
 
