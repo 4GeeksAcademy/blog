@@ -45,6 +45,8 @@ Pero no te emociones todavía, pues al igual que los cursos presenciales, los on
 
 También esta la libertad de establecer tú mismo tus horas de estudio, que apesar de sonar beneficioso, puede ser contraproducente si no tienes la disciplina para llevarlo a cabo, la cual no se desarrolla facilmente. Lo que lleva al último punto que es la cantidad existente de cursos de programación online. Si no sabes por dónde comenzar, puede resultar abrumado por no saber que hacer, así que es buena idea buscar las opiniones de otras personas antes de tomar la una decisión.
 
-A la hora de aprender programación, 4Geeks construyó una propuesta que agarra [lo mejor de ambos mundos](https://4geeksacademy.com/us/geekpal-support), donde no solo tendrás el acceso a los programas y la orientación, sino también el constante apoyo de una comunidad que busca potenciar tu futuro y ayudarte a construirlo a lo [largo de tu camino](https://4geeksacademy.com/us/geekforce-career-support)
+A la hora de aprender programación, 4Geeks construyó una propuesta que agarra [lo mejor de ambos mundos](https://4geeksacademy.com/us/geekpal-support), donde no solo tendrás el acceso a los programas y la orientación, sino también el constante apoyo de una comunidad que busca potenciar tu futuro y ayudarte a construirlo a lo [largo de tu camino](https://4geeksacademy.com/us/geekforce-career-support).
 
 No esperes mas para empezar, estas apunto de lograr tu objetivo.
+
+<call-to-action button_text="Estudia programación" button_link="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="4Geeks es una de las academias de programación más importantes del mundo" text="75% de nuestros alumnos son elegibles para una beca parcial o total"></call-to-action>
