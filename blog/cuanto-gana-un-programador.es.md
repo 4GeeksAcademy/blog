@@ -4,7 +4,7 @@ excerpt: "Los programadores son una de las profesiones mejor pagadas del mundo, 
 template: "landing_post"
 image: "https://storage.googleapis.com/media-breathecode/4dff8e8ae1a0936fe65e94542387ac565903941f6456492f898cd7a5ad903bd6"
 image_alt: "cuanto gana un programador alrededor del mundo"
-title: "Cuánto gana un programador"
+title: "Conoce cuánto gana un programador"
 ---
 
 El trabajo de un programador está en alta demanda hoy en día, gracias al auge de las tecnologías digitales. Junto al impacto de esta demanda, el trabajo de un programador se ha vuelto muy bien remunerado.
@@ -17,7 +17,7 @@ Las labores de un programador consisten en la escritura, implementación y mante
 
 ## Preparación de 4Geeks para ser Programador
 
-![image2](https://storage.googleapis.com/breathecode-asset-images/4ef257fe196d1942f14cd6f4e895068d54ffa409678626c3e287f42b52ad8270.png)
+![image2](https://4geeksacademy.com/static/e87935aadbb3844e3734315214b5f032/f6992/madrid-3.png)
 
 En [4geeks Academy](https://4geeksacademy.com/), el prepararte y apoyarte en tu desarrollo como programador a lo largo de tu carrera, es de suma importancia. A diferencia de otros [bootcamps](https://4geeksacademy.com/us/geeks-vs-others), nuestro apoyo es un compromiso que no está limitado hasta que consigas un trabajo o termines nuestros cursos. 4geeks Academy, facilita el desarrollo de sus estudiantes para volverse desarrolladores “Full Stack”.
 
