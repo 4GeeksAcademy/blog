@@ -25,7 +25,7 @@ Un desarrollador [“Full Stack”](https://4geeksacademy.com/us/coding-bootcamp
 
 ## ¿Cuánto gana un Programador aproximadamente?
 
-Para responder [cuánto gana un programador](https://4geeksacademy.com/es/cuanto-gana-un-programador) promedio, debemos tener presente que esto puede variar significativamente dependiendo de varios factores como: experiencia, habilidad, especialización, industria y chance. Si investigas por tu cuenta, vas a encontrar cifras entre $50K /año hasta $250K/año, en Estados Unidos. Tomando en cuenta las cifras mostradas en la página de Glassdoor, podemos mostrar un rango comprensivo de los salarios posibles, en Estados Unidos, tomando en cuenta la especialización y el nivel de experiencia:
+Para responder **cuánto gana un programador** promedio, debemos tener presente que esto puede variar significativamente dependiendo de varios factores como: experiencia, habilidad, especialización, industria y chance. Si investigas por tu cuenta, vas a encontrar cifras entre $50K /año hasta $250K/año, en Estados Unidos. Tomando en cuenta las cifras mostradas en la página de Glassdoor, podemos mostrar un rango comprensivo de los salarios posibles, en Estados Unidos, tomando en cuenta la especialización y el nivel de experiencia:
 
 | Carrera | Jr. | Promedio | Profesional |
 | ------ | ------ | ------ | ------ |
