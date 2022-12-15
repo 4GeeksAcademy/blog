@@ -31,7 +31,7 @@ Learning the PHP language is not about the syntax - that is easy.  The challen
 
 <td >
 
-[![PHP and Ruby interest in google worldwide](https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/Screen-Shot-2016-01-10-at-6.49.23-PM-1.png)](https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/Screen-Shot-2016-01-10-at-6.49.23-PM-1.png) Worldwide PHP vs Ruby Interest over time.
+[![PHP and Ruby interest in google worldwide](https://storage.googleapis.com/breathecode-asset-images/3259ebf1cb484dea7ab05fd71c634589d2126f9fc70318bf6bfeeed7d1326d1a.png)](https://storage.googleapis.com/breathecode-asset-images/3259ebf1cb484dea7ab05fd71c634589d2126f9fc70318bf6bfeeed7d1326d1a.png) Worldwide PHP vs Ruby Interest over time.
 </td>
 
 <td >
@@ -62,6 +62,7 @@ The community is the gasoline behind the programming language; they give the fe
 
 
 Which programing language will provide you with more job opportunities?  By now, you should have enough information to answer that question.  Here is some research performed on the top 3 job posting portals in Miami: Indeed, Glassdoor and Dice.  We searched for all the jobs in these 3 portals that contained the word "PHP" and, in the other hand, we searched again for for the word "Ruby."  Here are the results:
+
 <table class="table table-striped" >
 <tbody >
 <tr >
@@ -201,53 +202,13 @@ This information is based on the results we had when using the search engines of
 
 PHP developers make an average salary of $80,000 nationwide and Miami is not the exception.  It takes 5 minutes to search at indeed.com:  [look for PHP jobs that pay more than $75,000 a year](https://www.indeed.com/q-Web-Developer-PHP-$75,000-l-Miami,-FL-jobs.html) **in Miami,** and you will find more than 70 job vacancies.  Here are some of them:
 
-<table class="table table-striped" >
-<tbody >
-<tr >
-<td >Ascendo Resources
-</td>
+1. Ascendo Resources: [Senior PHP Developer](https://www.indeed.com/cmp/Ascendo-Resources/jobs/Senior-PHP-Developer-3bbcde11b7f47ea0?r=1) at $100,000/year.
 
-	<td ><a href="https://www.indeed.com/cmp/Ascendo-Resources/jobs/Senior-PHP-Developer-3bbcde11b7f47ea0?r=1" target="_blank" rel="nofollow noopener">Senior PHP Developer</a>
-</td>
+2. World NetMedia: [Lead Software Developer](https://www.indeed.com/rc/clk?jk=ce19d277c156a3d4 - LAMP) at $100,000/year.
 
-<td >$100,000 a year
-</td>
-</tr>
-<tr >
+3. Cutting Edge Recruiting - [Full Stack PHP Developer](https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-IjLD2PGVIsu0emvbicVdi0mPULCCrb6XYGFE-rRk22MtwgwsA0MgdqGnP4Y_uP6IwDgMAbjFB57dI7EGvF27kwvORKrpdxmLa_J6Wh47ripbm75EK_zA0HgAFrxy36umE-f7IayzNL6RScrDTO9ncLIvZ4hNw4VmoEOFM226lgvKRd4gzidhSUvk5M3XfQc4GNoMUmMWnFPqXCFjL9yKjDGtNTj8eJnkv9zeJIl3-SAfccsZSmcc3fw7FUBEJtfYYHjPJ2ce120_LtkWSKoxsetAINNSobVPzFIu3tcTa0l8nSFG5CRIYhb4dFNkzKGIAY4-PB-SMXWvOUsS8cBkWQ98e4gZHXMAW3uk-BXhvirriYvHLLtEftZeaz9DcOoGFf3yJy1jGV_iGjYAj8X9D4GaiSOJDgsaD7f8UvlUnZfBPgD7FADSMVT8LAo5oFKQ8I7e3xeFQj_KM4pOWpdHZndISkmy6tt3ihngqk7JDmeSGFUwKhu0fkQ6Z2tIg_BJbCOstRQG8tXrcx2QQYFlR1v9pLF2weivvw6JJAcx-KFzO6ZgW15WX8oCbyjZgVlV5u7KkwrnBzEhBBTifkCQhujqamgTl-Vil4sAgxoisM_EAtFWvvNk9n1dEk1LBUCD8HL4nYOlr_fd55Ut-pxV-dqlvlSwYPRnCa9NPDbFUVpwoUaMjjdzSMSuv2imacd0VUdEcuB3Np9SVUGLPWKVUi1xPptKp6lE41ybrGSM9vcEiNqjKrbxeqc2l7SwqE2O4=&p=4&sk=9a6ab4c649a730e8&fvj=0) at ~$100,000/year.
 
-<td >World NetMedia
-</td>
-
-<td ><a href="https://www.indeed.com/rc/clk?jk=ce19d277c156a3d4"  target="_blank" rel="nofollow noopener">Lead Software Developer - LAMP</a>
-</td>
-
-<td >$100,000 a year
-</td>
-</tr>
-<tr >
-
-<td >Cutting Edge Recruiting
-</td>
-
-<td ><a href="https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-IjLD2PGVIsu0emvbicVdi0mPULCCrb6XYGFE-rRk22MtwgwsA0MgdqGnP4Y_uP6IwDgMAbjFB57dI7EGvF27kwvORKrpdxmLa_J6Wh47ripbm75EK_zA0HgAFrxy36umE-f7IayzNL6RScrDTO9ncLIvZ4hNw4VmoEOFM226lgvKRd4gzidhSUvk5M3XfQc4GNoMUmMWnFPqXCFjL9yKjDGtNTj8eJnkv9zeJIl3-SAfccsZSmcc3fw7FUBEJtfYYHjPJ2ce120_LtkWSKoxsetAINNSobVPzFIu3tcTa0l8nSFG5CRIYhb4dFNkzKGIAY4-PB-SMXWvOUsS8cBkWQ98e4gZHXMAW3uk-BXhvirriYvHLLtEftZeaz9DcOoGFf3yJy1jGV_iGjYAj8X9D4GaiSOJDgsaD7f8UvlUnZfBPgD7FADSMVT8LAo5oFKQ8I7e3xeFQj_KM4pOWpdHZndISkmy6tt3ihngqk7JDmeSGFUwKhu0fkQ6Z2tIg_BJbCOstRQG8tXrcx2QQYFlR1v9pLF2weivvw6JJAcx-KFzO6ZgW15WX8oCbyjZgVlV5u7KkwrnBzEhBBTifkCQhujqamgTl-Vil4sAgxoisM_EAtFWvvNk9n1dEk1LBUCD8HL4nYOlr_fd55Ut-pxV-dqlvlSwYPRnCa9NPDbFUVpwoUaMjjdzSMSuv2imacd0VUdEcuB3Np9SVUGLPWKVUi1xPptKp6lE41ybrGSM9vcEiNqjKrbxeqc2l7SwqE2O4=&p=4&sk=9a6ab4c649a730e8&fvj=0"  target="_blank" rel="nofollow noopener">FULL STACK PHP DEVELOPER</a>
-</td>
-
-<td >$85,000 - $120,000 a year
-</td>
-</tr>
-<tr >
-
-<td >Tal Group
-</td>
-
-	<td ><a href="https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-KO9erzvIxvlVA9f2oDebmhawH3uo0bb15lxQhEYo4URKiHyAhVqgW20PmNMiLg3jwAiNnsC-t8J5hx8R4xoiZgfBqRErX-B5mKIDeRjwweBWFoDEHjVu4Nypxo9ADaHDk5YVrfJKoz1ZyNFxUMTfTGoHT38q60fg34Div5G_L3gaC1s8rkh7UeeB3-fWGFfiLhWK_4EomEIcL1Rh8rTdSTaEDtPJQ4KspiAlENT_P4V02GqXZDbEYK6olYtuVYxT-hntXL63Ev6m6P1HyBVyuIc_FvQfzMBo9xwPWiHZsHBeAtCIgJTKP1AkWFH3jEyR33qQzGkVtDkP4QWVBMYVPKw0qX19TVobc5X5wkkFG0Za_V_tDbeHSJ2R74T1wnj323HHvOut9iNQDYoAuUy6HKDkTwN_8DwiznEEjDuZuyCwz9dduREDXxtJjyH7YzUiOQEAaAlFIXlvrmQK6VuwF0B1jbCnfaWSyldUH4n7gSYjboitsJePsotyZhaaHQ8yILuc4H85_uq74QO0tno2qnmO788kmUMp4E2-57Ura3rAZ5TdkxsSKrH4GNM9XEqPUv3owHeF1uFUYtWLlLQL6XZo4nhne3jTdn_pxmbhGUYmkIxNZKRelU6hUVqvzxFG5slkzvsTYydSdEwhV5fl8yTu55psWFckpi_Sqd3sKj1jXGPVVLwvSwfhofyb9b1Uxe9UE_F0-NBs6C6uy4BvIqfJV6pJGODUB1IuMZfWDseWG8Z_WdJBwZ0Q8WhSVNsfE=&p=2&sk=4ce7d012be8f6dbf&fvj=0" target="_blank" rel="nofollow noopener">Web Developer PHP</a>
-</td>
-
-<td >$80,000 a year
-</td>
-</tr>
-</tbody>
-</table>
+4. Tal Group - [Web Developer PHP](https://www.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DUnwefsF7K5sI9KMOiuTab93Tl5aV87o5poBYEvjEbgIqlL4VjFWz5O4bJmyHdj-KO9erzvIxvlVA9f2oDebmhawH3uo0bb15lxQhEYo4URKiHyAhVqgW20PmNMiLg3jwAiNnsC-t8J5hx8R4xoiZgfBqRErX-B5mKIDeRjwweBWFoDEHjVu4Nypxo9ADaHDk5YVrfJKoz1ZyNFxUMTfTGoHT38q60fg34Div5G_L3gaC1s8rkh7UeeB3-fWGFfiLhWK_4EomEIcL1Rh8rTdSTaEDtPJQ4KspiAlENT_P4V02GqXZDbEYK6olYtuVYxT-hntXL63Ev6m6P1HyBVyuIc_FvQfzMBo9xwPWiHZsHBeAtCIgJTKP1AkWFH3jEyR33qQzGkVtDkP4QWVBMYVPKw0qX19TVobc5X5wkkFG0Za_V_tDbeHSJ2R74T1wnj323HHvOut9iNQDYoAuUy6HKDkTwN_8DwiznEEjDuZuyCwz9dduREDXxtJjyH7YzUiOQEAaAlFIXlvrmQK6VuwF0B1jbCnfaWSyldUH4n7gSYjboitsJePsotyZhaaHQ8yILuc4H85_uq74QO0tno2qnmO788kmUMp4E2-57Ura3rAZ5TdkxsSKrH4GNM9XEqPUv3owHeF1uFUYtWLlLQL6XZo4nhne3jTdn_pxmbhGUYmkIxNZKRelU6hUVqvzxFG5slkzvsTYydSdEwhV5fl8yTu55psWFckpi_Sqd3sKj1jXGPVVLwvSwfhofyb9b1Uxe9UE_F0-NBs6C6uy4BvIqfJV6pJGODUB1IuMZfWDseWG8Z_WdJBwZ0Q8WhSVNsfE=&p=2&sk=4ce7d012be8f6dbf&fvj=0) at $80,000/year.
 
 We are not saying that you will earn that much from Day 1, but those jobs only ask for 3-5 years experience.  If you are good, you could probably start earning $40,000 to $50,000 a year and start growing from there.
 
