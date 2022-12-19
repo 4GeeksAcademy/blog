@@ -7,9 +7,9 @@ image_alt: "cuanto gana un programador alrededor del mundo"
 title: "Conoce cuánto gana un programador"
 ---
 
-Ser un programador puede ser un trabajo emocionante y desafiante. Como programador, tendrás la responsabilidad de diseñar, desarrollar y mantener diferentes tipos de software. Esto puede incluir aplicaciones para dispositivos móviles, sitios web y programas de escritorio. 
+Según datos de la Oficina de Estadísticas Laborales de EE. UU., el salario medio anual de los desarrolladores de software era de $107 510 en mayo de 2020. Sin embargo, esta cifra puede ser significativamente mayor o menor según la función y las responsabilidades específicas del trabajo.
 
-Una de las principales responsabilidades de un programador es escribir código de alta calidad que cumpla con las especificaciones y requisitos del proyecto. Esto requiere habilidades técnicas y una comprensión profunda de diferentes legunajes. 
+Si quieres conocer mas a fondo sobre el sueldo de un programador te invito a que leas el siguiente articulo donde detallamos los salarios de los programadores por categorias.
 
 ## ¿Cuál es el sueldo general de un programador?
 
