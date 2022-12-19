@@ -8,9 +8,7 @@ title: "Conoce cuánto gana un programador en Colombia"
 
 Cuando una persona está en búsqueda de la opción perfecta que se adecue a sus necesidades y aspiraciones, sin duda, la  tecnológica está presente como elección. En este BlogPost mencionaremos la importancia de conocer el sueldo de un programador y las  ventajas que ofrece el [aprender a programar en Colombia](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-colombia).
 
-Esta es la oportunidad más cercana que muchos toman en cuenta al momento de elegir estar en el mundo tecnológico por la alta demanda y poca oferta que hay actualmente en el mercado. 
-
-El hecho de saber [cuánto gana un programador en Colombia](https://4geeksacademy.com/es/blog-en-espanol/cuanto-gana-un-programador)  te hace dar cuenta que es una de las profesiones mejor pagadas en varias regiones en LATAM.
+El hecho de saber [cuánto gana un programador](https://4geeksacademy.com/es/blog-en-espanol/cuanto-gana-un-programador)  te hace dar cuenta que es una de las profesiones mejor pagadas en varias regiones en LATAM.
 
 ## Mira cuánto gana un programador junior en Colombia 
 
