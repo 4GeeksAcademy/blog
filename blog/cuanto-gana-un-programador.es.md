@@ -7,7 +7,7 @@ image_alt: "cuanto gana un programador alrededor del mundo"
 title: "Conoce cuánto gana un programador"
 ---
 
-Según datos de la Oficina de Estadísticas Laborales de EE. UU., el salario medio anual de los desarrolladores de software era de $107 510 en mayo de 2020. Sin embargo, esta cifra puede ser significativamente mayor o menor según la función y las responsabilidades específicas del trabajo.
+Según datos de la Oficina de Estadísticas Laborales de EE. UU., el salario medio anual de los desarrolladores de software era de $107 510 en mayo de 2022. Sin embargo, esta cifra puede ser significativamente mayor o menor según la función y las responsabilidades específicas del trabajo.
 
 Si quieres conocer mas a fondo sobre el sueldo de un programador te invito a que leas el siguiente articulo donde detallamos los salarios de los programadores por categorias.
 
