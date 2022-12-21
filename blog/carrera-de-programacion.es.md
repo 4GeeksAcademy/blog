@@ -172,7 +172,7 @@ Los motivos para aprender programación no están relacionados solamente al áre
     
     ¡Vaya que hay grandes comunidades en línea para videojuegos, esports, anime, trading, criptomonedas! Pero la comunidad de programadores es particularmente interesante. Es de las pocas en la que puedes solucionar de forma colaborativa con extraños, problemas que tienes incluso en tu trabajo.
     
-    [4geeks academy](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
+![people-looking-at-a-computer.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
     
     No importa si estudias un curso de programación o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
     
@@ -192,8 +192,6 @@ Ahora, si hablamos de empresas en específico, las FAANG (Facebook, Apple, Amazo
 
 ### **FAANG**
 
-[Blog image 15.png](https://storage.googleapis.com/media-breathecode/ea7365690fb0e405db4d675baeac96d31273a54771df8eb908244ffbf994bf35)
-
 Las FAANG pueden ser muy atractivas para talento nuevo, inclusive para talento más senior. No obstante hay empresas de mayor trayectoria que ofrecen interesantes oportunidades de empleo (Microsoft, IBM, Oracle, Intel, Siemens, Cisco, etc.). También hay empresas de menor exposición a la opinión pública que contratan volúmenes importantes de desarrolladores (Salesforce, Accenture, Nvidia, Adobe, SAP). 
 
 No olvidemos empresas más pequeñas donde un desarrollador Jr. puede aprovechar mejor su empuje creativo y quizás tener oportunidades de crecimiento de forma más rápida que en una empresa en la que haya mayor competencia por ascender.
@@ -203,8 +201,6 @@ No olvidemos empresas más pequeñas donde un desarrollador Jr. puede aprovechar
 En la búsqueda de empleo como desarrollador Jr. es necesario tener un mínimo de experiencia y demostrar habilidades técnicas. Durante las clases de programación de un coding bootcamp se programan pequeños proyectos puntuales que pueden sumarse al portafolio profesional. También se trabaja un gran proyecto en el que se aplican los aprendizajes de las clases de programación.
 
 No obstante, una opción para ganar experiencia e incluso ingresos, es el **trabajo freelance**. Para esto puedes usar tus propias redes personales o acercarte a pequeñas empresas que puedan requerir servicios de programación. En sitios como Upwork se pueden conseguir algunos proyectos ad-hoc.  
-
-[Blog image 22.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
 
 Al principio no es el camino más lucrativo, pero definitivamente es una opción para ganar experiencia. Además, si estás en búsqueda de empleo, el trabajo freelance demuestra a los empleadores que tienes experiencia en el mundo real.
 
