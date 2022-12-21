@@ -33,7 +33,7 @@ Antes de continuar, **repasemos lo que hace un programador.**
 
 Los programadores pueden crear software que se puede ejecutar en múltiples dispositivos: tabletas, teléfonos inteligentes o sistemas automatizados utilizados en las industrias fabriles. Con el papel protagónico que han pasado a ocupar los teléfonos inteligentes en la vida de todos, las aplicaciones móviles son cada vez más importantes. Del mismo modo, las aplicaciones de software como servicio (SaaS), y el comercio electrónico, van ganando importancia.
 
-[aprenderaprogramar.jpg](https://breathecode.herokuapp.com/v1/media/file/carrera-de-programacion-png?width=600)
+![aprender_a_programar.jpg](https://storage.googleapis.com/media-breathecode/2e52f52fab7b84c983408cd18b1309beb08aae63720e283f61b08f877b2b743d)
 
 Una vez que un programa funciona, los programadores pueden ser responsables de probar errores, eliminar errores, crear e instalar actualizaciones. Los programadores también pueden implementar el diseño de la interfaz de usuario, esta es la parte que vemos, y con la que interactuamos.
 
@@ -72,9 +72,7 @@ Empecemos por los motivos profesionales. Estudiar una carrera de programación:
     
     Desde hoy se crearán menos de estos empleos que requieren trabajo físico y mucha proximidad entre personas. Quizás algunos de estos empleos desaparecerán.
     
-    ![aprender a programar.png](https://storage.googleapis.com/media-breathecode/2e52f52fab7b84c983408cd18b1309beb08aae63720e283f61b08f877b2b743d)
-    
-    [4geeks cut](https://storage.googleapis.com/media-breathecode/f5b57b74aa61ed35509673149fe0999c8f1d772ec4870a0a934f25f14c5e8129)
+![aprenderaprogramar.png](https://storage.googleapis.com/media-breathecode/68142ae0f78a4ef794b7bf0d26b7e4d7c0c2c66570346195a342f5f57f94e50b)
     
     Esto llevará a que muchos necesiten hacer un cambio de carrera rápidamente. Habrá trabajo disponible, pero para acceder a él hay que formarse en otras áreas. La programación es una opción para **seguir vigente en el mercado laboral** **y para obtener empleo.**
     
