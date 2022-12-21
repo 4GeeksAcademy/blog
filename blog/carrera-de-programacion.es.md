@@ -33,7 +33,7 @@ Antes de continuar, **repasemos lo que hace un programador.**
 
 Los programadores pueden crear software que se puede ejecutar en múltiples dispositivos: tabletas, teléfonos inteligentes o sistemas automatizados utilizados en las industrias fabriles. Con el papel protagónico que han pasado a ocupar los teléfonos inteligentes en la vida de todos, las aplicaciones móviles son cada vez más importantes. Del mismo modo, las aplicaciones de software como servicio (SaaS), y el comercio electrónico, van ganando importancia.
 
-[](https://breathecode.herokuapp.com/v1/media/file/carrera-de-programacion-png?width=600)
+[aprenderaprogramar.jpg](https://breathecode.herokuapp.com/v1/media/file/carrera-de-programacion-png?width=600)
 
 Una vez que un programa funciona, los programadores pueden ser responsables de probar errores, eliminar errores, crear e instalar actualizaciones. Los programadores también pueden implementar el diseño de la interfaz de usuario, esta es la parte que vemos, y con la que interactuamos.
 
@@ -66,15 +66,15 @@ Empecemos por los motivos profesionales. Estudiar una carrera de programación:
     La transformación digital no solamente favorecerá las carreras y ocupaciones relacionadas con la tecnología. También tiene otro tipo de impactos en la fuerza laboral. Con la adopción rápida en las empresas de la automatización, la robótica y la creciente preferencia por la compra en ecommerce, la transformación digital hará que algunos empleos pierdan relevancia, que no existan o que su oferta se vea mermada.
     
     <aside>
-    ❓ Con la transformación digital la cantidad de tiendas físicas quizás disminuya y requieran menor cantidad de vendedores. Los centros de distribución de grandes marketplaces y supermercados estarán más automatizados y tendrán más robots. Luego, éstos cumplirán con las órdenes de clientes en menor tiempo y con menos errores…  *¿Qué pasará con los almacenistas, operadores de maquinarias de almacenes y vendedores de tiendas?*
+    ❓ Con la transformación digital la cantidad de tiendas físicas quizás disminuya y requieran menor cantidad de vendedores. Los centros de distribución de grandes marketplaces y supermercados estarán más automatizados y tendrán más robots. Luego, éstos cumplirán con las órdenes de clientes en menor tiempo y con menos errores…  *¿Qué pasará con los almacenistas, operadores de maquinarias de almacenes y vendedores de tiendas?*
     
     </aside>
     
     Desde hoy se crearán menos de estos empleos que requieren trabajo físico y mucha proximidad entre personas. Quizás algunos de estos empleos desaparecerán.
     
-    ![Aprender a Programar.png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/Aprender_a_Programar.png)
+    ![aprender a programar.png](https://storage.googleapis.com/media-breathecode/2e52f52fab7b84c983408cd18b1309beb08aae63720e283f61b08f877b2b743d)
     
-    [](https://storage.googleapis.com/media-breathecode/f5b57b74aa61ed35509673149fe0999c8f1d772ec4870a0a934f25f14c5e8129)
+    [4geeks cut](https://storage.googleapis.com/media-breathecode/f5b57b74aa61ed35509673149fe0999c8f1d772ec4870a0a934f25f14c5e8129)
     
     Esto llevará a que muchos necesiten hacer un cambio de carrera rápidamente. Habrá trabajo disponible, pero para acceder a él hay que formarse en otras áreas. La programación es una opción para **seguir vigente en el mercado laboral** **y para obtener empleo.**
     
@@ -174,11 +174,9 @@ Los motivos para aprender programación no están relacionados solamente al áre
     
     ¡Vaya que hay grandes comunidades en línea para videojuegos, esports, anime, trading, criptomonedas! Pero la comunidad de programadores es particularmente interesante. Es de las pocas en la que puedes solucionar de forma colaborativa con extraños, problemas que tienes incluso en tu trabajo.
     
-    ![shutterstock_1663349944 1.png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/shutterstock_1663349944_1.png)
+    [4geeks academy](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
     
-    [](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
-    
-    No importa si estudias un curso de programación o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
+    No importa si estudias un curso de programación o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
     
     Cuando aprendes a programar es inevitable usar los recursos disponibles en las comunidades de desarrolladores. Por eso lo ideal es que seas parte activa de la comunidad, no solamente con el aprendizaje sino a través de la colaboración. Comparte tu conocimiento y experiencias con otros, siempre será útil ¡sin importar el tiempo de experiencia que tengas en el área!
     
@@ -196,9 +194,7 @@ Ahora, si hablamos de empresas en específico, las FAANG (Facebook, Apple, Amazo
 
 ### **FAANG**
 
-![Blog image 15.png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/Blog_image_15.png)
-
-[](https://storage.googleapis.com/media-breathecode/ea7365690fb0e405db4d675baeac96d31273a54771df8eb908244ffbf994bf35)
+[Blog image 15.png](https://storage.googleapis.com/media-breathecode/ea7365690fb0e405db4d675baeac96d31273a54771df8eb908244ffbf994bf35)
 
 Las FAANG pueden ser muy atractivas para talento nuevo, inclusive para talento más senior. No obstante hay empresas de mayor trayectoria que ofrecen interesantes oportunidades de empleo (Microsoft, IBM, Oracle, Intel, Siemens, Cisco, etc.). También hay empresas de menor exposición a la opinión pública que contratan volúmenes importantes de desarrolladores (Salesforce, Accenture, Nvidia, Adobe, SAP). 
 
@@ -208,11 +204,9 @@ No olvidemos empresas más pequeñas donde un desarrollador Jr. puede aprovechar
 
 En la búsqueda de empleo como desarrollador Jr. es necesario tener un mínimo de experiencia y demostrar habilidades técnicas. Durante las clases de programación de un coding bootcamp se programan pequeños proyectos puntuales que pueden sumarse al portafolio profesional. También se trabaja un gran proyecto en el que se aplican los aprendizajes de las clases de programación.
 
-No obstante, una opción para ganar experiencia e incluso ingresos, es el **trabajo freelance**. Para esto puedes usar tus propias redes personales o acercarte a pequeñas empresas que puedan requerir servicios de programación. En sitios como Upwork se pueden conseguir algunos proyectos ad-hoc.  
+No obstante, una opción para ganar experiencia e incluso ingresos, es el **trabajo freelance**. Para esto puedes usar tus propias redes personales o acercarte a pequeñas empresas que puedan requerir servicios de programación. En sitios como Upwork se pueden conseguir algunos proyectos ad-hoc.  
 
-![Blog image 22.png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/Blog_image_22.png)
-
-[](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
+[Blog image 22.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
 
 Al principio no es el camino más lucrativo, pero definitivamente es una opción para ganar experiencia. Además, si estás en búsqueda de empleo, el trabajo freelance demuestra a los empleadores que tienes experiencia en el mundo real.
 
@@ -291,10 +285,6 @@ Un coding bootcamp es un curso intensivo e inmersivo (implica horas de práctica
 
 Los coding bootcamps son más económicos y duran menos tiempo que una carrera universitaria. Incluyen apoyo para la búsqueda y obtención de empleo como programador. Para cumplir esa promesa tienen un contenido educativo muy actualizado, a la par de lo que necesita el sector tecnológico para seguir creciendo e innovando.
 
-![Blog image 19 (1).png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/Blog_image_19_(1).png)
-
-[](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
-
 ## **¿Cuál es la diferencia de estudiar programación en la universidad o con cursos?**
 
 La principal diferencia de estudiar programación en la universidad, con cursos cortos, o con un coding bootcamp está en la duración del estudio. Es decir, en cuánto tiempo toma con cada opción ser un desarrollador que pueda ganarse una vida programando.
@@ -317,10 +307,6 @@ Hay otras diferencias importantes y las revisaremos en este apartado de pro’s 
 Hay coding bootcamps dedicados o muy específicos, como de ciberseguridad, de programas puntuales, de ciencia de datos, de frontend… También existen ***coding bootcamps para fullstack developers.***
 
 Cualquier proyecto de desarrollo web normalmente requeriría tanto un desarrollador front-end como un desarrollador back-end. Un desarrollador fullstack cumple el rol de ambos.
-
-![Blog image 10 (1).png](De%20que%CC%81%20trata%20la%20Carrera%20de%20Programacio%CC%81n%208debd1975a8743debdad4085020962d5/Blog_image_10_(1).png)
-
-[](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
 
 Nuestra recomendación, ***estudiar un coding bootcamp de fullstack developer***. Esto aplica para: 
 
