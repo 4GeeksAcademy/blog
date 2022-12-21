@@ -6,7 +6,9 @@ title: "How much is the Software engineer salary in Germany"
 
 ---
 
-Germany is currently at the top when it comes to innovation;  thanks in part to the speed at which new technologies are developed. in order to answer How much is the [Software engineer salary in Germany](), first we must read some important points!
+The salary of a software engineer in Germany can vary significantly depending on a number of factors, including the engineer's level of experience, the size and type of company they work for, and the location of the company. According to data from the German Federal Employment Agency, the median gross salary for a software developer in Germany is around €55,000 per year. 
+
+However, salaries for more experienced software engineers can be significantly higher, with some reaching six figures. It's also important to note that salaries in Germany are typically higher in the western part of the country, compared to the eastern part. Additionally, salaries in larger cities like Berlin and Munich tend to be higher than in smaller cities or rural areas. To know more about the salary of a [Software Engineer in Germany](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) I invite you to read the next blog post.
 
 ## Germany’s Tech World
 
@@ -48,13 +50,13 @@ Yes, freelance pays more, but it doesn’t include the perks of a job, so you ca
 - Health insurance: employer pays half of the premium for employees. Self-employed, both parties pay themselves. If you’re young and healthy, going separately can be beneficial, but it can get very expensive quickly. Voluntarily staying in the mandatory system is a little more prudent, especially if you have or want to have children, but it will cost you around €650/month.
 - No unemployment insurance: if you can’t find your next contract, you earn nothing, while former employees get up to 60% (or 67%, if they have at least one child) in their one year final net income. As a freelancer
 
-## Women in tech
+## What is the salary of a Junior Software Engineer in Germany
 
-There are more female tech workers in Germany than in any other country in Europe, they make up only 16.58% of the workforce labor — comprehensive job in technology in Germany.
+According to data from the German Federal Employment Agency, the median gross salary for a junior software engineer in Germany is approximately €56,000 per year. This figure represents the average salary for a software engineer with less than two years of professional experience in the field. While this may seem like a high salary for someone just starting in their career, it's important to note that the cost of living in Germany is generally higher than in many other countries.
 
-Germany’s gender pay gap in the tech sector is one of the lowest on the continent, ranked only by Greece, Poland, Estonia, Slovakia, Lithuania and the Czech Republic lower. To be precise, on average, male tech workers in Germany earn almost 15,000 euros more per year than their female counterparts.
+It's also worth noting that the salary of a junior software engineer can vary significantly depending on the specific company they work for. For example, a junior software engineer at a large, well-established tech company might have a higher salary than one working for a smaller start-up. Additionally, the location of the company can also impact the salary of a junior software engineer. Software engineers in major cities like Berlin and Munich tend to earn higher salaries than those in smaller cities or rural areas.
 
-But it remains a very attractive country in terms of employment opportunities, especially with its unique mix of innovative startups and market leaders.
+Finally, it's important to remember that the salary of a junior software engineer is likely to increase over time as they gain more experience and skills. Once the Junior Software Engineer has at least 5 years of experience he can apply to higher-paid positions where the median gross salary for a senior software engineer in Germany is approximately €70,000 per year
 
 ## What do 4Geeks has to offer you?
 
