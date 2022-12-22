@@ -18,7 +18,7 @@ De acuerdo con el tipo de programación que se realice, el salario puede variar.
 
 ### ¿Cuánto tarda en ganar como Senior?
 
-Para convertirse en desarrollador senior hay que tener un perfil que incluya no solo conocimientos avanzados y una experiencia dilatada, sino también unas buanas [habilidades de desarrollador full-stack](https://4geeksacademy.com/es/full-stack/habilidades-desarrollador-full-stack). Estas habilidades y competencias están muy valoradas y por lo general, no se poseen de manera innata, sino que se adquieren necesariamente tras años de formación y experiencia.
+Para convertirse en desarrollador senior hay que tener un perfil que incluya no solo conocimientos avanzados y una experiencia dilatada, sino también unas buanas [habilidades de desarrollador full-stack](https://4geeksacademy.com/us/coding-bootcamps/full-time-full-stack-developer). Estas habilidades y competencias están muy valoradas y por lo general, no se poseen de manera innata, sino que se adquieren necesariamente tras años de formación y experiencia.
 
 ## ¿Cómo hago para tener un buen sueldo? 
 
@@ -46,7 +46,7 @@ Por ejemplo el sueldo promedio de un programador en Guadalajara es de 18,795 MX/
 
 ## ¿Qué puedo hacer para ganar como programador en México?
 
-En [4Geeks Academy en México](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-mexico)  puedes aprender a programar y tener la oportunidad de ver clases en vivo, mentorías ilimitadas y para toda la vida Part-time, flexible y pertenecer a una de las comunidades de **devs** más grandes del mundo. También podrás contar con servicios de Career Support personalizados, individuales y de por vida.
+En 4Geeks Academy en México puedes [aprender a programar](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-mexico) y tener la oportunidad de ver clases en vivo, mentorías ilimitadas y para toda la vida Part-time, flexible y pertenecer a una de las comunidades de **devs** más grandes del mundo. También podrás contar con servicios de Career Support personalizados, individuales y de por vida.
 
 Nuestra egresada [Silvina Angüilla](https://www.linkedin.com/in/silvina-anguilla/) quien es QA Analyst en Tata Consultancy Services gracias a nuestro programa [GeekFORCE](https://4geeksacademy.com/us/geekforce-career-support) permitiendo la inserción laboral inmediata luego de finalizar el bootcamp. 
 
