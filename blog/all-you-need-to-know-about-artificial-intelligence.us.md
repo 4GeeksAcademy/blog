@@ -29,7 +29,7 @@ The progress of AI market value according to [Statista:](https://www.statista.co
 
 **“Revenues from the AI software market from 2018 - 2025” [Statista](https://www.statista.com/statistics/607716/worldwide-artificial-intelligence-market-revenues/) (In Billions of U.S. dollars)**
 
-![statista.png](../../../static/images/blog/statista.png)
+![statista.png](https://storage.googleapis.com/media-breathecode/7c67491807846ef6da210300308cc1157daf4702ed38ce31637cc76936ee0a16)
 
 During the COVID-19 pandemic, our market was forced to increase automation to maintain human isolation, many jobs were left to computers and machines, and the businesses that were already advanced into automation seized the opportunity to gain leverage over this scenario to massively grow within new demands and opportunities.
 
