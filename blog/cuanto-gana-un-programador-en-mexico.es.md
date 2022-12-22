@@ -6,7 +6,7 @@ title: "Conoce cuánto gana un programador en México"
 
 ---
 
-En un mundo globalizado y digitalizado los programadores son uno de los pilares más importantes que dan soporte a todas las actividades que realizamos a diario. Si estás interesado en [cuánto gana un programador](https://4geeksacademy.com/es/blog-en-espanol/cuanto-gana-un-programador) en general puedes leer este articulo, pero si estas interesado en conocer cuánto gana un programador en Mexico te invito a que sigas leyendo este artículo.
+En un mundo globalizado y digitalizado los programadores son uno de los pilares más importantes que dan soporte a todas las actividades que realizamos a diario. Si estás interesado en [cuánto gana un programador](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) en general puedes leer este articulo, pero si estas interesado en conocer cuánto gana un programador en Mexico te invito a que sigas leyendo este artículo.
 
 ## Salario de un desarrollador en México: 
 
