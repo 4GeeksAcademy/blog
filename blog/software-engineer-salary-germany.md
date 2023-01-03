@@ -10,7 +10,7 @@ The salary of a software engineer in Germany can vary significantly depending on
 
 However, salaries for more experienced software engineers can be significantly higher, with some reaching six figures. It's also important to note that salaries in Germany are typically higher in the western part of the country, compared to the eastern part. Additionally, salaries in larger cities like Berlin and Munich tend to be higher than in smaller cities or rural areas. To know more about the salary of a [Software Engineer in Germany](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) I invite you to read the next blog post.
 
-## Germany’s Tech World
+## Software Engineer Salary in Germany
 
 In the World Economic Forum’s latest Global Competitiveness Report, Germany ranks first as the world’s most innovative economy, with a score of 87.5 out of 100 in the ranking.
 
