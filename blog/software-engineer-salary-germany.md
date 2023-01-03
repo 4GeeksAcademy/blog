@@ -26,7 +26,7 @@ The country has one of the largest ICT markets in the world and the largest soft
 - IT consultant, IT analyst.
 - Software developer salary
 
-A person working as a developer/programmer in Germany usually earns around 3,480 EUR per month. Salary ranges from 1,600 EUR (lowest) to 5,530 EUR (highest). This is the average monthly salary, including rent, transportation and other benefits.
+A person working as a developer/[programmer in Germany](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-hamburg-germany) usually earns around 3,480 EUR per month. Salary ranges from 1,600 EUR (lowest) to 5,530 EUR (highest). This is the average monthly salary, including rent, transportation and other benefits.
 
 Experience level is the most important factor in determining salary. Of course, the more years of experience, the higher the salary. Employees with two to five years of experience earn an average of 32% more than entry-level and junior employees across all industries and sectors.
 
@@ -54,7 +54,7 @@ Yes, freelance pays more, but it doesn’t include the perks of a job, so you ca
 
 According to data from the German Federal Employment Agency, the median gross salary for a junior software engineer in Germany is approximately €56,000 per year. This figure represents the average salary for a software engineer with less than two years of professional experience in the field. While this may seem like a high salary for someone just starting in their career, it's important to note that the cost of living in Germany is generally higher than in many other countries.
 
-It's also worth noting that the salary of a junior software engineer can vary significantly depending on the specific company they work for. For example, a junior software engineer at a large, well-established tech company might have a higher salary than one working for a smaller start-up. Additionally, the location of the company can also impact the salary of a junior software engineer. Software engineers in major cities like Berlin and Munich tend to earn higher salaries than those in smaller cities or rural areas.
+It's also worth noting that the salary of a junior software engineer can vary significantly depending on the specific company they work for. For example, a junior software engineer at a large, well-established tech company might have a higher salary than one working for a smaller start-up. Additionally, the location of the company can also impact the salary of a junior software engineer. Software engineers in major cities like Berlin and Munich tend to earn higher salaries than those in smaller cities or rural areas. The salary of a junior [software engineer in Berlin](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany) is around €53,000 per year, while the salary of a [software engineer in Munich](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-munich-germany) is approximately €60,000 per year.
 
 Finally, it's important to remember that the salary of a junior software engineer is likely to increase over time as they gain more experience and skills. Once the Junior Software Engineer has at least 5 years of experience he can apply to higher-paid positions where the median gross salary for a senior software engineer in Germany is approximately €70,000 per year
 
