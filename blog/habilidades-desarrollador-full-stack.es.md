@@ -20,13 +20,13 @@ Pero hoy la pregunta, o mejor dicho las preguntas son... ¿cuáles son las habil
 
 Las habilidades técnicas que te convierten en un gran *Full-Stack Developer* siempre tendrán mucho espacio para debates y cada quien tendrá su opinión, desde reclutadores IT hasta programadores seniors y CTO’s, todos tendrán una visión que seguramente estará basada en sus experiencias y stack tecnológicos que utilizan las empresas donde trabajan. Aquí te dejo las que consideramos mi equipo y yo en nuestra escuela de programación.
 
-## *Full-Stack Skills* en *Frontend 🎨*
+## *Habilidades de desarrollador Full Stack* en *Frontend 🎨*
 
 Empezaré por el *front*, y luego pasaremos al *back*, pero también hablaremos de otro tipo de competencias o habilidades importantes
 
 ### HTML y CSS
 
-Tenemos que empezar claramente por HTML y CSS, tecnologías imprescindibles si quieres trabajar como *Full-Stack*. Estas dos tecnologías son para el *front-end*, HTML se usa para añadir contenido a tus aplicaciones web y CSS para aplicar estilos a este contenido, con estas dos tecnologías puedes maquetar tus páginas y hacer la mejor, y más bonita interfaz. Un buen programador *full-stack* debe desenvolverse con soltura en HTML y CSS.
+Tenemos que empezar claramente por HTML y CSS, tecnologías imprescindibles si quieres trabajar como *Full-Stack*. Estas dos tecnologías son para el *front-end*, HTML se usa para añadir contenido a tus aplicaciones web y CSS para aplicar estilos a este contenido, con estas dos tecnologías puedes maquetar tus páginas y hacer la mejor, y más bonita interfaz. Un buen [programador *full-stack*](https://4geeksacademy.com/es/coding-bootcamps/full-stack-full-time/?lang=es) debe desenvolverse con soltura en HTML y CSS.
 
 ### JavaScript
 
@@ -40,13 +40,13 @@ Toda persona que quiera trabajar como *full-stack*, además, tiene que saber có
 
 Para considerarte programador *full-stack*, es necesario que conozcas al menos un *framework* de JavaScript, en este punto te encontrarás muchísimos debates, pero los tres más utilizados en el mundo son: [React](https://es.reactjs.org/), [Vue](https://vuejs.org/) y [Angular](https://angular.io/). Cada academia de programación ha  decidido enseñar un *framework* diferente, cuestión de preferencias. En **[4Geeks Academy](/es)** nos inclinamos por React, pero te dejaré a ti tomar esa decisión con números.
 
-![imagen de google trends sobre el aumento de interés de ciertos lenguajes de programación](https://storage.googleapis.com/breathecode-asset-images/897b41c9cf3bc111a3bce9ea2c41eb33c1e5c5863f033df89804c28bf954f8a9.png?raw=true)
+![imagen de google trends sobre el aumento de interés de ciertos lenguajes de programación](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-03.png?raw=true)
 
-## *Full-Stack Skills* en *Backend 🤖*
+## *Habilidades de desarrollador Full Stack* en *Backend 🤖*
 
 Para el *backend* existen numerosos lenguajes de programación ([Python](https://www.python.org/), [NodeJS](https://nodejs.org/es/), [PHP](https://www.php.net/manual/es/intro-whatis.php), [Ruby](https://www.ruby-lang.org/es/), [Java](https://www.java.com/es/about/whatis_java.jsp), [C++](https://www.cplusplus.com/)), cada uno con sus comunidades y sus detractores. Pero, ¿debo conocer todos los lenguajes de programación? ¿O me basta con uno solo? No hay una respuesta única a esta pregunta, pero sí sería importante conocer más de un lenguaje de programación, aunque seas especialista en solo uno de ellos. Esto te permitirá tener opciones Sin embargo, tener conocimientos del *backend*, no solamente implica dominar lenguajes, también es necesario conocer sobre bases de datos.
 
-## Lenguajes de programación
+## Lenguajes de programación que necesitas dominar como Desarrollador Full Stack
 
 Empecemos con los lenguajes de programación:
 
@@ -72,7 +72,7 @@ Organizan la información en pequeños trozos (tablas) que se relacionan entre s
 
 Una vez escuché a un alumno de la academia que decía, “si sabes programación orientada objetos puedes trabajar con bases de datos no relacionales, lo vas a pillar muy rápido”. Se lo decía a una persona que tenía una entrevista y le pedían trabajar con este tipo de bases de datos. Lo cierto es que es justamente así. Las bases de datos no relacionales no se almacenan en tablas, sino en estructuras de datos [BSON](https://es.wikipedia.org/wiki/BSON), similares a los JSON, que consiste en una lista de elementos (objetos). La principal ventaja de este tipo de bases de datos es la flexibilidad, escalabilidad y rendimiento.
 
-## Herramientas 🔧⛏
+## Herramientas importantes para las potenciar las habilidades de un desarrollador Full Stack 🔧⛏
 
 Por último, pero no menos importante, toda persona que quiera ser *full-stack developer* tiene saber utilizar Git, GitHub (o cualquier otro servicio de repositorios de código en la nube) y la terminal.
 
@@ -80,7 +80,7 @@ Por último, pero no menos importante, toda persona que quiera ser *full-stack d
 
 ## ¿Y las *soft skills? 🖖*
 
-Seguramente estés pensando.. ¿acaso una persona que quiere dedicarse a la programación *full-stack*, solo debe tener habilidades técnicas? La respuesta es clara y rotundamente negativa. Las competencias técnicas son importantes, sí, pero para ser un gran programador *full-stack*, es importantísimo que tengas otras habilidades. Las llamadas habilidades blandas o *soft skills*.
+Seguramente estés pensando.. ¿acaso una persona que quiere dedicarse a la programación *full-stack*, solo debe tener habilidades técnicas? La respuesta es clara y rotundamente negativa. Las competencias técnicas son importantes, sí, pero para ser un gran [programador *full-stack*](https://4geeksacademy.com/us/coding-bootcamps/full-time-full-stack-developer), es importantísimo que tengas otras habilidades. Las llamadas habilidades blandas o *soft skills*.
 
 **Curiosidad:** qué importante es para un programador la curiosidad, la tecnología avanza muy rápido y si no somos personas curiosas nos quedaremos atrás. Además, la curiosidad nos hace indagar mucho más, buscar otras alternativas para resolver el mismo inconveniente. Si quieres las habilidades que te convierten en un gran full-stack, definitivamente la curiosidad tiene que ser parte de ti.
 
