@@ -61,7 +61,7 @@ Curiosamente, en 2019, según el VIII Estudio Público de Sueldos TIC de la cons
 
 Pero este número no es el único en aumento, pues en el mismo estudio de IT Hunter, a inicios del 2020, determinó que: “La demanda por profesionales TI seguirá en aumento. Según cifras de ACTI, existe una demanda insatisfecha de 6.000 profesionales al año. Esto obligará al mercado a buscar soluciones que permitan preparar especialistas vía Bootcamp, método de aprendizaje acelerado que en 14 semanas genera especialistas, como un Full Stack Developer o un Data Scientist”.
 
-El 76% de los egresados busca un trabajo justo después de graduarse y el 24% busca mejorar sus habilidades o emprender con startups. Las personas que se gradúan en 4Geeks Academy tienen una edad promedio de 30 años, las edades varían entre los 26 y 32. ¡Pero recuerda que nunca se es demasiado mayor o demasiado joven para aprender a programar!
+El 76% de los egresados busca un trabajo justo después de graduarse y el 24% busca mejorar sus habilidades o emprender con startups. Las personas que se gradúan en 4Geeks Academy tienen una edad promedio de 30 años, las edades varían entre los 26 y 32. ¡Pero recuerda que nunca se es demasiado mayor o demasiado joven para [aprender a programar](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-santiago)!
 
 Cuando se trata de estudiantes recién graduados, entre los 25 y 35 años de edad, que ingresaron directamente a un puesto “entry level, trainee o de semillero” suelen empezar a tener ingresos entre 700.000 a 900.000 pesos chilenos. 
 
