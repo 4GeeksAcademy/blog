@@ -48,7 +48,7 @@ No es necesario cursar la carrera de programación en la universidad para conver
 
 La formación de un programador no necesariamente ocurre en la universidad. Hay quienes programan incluso antes de entrar a la universidad. Así como hay programadores que nunca han recibido formación académica en su vida: los temerarios autodidactas.
 
-## **¿Por qué estudiar una Carrera de Programación?**
+## ¿Por qué estudiar una Carrera de Programación?
 
 Empecemos por los motivos profesionales. Estudiar una carrera de programación:
 
@@ -154,7 +154,7 @@ No importa si estudias un curso de programación o si ya tienes varios años de 
 Cuando aprendes a programar es inevitable usar los recursos disponibles en las comunidades de desarrolladores. Por eso lo ideal es que seas parte activa de la comunidad, no solamente con el aprendizaje sino a través de la colaboración. Comparte tu conocimiento y experiencias con otros, siempre será útil ¡sin importar el tiempo de experiencia que tengas en el área!
     
 
-## **¿Dónde puedo trabajar como programador?**
+## ¿Dónde puedo trabajar como programador?
 
 La carrera de programación no se cursa en vano. Según LinkedIn, el desarrollo de software está entre los 10 empleos con mayor demanda para 2021 con más de 15 millones de vacantes disponibles. Estas vacantes llevan al menos cuatro años creciendo continuamente. En la lista figuran también ventas, gestión de proyectos, administración de TI, entre otros.
 
@@ -162,13 +162,13 @@ La carrera de programación no se cursa en vano. Según LinkedIn, el desarrollo 
 
 Ahora, si hablamos de empresas en específico, las FAANG (Facebook, Apple, Amazon, Netflix y Google) son las empleadoras de desarrolladores, ya sea de manera directa o indirecta a través de proveedores de servicios de tecnología diversos. Las empresas FAANG dominan tanto el uso de tecnología en el mundo, y se llevan una porción importante de las oportunidades de empleo en programación.
 
-### **FAANG**
+### FAANG
 
 Las FAANG pueden ser muy atractivas para talento nuevo, inclusive para talento más senior. No obstante hay empresas de mayor trayectoria que ofrecen interesantes oportunidades de empleo (Microsoft, IBM, Oracle, Intel, Siemens, Cisco, etc.). También hay empresas de menor exposición a la opinión pública que contratan volúmenes importantes de desarrolladores (Salesforce, Accenture, Nvidia, Adobe, SAP). 
 
 No olvidemos empresas más pequeñas donde un desarrollador Jr. puede aprovechar mejor su empuje creativo y quizás tener oportunidades de crecimiento de forma más rápida que en una empresa en la que haya mayor competencia por ascender.
 
-### **Freelancing**
+### Freelancing
 
 En la búsqueda de empleo como desarrollador Jr. es necesario tener un mínimo de experiencia y demostrar habilidades técnicas. Durante las clases de programación de un coding bootcamp se programan pequeños proyectos puntuales que pueden sumarse al portafolio profesional. También se trabaja un gran proyecto en el que se aplican los aprendizajes de las clases de programación.
 
@@ -189,7 +189,7 @@ Ahora, freelancing también puede ser el camino que elijas para tu futuro profes
 
 Trabajar como freelance en programación no es excluyente de tener un empleo fijo. Dependiendo de cuán demandante sea un trabajo fijo, muchos programadores ven el freelancing como una manera de generar ingresos adicionales y mantener una red de contactos profesional independiente a la de su trabajo fijo.
 
-### **Mentorías para conseguir empleo**
+### Mentorías para conseguir empleo
 
 Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un coding bootcamp el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
 
@@ -208,7 +208,7 @@ Un **plan ideal de acompañamiento profesional** incluye, pero no see limita, a 
 Una carrera en tecnología involucra evaluar constantemente la situación actual y las expectativas personales. Tomar acción es más fácil con el apoyo de mentores con más experiencia y recursos.
     
 
-### **Empleabilidad como Jr. Developer**
+### Empleabilidad como Jr. Developer
 
 Seamos honestos, los desarrolladores Sr., con más experiencia, son los más buscados en el mercado laboral. La realidad es que este talento es escaso y los reclutadores tienen la necesidad de voltearse hacia Jr. Developers. Es la única forma de satisfacer las necesidades de talento en tecnología de sus empresas.
 
@@ -222,7 +222,7 @@ Además, ser un desarrollador Jr. tiene sus ventajas para las empresas. Un fulls
 - Desarrollan lealtad organizacional si el ambiente laboral es el apropiado
 - Generalmente están más al día con las tendencias y tecnologías
 
-## **¿Cuánto dura la carrera de programador?**
+## ¿Cuánto dura la carrera de programador?
 
 Depende. Si le preguntas al egresado de la universidad, al autodidacta, o a quien ha completado un curso de full stack developer… Todos te darán distintas respuestas sobre cuánto dura la carrera para convertirse en programador. 
 
@@ -236,13 +236,13 @@ Son muchos ejemplos de quienes no terminaron la carrera universitaria y han alca
 
 > 🚀 Es difícil nacer Steve, Mark, o Bill. Pero lo que sí es posible es cursar una carrera de programador sin cursar 4-5 años de carrera universitaria. La alternativa se llama: coding bootcamp.
 
-## **¿Qué es un Coding Bootcamp?**
+## ¿Qué es un Coding Bootcamp?
 
 Un coding bootcamp es un curso intensivo e inmersivo (implica horas de práctica) en el que se enseñan todas las habilidades de programación para que un estudiante obtenga empleo como desarrollador en el menor tiempo posible.
 
 Los coding bootcamps son más económicos y duran menos tiempo que una carrera universitaria. Incluyen apoyo para la búsqueda y obtención de empleo como programador. Para cumplir esa promesa tienen un contenido educativo muy actualizado, a la par de lo que necesita el sector tecnológico para seguir creciendo e innovando.
 
-## **¿Cuál es la diferencia de estudiar programación en la universidad o con cursos?**
+## ¿Cuál es la diferencia de estudiar programación en la universidad o con cursos?
 
 La principal diferencia de estudiar programación en la universidad, con cursos cortos, o con un coding bootcamp está en la duración del estudio. Es decir, en cuánto tiempo toma con cada opción ser un desarrollador que pueda ganarse una vida programando.
 
@@ -256,7 +256,7 @@ Hay otras diferencias importantes y las revisaremos en este apartado de pro’s 
 
 [Estudiar con varios cursos de programación y coding courses en general:](https://www.notion.so/bd0616e7683a4610ad36271324986e2a)
 
-### **La vía coding bootcamp**
+### La vía coding bootcamp
 
 Hay coding bootcamps dedicados o muy específicos, como de ciberseguridad, de programas puntuales, de ciencia de datos, de frontend… También existen ***coding bootcamps para fullstack developers.***
 
@@ -274,7 +274,7 @@ Esta sería nuestra evaluación de un coding bootcamp enfocado en full stack dev
 
 [Pro's y con's de un coding bootcamp de fullstack development-](https://www.notion.so/622b47122a0c4f81bd791717d3530bf9)
 
-## **Conoce nuestro Curso de Programación Full Stack**
+## Conoce nuestro Curso de Programación Full Stack
 
 Somos conscientes de que estos programas son un reto de dedicación y de conocimiento. Pero creemos que podemos resolver todos esos asuntos juntos. ¿Cómo?
 
