@@ -1,9 +1,8 @@
 ---
 author: "alesanchezr"
-excerpt: ""
+excerpt: "Enhance your coding skills and jumpstart your career with our intensive coding bootcamp. Join a diverse community of learners and receive hands-on, project-based training from industry professionals."
 template: "post" 
 title: "What is a coding bootcamp?"
-excerpt: "Enhance your coding skills and jumpstart your career with our intensive coding bootcamp. Join a diverse community of learners and receive hands-on, project-based training from industry professionals."
 
 ---
 
