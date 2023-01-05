@@ -83,4 +83,4 @@ Prices for Coding Bootcamps range from $9,000. 4Geeks Academy launched in German
 
 > You can become unstoppable and change your life, no previous coding experience is required. **Become certified and career ready in 4 months! Just visit our website and apply to our Coding Bootcamp for more info.**
 
-<call-to-action button_text="Estudia programación" button_link="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="4Geeks es una de las academias de programación más importantes del mundo" text="75% de nuestros alumnos son elegibles para una beca parcial o total"></call-to-action>
+<call-to-action button_text="Apply to our Coding Bootcamp" button_link="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="Become certified and career ready in 4 months! Just visit our website and apply to our Coding Bootcamp for more info."></call-to-action>
