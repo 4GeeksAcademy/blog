@@ -38,21 +38,12 @@ Este ranking muestra los sueldos promedios, que rondan entre los $900.000 a más
 
 Mira la siguiente tabla donde se muestra el promedio de salario de las carreras en la industria tecnológica:
 
-
-Ingeniería en Sistemas Computacionales, Informática y Software
-$1.300.000 a $1.400.000
-
-
-Ingeniería Informática
-                                      $1.300.000 a $1.400.000
-
-
-Ingeniería Civil en Informática
-                          $1.200.000 a $1.800.000
-
-
-Ingeniería de Ejecución en Computación e Informática
-     $1.200.000 a $1.600.000
+| Vacante | Salario |
+| --- | --- |
+| Ingeniería en Sistemas Computacionales, Informática y Software | $1.300.000 a $1.400.000 |
+| Ingeniería Informática | $1.300.000 a $1.400.000 |
+| Ingeniería Civil en Informática | $1.200.000 a $1.800.000 |
+| Ingeniería de Ejecución en Computación e Informática | $1.200.000 a $1.600.000 |
 
 
 En este orden de ideas, se podría afirmar que para empezar como desarrollador web, sin experiencia laboral previa en el área, se puede posicionar rápidamente en un rango atractivo de salario. También queda demostrado que, a medida de que pasen el tiempo en la [carrera como Full Stack](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-santiago), habrá un crecimiento dentro de la industria, por lo que viene siendo una gran oportunidad para aquellos egresados que quieran desenvolverse en esta área. 
@@ -87,6 +78,6 @@ Uno de nuestros egresados, Ignacio Codina, nos comparte sobre su experiencia tra
 
 “Hoy en día me desempeño como ingeniero en software backend. Es impresionante la cantidad de herramientas y tecnologías que hay para construir servidores web cada vez más sofisticados. En este sentido, la academia entrega herramientas fundamentales para tener un punto de partida sólido y la experiencia de lo que es aprender nuevas tecnologías. Un ejercicio de perseverancia. Creo que lo que más me ha servido para continuar aprendiendo y hacer mejor mi trabajo es practicar y estudiar constantemente; así como participar de la comunidad que hay entorno a los distintos lenguajes y tecnologías. Está lleno de personas que comparten su conocimiento.”
 
-![foto de egresado, Ignacio Codima, Engineer Manager](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/GRUPAL_POST.jpeg?raw=true)
+![foto de egresado, Ignacio Codima, Engineer Manager](https://storage.googleapis.com/breathecode-asset-images/46309a67ecc4920d6f266a24e5f688667a8aded24060777cfb5c867f59a37e7c.jpeg?raw=true)
 
 Como dice Ignacio, no hay nada más importante que la disciplina en lo que haces para lograr lo que quieres, alcanzar las metas, sobresalir en tu trabajo, siempre y cuando seas constante y tener confianza y seguridad en ti mismo. Para así también continuar con tu crecimiento personal y tomando el control y acción de tus propias decisiones y futuro.
