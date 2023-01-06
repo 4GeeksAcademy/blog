@@ -55,13 +55,13 @@ It can be applied to any of pur programs. For example, if you are applying to be
 
 
 
-*  **Unlimited Career Support
+*  Unlimited Career Support
 
-*  **Lifetime acces to our mentorship support system;
+*  Lifetime acces to our mentorship support system;
 
-*  **Full-class and content access;
+*  Full-class and content access;
 
-*  **Lifelong access to our community and network
+*  Lifelong access to our community and network
 
 
 
@@ -119,11 +119,11 @@ If you live in the US and have a work permit and you don’t fall under any of t
 
 
 
-*  **You have to have a decent credit background: no huge debts or college loans unpaid
+*  You have to have a decent credit background: no huge debts or college loans unpaid
 
-*  **You have to approve a simple logical test
+*  You have to approve a simple logical test
 
-*  **You have to make a deposit equal to $500
+*  You have to make a deposit equal to $500
 
 
 
@@ -149,11 +149,11 @@ For the full balance pending upon your final tuition with us, you can always go 
 
 
 
-*  **Ascent: monthly payment starting at $140 a month. Apply here. Decent creit score needed. 
+*  Ascent: monthly payment starting at $140 a month. Apply here. Decent creit score needed. 
 
-*  **Climb: monthly payment starting at $160 a month. Decent creit score needed. Apply here.
+*  Climb: monthly payment starting at $160 a month. Decent creit score needed. Apply here.
 
-*  **Quotanda: monthly payment starting at $200 a month. No need to have a good credit score. Only provide a co-signer and a small deposit.  Apply here.
+*  Quotanda: monthly payment starting at $200 a month. No need to have a good credit score. Only provide a co-signer and a small deposit.  Apply here.
 
 
 
