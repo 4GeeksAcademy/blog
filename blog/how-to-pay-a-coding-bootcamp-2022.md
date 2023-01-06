@@ -2,7 +2,6 @@
 author: "MRiciglianoC"
 date: "2022-12-06T05:29:14+00:00"
 excerpt: "Payment options to join a coding program. How to pay for a Coging Bootcamp"
-slug: "hot-to-pay-a-coding-bootcamp"
 template: "post" # post or landing_post
 title: "How to Pay for a Coding Bootcamp"
 image: "https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png"
