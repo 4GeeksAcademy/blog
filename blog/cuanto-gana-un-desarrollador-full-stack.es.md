@@ -59,20 +59,7 @@ Cuando se trata de estudiantes recién graduados, entre los 25 y 35 años de eda
 
 ### Algunas de las empresas que han contratado a los egresados de 4Geeks:
 
-![logo ds9](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/ds9.PNG?raw=true)
-![logo ebay](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/ebay.PNG?raw=true)
-![logo evernote](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/en.PNG?raw=true)
-![logo razz](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/razz.PNG?raw=true)
-![logo national geographic](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/national-geographic.PNG?raw=true)
-![logo kpmg](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/kpmg.PNG?raw=true)
-![logo facebook](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/facebook.PNG?raw=true)
-![logo ticjob](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/ticjob.PNG?raw=true)
-![logo tcg](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/tcg.PNG?raw=true)
-![logo overseas](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/os.PNG?raw=true)
-![logo microsoft](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/microsofot.PNG?raw=true)
-![logo optiva](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/op.PNG?raw=true)
-![logo ultimate software](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/ult.PNG?raw=true)
-
+![companies-that-work-with-us-png](https://storage.googleapis.com/media-breathecode/bfc8ae0bc7ac6a7099b9540bb4a1b0f14284c9d5b2a6f3d2b0e136f20d10dc60)
 
 Uno de nuestros egresados, Ignacio Codina, nos comparte sobre su experiencia trabajando en Boosmap Chile.
 
