@@ -1,23 +1,23 @@
 ---
 author: "MRiciglianoC"
 date: "2022-12-06T05:29:14+00:00"
-excerpt: "Payment options to join a coding program. How to pay for a Coging Bootcamp"
+excerpt: "Are you wondering how to pay for a coding bootcamp? Don't let cost hold you back from pursuing your career goals. Check out our article to learn more"
 template: "post" # post or landing_post
 title: "How to Pay for a Coding Bootcamp"
 image: "https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png"
-image_alt: ""
+image_alt: "how-to-pay-for-a-coding-bootcamp"
 cluster: "coding-bootcamps"
 status: "published"
 featured: true
 
 ---
 
-# HOW TO PAY FOR A CODING BOOTCAMP
+## HOW TO PAY FOR A CODING BOOTCAMP
 
 
 
 
-Pricing and the options to pay for a quality program such as the 4Geeks (whether full-stack or machine learning or the data science), it’s just of a fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle. 
+Pricing and the options to pay for a quality program such as the 4Geeks (whether [full-stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) or [machine learning](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) or the [data science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning/?lang=en)), it’s just of a fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle. 
 
 
 
@@ -27,7 +27,7 @@ In general terms, pricing is an obstacle for top quality education. Every now an
 
 
 
-Recently, we posted some news regarding a new scholarship available for those unemployed or underpaid, and someone on social media said: “That’s impossible, it has to be a Scam”. I couldn’t believe it. We are achieving a level of support that’s almost unbelievable for some.  I do understand why it creates that feeling in someone that is not aware of the things we are doing to improve their chances to get the best coding education possible for a fraction of the cost of a regular program in the US (or worldwide).
+Recently, we posted some news regarding a new [scholarship at 4Geeks Academy](https://4geeksacademy.com/us/apply) available for those unemployed or underpaid, and someone on social media said: “That’s impossible, it has to be a Scam”. I couldn’t believe it. We are achieving a level of support that’s almost unbelievable for some.  I do understand why it creates that feeling in someone that is not aware of the things we are doing to improve their chances to get the best coding education possible for a fraction of the cost of a regular program in the US (or worldwide).
 
 
 
@@ -42,14 +42,14 @@ The main question remains the same: how to enroll/get admitted into a premium qu
 
 
 
-## Unemployed or Underemployed 
+## How to apply if you are Unemployed or Underemployed 
 
-We have partnered with Clark University to offer and bring their Tech Booost Program to 4Geeks Academy students. If you have a work permit in the US and you are unemployed or underemployed (ask for clarifications if needed, but look below for more info), you can get a scholarship for up to $4000 that will be applied to your tuition at 4Geeks. 
-
-
+We have partnered with [Clark University](https://www.clarku.edu/) to offer and bring their Tech Booost Program to 4Geeks Academy students. If you have a work permit in the US and you are unemployed or underemployed (ask for clarifications if needed, but look below for more info), you can get a scholarship for up to $4000 that will be applied to your tuition at 4Geeks. 
 
 
-It can be applied to any of pur programs. For example, if you are applying to become software developer (full-stack program), and you get accepted as part of the Tech Boost Scholarship Program (you can apply here), your tuition will be reduced $4000. That means that if you enroll now (by the moment we posted this article, our tuition for the whole program is equal to $9999), you could only pay $5999 for everything that we offer at 4Geeks:
+
+
+It can be applied to any of pur programs. For example, if you are applying to [become software developer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp/?utm_source=careerkarma&utm_campaign=careerkarma) (full-stack program), and you get accepted as part of the Tech Boost Scholarship Program (you can apply here), your tuition will be reduced $4000. That means that if you enroll now (by the moment we posted this article, our tuition for the whole program is equal to $9999), you could only pay $5999 for everything that we offer at 4Geeks:
 
 
 
@@ -65,12 +65,12 @@ It can be applied to any of pur programs. For example, if you are applying to be
 
 
 
-## Veterans, african-americans or women 
+## Ways to fund your career in Tech for Veterans, african-americans and women 
 
 
 
 
-In 2022 we partnered with United Way Miami in order to offer The  United Way Miami Workforce Project; an exciting new training program made possible by United Way Miami, 4Geeks Academy, and Social Finance.
+In 2022 we partnered with United Way Miami in order to offer The  [United Way Miami Workforce Project](https://socialfinance.org/work/united-way-miami/); an exciting new training program made possible by United Way Miami, 4Geeks Academy, and Social Finance.
 
 
 
@@ -103,7 +103,7 @@ You can review the conditions here. The program is available in our part-time or
 
 
 
-However, if you are an african american that is not located in Miami Dade County, you can apply for a scholarship ($4000 off your tuition) program that was launched together with our friends of Blacks In Tech. You can be anywhere in the US but you have to be committed and engaged to complete the program in full.
+However, if you are an african american that is not located in Miami Dade County, you can apply for a scholarship ($4000 off your tuition) program that was launched together with our friends of [Blacks In Tech](https://www.blacksintechnology.net/). You can be anywhere in the US but you have to be committed and engaged to complete the program in full.
 
 
 
@@ -132,7 +132,7 @@ After you complete the admissions process, you can apply for the ISA and join an
 
 
 
-## MEMBERS OF THE LGBTQI
+## Members of the LGBTQI
 
 If you are a member of the community, you can apply for a scholarship program supported by Lesbians Who Tech, and get 50% off your tuition at 4Geeks Academy. 
 
@@ -141,7 +141,7 @@ Only 2-3 spots available per year.
 
 
 
-##Other Payment Plans
+## Other Payment Plans 
 
 For the full balance pending upon your final tuition with us, you can always go and ask for loan through any of our partners:
 
@@ -160,12 +160,8 @@ For the full balance pending upon your final tuition with us, you can always go 
 On the other hand, if you want to pay on your own and save some money, but at the same time you do not qualify for any of the options herein referred, then you can opt to go with the Upfront payment option, which allows you to pay in up to 3 parts and get a 10% discount out of the tuition fee. 
 
 
+You can also check our previous post from this subject:
 
-
-
-
-
-
-
-
-1 People without a permanent full-time job or people with an employment that is not equivalent to the level of skills or education or wage that should be applied to them. 
+How to Pay for a Coding Bootcamp 2019
+How to Pay for a Coding Bootcamp 2021
+ 
