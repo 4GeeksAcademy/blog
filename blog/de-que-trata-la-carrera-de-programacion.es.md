@@ -195,7 +195,7 @@ Trabajar como freelance en programación no es excluyente de tener un empleo fij
 
 ### Mentorías para conseguir empleo
 
-Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un coding bootcamp el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
+Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un [coding bootcamp](https://4geeksacademy.com/) el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
 
 Un **plan ideal de acompañamiento profesional** incluye, pero no see limita, a lo siguiente:
 
