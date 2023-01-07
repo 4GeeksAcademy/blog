@@ -36,7 +36,7 @@ Una vez que un programa funciona, los programadores pueden ser responsables de p
 
 Aunque en la educación formal han opciones que se han usado como puerta de entrada al mundo de la programación, el contenido de un coding bootcamp es el más cercano a lo que necesita un programador en la vida real. La carrera "formal" de programación incluye materias obsoletas o temas que carecen de aplicabilidad en el mundo real. 
 
-Para que tenga aplicabilidad, **la carrera de programación debe comprender lo siguiente:**
+Para que tenga aplicabilidad, **la [carrera de programación](https://4geeksacademy.com/es/carrera-de-programacion/carrera-de-programacion-es) debe comprender lo siguiente:**
 
 - Lenguajes de programación: También algún lenguaje de scripting -como JavaScript, y de markup -como HTML.
 - Estructuras de datos y algoritmos
@@ -45,7 +45,7 @@ Para que tenga aplicabilidad, **la carrera de programación debe comprender lo s
 - Fundamentos sobre bases de datos
 - Fundamentos sobre redes (networking)
 
-**En un curso de Full Stack developer se puede aprender gran parte de este contenido**. Lo más importante, con estos conocimientos y un portafolio mínimo, se puede iniciar la búsqueda empleo como desarrollador jr. 
+**En un [curso de Full Stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) se puede aprender gran parte de este contenido**. Lo más importante, con estos conocimientos y un portafolio mínimo, se puede iniciar la búsqueda empleo como desarrollador jr. 
 
 No es necesario cursar la carrera de programación en la universidad para convertirse en developer y empezar a trabajar en el área de tecnología. 
 
@@ -58,7 +58,7 @@ Empecemos por los motivos profesionales. Estudiar una carrera de programación:
 - **Mejora las posibilidades de conseguir empleo**
     
     
-Según el Foro Económico Mundial, en los últimos dos años se ha observado una aceleración importante en la adopción de nuevas tecnologías en las empresas. Además, a partir de la pandemia, la necesidad de algunos talentos se ha exacerbado: especialmente personal médico y personal que permita a las empresas transitar y desempeñarse en sus procesos de transformación digital.
+Según el [Foro Económico Mundial](https://es.weforum.org/), en los últimos dos años se ha observado una aceleración importante en la adopción de nuevas tecnologías en las empresas. Además, a partir de la pandemia, la necesidad de algunos talentos se ha exacerbado: especialmente personal médico y personal que permita a las empresas transitar y desempeñarse en sus procesos de transformación digital.
     
 La transformación digital no solamente favorecerá las carreras y ocupaciones relacionadas con la tecnología. También tiene otro tipo de impactos en la fuerza laboral. Con la adopción rápida en las empresas de la automatización, la robótica y la creciente preferencia por la compra en ecommerce, la transformación digital hará que algunos empleos pierdan relevancia, que no existan o que su oferta se vea mermada.
     
@@ -86,7 +86,7 @@ La pandemia tuvo mayor impacto en trabajos con salarios bajos. Casi todo el crec
 
 > 📈 La lista de Indeed de los **25 empleos con el salario más alto sin necesidad de experiencia previa**, **incluye seis empleos que involucran la programación**: desarrollador web, analista de negocios, administrador de base de datos, informático, ingeniero de software, científico de datos.
     
-> 📌 Ahora, si se trata de un fullstack developer, el escenario es aún mejor. ***Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año.*** Al cursar un coding bootcamp, es posible aprender a programar y convertirse en fullstack developer. Así das el primer paso a a la empleabilidad en el sector de tecnología.
+> 📌 Ahora, si se trata de un fullstack developer, el escenario es aún mejor. ***Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año.*** Al cursar un [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp/), es posible aprender a programar y convertirse en fullstack developer. Así das el primer paso a a la empleabilidad en el sector de tecnología.
     
 Si bien hay empresas con outsourcing de desarrolladores en Latinoamérica (con salarios menores que en Europa y Estados Unidos), el repunte del trabajo remoto es una oportunidad para que las empresas consideren talento latinoamericano para posiciones fijas dentro de sus equipos de tecnología. ***Algunos de los factores que favorecen que las empresas consideren programadores latinoamericano para posiciones fijas:***
     
