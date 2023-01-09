@@ -82,7 +82,7 @@ Analizando los datos anteriores, podemos ver que la programación no ha terminad
 
 Ahora vale la pena contrastar las áreas de la programación y su omnipresencia versus las tecnologías que probablemente van a adoptarse para el año 2025, según el [Reporte del Futuro de los Trabajos (2020](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf)):
 
-![Tecnologías_que_probablemente_van_a_adoptarse_para_el_año_2025.jpg](https://github.com/4GeeksAcademy/blog/blob/main/blog/../../../static/images/blog/Tecnologias_que_probablemente_van_a_adoptarse_para_el_ano_2025.jpg?raw=true)
+![tecnologias_que_probablemente_van_a_adoptarse_para_el_ano_2025.jpg](https://storage.googleapis.com/media-breathecode/29eb956ea6c98c2f6d73899a9b7533e5ade759d567549d8e9282e2d04a0b6f84)
 
 ## La programación para un futuro sostenible
 
