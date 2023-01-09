@@ -20,7 +20,7 @@ El síndrome del impostor no es más que un fenómeno psicológico en el que la 
 
 Como programadores o estudiantes de programación nos vemos expuestos a una autocrítica muy fuerte, ya que pensamos que es una carrera que pocos pueden lograr, como dicen por ahí: “No cualquiera es programador”, y la verdad es que eso es un grave error. En los últimos años, en 4Geeks Academy hemos demostrado que cualquiera puede ser programador, tan solo debe tener dedicación y constancia para lograrlo. Particularmente, en nuestra academia hemos formado un sinfín de programadores, los cuales la mayoría son profesionales de distintas disciplinas, desde abogados hasta farmacéuticos, demostrando así que, quien lo quiere, puede.
 
-![https://images.app.goo.gl/zt7dQ8mMJ3q6X3mb7](../../../static/images/blog/sindrome-del-impostor.jpg)
+![hombre-frustrado-delante-de-una-computadora.jpg](https://storage.googleapis.com/media-breathecode/cdb88efc2785cd69906ebbf6d25cd41fc5560db75c84a6ceaa407acadaead965)
 
 ## Ahora pasemos a la pregunta importante: ¿Cómo podemos superar el síndrome del impostor?
 
@@ -44,7 +44,7 @@ Todo proceso de aprendizaje conlleva ensayo y error, de esta forma es que aprend
 
 Como dicen por ahí “No hay preguntas tontas, solo tontos que no preguntan”. Siempre que tengas una duda, busca aclarar, esto mostrará que prestaste atención y que además estás interesado, tómalo en cuenta para tu vida estudiantil e inclusive, para la laboral.
 
-![bob-esponja](https://media.giphy.com/media/lvzdeWk12qjmM/giphy.gif)
+![bob-esponja](https://storage.googleapis.com/breathecode-asset-images/0181e29f4b97b1b17c861157d583e65bc17189ee25824791be0efbb02a494a09.gif)
 
 ## N°4: No te exijas tanto ¡Sé comprensivo contigo mismo!
 
