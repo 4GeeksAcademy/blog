@@ -24,7 +24,7 @@ Esto era algo que ya estaba ocurriendo en Europa y Estados Unidos, no obstante, 
 
 ¿Si notaste que son todos en el área de la programación?
 
-![blog_2.jpg](../../../static/images/blog/blog_2.jpg)
+![man-in-front-of-a-computer-studying-at-a-online-bootcamp.jpg](https://storage.googleapis.com/media-breathecode/cec02b8c101131c1388a9938bf015e48019693379014c05a265c409573bfc8bb)
 
 Ahora bien ¿Cuáles son las ventajas de trabajar en esta área?
 
@@ -61,4 +61,4 @@ Como verás, para ser programador se necesitan muchas cualidades, no obstante, a
 <call-to-action button_text="Ver programa" button_link="/es/curso-de-programacion-desde-cero" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsa tu carrera, aprendiendo a programar con nuestro Programa Full Stack Developer."></call-to-action>
 
 
-![blog_3.jpg](../../../static/images/blog/blog_3.jpg)
+![women-studying-at-an-online-bootcamp.jpg](https://storage.googleapis.com/media-breathecode/a299e3797b1e2a13894151239dc16a4445a351644dadeec436dd232f1dc7cd52)
