@@ -145,23 +145,11 @@ Only 2-3 spots available per year.
 
 For the full balance pending upon your final tuition with us, you can always go and ask for loan through any of our partners:
 
-
-
-
 *  Ascent: monthly payment starting at $140 a month. Apply here. Decent creit score needed. 
 
 *  Climb: monthly payment starting at $160 a month. Decent creit score needed. Apply here.
 
 *  Quotanda: monthly payment starting at $200 a month. No need to have a good credit score. Only provide a co-signer and a small deposit.  Apply here.
 
-
-
-
 On the other hand, if you want to pay on your own and save some money, but at the same time you do not qualify for any of the options herein referred, then you can opt to go with the Upfront payment option, which allows you to pay in up to 3 parts and get a 10% discount out of the tuition fee. 
-
-
-You can also check our previous post from this subject:
-
-How to Pay for a Coding Bootcamp 2019
-How to Pay for a Coding Bootcamp 2021
  
