@@ -6,8 +6,6 @@ title: "¿Qué debes saber antes de empezar un Curso online de programación?"
 
 ---
 
-La integración de la internet en la vida de la persona común, ha permitido muchos avances en el área de la comunicación, desde redes sociales hasta plataformas de educación. Con estos avances se ha vuelto cada vez más accesible el poder educarse en temas a los cuales no tendrías acceso normalmente. Tal es el caso con la programación. La normalización del acceso de la internet y las computadoras personales ha permitido a miles de personas, el poder comenzar una carrera como programador, a pesar de no haber estudiado para ello en una entidad educativa física. 
-
 Hoy en día, ser programador no requiere tener títulos universitarios costosos, que respalden tus conocimientos o experiencia. Gracias a los cientos de cursos online al alcance de todos, una carrera exitosa de programador depende mucho más de tu esfuerzo que nunca antes. En este artículo hablaremos de los beneficios y desafíos que conlleva el estudiar un [curso online de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero).
 
 ## Beneficios de un curso online de programación
