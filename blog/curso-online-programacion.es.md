@@ -12,6 +12,8 @@ Hoy en día, ser programador no requiere tener títulos universitarios costosos,
 
 ## Beneficios de un curso online de programación
 
+![aprenderaprogramar.png](https://storage.googleapis.com/media-breathecode/68142ae0f78a4ef794b7bf0d26b7e4d7c0c2c66570346195a342f5f57f94e50b)
+
 A pesar de que los beneficios sean bastante aparentes, es buena idea reiterar estos puntos. Aún más para las personas que están indecisas o dudan de la efectividad de este método de estudio. 
 
 La [flexibilidad](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
