@@ -16,9 +16,9 @@ Hoy en día, ser programador no requiere tener títulos universitarios costosos,
 
 A pesar de que los beneficios sean bastante aparentes, es buena idea reiterar estos puntos. Aún más para las personas que están indecisas o dudan de la efectividad de este método de estudio. 
 
-La [flexibilidad](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
+La flexibilidad de tomar cursos online permite que las personas puedan estudiar cuando les convenga. Esto se vuelve crítico cuando una persona tiene una vida muy ajetreada debido a su empleo y/o sus responsabilidades. El poder estudiar en tu tiempo libre hace posible a muchas personas, la posibilidad de comenzar su carrera en esta área. 
 
-La abundancia de [cursos de programación](https://github.com/4GeeksAcademy/blog/blob/main/blog/cursos-de-programacion.es.md), te da acceso a cualquier área de la programación que quieras investigar. Es posible estudiar desde los conceptos más básicos, hasta los temas más avanzados y complicados de la programación moderna.
+La abundancia de [cursos de programación](https://4geeksacademy.com/es/curso-programacion/cursos-de-programacion), te da acceso a cualquier área de la programación que quieras investigar. Es posible estudiar desde los conceptos más básicos, hasta los temas más avanzados y complicados de la programación moderna.
 
 El costo de muchos de estos cursos es bastante accesible en comparación a obtener un título universitario. Inclusive, hay una gran cantidad de cursos que pueden ser completados de forma gratuita. Esto, sumado al hecho de que un buen portafolio de programador y participación en proyectos de código abierto, te permite ganar suficiente experiencia y prestigio para poder obtener empleos con muy buena remuneración.
 
@@ -28,13 +28,32 @@ Para programar solo se necesita una computadora y el software correcto. Inclusiv
 
 Habiendo hablado de los beneficios, podemos comentar en cuanto a los desafíos y aspectos negativos que conlleva estudiar mediante cursos online:
 
-- La flexibilidad de esta forma de estudio puede parecer como un aspecto completamente a favor del estudiante, pero en realidad es un cuchillo de doble filo. El poder estudiar cuando tu lo desees suena bien, hasta que comienzas a priorizar otras actividades o debido a falta de motivación te puedes decir “seguiré mañana”. Para sacar el mayor provecho de los cursos online, se necesita tener disciplina y la voluntad de establecer horas de estudio que deben ser respetadas. A primera vista, uno puede pensar que el aspecto más difícil de estudiar programación es el contenido respectivo. Pero en realidad, el lograr culminar un curso en un plazo de tiempo establecido es el verdadero desafío para muchos.
+- La flexibilidad de esta forma de estudio puede parecer como un aspecto completamente a favor del estudiante, pero en realidad es un cuchillo de doble filo. El poder estudiar cuando tu lo desees suena bien, hasta que comienzas a priorizar otras actividades o debido a falta de motivación te puedes decir “seguiré mañana”. Para sacar el mayor provecho de los [cursos online](https://4geeksacademy.com/), se necesita tener disciplina y la voluntad de establecer horas de estudio que deben ser respetadas. A primera vista, uno puede pensar que el aspecto más difícil de estudiar programación es el contenido respectivo. Pero en realidad, el lograr culminar un curso en un plazo de tiempo establecido es el verdadero desafío para muchos.
 
 - Una búsqueda simple de posibles cursos de programación te puede mostrar cientos de potenciales cursos, pero una vez hecho esto te puedes comenzar a preguntar ¿Cual es el mejor para mí?, ¿Con cual debería comenzar?, ¿Qué lenguaje de programación aprendo primero?, etc. Esto es una situación muy común dada la gran cantidad de posibilidades a procesar. Inclusive, es posible que esta primera barrera de duda evite a muchos el comenzar con sus estudios de programación. 
 
-- La posibilidad de poder realizar todos tus estudios de forma gratuita es un beneficio para cualquier interesado. Pero, el pagar por ciertos cursos puede ser beneficioso. Los cursos pagos normalmente te otorgan certificados de completación que, en teoría, corroboran tus conocimientos en el área respectiva. Esto puede ayudar al momento de buscar empleo, ya que hay que tomar en cuenta que los reclutadores no tienen tiempo para ver en profundidad, todos los portafolios de los candidatos. Un certificado que se muestre en tu página de Linkedin o en tu resumen personal, puede ser avistado más fácilmente en una revisión de antecedentes rápida.
+- La posibilidad de poder realizar todos tus estudios de forma gratuita es un beneficio para cualquier interesado. Pero, el pagar por ciertos cursos puede ser beneficioso. Los cursos pagos normalmente te otorgan certificados de completación que, en teoría, corroboran tus conocimientos en el área respectiva. Esto puede ayudar al momento de buscar empleo, ya que hay que tomar en cuenta que los reclutadores no tienen tiempo para ver en profundidad, todos los portafolios de los candidatos. Un certificado que se muestre en tu [página de Linkedin](https://www.linkedin.com/school/4geeksacademy/) o en tu resumen personal, puede ser avistado más fácilmente en una revisión de antecedentes rápida.
 
 El hecho de que las computadoras personales sean algo muy común hoy en día, no quiere decir que todos tengan una. Además, el avance constante de las tecnologías informáticas, muchas veces implica el tener que dejar de mantener software o hardware obsoleto, obligando a las personas a gastar mas dinero. Otro aspecto limitante puede ser la calidad de la internet. La cantidad de información transmitida a través de la internet hoy en día, puede hacer más complicado la utilización de páginas o programas, que requieran de una conexión rápida de internet para poder funcionar de forma correcta.
+
+## Beneficios de hacer un Curso de Programación online
+
+Hacer un curso de programación te puede ayudar a mejorar tus habilidades y conocimientos en el campo de la programación. Uno de los principales beneficios de esta forma de estudiar es la flexibilidad que ofrecen, puedes estudiar a tu propio ritmo y en cualquier momento desde cualquier lugar, lo que te permite adaptarte mejor a tu horario y responsabilidades. Además, los cursos en línea son generalmente más accesibles que los cursos tradicionales en términos de costo y disponibilidad, pues existen muchos bootcamps y escuelas de programacion que ofrecen [becas para estudiar en línea](https://4geeksacademy.com/us/landing/scholarships-landing-jobs-europe). También hay una amplia gama de cursos de programación en línea para elegir, lo que significa que puedes encontrar un curso que se adapte a tus necesidades y nivel de habilidades. Los cursos en línea también suelen incluir tutoriales interactivos, ejercicios y proyectos prácticos, lo que te permite aplicar lo que aprendes de manera inmediata. En resumen, hacer un curso de programación en línea te puede proporcionar las habilidades y el conocimiento necesarios para tener éxito en una carrera en el campo de la programación, todo esto con una gran comodidad, flexibilidad y accesibilidad.
+
+## Tecnologías Populares en un Curso de Programación
+
+Existen varias tecnologías populares que se suelen incluir en un curso de programación. Algunas de las más populares incluyen:
+
+1. Lenguajes de [programación como Python](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), Java, C++, JavaScript y C#.
+2. Bases de datos, como MySQL, MongoDB y SQLite.
+3. Frameworks web, como Django, Ruby on Rails, Express.js, Flask y Spring.
+4. Herramientas de desarrollo como Git, GitHub, Visual Studio Code y Eclipse.
+5. Herramientas de inteligencia artificial y aprendizaje automático, como TensorFlow, Keras y PyTorch
+6. Herramientas de big data, como Apache Hadoop, Apache Spark, y Apache Storm.
+7. Herramientas de desarrollo móvil como React Native, Xamarin y Flutter
+8. Herramientas de desarrollo de aplicaciones para la web, como Angular, React, y VueJS
+
+Estas tecnologías son populares debido a su amplia aplicabilidad en diferentes ámbitos de la programación y su utilidad para resolver problemas específicos. Sin embargo, estas tecnologías están en constante evolución y pueden cambiar con el tiempo.
 
 ## Tips al hacer un curso en línea
 
