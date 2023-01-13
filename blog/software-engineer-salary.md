@@ -35,6 +35,12 @@ Now that you know what a software engineer is, their responsibilities and their 
 
 Of course, these benefits are not without disadvantages. The job of a [software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) can be demanding. Taking this path means that you should be prepared to work long hours in a fast-paced environment. This career is competitive, so being able to deal with the pressure is a given. If you believe that you can deal with these challenges, then a career in this field may be for you.
 
+## Where to Find Job Offers for Software Engineers
+
+You can try finding jobs on a variety of job listing sites. The most popular ones are [Linkedin](https://www.linkedin.com/school/4geeksacademy/), Indeed and Glassdoor. But you can also search on sites aimed specifically at software engineers, like Gun.io.
+
+Another way is to go to look for job offers on the recruiting sites of the top companies. A good example of this is in the Google job board site. Here you can find job postings aimed at entry-level applicants. You can also gain access to job postings if you earn a Google Career Certificate.
+
 ## Beginning a Successful Career in Software Engineering
 
 By this point, you should have a pretty good idea of the challenges ahead, if you choose a career as a software engineer. But where to begin? The first step may be searching for a way to reach some kind of certification in this field. You could try to earn a bachelor's degree in software engineering, but this may prove too costly. Luckily, there are shorter paths that are cheaper and are equally valued in the current job market. 
