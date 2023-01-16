@@ -5,6 +5,7 @@ image: "https://storage.googleapis.com/media-breathecode/dd42a6171e36282608d5f8f
 image_alt: "One-line drawing of software engineer earning its first salary"
 template: "landing_post" 
 title: "What is the salary of a Software Engineer"
+
 ---
 
 Engineering can be defined as the application of knowledge, aimed at finding solutions to problems. This is applicable in a variety of subjects, each having a respective field of engineering dedicated to its studying. In the case of software engineering, its main concern is in the resolution of problems in the development of computer programs. 
@@ -13,7 +14,7 @@ This is a relatively new profession in comparison to other disciplines of engine
 
 ## What is a Software Engineer
 
-We already gave you a basic definition of a software engineer, but we can go deeper. [Coursera](https://www.coursera.org/articles/software-engineer) says that “software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users” 
+We already gave you a basic definition of a software engineer, but we can go deeper. [Coursera](https://www.coursera.org/articles/software-engineer) says that “software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users”
 
 You may be asking what differences a software engineer has from a programmer. Software engineers can do everything a programmer can do, but they also have other responsibilities. They can design and test software systems and programs, optimize computer programs, precise the problems that the program needs to solve, coordinate between different individuals to finish and deploy a project, etc. A programmer may know how to code, but they don't have the knowledge that a software engineer has in the development of software. In other words, every software engineer is a programmer, but not every programmer is a software engineer.
 
@@ -43,11 +44,11 @@ Another way is to go to look for job offers on the recruiting sites of the top c
 
 ## Beginning a Successful Career in Software Engineering
 
-By this point, you should have a pretty good idea of the challenges ahead, if you choose a career as a software engineer. But where to begin? The first step may be searching for a way to reach some kind of certification in this field. You could try to earn a bachelor's degree in software engineering, but this may prove too costly. Luckily, there are shorter paths that are cheaper and are equally valued in the current job market. 
+By this point, you should have a pretty good idea of the challenges ahead, if you choose a career as a software engineer. But where to begin? The first step may be searching for a way to reach some kind of certification in this field. You could try to earn a bachelor's degree in software engineering, but this may prove too costly. Luckily, there are shorter paths that are cheaper and are equally valued in the current job market.
 
-![image3](https://storage.googleapis.com/media-breathecode/ad1403f19a9299b4ce4001ea2e1dfbdbc1c5e2dc7d040ddc9696e56ae3678fff-600x352)
+![software-engineer-studying-at-4geeks](https://storage.googleapis.com/media-breathecode/ad1403f19a9299b4ce4001ea2e1dfbdbc1c5e2dc7d040ddc9696e56ae3678fff-600x352)
 
 [4Geeks](https://4geeksacademy.com/) offers the opportunity to participate in a bootcamp designed to teach everything you need to [become a software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp). 4Geeks Academy has won various accolades for their coding bootcamps and study programs, earning the trust of many organizations as a good source of potential hires. 
 
-4Geeks has campuses all over the world, facilitating access to its resources in different languages and levels of expertise. The only requirement for applying to this [boot camp](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) is having at least 1 year of experience as a software developer. If you are interested in being a software engineer, this is a perfect way to achieve your goal and have a successful career, in a field with high demand and high pay.
+4Geeks has campuses all over the world, facilitating access to its resources in different languages and levels of expertise. The only requirement for applying to this [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) is having at least 1 year of experience as a software developer. If you are interested in being a software engineer, this is a perfect way to achieve your goal and have a successful career, in a field with high demand and high pay.
 
