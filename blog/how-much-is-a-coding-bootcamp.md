@@ -1,18 +1,18 @@
 ---
 author: "alesanchezr"
-excerpt: "Get the skills you need to become a coder in just 12 weeks! Coding bootcamps cost anywhere from $7,000 to $21,000, and graduates see an average salary increase of $22,000. Start your coding career today!"
+excerpt: "Coding bootcamps help you get the skills you need to become a coder, they cost anywhere from $7,000 to $20,000, and graduates see an average salary increase of $22,000. Start your coding career today!"
 template: "post" 
 title: "Know how much is a Coding Bootcamp"
 
 ---
 
-First of all… let’s begin from the start bravely, I promise it won't take long. A coding bootcamp is an intensive, accelerated program that teaches students the skills they need to become a software developers. Bootcamps typically last between 8-12 weeks and cover topics such as web development, mobile development, and data science. Bootcamps are designed to give students the skills they need to land a job in the tech industry. 
+A coding bootcamp is an intensive, accelerated program that teaches students the skills they need to become a software developers. Bootcamps typically last between 8-12 weeks and cover topics such as web development, mobile development, and data science. Bootcamps are designed to give students the skills they need to land a job in the tech industry. 
 
 The cost of a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) depends on a variety of factors, including the length of the program, the type of instruction offered, the location, and the reputation of the bootcamp. Generally, coding bootcamps that offer more comprehensive instruction and are located in larger cities tend to be more expensive. Additionally, bootcamps that have a good reputation and offer job placement assistance may also be more expensive.
 
 Now that you have the idea, let's get straight to the point! The cost of a coding bootcamp can vary greatly depending on the program and location. Generally, coding bootcamps range from $7,000 to $20,000. 
 
-![coding](https://i.imgur.com/qqk8O5e.png)
+![coding](https://storage.googleapis.com/breathecode-asset-images/44711e9c4ab99cea1fb8702d5c8be4d4faf8f801f53ccb4baf7012f19705863f.png)
 
 ## Face-to-face Coding Bootcamps 
 
@@ -105,7 +105,7 @@ At [4Geeks Academy](https://4geeksacademy.com/us/index), we offer a comprehensiv
 
 ### Benefits
 
-<NEVER CODE ALONE AGAIN!!> That is our slogan! ;)
+<CODE WILL SET YOU FREE!!> That is our slogan! ;)
 
 - [Geekpal](https://4geeksacademy.com/us/geekpal-support): GeekPAL is an instant membership you get when you become a student at 4Geeks Academy. Don't code alone ever again, have mentors for the rest of your life (even after graduation!).
 
@@ -114,10 +114,3 @@ At [4Geeks Academy](https://4geeksacademy.com/us/index), we offer a comprehensiv
 > Our instructors are experienced professionals who will guide you through the entire process. We also provide career services to help you find a job after you complete the program.
 
 So... What are you waiting for?? 😎
-
-
-
-
-
-
-
