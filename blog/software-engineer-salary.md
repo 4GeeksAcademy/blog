@@ -14,9 +14,9 @@ This is a relatively new profession in comparison to other disciplines of engine
 
 ## What is a Software Engineer
 
-We already gave you a basic definition of a software engineer, but we can go deeper. [Coursera](https://www.coursera.org/articles/software-engineer) says that “software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users”
+We already gave you a basic definition of a software engineer, but we can go deeper. Coursera says that “software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users”
 
-You may be asking what differences a software engineer has from a programmer. Software engineers can do everything a programmer can do, but they also have other responsibilities. They can design and test software systems and programs, optimize computer programs, precise the problems that the program needs to solve, coordinate between different individuals to finish and deploy a project, etc. A programmer may know how to code, but they don't have the knowledge that a software engineer has in the development of software. In other words, every software engineer is a programmer, but not every programmer is a software engineer.
+You may be asking what differences a [software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) has from a programmer. Software engineers can do everything a programmer can do, but they also have other responsibilities. They can design and test software systems and programs, optimize computer programs, precise the problems that the program needs to solve, coordinate between different individuals to finish and deploy a project, etc. A programmer may know how to code, but they don't have the knowledge that a software engineer has in the development of software. In other words, every software engineer is a programmer, but not every programmer is a software engineer.
 
 ## How much do Software Engineers Make?
 
