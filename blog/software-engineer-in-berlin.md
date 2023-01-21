@@ -34,7 +34,7 @@ IT Project Manager (avg. €59,000)
 
 “Software Engineer Berlin” is the most searched term by the people who want to change careers for good o better salaries, and the most affordable [Coding Bootcamp in Berlin](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany) with a high-caliber academic program in software engineer available is 4Geeks Academy, which comes to the rescue of the ones who can’t pay 9,000 Euros right now!
 
-## Software Engineer salary
+## Software Engineer Salary in Berlin
 
 The average [salary for a software engineer in Berlin](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary-germany) is €67,000 p/y and the tech scene in Germany is booming with a high demand of +700,000 tech specialist wanted.
 
