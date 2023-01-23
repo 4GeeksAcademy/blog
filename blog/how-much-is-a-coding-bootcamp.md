@@ -46,11 +46,11 @@ City | Average Cost of Coding Bootcamp
 City | Average Cost of Coding Bootcamp
 :---: | :---:
 | Santa Fe | $10,000 |
-| Austin, TX | $12,000 |
-| Kitchener | $15,000 |
-| Dresden | $13,000 |
-| Monterrey | $11,000 |
-| Sant Cugat del Vallès | $14,000 |
+| Austin, TX | $10,000 |
+| Dresden | $8,000 |
+| Guelph | $10,000 |
+| Monterrey | $7,000 |
+| Sant Cugat del Vallès | $6,000 |
 
 ### Duration
 
