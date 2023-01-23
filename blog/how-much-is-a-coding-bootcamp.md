@@ -33,24 +33,24 @@ The cost of a bootcamp may also vary depending on the location. Bootcamps locate
 
 City | Average Cost of Coding Bootcamp
 :---: | :---:
-San Francisco, USA | $14,000
-New York, USA | $13,000
-Chicago, USA | $12,000
-London, UK | $11,000
-Berlin, Germany | $10,000
-Paris, France | $9,000
+|Orlando, USA | $10,000 |                      
+|Miami, USA | $12,000 |                   
+|Hamburg, Germany| $15,000 |                       
+|Toronto, Canada | $13,000 |                       
+|Mexico City, Mexico | $11,000 |                       
+|Madrid, Spain | $14,000 |                      
 
 
 #### Example of how much a coding bootcamp costs in the smaller cities:
 
 City | Average Cost of Coding Bootcamp
 :---: | :---:
-Portland | $10,000
-Santa Fe | $9,500
-Princeton | $11,000
-Alfriston | $8,000
-Flensburg | $7,500
-Peillon | $9,000
+| Santa Fe | $10,000 |
+| Austin, TX | $12,000 |
+| Kitchener | $15,000 |
+| Dresden | $13,000 |
+| Monterrey | $11,000 |
+| Sant Cugat del Vallès | $14,000 |
 
 ### Duration
 
