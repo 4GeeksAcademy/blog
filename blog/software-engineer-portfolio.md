@@ -30,7 +30,7 @@ If GitHub lets you do so much, why would I need a webpage? Easy, a web page lets
 
 ![habilities-of-a-software-engineer](https://res.cloudinary.com/practicaldev/image/fetch/s--Bxy62QWz--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsvd4efne1fjvi5u95vz.png)
 
-## What to show your Portfolio
+## What to show in your Portfolio
 
 In a few words, the finished projects that you are proud of. You can choose to show your whole range of experience or only show the projects pertinent to a certain domain. Some examples of things to show are apps that you’ve made, websites you’ve designed, or projects you are proud of. Try to take this opportunity to show your accomplishments and passion for your work.
 
@@ -50,9 +50,9 @@ Just having a portfolio can make the difference, but if you want to stand out mo
 
 ## What to do if I don't have enough material?
 
-If you lack the material to make a robust portfolio, then the best course of action is to do projects to fill it. You could search for basic projects that interest you and make them yourself. Another option is participating in [coding](https://4geeksacademy.com/us/index) competitions that test your skills, but mainly this can give you a prompt that, even if you can't finish in the allotted time, you can finish and show in your portfolio if you think it's a good example of your skills. Lastly, you could join an open-source project and help in its development and then show the specific code that you made, with an explanation of its use and the project that it's a part of.
+If you lack the material to make a robust portfolio, then the best course of action is to do projects to fill it. You could search for basic projects that interest you and make them yourself. Another option is participating in coding competitions that test your skills, but mainly this can give you a prompt that, even if you can't finish in the allotted time, you can finish and show in your portfolio if you think it's a good example of your skills. Lastly, you could join an open-source project and help in its development and then show the specific code that you made, with an explanation of its use and the project that it's a part of.
 
-![software-developer-portfolio](https://cdn.hashnode.com/res/hashnode/image/upload/v1618305050010/EVafMiAMv.png?auto=compress,format&format=webp)
+![software-developer-portfolio](https://storage.googleapis.com/breathecode-asset-images/b6391ad2dc01519eb26474861795b8b1ead669110627daf740289751913a76db.png?auto=compress,format&format=webp)
 
 ### 💡 Tips for when you are building your software engineer portfolio 
 
