@@ -18,11 +18,11 @@ The best moment to become a software engineer in Berlin is now! You can start pr
 
 Also, it has one of the most complete programs teaching its students in 4 programming languages that get them certified and ready to start a career in tech in just 4 months; they include what they call “[GeekForce](https://4geeksacademy.com/us/geekforce-career-support)” which gives lifetime career support to all their students after they graduate, allowing them to find jobs in tech.
 
-## Being a Software Engineer in Berlin is easy
+## Software Engineers in Berlin have an easier life
 
 Berlin is a kind of German development hub. There are a lot of different institutes, production organizations, research centers, and companies that make this city predisposed to growth and development in the context of high technology.
 
-Because Berlin is the business center of Germany, there is never a lull in the labor market. Local and international companies that have offices in this city are constantly developing new projects and need engineers of different specializations. New software engineer in Berlin vacancies appear on [specialized job](https://www.linkedin.com/) portals almost daily.
+Because Berlin is the business center of Germany, there is never a lull in the labor market. Local and international companies that have offices in this city are constantly developing new projects and need engineers of different specializations. New software engineer in Berlin vacancies appear on [specialized job](https://www.linkedin.com/jobs/search/?currentJobId=3010128357&geoId=103035651&keywords=Software%20Engineer&location=Berl%C3%ADn%2C%20Alemania&refresh=true) portals almost daily.
 
 ## Among the top 5 jobs titles that have the best pay in Berlin we can find:
 
@@ -64,4 +64,4 @@ As software engineers continue to be in great demand, those looking to land the 
 
 The tech industry evolves quickly and keeping up on the latest industry trends and tools is one of the best ways to keep your skills fresh.
 
-We are talkin very seriously when we tell you being a software engineer in Berlin is easier than you can imagine!
+We are talking very seriously when we tell you being a software engineer in Berlin is easier than you can imagine!
