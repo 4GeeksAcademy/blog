@@ -66,7 +66,7 @@ The average cost of a face-to-face coding bootcamp ranges from a few thousand do
 
 > 🚗 In addition to the cost of the bootcamp, students may need to factor in additional costs, such as housing, transportation, and meals.
 
-![Money](https:/https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-desarrollador-colombia-png?/)
+![Money](https://storage.googleapis.com/media-breathecode/dde688e33aff058bd0f23f7d2544e6fd758ed944b39c18cb4e2cd95b4fb7ef55)
 
 ## Online Coding Bootcamps 
 
