@@ -6,11 +6,11 @@ title: "Know how much is a Coding Bootcamp"
 
 ---
 
-A coding bootcamp is an intensive, accelerated program that teaches students the skills they need to become a software developers. Bootcamps typically last between 8-12 weeks and cover topics such as web development, mobile development, and data science. Bootcamps are designed to give students the skills they need to land a job in the tech industry. 
+A coding bootcamp 💻 is an intensive, accelerated program that teaches students the skills they need to become a software developers. Bootcamps typically last between 8-12 weeks and cover topics such as web development, mobile development, and data science. Bootcamps are designed to give students the skills they need to land a job in the tech industry. 
 
 The cost of a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) depends on a variety of factors, including the length of the program, the type of instruction offered, the location, and the reputation of the bootcamp. Generally, coding bootcamps that offer more comprehensive instruction and are located in larger cities tend to be more expensive. Additionally, bootcamps that have a good reputation and offer job placement assistance may also be more expensive.
 
-Now that you have the idea, let's get straight to the point! The cost of a coding bootcamp can vary greatly depending on the program and location. Generally, coding bootcamps range from $7,000 to $20,000. 
+Now that you have the idea, let's get straight to the point! 💵 The cost of a coding bootcamp can vary greatly depending on the program and location. Generally, coding bootcamps range from $7,000 to $20,000. 
 
 ![coding](https://storage.googleapis.com/breathecode-asset-images/44711e9c4ab99cea1fb8702d5c8be4d4faf8f801f53ccb4baf7012f19705863f.png)
 
@@ -23,9 +23,9 @@ The cost of a bootcamp can depend on the type of program. For example:
 - The average cost of a **full-time** coding bootcamp is around $13,584.
 - The average cost of a **part-time** coding bootcamp is around $11,000.
 
- > Remember, Bootcamps may also offer different levels of instruction, such as beginner, intermediate, and advanced. 
+ > 💡 Remember, Bootcamps may also offer different levels of instruction, such as beginner, intermediate, and advanced. 
 
-### Location 
+### Location 📍
 
 The cost of a bootcamp may also vary depending on the location. Bootcamps located in major cities may cost more than those located in smaller cities.
 
@@ -52,7 +52,7 @@ City | Average Cost of Coding Bootcamp
 | Monterrey | $7,000 |
 | Sant Cugat del Vallès | $6,000 |
 
-### Duration
+### Duration 🕒
 
 The average cost of a face-to-face coding bootcamp ranges from a few thousand dollars to tens of thousands of dollars, depending on the length of the program. Some examples of bootcamps with different lengths include:
 
@@ -64,8 +64,9 @@ The average cost of a face-to-face coding bootcamp ranges from a few thousand do
 - Coding Dojo (14 weeks): $10,000
 - Launch Academy (16 weeks): $14,500
 
+> 🚗 In addition to the cost of the bootcamp, students may need to factor in additional costs, such as housing, transportation, and meals.
 
-> In addition to the cost of the bootcamp, students may need to factor in additional costs, such as housing, transportation, and meals.
+![Money](https:/https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-desarrollador-colombia-png?/)
 
 ## Online Coding Bootcamps 
 
@@ -73,7 +74,7 @@ Online coding bootcamps are a great way to learn coding skills quickly and effic
 
 When it comes to choosing one of them, people prefer programs that offer a variety of courses, flexible schedules, and a supportive learning environment. 
 
-### The most popular online coding bootcamps
+### The most popular online coding bootcamps 🤓
 
 Type of Online Coding Bootcamp | Average Cost
 :---: | :---:
@@ -91,7 +92,7 @@ Cloud Computing | $10,000 - $20,000
 
 At [4Geeks Academy](https://4geeksacademy.com/us/index), we offer a comprehensive, immersive program that will teach you the skills you need to become a successful software developer. Our programs are designed to give you the knowledge and experience you need to become a professional!
 
-### What Programs do we offer?
+### What Programs do we offer? 🤔
 
 1. [Full Stack Developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) 
 
@@ -103,13 +104,13 @@ At [4Geeks Academy](https://4geeksacademy.com/us/index), we offer a comprehensiv
 
 >  _Coming soon: Blockchain and web3...!! 👀_ 
 
-### Benefits
+### Benefits ✅
 
 <CODE WILL SET YOU FREE!!> That is our slogan! ;)
 
-- [Geekpal](https://4geeksacademy.com/us/geekpal-support): GeekPAL is an instant membership you get when you become a student at 4Geeks Academy. Don't code alone ever again, have mentors for the rest of your life (even after graduation!).
+- 👉 [Geekpal](https://4geeksacademy.com/us/geekpal-support): GeekPAL is an instant membership you get when you become a student at 4Geeks Academy. Don't code alone ever again, have mentors for the rest of your life (even after graduation!).
 
-- [GeekForce](https://4geeksacademy.com/us/geekforce-career-support): GeekForce is the collective process of Career Support at the Academy. The "force" stands For Career Empowerment and it is a lifetime membership. It provides you job placement assistance so you get ready to get a job in tech.
+- 👉 [GeekForce](https://4geeksacademy.com/us/geekforce-career-support): GeekForce is the collective process of Career Support at the Academy. The "force" stands For Career Empowerment and it is a lifetime membership. It provides you job placement assistance so you get ready to get a job in tech.
 
 > Our instructors are experienced professionals who will guide you through the entire process. We also provide career services to help you find a job after you complete the program.
 
