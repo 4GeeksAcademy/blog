@@ -1,6 +1,6 @@
 ---
 author: "MRiciglianoC"
-excerpt: "Know in depth the history of 4Geeks Academy"
+excerpt: "Get to know our general refund policy and rules in this brief summary at 4Geeks Academy"
 template: "post"
 title: "4Geeks Academy Refund Policy Framework"
 cluster: "trends-and-tech"
