@@ -1,3 +1,13 @@
+---
+author: "MRiciglianoC"
+excerpt: "Know in depth the history of 4Geeks Academy"
+template: "post"
+title: "4Geeks Academy Refund Policy Framework"
+cluster: "trends-and-tech"
+status: "published"
+
+---
+
 # 4Geeks Academy Refund Policy Framework
 
 > 🚨 Important Information: These policies are intended to work as a framework and does not reflect every detail included within the appropriate Enrollment agreement, and the laws of each country where we render our programs. These policies are being displayed in order to show you a closer look to what you will find in deeper detail when you become a student of 4Geeks Academy.
