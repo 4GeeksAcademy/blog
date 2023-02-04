@@ -1,67 +1,24 @@
-# Full Stack Developers
+---
+author: "alesanchezr"
+excerpt: "Get ahead of the game with a Full Stack Developer portfolio that stands out! Learn how to increase your chances of landing a job by 80% with expert tips."
+image: "https://storage.googleapis.com/media-breathecode/c88e8cfc3c5f849d40dd0ed9c6bc18c6c113a05b4d2665a8d8816898c804c41d"
+image_alt: "One-line drawing of software engineer earning its first salary"
+template: "landing_post" 
+title: "What is a must in a Full Stack Developer Portfolio"
 
-Everyone knows what a developer does, or at least thinks they do. Someone who understands those strange codes full of colors and those words that somehow build something that we do know how to use. 
+---
 
-Our computers and the web pages that we visit every day are, somehow, built by text, text and more text, arranged in a certain way so that any user can enter and intuitively make use of a tool or program. We also know that there are different types of softwares for computers. On one hand there are the programs that must be downloaded, installed and after that we can use them. On the other hand we have some very strange softwares, like those used by NASA, to calculate extremely complex trajectories of bodies in the sky and rocket launches. And then, we have web platforms, pages that are dedicated to uniting people under some criteria, such as "Twitter" and "Facebook".
+A strong portfolio is a key factor in landing a job as a [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time). According to recent data, having a well-crafted portfolio can increase the chances of being hired by as much as 40%. This is because a portfolio showcases a developer's skills, experience, and work samples, providing potential employers with a tangible understanding of their abilities. So, if you're a Full Stack Developer looking to boost your hiring prospects, be sure to put in the time and effort to create a compelling portfolio that highlights your skills and experience.
 
-The entire web world, what "lives in the internet" is a universe of thousands and thousands of web pages with different functions, owners, tools and characteristics. All social networks, globalization, tools of the modern era, and the rest of the web pages, someone had to think about them, design them, build them with code and generate all the instructions from behind so that they work as they are supposed to, without any errors or false results.
-
-On any web page that begins with “www.” It basically has 2 large components that together collaborate for its proper functioning:
-
-- Front-end: Everything that the user can see on the screen and can interact with directly, this includes text, colors, fonts, headers, buttons, images, videos, graphics, fill-in-the-blanks (which we call forms), etc..
-
-- Back-end: Everything that is part of the page and the user will never see. 
-Why if I put my instagram password wrong I couldn't get into my account? Something happens “behind the screen” that manages all the information both that the user introduces to the page and that which comes “from the site”. Everything that is behind the screen is in communication with what we call a “server”. A huge computer somewhere in the world that keeps a website running and responding to all requests.
-
-As we can intuit, people who work in the front-end and the back-end belong to different disciplines, or even more, we can say that they are 2 different jobs and professions, and we would still be right. But since the advent of technology, globalization, hyperconnectivity and especially smartphones, the amount of web pages and web platforms has grown enormously, and consequently the demand for both front-end and back-end developers has skyrocketed. This caught the attention of many technology academies tasked with training these development experts, and a curriculum emerged that was not exclusively geared towards either, but rather both. In this way, a new concept arose, Full Stack Development.
-
-## So what is and what does a full stack developer do?
-
-A full stack developer is who works both on the front-end as in the back-end of a website or application, that is to say: it is both, in the part of the users and of the server.
-
-These kinds of developers must handle all those aspects that improve the user experience to create intuitive and fast interfaces, such as the layout of the elements, menus, urls, etc. To do this, you will need to combine good design with creativity and functionality along with front-end discipline, that is, handling all the information flow from the server and database that make it possible for a web application to work how it is supposed to. Therefore, for the back-end work, the developer must have knowledge of programming languages.
-
-The full stack developer must know how to work with computer logic and handle abstract concepts and work with the user's intuition and empathize with the genuine use of the web page, master style, aesthetics, functionality, balance, performance, usefulness, composition, efficiency, etc...
-
-The objectives and functions of a front-end developer and of the back-end developer are different but complementary. The shape of a full stack developer I would assume both roles having a complete vision of a project/business. It is for this reason that within the technological profiles, that of the full stack developer is one of the most demanded at present and, according to the projection, it will continue to be so in the near future, being reflected in the incomes.
-
-## What is the salary of a full stack developer?
-
-As we mentioned before, the full stack developer career is one of the most demanded in the world of technology. The salary is according to that demand and varies depending on the country.
-
-Here is a list of some of the average annual salaries for full stack developers in 2021:
-
-| Country | Salary Range |
-|---------|--------------|
-| US      | $110,000 - $150,000 |
-| Canada  | $70,000 - $120,000 |
-| UK      | £35,000 - £55,000 |
-| Australia | $70,000 - $110,000 |
-| Germany | €40,000 - €60,000 |
-| France | €35,000 - €50,000 |
-| China | $17,690 - $29,500 |
-
-It is also important to emphasize that the possibility of growing in a company as a full stack is very amazing. In the world of programming there are basically 3 ranks: Junior, Semi-Senior and Senior.
-
-To assume the huge difference in salaries in different countries, this table shows the registered minimum, maximum and average salary, depending on the experience of the developer:
-
-| Seniority  | Avg Yearly Salary | Min Yearly Salary | Max Yearly Salary |
-| ---------- | ----------------- | ---------------- | ---------------- |
-| Junior     | $60k              | $30k             | $100k            |
-| Semi       | $60k              | $40k             | $110k            |
-| Senior     | $100k             | $70k             | $170k            |
-
-It makes sense that the ability to build code is something imperative, that is, it has to be entirely well written and consistent, otherwise it doesn't work and generates errors for the user. A simple comma, or a misplaced point, can make an entire platform unusable. This is why companies look for people, not necessarily with a diploma, but with the concrete ability to do a job. This is reflected in the change in presentation material used in this area compared with other headings. When companies want to hire a developer, they won't be very interested in the CV, but in another method that we call "portfolio".
-
-## Importance of a portfolio for Full Stack Developer
+## Importance of a portfolio for a  Full Stack Developer
 
 In addition to the full stack developer resume (or CV), where a job applicant can show their academic achievements, titles that support their learning, experience in previous companies, etc, a portfolio is a self build tool, where the developer can show and expose his completed works. It does not focus on educational titles or jobs previous experience, but on showing, with evidence, what the developer can really do.
 
-In this sense, there are professionals who opt for developing a personal website, others create a repository in the cloud, make infographics or there are even professionals who create a YouTube channel to show their projects or share live how they develop a facet of their professional life. The limit is the imagination and the format is up to you.
+In this sense, there are professionals who opt for developing a personal website, others create a repository in the cloud, make infographics or there are even professionals who create a [YouTube channel](https://www.youtube.com/c/4GeeksAcademy) to show their projects or share live how they develop a facet of their professional life. The limit is the imagination and the format is up to you.
 
 A good piece of advice before starting to plan a portfolio is to know that it must speak for itself, that the employer at the moment of entering the page is quickly convinced that the applicant is very capable and knows what he is doing. It will be the letter of introduction, that is, it doesn't matter if you have a great academic background, if you are not capable of making a consistent code that you can show, then you have to review that.
 
-## Elements of a Strong Full Stack Developer Resume Portfolio
+## Elements of a Strong Full Stack Developer Portfolio
 
 As we mentioned earlier, the portfolio should speak for itself and be consistent. Here we leave you some tips for a good portfolio and certain things that cannot be missing for a strong portfolio.
 
@@ -79,13 +36,13 @@ Although it may sound a bit technical, in the world of technology development a 
 
 - Training certificates
 
-Just like those offered by 4Geeks Academy, the training courses, although they do not speak of your net ability, do certify certain training and instruction in a certain subject, that is why we call them certifications and they are also material that, if you have them, cannot be missing in your portfolio. It is an important part of your presentation.
+Just like those offered by [4Geeks Academy](www.4geeksacademy.com), the training courses, although they do not speak of your net ability, do certify certain training and instruction in a certain subject, that is why we call them certifications and they are also material that, if you have them, cannot be missing in your portfolio. It is an important part of your presentation.
 
 ## Important skills to show on a Full Stack Developer Portfolio
 
-Because full stack development includes both, front-end and back-end, it is necessary for a portfolio to demonstrate proficiency in both areas. If you do not have experience, you can still expose the languages ​​and tools that you learned in the course(s) that you have taken in your learning, whether they are paid or free.
+Because full stack development includes both, [front-end](https://4geeks.com/lesson/what-is-front-end-development) and [back-end](https://4geeks.com/lesson/backend-developer), it is necessary for a portfolio to demonstrate proficiency in both areas. If you do not have experience, you can still expose the languages ​​and tools that you learned in the course(s) that you have taken in your learning, whether they are paid or free.
 
-Mention which frameworks you are familiar with, which ones you use and what you managed to do with that knowledge. This with both disciplines (front and back). The largest frameworks and tools for developers are easy to find in the study plans of certain academies where a learning line is built to cover the entire Full Stack spectrum. At 4Geeks academy, a Bootcamp-type program is offered where in 6 months anyone without previous experience is prepared, from zero to junior developer, giving the student a vital development tool-box to deploy in a compelling portfolio.
+Mention which frameworks you are familiar with, which ones you use and what you managed to do with that knowledge. This with both disciplines (front and back). The largest frameworks and tools for developers are easy to find in the study plans of certain academies where a learning line is built to cover the entire Full Stack spectrum. At 4Geeks Academy, a Bootcamp-type program is offered where in 6 months anyone without previous experience is prepared, from zero to junior developer, giving the student a vital development tool-box to deploy in a compelling portfolio.
 
 ## Tips for Building an Effective Full Stack Developer Portfolio
 
@@ -103,7 +60,7 @@ Your portfolio should reflect your level of knowledge and be consistent with you
 
 If you do not have experience, you can also have a portfolio. In it may be practices of your formative period, personal projects, including participating in the improvement of projects such as OpenSource, contributing your improvements through Pull Request in the repository.
 
- ##Examples of Great Full Stack Developer Portfolios
+ ## Examples of Great Full Stack Developer Portfolios
 
 Here we leave you links to very good portfolios of full stack developers that can serve as inspiration to create your own. All of them apply all the techniques mentioned above in addition to a very well worked aesthetic finish.
 
@@ -133,3 +90,5 @@ Using platforms like this (and not doing it "from scratch") does not show low ab
 I hope that with this article you have learned about how to apply for jobs as a full stack developer, what aspects companies pay special attention to, and how you too can be at the level of a good developer with a good personal presentation.
 
 All these techniques and tools are changing and modifying over time, so in this world it is essential to keep updated with the new techniques and tools that emerge every day to make this internet world amazing.
+
+If you are a Full Stack Developer you can check our [Full Stack Developer Blog](https://4geeksacademy.com/us/blog/full-stack-developer/) to find more interesting info for you.
