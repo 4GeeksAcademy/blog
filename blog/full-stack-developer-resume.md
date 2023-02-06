@@ -40,7 +40,7 @@ Just like those offered by [4Geeks Academy](www.4geeksacademy.com), the training
 
 ## Important skills to show on a Full Stack Developer Portfolio
 
-Because full stack development includes both, [front-end](https://4geeks.com/lesson/what-is-front-end-development) and [back-end](https://4geeks.com/lesson/backend-developer), it is necessary for a portfolio to demonstrate proficiency in both areas. If you do not have experience, you can still expose the languages ​​and tools that you learned in the course(s) that you have taken in your learning, whether they are paid or free.
+Because full stack development includes both, [Front End Development](https://4geeks.com/lesson/what-is-front-end-development) and [Back End Development](https://4geeks.com/lesson/backend-developer), it is necessary for a portfolio to demonstrate proficiency in both areas. If you do not have experience, you can still expose the languages and tools that you learned in the course(s) that you have taken in your learning, whether they are paid or free.
 
 Mention which frameworks you are familiar with, which ones you use and what you managed to do with that knowledge. This with both disciplines (front and back). The largest frameworks and tools for developers are easy to find in the study plans of certain academies where a learning line is built to cover the entire Full Stack spectrum. At 4Geeks Academy, a Bootcamp-type program is offered where in 6 months anyone without previous experience is prepared, from zero to junior developer, giving the student a vital development tool-box to deploy in a compelling portfolio.
 
@@ -64,24 +64,24 @@ If you do not have experience, you can also have a portfolio. In it may be pract
 
 Here we leave you links to very good portfolios of full stack developers that can serve as inspiration to create your own. All of them apply all the techniques mentioned above in addition to a very well worked aesthetic finish.
 
-- https://raulwebdev.com/
+- [raulwebdev](https://raulwebdev.com/)
 
-He introduces himself and where he resides, talks shortly about himself and his passions. It shows his skills and languages ​​that he uses, projects and links to the pages already developed and your contact information.
+He introduces himself and where he resides, talks shortly about himself and his passions. It shows his skills and languages that he uses, projects and links to the pages already developed and your contact information.
 
-- https://mukulsharma.in/
+- [mukulsharma](https://mukulsharma.in/)
 
 It can be a good idea to put a self photo of you on the landing page, it shows confidence in yourself and if it is a well taken photo with a good finish it also speaks of your professionalism and ability to do a good job.
 
-- Websites and tools for building a portfolio
+### Websites and tools for building a portfolio
 
 If at this point you have felt overwhelmed with everything a portfolio should have and how it should be presented, don't worry, the internet exists for this.
 On the web there are many pages and platforms that help you create a portfolio in a creative, beautiful and professional way that will make you look like a great developer with enormous potential.
  
-- Squarespace.com
+- [Squarespace](https://Squarespace.com)
 
-Allows you to create a customizable website with an all-in.one solution. You can choose a website template developed by great designers that will make your portfolio look fancy, professional and estetic.
+Allows you to create a customizable website with an all-in.one solution. You can choose a website template developed by great designers that will make your portfolio look fancy, professional and esthetic.
 
-- ://www.portfoliobox.net/
+- [portfoliobox](https://www.portfoliobox.net/)
 
 Portfoliobox is a “create a site” webpage very inspirational because of all the ideas settled in it. You have templates and a lot of tools that will allow you to create a very good looking website that, with your talent, will help you to get your first full stack developer job.
 
