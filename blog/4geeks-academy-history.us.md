@@ -19,9 +19,7 @@ After lots of sleepless nights and lots of lines of code, we managed to start ea
 
 Trying to find Alex and Nacho, we realized how difficult it was to find great developers.  That's why we decided to call ourselves a "Developers community."  We wanted to be the place where all the developers wanted to be: with a great working environment, lots of events and fun, educational workshops and programming courses, etc.
 
-
 ### Community Initiatives
-
 
 The years went by and we launched a lot of initiatives inside of the community: The TechMeetup (a monthly event to gather the startup ecosystem in the city), The Dev Labs (extracurricular learning laboratories in universities), lots of learning workshops, programming courses, etc.
 
