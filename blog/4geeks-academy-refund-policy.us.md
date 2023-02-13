@@ -8,9 +8,11 @@ status: "published"
 
 ---
 
+This is the Refund Policy for 4Geeks Academy, all of these policies are applied in all of our bootcamps around the world and in all of our programs, [Full Stack Developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) and [Machine Learning and Data Science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+
 # 4Geeks Academy Refund Policy Framework
 
-> 🚨 Important Information: These policies are intended to work as a framework and does not reflect every detail included within the appropriate Enrollment agreement, and the laws of each country where we render our programs. These policies are being displayed in order to show you a closer look to what you will find in deeper detail when you become a student of 4Geeks Academy.
+> 🚨 Important Information: These policies are intended to work as a framework and does not reflect every detail included within the appropriate Enrollment agreement, and the laws of each country where we render our programs. These policies are being displayed in order to show you a closer look to what you will find in deeper detail when you become a student of [4Geeks Academy](https://4geeksacademy.com/).
 
 Should a student’s enrollment be terminated or canceled for any reason, all refunds will be made according to the following refund schedule:
  
