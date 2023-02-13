@@ -15,7 +15,7 @@ featured: true
 
 "En un análisis global de 2.400 empresas realizado por Credit Suisse, las organizaciones con al menos una mujer en el directorio generaron un mayor retorno sobre el capital y un mayor crecimiento de los ingresos netos que aquellas que no tenían mujeres en el directorio." Harvard Business Review.
 
-¡Hoy celebramos el Día Internacional de la Mujer y la Niña en la Ciencia y queremos que conozcas a 5 mujeres increíbles que están remodelando la comunidad STEM rompiendo estándares, diseñando nuevas posibilidades y trabajando para cambiar el mundo a través de la ciencia!
+¡Hoy celebramos el Día Internacional de la Mujer y la Niña en la Ciencia y queremos que conozcas a 5 mujeres increíbles que están remodelando la comunidad STEM rompiendo estándares, diseñando nuevas posibilidades y trabajando para cambiar el mundo a través de la ciencia!.
 
 Lee a continuación su experiencia personal y su camino para lograr un impacto en la comunidad STEM.
 
