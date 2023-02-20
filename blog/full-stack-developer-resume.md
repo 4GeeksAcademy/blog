@@ -10,9 +10,7 @@ title: "What is a must in a Full Stack Developer Portfolio"
 
 A strong portfolio is a key factor in landing a job as a [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time). According to recent data, having a well-crafted portfolio can increase the chances of being hired by as much as 40%. This is because a portfolio showcases a developer's skills, experience, and work samples, providing potential employers with a tangible understanding of their abilities. So, if you're a Full Stack Developer looking to boost your hiring prospects, be sure to put in the time and effort to create a compelling portfolio that highlights your skills and experience.
 
-## Importance of a portfolio for a  Full Stack Developer
-
-In addition to the full stack developer resume (or CV), where a job applicant can show their academic achievements, titles that support their learning, experience in previous companies, etc, a portfolio is a self build tool, where the developer can show and expose his completed works. It does not focus on educational titles or jobs previous experience, but on showing, with evidence, what the developer can really do.
+## Importance of a portfolio for a  Full Stack Dev their learning, experience in previous companies, etc, a portfolio is a self build tool, where the developer can show and expose his completed works. It does not focus on educational titles or jobs previous experience, but on showing, with evidence, what the developer can really do.
 
 In this sense, there are professionals who opt for developing a personal website, others create a repository in the cloud, make infographics or there are even professionals who create a [YouTube channel](https://www.youtube.com/c/4GeeksAcademy) to show their projects or share live how they develop a facet of their professional life. The limit is the imagination and the format is up to you.
 
