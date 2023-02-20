@@ -3,6 +3,7 @@ author: "jrdelrio"
 excerpt: "Transform your career with 4Geeks Academy's Coding Bootcamp in Berlin. Enhance your skills and join the tech industry."
 title: "Coding Bootcamp in Berlin"
 template: "post"
+
 ---
 
 Generally, to have all the knowledge to be a programmer, you must enter a university and study the entire degree and then go to work. But, with the technological growth of recent times, the demand for developers has grown exponentially to become one of the most demanded professions in the entire world. A [coding bootcamp](https://4geeksacademy.com/) is a short but highly demanding intensive course that prepares anyone with no previous knowledge of programming or development, to a person ready to start their career in technology and enter the job market.
