@@ -3,6 +3,7 @@ author: "jrdelrio"
 excerpt: "Learn what a full-stack bootcamp is, its varieties its different modalities, payment opportunities, different approaches and some tips to find the one that best suits your situation, based on the benefits and disadvantages of each type."
 template: "post"
 title: "Full Stack Bootcamps, opportunities, varieties and tips for choosing your best one"
+
 ---
 
 ## What is a Full Stack Bootcamp?
