@@ -9,7 +9,9 @@ title: "Full Stack Developers | What they do, how to become into one and how muc
 
 In the world of web pages and platforms, there are 2 large blocks that, working together, build the powerful platforms that we use daily, from the simplest pages to very complex social networks. These blocks are called the **front end** and the **back end**. The frontend is the part of web development that is dedicated to the front part of a website, in short, the design of a website, everything that can be seen on the screen and the part of the site with which the user has interaction, from the structure of the site to styles such as colors, backgrounds, sizes to animations, photos, videos, forms to write data and effects.
 
-On the other hand, the backend is the part of web development that ensures that all the logic of a web page works correctly. This is the set of actions that take place on a website but that we **do not see**, this includes communication with the server, saving a user's data, matching the username and password of a profile, and is not responsible for displaying nothing on the screen, but to give consistency to all the data it saves. This also includes everything involved in databases, generally called SQL.
+The full stack developer is the person in charge of build, develop, mantain and manage the whole stuff, the front end, with all the design of the website in charge of been friendly, attractive and cool, and the other side, **the backend**.
+
+The backend is the part of web development that ensures that all the logic of a web page works correctly. This is the set of actions that take place on a website but that we **do not see**, this includes communication with the server, saving a user's data, matching the username and password of a profile, and is not responsible for displaying nothing on the screen, but to give consistency to all the data it saves. This also includes everything involved in databases, generally called SQL.
 
 ![](https://miro.medium.com/max/800/0*XH3rLskyOsCqVV-j.jpg)
 
