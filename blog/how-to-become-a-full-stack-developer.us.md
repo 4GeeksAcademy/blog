@@ -164,7 +164,7 @@ IBM, one of the most prestigious companies of technology in the world define in 
 
 > NoSQL is a non-relational database, meaning it allows different structures than a SQL database (not rows and columns) and more flexibility to use a format that best fits the data. The term “NoSQL” was not coined until the early 2000s. It doesn’t mean the systems don’t use SQL, as NoSQL databases do sometimes support some SQL commands. More accurately, “NoSQL” is sometimes defined as “not only SQL.”
 	
-Database management has many associated languages, many widely used, others less, but all respond to one or the other of the two types of databases that exist; SQL or NoSQL. So what's the difference? SQL and NoSQL vary depending on whether they're relational (SQL) or non-relational (NoSQL), whether their schemas are predetermined or dynamic, how they scale, the kind of data they support, and whether multi-row transactions or unstructured data are a better fit. The program of the **full stack development** course of [4Geeks Academy]( https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) offers within the back end section management of SQL databases with the Python language. Although this language is not specialized for this type of data, it contains very good and complete libraries for good back-end database management, such as [sqlAlchemy](https://www.sqlalchemy.org/). In just 6 months it prepares you to have a basic management of databases and to be able to find job opportunities for this type of work.
+Database management has many associated languages, many widely used, others less, but all respond to one or the other of the two types of databases that exist; SQL or NoSQL. So what's the difference? SQL and NoSQL vary depending on whether they're relational (SQL) or non-relational (NoSQL), whether their schemas are predetermined or dynamic, how they scale, the kind of data they support, and whether multi-row transactions or unstructured data are a better fit. The program of the [full stack development course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) of 4Geeks Academy offers within the back end section management of SQL databases with the Python language. Although this language is not specialized for this type of data, it contains very good and complete libraries for good back-end database management, such as sqlAlchemy. In just 6 months it prepares you to have a basic management of databases and to be able to find job opportunities for this type of work.
 
 
 ### Learning API Development and Integration Skills
@@ -173,10 +173,9 @@ Is very probable that you have heard talk about amazon, the biggest online shop 
 
 > APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather bureau’s software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and shows you daily weather updates on your phone.
 
-Basically, an API is a small program through which a user can interact with a database or a particular server. Each API has been programmed by a **back-end developer** or by a **[full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer)** and to interact with it you must write the correct format that each request that is made must have. 
+Basically, an API is a small program through which a user can interact with a database or a particular server. Each API has been programmed by a **back-end developer** or by a **full stack developer** and to interact with it you must write the correct format that each request that is made must have. 
 
-
-![]( https://www.lascondes.cl/files/8505)
+![becoming-a-full-stack-developer]( https://www.lascondes.cl/files/8505)
 
 
 ## Finding Job Opportunities as a Full Stack Developer
@@ -200,5 +199,3 @@ After starting a [bootcamp](https://4geeksacademy.com/us/coding-campus/online-co
 Focusing on a particular area of knowledge within a specialization is known as niche development. For instance, a full stack developer with a front-end development specialty can decide to concentrate on user experience design or accessibility. A back-end developer with full stack skills can decide to concentrate on security or database optimization. Full stack developers can stand out in the job market and attract the attention of employers by becoming experts in a certain field.
 
 Like any developer, a worker can gain experience in a certain niche such as finance, health, construction, etc. These options are almost endless and in each of them they are waiting for someone like you who with your skills make this world a more technological and *cool* place.
-
-
