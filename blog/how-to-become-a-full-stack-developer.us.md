@@ -10,8 +10,6 @@ title: "Full Stack Developers | How to become one?"
 
 In the world of web development, the [full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) is the person in charge of building, developing, managing and maintaining both parts of the page or platform. Both parts implies the front-end part and the back-end part. But what does each of these parts mean?
 
-![how-to-become-a-full-stack-developer](https://edteam-media.s3.amazonaws.com/blogs/original/f3b5c786-6725-468a-ae2b-ab2a21fa41a1.png)
-
 The [front-end](https://4geeks.com/lesson/what-is-front-end-development), as its name says, is everything that the user has direct interaction with and can see on the screen, including photos, texts, videos, colors, navigation bars, links, etc. The front-end is the part of the website that makes the usability of the site possible for anyone who accesses it. When entering a page and entering a username and password, (fields that we call forms), by pressing "Log in" we send these texts to "somewhere" where it is verified that that username and password match an existing user, and in If it is correct, it allows the user to enter their account. All this process that the user does not see is what we call back-end.
 
 Back-end corresponds to all the code built that makes user requests interact (from the front-end) with the server where the page is hosted and the databases that it may have associated. The definition of backend in techterms, a very prestigious page dedicated to educating people in terms of technology and development, says the following:
