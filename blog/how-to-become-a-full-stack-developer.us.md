@@ -83,16 +83,15 @@ Some of the most popular front-end frameworks are:
 > Angular is a TypeScript-based, free and open-source web application framework led by the Angular Team at **Google** and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
 
 <div align="center">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/angular-2752246-2285063.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/angular-2752246-2285063.png" alt="angular">
 </div>
-
 
 + [ReactJS](https://reactjs.org/)
 
 > Free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by **Meta** and a community of individual developers and companies.
 
 <div align="center">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="react-js">
 </div>
 
 + [VueJS](https://vuejs.org/)
@@ -100,7 +99,7 @@ Some of the most popular front-end frameworks are:
 > An open-source model–view–viewmodel front end JavaScript framework for building user interfaces and single-page applications. It was created by Evan You after working for Google using AngularJS in several projects, and is maintained by him and the rest of the active core team members.
 
 <div align="center">
-    <img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg">
+    <img src="https://www.arsys.es/blog/file/uploads/2020/04/01-vuejs.jpg" alt="vue-js">
 </div>
 
 
@@ -117,7 +116,7 @@ Some of the most popular front-end frameworks are:
 >Being a Python framework, Django is very user-friendly and easy to learn. It’s also one of the most popular full-stack frameworks and provides a lot of functionality out-of-box like REST API support.
 
 <div align="center">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/django-11-1175036.png" alt="django">
 </div>
 
 + [Laravel](https://laravel.com/)
@@ -125,7 +124,7 @@ Some of the most popular front-end frameworks are:
 > PHP is one of the most used programming languages in backend development. Laravel is a PHP framework that is based on MVC architecture. It is a beginner-friendly framework that has a user-friendly interface, extensive library, and brilliant API support. Using Laravel simplifies the backend development while building modern secure web applications. This is especially true if you are working on non-trivial applications.
 
 <div align="center">
-    <img src="https://pbs.twimg.com/profile_images/665938876293324800/Fl2b_czt_400x400.png">
+    <img src="https://pbs.twimg.com/profile_images/665938876293324800/Fl2b_czt_400x400.png" alt="laravel">
 </div>
 
 + [Flask](https://flask.palletsprojects.com/en/2.2.x/)
@@ -133,7 +132,7 @@ Some of the most popular front-end frameworks are:
 > Flask is another python framework that you can use for backend development. It is regarded as a microframework because it omits the use of specific tools and libraries. Moreover, there is no database abstraction layer, form validation, or external source dependency. It’s a simple, highly flexible, and performing web framework. Being a lightweight framework, or micro-framework, it is easy to learn and understand Flask. Moreover, being a Python framework, it is very user-friendly.
 
 <div align="center">
-    <img src="https://asset.jarombek.com/logos/flask.png">
+    <img src="https://asset.jarombek.com/logos/flask.png" alt="flask">
 </div>
 
 ### Learning Database Management Skills
@@ -149,7 +148,7 @@ IBM, one of the most prestigious companies of technology in the world define in 
 > NoSQL is a non-relational database, meaning it allows different structures than a SQL database (not rows and columns) and more flexibility to use a format that best fits the data. The term “NoSQL” was not coined until the early 2000s. It doesn’t mean the systems don’t use SQL, as NoSQL databases do sometimes support some SQL commands. More accurately, “NoSQL” is sometimes defined as “not only SQL.”
 	
 <div align="center">
-    <img src="https://www.awicons.com/free-icons/download/application-icons/database-icons-by-barrymieny/ico/Database%201.ico">
+    <img src="https://www.awicons.com/free-icons/download/application-icons/database-icons-by-barrymieny/ico/Database%201.ico" alt="ico">
 </div>
 
 ### Learning Database Management Skills
