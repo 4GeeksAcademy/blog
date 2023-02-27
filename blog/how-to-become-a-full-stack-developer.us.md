@@ -7,6 +7,7 @@ title: "Full Stack Developers | How to become one?"
 
 ## Definition of Full Stack Development
 
+**Full- stack development** is the discipline of web development that is responsible for building, maintaining and developing a web page in the aspects of both front with its respective design, fonts, photos, etc.., and back, with its databases and endpoints. Let's be more descriptive.
 
 In the world of web development, the full stack developer is the person in charge of building, developing, managing and maintaining both parts of the page or platform. Both parts implies the front-end part and the back-end part. But what does each of these parts mean?
 
