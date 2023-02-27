@@ -3,16 +3,16 @@ author: "jrdelrio"
 excerpt: "Discover whats does a full stack developers do, how much money do they earn and how to become one."
 template: "post"
 title: "Full Stack Developers | How to become one?"
+
 ---
 
 ## Definition of Full Stack Development
 
+In the world of web development, the [full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) is the person in charge of building, developing, managing and maintaining both parts of the page or platform. Both parts implies the front-end part and the back-end part. But what does each of these parts mean?
 
-In the world of web development, the full stack developer is the person in charge of building, developing, managing and maintaining both parts of the page or platform. Both parts implies the front-end part and the back-end part. But what does each of these parts mean?
+![how-to-become-a-full-stack-developer](https://edteam-media.s3.amazonaws.com/blogs/original/f3b5c786-6725-468a-ae2b-ab2a21fa41a1.png)
 
-![source: https://ed.team/blog/que-es-un-programador-full-stack-existen-o-son-un-mito](https://edteam-media.s3.amazonaws.com/blogs/original/f3b5c786-6725-468a-ae2b-ab2a21fa41a1.png)
-
-The front-end, as its name says, is everything that the user has direct interaction with and can see on the screen, including photos, texts, videos, colors, navigation bars, links, etc. The front-end is the part of the website that makes the usability of the site possible for anyone who accesses it. When entering a page and entering a username and password, (fields that we call forms), by pressing "Log in" we send these texts to "somewhere" where it is verified that that username and password match an existing user, and in If it is correct, it allows the user to enter their account. All this process that the user does not see is what we call back-end.
+The [front-end](https://4geeks.com/lesson/what-is-front-end-development), as its name says, is everything that the user has direct interaction with and can see on the screen, including photos, texts, videos, colors, navigation bars, links, etc. The front-end is the part of the website that makes the usability of the site possible for anyone who accesses it. When entering a page and entering a username and password, (fields that we call forms), by pressing "Log in" we send these texts to "somewhere" where it is verified that that username and password match an existing user, and in If it is correct, it allows the user to enter their account. All this process that the user does not see is what we call back-end.
 
 Back-end corresponds to all the code built that makes user requests interact (from the front-end) with the server where the page is hosted and the databases that it may have associated. The definition of backend in techterms, a very prestigious page dedicated to educating people in terms of technology and development, says the following:
 
@@ -26,7 +26,7 @@ The front-end and back-end development of a web platform has different tools and
 
 Broadly speaking, the development of the front-end requires the management of design skills, UX (user experience) and logical order so that the use of the website is as intuitive and friendly as possible. Aesthetic and tidy rendering and a responsive (different size of screen devices image adapting) page are some of the skills that cannot fail in front-end development. Even the correct understanding of the interaction with some APIs (Application Programming Interface) and the use of such data from that interaction.
 
-On the other hand, the back-end involves within its needs different skills. Among them are the management of databases (relational and non-relational), authentication systems for users (through tokens or others) and the interaction with the front-end to send certain information it requires.
+On the other hand, the [back-end](https://4geeks.com/lesson/backend-developer) involves within its needs different skills. Among them are the management of databases (relational and non-relational), authentication systems for users (through tokens or others) and the interaction with the front-end to send certain information it requires.
 
 Given the difference between the two disciplines, programming languages, frameworks and tools are different for the development of one or the other. Below is explained how each of the most common skills necessary for the development of each of these areas are specifically acquired.
 
@@ -39,7 +39,7 @@ Some of the different disciplines that the Full Stack Development requires assum
 ### Learning HTML, CSS, and JavaScript
 <div style="text-align:center;">
 
-![source: https://ed.team/blog/que-es-un-programador-full-stack-existen-o-son-un-mito](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2mIAWYUh7psGZTotv1lBEW9D_N-RGJm0oePHXBmtCw&s)
+![required-skills-to-become-a-full-stack-developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ2mIAWYUh7psGZTotv1lBEW9D_N-RGJm0oePHXBmtCw&s)
 </div>
 
 **HTML** means "Hypertext Markup Language", is a standardized system for tagging text files to achieve font, colour, graphic, and hyperlink effects on World Wide Web (www) pages. Nowdays isn't a good practice to define color, fonts or esthetic attributes in this part of the webpage, just the texts and organizational structure of the content.
@@ -67,15 +67,10 @@ A html works like this:
   </body>
 </html>
 ```
-And this is how the render looks like this:
-
-![](/workspace/4GA-blog/blog_images/html_file.png)
-
-
 
 As we can see, there is no details of colors or backgrounds in this file, just the structure of the content. After having the correct structure or the content of a webpage a new file will give all the visual and esthetic attributes to all of the blocks of content that we defined in the html file. This new file will use the ".css" extension in its name and only with this 2 tools you will get a professional look to your website.
 
-Only with this 2 toos you can get a very beautiful and creative design for your website, but there is something that you won't have, interaction with the user and dynamism. It will be a static and lifeless webpage, but when you introduce some programming language, like javascript you will have a section of code that can be run in response to an event or when a certain need is satisfied.
+Only with this 2 tools you can get a very beautiful and creative design for your website, but there is something that you won't have, interaction with the user and dynamism. It will be a static and lifeless webpage, but when you introduce some programming language, like javascript you will have a section of code that can be run in response to an event or when a certain need is satisfied.
 
 JavaScript functions are used to carry out specific tasks like validating user input, changing a webpage's content, or reacting to user input like keystrokes or mouse clicks.
 
@@ -173,18 +168,15 @@ IBM, one of the most prestigious companies of technology in the world define in 
 	
 Database management has many associated languages, many widely used, others less, but all respond to one or the other of the two types of databases that exist; SQL or NoSQL. So what's the difference? SQL and NoSQL vary depending on whether they're relational (SQL) or non-relational (NoSQL), whether their schemas are predetermined or dynamic, how they scale, the kind of data they support, and whether multi-row transactions or unstructured data are a better fit. The program of the **full stack development** course of [4Geeks Academy]( https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) offers within the back end section management of SQL databases with the Python language. Although this language is not specialized for this type of data, it contains very good and complete libraries for good back-end database management, such as [sqlAlchemy](https://www.sqlalchemy.org/). In just 6 months it prepares you to have a basic management of databases and to be able to find job opportunities for this type of work.
 
-![](https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg)
-
 
 ### Learning API Development and Integration Skills
 
-Is very probable that you have heard talk about amazon, the biggest online shop in the world present in almost all countries. They have also a service called AWS, ([Amazon Web Services](https://aws.amazon.com/)) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Often times, clients will use this in combination with autoscaling. In their blog they give the following definition:
+Is very probable that you have heard talk about amazon, the biggest online shop in the world present in almost all countries. They have also a service called AWS, (Amazon Web Services) is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered, pay-as-you-go basis. Often times, clients will use this in combination with autoscaling. In their blog they give the following definition:
 
 > APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather bureau’s software system contains daily weather data. The weather app on your phone “talks” to this system via APIs and shows you daily weather updates on your phone.
 
-Basically, an API is a small program through which a user can interact with a database or a particular server. Each API has been programmed by a **back-end developer** or by a **full stack developer** and to interact with it you must write the correct format that each request that is made must have. 
+Basically, an API is a small program through which a user can interact with a database or a particular server. Each API has been programmed by a **back-end developer** or by a **[full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer)** and to interact with it you must write the correct format that each request that is made must have. 
 
-The **full stack development** program of [4Geeks Academy]( https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) offers in its training a stage of construction, interaction and integration of APIs for a web platform. It does this using Python language together with the SQLAlchemy library.
 
 ![]( https://www.lascondes.cl/files/8505)
 
@@ -193,17 +185,17 @@ The **full stack development** program of [4Geeks Academy]( https://4geeksacadem
 
 Given that the explosion of jobs for **full stack developers** has grown in the last 10 years, and continues to grow, there is a lot of field in many of the companies of different areas that demand professionals of this profile. There are many job pages for the technology area and **full stack development** is no exception.
 
-The [4Geeks Academy]( https://4geeks.com/choose-program) program offers within its course a "lifetime" job search aid for its graduate students. In this way it is not necessary to have contact networks to obtain your first job after studying in a quality academy like this.
+The [4Geeks Academy]( https://4geeksacademy.com/) program offers within its course a "lifetime" job search aid for its graduate students. In this way it is not necessary to have contact networks to obtain your first job after studying in a quality academy like this.
 
 ## Job Search Strategies and Tips
 
 As in any job search, it is essential to apply only for jobs that look for professionals that fit your profile, otherwise you will not receive more than bad news. For this reason it is very important to read the job proposal very carefully before applying for any job.
 
-A very good tip is to always keep your CV up to date, with a good presentation and having a good portfolio is essential. If you do not know what a portfolio is, we invite you to review our [article]( https://4geeksacademy.com/us/software-engineer/software-engineer-portfolio) about portfolio and how to create a great one.
+A very good tip is to always keep your CV up to date, with a good presentation and having a good portfolio is essential. If you do not know what a portfolio is, we invite you to review our article about what is a must in a [software engineer portfolio](https://4geeksacademy.com/us/software-engineer/software-engineer-portfolio) about portfolio and how to create a great one.
 
 ## Advancing Your Career as a Full Stack Developer
 
-After starting a bootcamp, you can quickly insert yourself into the world of work and from there the learning is enormous. Every day you will learn some new and after integrating as a Junior level developer, with the experience you can already present yourself as a semi-Senior level developer and then already Senior. This promotion is great as the responsibilities are increasing along with a good salary, which characterizes the **full stack development*.
+After starting a [bootcamp](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp), you can quickly insert yourself into the world of work and from there the learning is enormous. Every day you will learn some new and after integrating as a Junior level developer, with the experience you can already present yourself as a semi-Senior level developer and then already Senior. This promotion is great as the responsibilities are increasing along with a good salary, which characterizes the **full stack development*.
 
 ## Specialization and Niche Development
 
