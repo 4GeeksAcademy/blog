@@ -8,7 +8,7 @@ title: "Full Stack Developers | How to become one?"
 
 ## Definition of Full Stack Development
 
-In the world of web development, the [full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) is the person in charge of building, developing, managing and maintaining both parts of the page or platform. Both parts implies the front-end part and the back-end part. But what does each of these parts mean?
+**Full-stack development** is the discipline of web development that is responsible for building, maintaining and developing a web page in the aspects of both front with its respective design, fonts, photos, etc.., and back, with its databases and endpoints. Let's be more descriptive.
 
 The [front-end](https://4geeks.com/lesson/what-is-front-end-development), as its name says, is everything that the user has direct interaction with and can see on the screen, including photos, texts, videos, colors, navigation bars, links, etc. The front-end is the part of the website that makes the usability of the site possible for anyone who accesses it. When entering a page and entering a username and password, (fields that we call forms), by pressing "Log in" we send these texts to "somewhere" where it is verified that that username and password match an existing user, and in If it is correct, it allows the user to enter their account. All this process that the user does not see is what we call back-end.
 
