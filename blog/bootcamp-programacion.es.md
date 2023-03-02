@@ -1,6 +1,35 @@
 excerpt: "Conoce los detalles de por qué vale la pena ingresar a un bootcamp de programación y las oportunidades laborales que tendrás al graduarte de programador"
 
-# ¿Vale la pena estudiar en un bootcamp de programación?
+
+# BOOTCAMPS DE PROGRAMACIÓN: ACELERADORES DE HABILIDADES
+
+_Una opción ante la escasez de capital humano con las habilidades requeridas para impulsar la digitalización de las organizaciones y avanzar en innovaciones tecnológicas._
+
+En los últimos 10 años, ha existido una realidad latente en el mercado para contratar programadores, y si bien esto no es una novedad, lo que sigue llamando la atención es que aún cuando las carreras de ingeniería en sistemas y computación tuvieron un auge, siguen siendo pocos los talentos al alcance de las organizaciones. Y es que las Universidades demoran mucho en graduar talento con habilidades, además del costo-tiempo que representan.
+
+Los bootcamps de programación surgieron, justamente, para atender esta realidad y se han posicionado como la opción más viable en términos de tiempo, desarrollo de habilidades y colocación de personal.
+
+
+## El secreto de la metodología de los bootcamps de programación
+
+Algo que han demostrado estos coding bootcamps, es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
+
+Incluso, si estás trabajando, pero quieres buscar otras opciones y en un futuro cercano dedicarte a la programación, soltando ese trabajo que te ata y no te hace feliz; los bootcamps son perfectos porque te permitirán estudiar medio tiempo sin dejar tu trabajo actual.
+
+El proceso de aprendizaje en los bootcamps, nos ha enseñado que se puede aprender de manera divertida, jugando y practicando con juegos de codificación. Estos juegos tienen como objetivo lograr un objetivo específico utilizando un lenguaje de programación específico como Python, CSS, SQL, JavaScript y más.
+
+El Banco Interamericano de Desarrollo comparte un [texto](https://publications.iadb.org/es/la-disrupcion-del-talento-el-advenimiento-de-los-bootcamps-de-programacion-y-el-futuro-de-las) interesante donde justamente explican cómo los bootcamps han influido en el desarrollo de las habilidades y lo que el mundo puede aprender de ellos.
+
+
+## ¿Soy elegible para entrar a un bootcamp de programación?
+
+El hecho de que los bootcamps de programación trabajen de la mano con empresas de tecnología, los hace aún más atractivos, porque, prácticamente, quien se gradúe en uno de ellos, tiene un trabajo garantizado. Mucho más en latam, y mucho [más ahora.](https://blogs.iadb.org/innovacion/es/bootcamps-de-programacion-america-latina-y-el-caribe/) 
+
+Otra de las razones destacadas es que, para ingresar a un bootcamp de programación, la edad no es un factor determinante. Las oportunidades se abren para personas que normalmente ya no son elegibles en otros campos, porque superan el rango de los 35-40 años de edad.
+
+Que alguien consiga a sus 45 años, desarrollar nuevas habilidades tecnológicas, amplía el espectro laboral, toda vez que se suman experiencia y habilidades blandas con las nuevas adquiridas, ofreciendo al talento más posibilidades de obtener un trabajo; y al empleador, contar con un personal preparado y cualificado que le resuelven sus problemas tecnológicos.
+
+## ¿Vale la pena estudiar en un bootcamp de programación?
 
 _Si estás pensando en incursionar en el mundo de la programación y tienes dudas; si te preocupa salir de tu zona de confort, ten en cuenta que no estás solo y que esta situación la están viviendo millones de personas. Por eso queremos contarte por qué vale la pena ingresar a un bootcamp de programación._
 
