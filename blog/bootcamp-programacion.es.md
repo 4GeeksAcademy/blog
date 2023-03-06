@@ -15,22 +15,22 @@ Los bootcamps de programación surgieron, justamente, para atender esta realidad
 
 ## El secreto de la metodología de los bootcamps de programación
 
-Algo que han demostrado estos coding bootcamps, es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
+Algo que han demostrado estos [coding bootcamps](https://4geeksacademy.com/us/coding-bootcamp/), es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
 
 Incluso, si estás trabajando, pero quieres buscar otras opciones y en un futuro cercano dedicarte a la programación, soltando ese trabajo que te ata y no te hace feliz; los bootcamps son perfectos porque te permitirán estudiar medio tiempo sin dejar tu trabajo actual.
 
 El proceso de aprendizaje en los bootcamps, nos ha enseñado que se puede aprender de manera divertida, jugando y practicando con juegos de codificación. Estos juegos tienen como objetivo lograr un objetivo específico utilizando un lenguaje de programación específico como Python, CSS, SQL, JavaScript y más.
 
-El Banco Interamericano de Desarrollo comparte un [texto](https://publications.iadb.org/es/la-disrupcion-del-talento-el-advenimiento-de-los-bootcamps-de-programacion-y-el-futuro-de-las) interesante donde justamente explican cómo los bootcamps han influido en el desarrollo de las habilidades y lo que el mundo puede aprender de ellos.
+El Banco Interamericano de Desarrollo comparte un interesante donde justamente explican [cómo los bootcamps han influido en el desarrollo de las habilidades](https://publications.iadb.org/es/la-disrupcion-del-talento-el-advenimiento-de-los-bootcamps-de-programacion-y-el-futuro-de-las) y lo que el mundo puede aprender de ellos.
 
 
 ## ¿Soy elegible para entrar a un bootcamp de programación?
 
-El hecho de que los bootcamps de programación trabajen de la mano con empresas de tecnología, los hace aún más atractivos, porque, prácticamente, quien se gradúe en uno de ellos, tiene un trabajo garantizado. Mucho más en latam, y mucho [más ahora.](https://blogs.iadb.org/innovacion/es/bootcamps-de-programacion-america-latina-y-el-caribe/) 
+El hecho de que los bootcamps de programación trabajen de la mano con empresas de tecnología, los hace aún más atractivos, porque, prácticamente, quien se gradúe en uno de ellos, tiene un trabajo garantizado. Mucho más en latam, y mucho más ahora.
 
-Otra de las razones destacadas es que, para ingresar a un bootcamp de programación, la edad no es un factor determinante. Las oportunidades se abren para personas que normalmente ya no son elegibles en otros campos, porque superan el rango de los 35-40 años de edad.
+Otra de las razones destacadas es que, para ingresar a una bootcamp de programación, la edad no es un factor determinante. Las oportunidades se abren para personas que normalmente ya no son elegibles en otros campos, porque superan el rango de los 35-40 años de edad.
 
-Que alguien consiga a sus 45 años, desarrollar nuevas habilidades tecnológicas, amplía el espectro laboral, toda vez que se suman experiencia y habilidades blandas con las nuevas adquiridas, ofreciendo al talento más posibilidades de obtener un trabajo; y al empleador, contar con un personal preparado y cualificado que le resuelven sus problemas tecnológicos.
+Que alguien consiga a sus 45 años [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero), desarrollando nuevas habilidades tecnológicas, ampliando el espectro laboral, toda vez que se suman experiencia y habilidades blandas con las nuevas adquiridas, ofreciendo al talento más posibilidades de obtener un trabajo; y al empleador, contar con un personal preparado y cualificado que le resuelven sus problemas tecnológicos.
 
 ## ¿Vale la pena estudiar en un bootcamp de programación?
 
@@ -40,12 +40,12 @@ Aún cuando pareciera que el mundo ha comprendido que la digitalización es una 
 
 Las principales suelen ser tiempo, dinero, oportunidades de emplearse, edad.
 
-Formarse como un desarrollador full stack amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
+Formarse como un [desarrollador full stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/) amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
 
 Ahora queremos contarte por qué el tiempo, el dinero y las oportunidades de empleo, son favorables para tomar la decisión de ingresar a un bootcamp de programación.
 
 
-## El Tiempo…
+### El Tiempo necesario para graduarse y salarios de los programadores
 
 El dicho: el tiempo es oro… está más vigente que nunca. Por ello, la experiencia y la práctica son cada vez más valiosas que el conocimiento teórico per sé.
 
@@ -55,22 +55,7 @@ Mientras que un estudiante universitario de CS invierte 4 años para graduarse, 
 
 Cabe destacar que bajo la metodología de bootcamp, el estudiante comienza a practicar y manejar casos prácticamente desde que comienza. De hecho, es la promesa base: aprender desde la práctica y aprender jugando.
 
-Y si nos vamos al tiempo que se toma graduarse en una carrera más los costos, los números hablan por sí solos: el salario inicial para un graduado de un coding bootcamp es de aproximadamente $18k en Países como Colombia, Argentina, Uruguay, Chile, entre otros (saliendo del Bootcamp) o $50k en Florida, y la expectativa salarial de un graduado de CS es básicamente la misma. Depende más de la capacidad desarrollada y dedicación que del título. Además, ¿cuánto cuesta? Cuota de matrícula universitaria + 4 años de costo de vida = Demasiado. Bootcamp de programación: 18 semanas y $ 10k (en promedio).
-
-
-## Sueldo/Salarios de Programadores
-
-El promedio del salario que recibe un desarrollador full stack, suele estar por encima de la media en casi todos los países de Latinoamérica, en Estados Unidos y Europa.
-
-El sueldo nacional promedio en México de un full stack developer es de MXN$ 29.616, siendo un sueldo muy por encima de la media.
-
-En Argentina, un junior debe estar alrededor de 12k-18k al año. Esto sin querer involucrar además la ventaja cambiaria, costo de vida, posibilidades de trabajos remotos, y valoración del desarrollador argentino (muy buena). El salario de un desarrollador full stack promedio en Argentina es de $ 840.000 al año o $ 431 por hora.
-
-El sueldo promedio de full stack developer es de -al menos- $12k al año. Tenemos casos que han hecho mucho más que esto, por cierto. CLP 1,972,033 por mes en Chile. Ver [este artículo](https://cl.talent.com/salary?job=desarrollador+junior#:~:text=%C2%BFCu%C3%A1nto%20gana%20un%20Desarrollador%20junior%20en%20Chile?&text=El%20salario%20desarrollador%20junior%20promedio,a%C3%B1o%20o%20$5.538%20por%20hora.) o [este que hemos](https://4geeksacademy.com/es/desarrollador-full-stack/cuanto-gana-un-desarrollador-full-stack) desarrollado anteriormente. 
-
-El salario de un desarrollador full stack promedio en Colombia es de $52.800.000 al año. Si eres muy junior puede ser alrededor de $6k al año. Igual sucede para el caso de quienes se gradúan de universidad o de un Bootcamp. 
-
-En Estados Unidos, según Indeed, un desarrollador gana US$ 93.113, unos $7.800 mensuales y pueden llegar a cobrar unos US$ 111.432 al año. Un junior, en nuestra experiencia, debe estar alrededor de $55k al año en la Florida. 
+Y si nos vamos al tiempo que se toma graduarse en una carrera más los costos, los números hablan por sí solos: el salario inicial para un graduado de un coding bootcamp es de aproximadamente $18k en países como Colombia, Argentina, Uruguay, entre otros, el [salario de un desarrollador full-stack en Chile](https://4geeksacademy.com/es/desarrollador-full-stack/cuanto-gana-un-desarrollador-full-stack) es de aproximadamente $30K,  $50k es el [salario de un software engineer en Florida](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary-florida), y la expectativa salarial de un graduado de CS es básicamente la misma. Depende más de la capacidad desarrollada y dedicación que del título. Además, ¿cuánto cuesta? Cuota de matrícula universitaria + 4 años de costo de vida = Demasiado. Bootcamp de programación: 18 semanas y $ 10k (en promedio).
 
 
 ## Oportunidades Laborales como Programador
@@ -85,4 +70,4 @@ En 2021, la BBC compartió un [estudio](https://www.bbc.com/mundo/noticias-56247
 
 Si llegaste hasta aquí es porque realmente ya lo tienes claro. Es momento de actuar y embarcarte en una oportunidad que supondrá para ti un mayor retorno de inversión, abriéndote a un mundo de mayores posibilidades profesionales.
 
-Nuestro [bootcamp](https://4geeksacademy.com/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **científico de datos** y **experto en Blockchain y web 3**.
+Nuestro [bootcamp](https://4geeksacademy.com/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **[ingeniero de Data Science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning/?lang=es)** y **experto en Blockchain y web 3**.
