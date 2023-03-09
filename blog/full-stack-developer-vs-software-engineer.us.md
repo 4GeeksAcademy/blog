@@ -1,8 +1,9 @@
-Full Stack Developer vs. Software Engineer
+## Full Stack Developer vs. Software Engineer
 
-Understanding the Differences and Salaries of Full Stack and Software Developers
+## Understanding the Differences and Salaries of Full Stack and Software Developers
 When it comes to Software development mainly two terms are used which are software engineer and full stack developer. However, they differ in their duties and provided salaries. Let us examine in detail the key differences on the basis of their salaries and responsibilities, so that it can become easier for you to anticipate getting after taking any one of these positions. 
-Difference between Full Stack Developers vs. Software Engineers.
+
+## Difference between Full Stack Developers vs. Software Engineers.
 First, let us first define the terms for a brief understanding. A full stack developer is a software developer who have skills and knowledge in both front and back end of web development. It means they can work on everything from the user interface (UI) to the server-side logic and database management. A stack developer can handle all aspects of web development. However, software engineer specializes in developing software applications. It includes mobile and web applications and desktop software. They have in-depth knowledge of computer science and software design principles. Their approaches can differ if they work on the same project. A full-stack developer specifically handles web development, and software engineers can handle a broader range of projects and work on non-web-based software.
 
 Work Content for Full Stack Developers vs. Software Engineers
