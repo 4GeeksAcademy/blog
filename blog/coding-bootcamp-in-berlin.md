@@ -3,9 +3,10 @@ author: "jrdelrio"
 excerpt: "Transform your career with 4Geeks Academy's Coding Bootcamp in Berlin. Enhance your skills and join the tech industry."
 title: "Coding Bootcamp in Berlin"
 template: "post"
+
 ---
 
-Generally, to have all the knowledge to be a programmer, you must enter a university and study the entire degree and then go to work. But, with the technological growth of recent times, the demand for developers has grown exponentially to become one of the most demanded professions in the entire world. A [coding bootcamp](https://4geeksacademy.com/) is a short but highly demanding intensive course that prepares anyone with no previous knowledge of programming or development, to a person ready to start their career in technology and enter the job market.
+Generally, to have all the knowledge to be a programmer, you must enter a university and study the entire degree and then go to work. But, with the technological growth of recent times, the demand for developers has grown exponentially to become one of the most demanded professions in the entire world. A [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) is a short but highly demanding intensive course that prepares anyone with no previous knowledge of programming or development, to a person ready to start their career in technology and enter the job market.
 
 There are bootcamps of different themes, prices, modalities, etc… But essentially they are all the same goals. 4Geeks Academy, for example, offers 2 different bootcamps for beginners, in three different disciplines: [**full stack development**](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) and [**data science and machine learning**](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) . Any of these, in 6 months prepares you to go out into the world of work in addition to offering you help, after graduation, to position yourself in your first job.
 

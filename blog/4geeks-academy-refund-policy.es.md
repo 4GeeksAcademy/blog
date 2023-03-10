@@ -10,7 +10,13 @@ status: "published"
 
 # Marco de Política de Reembolso de 4Geeks Academy
 
-> 🚨 Información importante: Estas políticas están destinadas a funcionar como un marco y no reflejan todos los detalles incluidos en el acuerdo de inscripción apropiado, y las leyes de cada país donde ofrecemos nuestros programas. Estas políticas se muestran para mostrarle una mirada más cercana a lo que encontrará en detalle más profundo cuando se convierta en un estudiante de 4Geeks Academy.
+Estas políticas están destinadas a funcionar como un marco y no reflejan todos los detalles incluidos en el acuerdo de inscripción apropiado, y las leyes de cada país donde ofrecemos nuestros programas. Estas políticas se muestran para mostrarle una mirada más cercana a lo que encontrará en detalle más profundo cuando se convierta en un estudiante de 4Geeks Academy.
+
+Las politicas varian segun el campus en donde estudies sin importar donde te encuentres: Por ejemplo, si vives en Venezuela pero estas estudiando en la sede de Miami, USA; Entonces las politicas que aplican para ti son las del campus de USA.
+
+## Politicas de reembolso en Estados Unidos y Canada
+
+> Las siguientes politicas aplican a cualquier estudiante que tome un curso desde la sede de Miami, Orlando o cualquier otra ciudad de los Estados Unidos o Canada.
 
 Si la inscripción de un estudiante es terminada o cancelada por cualquier motivo, todos los reembolsos se harán de acuerdo con el siguiente calendario de reembolso:
 
@@ -24,23 +30,39 @@ Si la inscripción de un estudiante es terminada o cancelada por cualquier motiv
 8. Fecha de terminación: Al calcular el reembolso debido a un estudiante, se usa la última fecha de asistencia real del estudiante en el cálculo a menos que se reciba un aviso por escrito anterior.
 9. Los reembolsos se harán dentro de los 30 días a partir de la fecha en que la terminación entre en vigor.
 
-## RETIRO
+### RETIRO
 
 Puede retirarse de 4Geeks Academy en cualquier momento y los reembolsos se determinan de acuerdo con la Política de Reembolso establecida antes. Si el estudiante no ha asistido a la clase durante 5 reuniones de clase, 4Geeks Academy terminará la inscripción y los reembolsos se aplicarán como se indicó anteriormente. Los estudiantes que se retiren debido a una emergencia pueden ser reinscritos en otro programa siguiendo la aprobación del CEO.
 
-## MOTIVOS DE TERMINACIÓN
+### MOTIVOS DE TERMINACIÓN
 
 Acepto cumplir con las reglas y políticas y entiendo que la Escuela tendrá el derecho de terminar este contrato y mi inscripción en cualquier momento por violación de las reglas y políticas según lo indicado en el catálogo. Entiendo que la Escuela se reserva el derecho de modificar las reglas y regulaciones y que se me informará de todas y cada una de las modificaciones.
 
-## REQUISITOS DE GRADUACIÓN
+### REQUISITOS DE GRADUACIÓN
 
 Entiendo que para graduarme del programa y recibir un diploma, debo completar con éxito el número requerido de horas programadas de reloj según lo especificado en el catálogo y en el Acuerdo de Inscripción del Estudiante, aprobar todos los exámenes escritos y prácticos con un promedio del 70% y satisfacer todas las obligaciones financieras con la Escuela.
 
 
+## Politicas de reembolso en Chile
 
+### RETIRO
 
+### MOTIVOS DE TERMINACIÓN
 
+### REQUISITOS DE GRADUACIÓN
 
+## Politicas de reembolso en Venezuela
 
+### RETIRO
 
+### MOTIVOS DE TERMINACIÓN
 
+### REQUISITOS DE GRADUACIÓN
+
+## Politicas de reembolso en el resto de LATAM.
+
+### RETIRO
+
+### MOTIVOS DE TERMINACIÓN
+
+### REQUISITOS DE GRADUACIÓN
