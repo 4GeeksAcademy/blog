@@ -1,5 +1,3 @@
-
-
 ---
 author: "alesanchezr"
 excerpt: "Preparing for a full stack developer interview? Make sure you're ready with our list of full stack developer interview questions to help you land your dream job."
