@@ -21,7 +21,7 @@ On any web page that begins with “www.” It basically has 2 large components 
 
 As we can intuit, people who work in the front-end and the back-end belong to different disciplines, or even more, we can say that they are 2 different jobs and professions, and we would still be right. But since the advent of technology, globalization, hyperconnectivity and especially smartphones, the amount of web pages and web platforms has grown enormously, and consequently the demand for both front-end and back-end developers has skyrocketed. This caught the attention of many technology academies tasked with training these development experts, and a curriculum emerged that was not exclusively geared towards either, but rather both. In this way, a new concept arose, Full Stack Development.
 
-## So, what is and what does a full stack developer do?
+## What is and what does a full stack developer do?
 
 A full stack developer is who works both on the front-end as in the back-end of a website or application, that is to say: it is both, in the part of the users and of the server.
 
