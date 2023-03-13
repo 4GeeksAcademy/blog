@@ -53,7 +53,7 @@ In this sense, there are professionals who opt for developing a personal website
 
 A good piece of advice before starting to plan a portfolio is to know that it must speak for itself, that the employer at the moment of entering the page is quickly convinced that the applicant is very capable and knows what he is doing. It will be the letter of introduction, that is, it doesn't matter if you have a great academic background, if you are not capable of making a consistent code that you can show, then you have to review that.
 
-## Elements of a Strong Full Stack Developer Resume Portfolio
+## Elements of a Strong Full Stack Developer Portfolio
 
 As we mentioned earlier, the portfolio should speak for itself and be consistent. Here we leave you some tips for a good portfolio and certain things that cannot be missing for a strong portfolio.
 
