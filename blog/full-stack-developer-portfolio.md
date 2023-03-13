@@ -94,11 +94,3 @@ Software Engineers are seen as a more capable version of the full stack develope
 If you are looking for a [software engineer portfolio](https://4geeksacademy.com/us/software-engineer/software-engineer-portfolio), make sure to checkout this article.
 
 If you can certify yourself as a software engineer, we recommend enrolling in our [software engineer bootcamps](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp).
-
-## What is and what does a full stack developer do?
-
-A [full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) is who works both on the front-end as in the back-end of a website or application, that is to say: it is both, in the part of the users and of the server. These kinds of developers must handle all those aspects that improve the user experience to create intuitive and fast interfaces, such as the layout of the elements, menus, urls, etc. To do this, you will need to combine good design with creativity and functionality along with front-end discipline, that is, handling all the information flow from the server and database that make it possible for a web application to work how it is supposed to. Therefore, the [back-end work developer](https://4geeks.com/lesson/backend-developer) must have knowledge of programming languages.
-
-The full stack developer must know how to work with computer logic and handle abstract concepts and work with the user's intuition and empathize with the genuine use of the web page, master style, aesthetics, functionality, balance, performance, usefulness, composition, efficiency, etc...
-
-The objectives and functions of a front-end developer and of the [back-end developer](https://4geeks.com/lesson/what-is-front-end-development) are different but complementary. The shape of a full stack developer I would assume both roles having a complete vision of a project/business. It is for this reason that within the technological profiles, that of the full stack developer is one of the most demanded at present and, according to the projection, it will continue to be so in the near future, being reflected in the incomes.
