@@ -1,1 +1,24 @@
-to do
+Machine Learning Engineer: A Highly Demanded Career Path
+If you are someone, who is looking for a career path that combines the passion for technology, innovation and problem solving, then becoming a machine learning engineer is the best choice for you! In today’s digital world, data has become the most precious and valuable resource. Many companies are searching for these professionals as they can help them to make better decisions by extracting the data from their company’s insights. The machine learning engineers can design, develop and implement machine learning algorithms to solve complicated issues. In this article, machine learning engineer career job outlook is briefly discussed. 
+What Is a Machine Learning Engineer?
+A machine learning engineer is a professional who has the skills in Programming language, computer science, and statistics. They build and deploy machine learning models that learn from data to make the predictions. Their key role is to implement the algorithms that have the ability to analyze and process data that is of large amount, along with identifying the patterns and make the predictions based on the patterns already discovered. They also optimize these algorithms so that its proficiency and efficiency can be improved. Moreover, they collaborate with other software developers, data scientists and stakeholders to ensure that the integration of machine learning models is done smoothly into the existing systems.  
+Machine Learning Engineer Job Outlook
+There is an increased demand for machine learning engineers and it is expected to continue its growth in the future. The national average salary of a machine learning engineer is $ 112,992 per year in US. It is the highest paid job salary in the tech industry. The outlook of the job is also promising. The Bureau of Labor Statistics have already predicted the growth rate of information research scientists from 2019 to 2029, including machine learning engineers. 
+How to Become a Machine Learning Engineer?
+1.	To become a machine learning engineer, it is important to have a degree in Computer Science, Mathematics, Statistics or related field: 
+Earning a bachelor degree in computer Science, mathematics, statistics or any related field is very important as it provides strong foundation for machine learning profession. It helps in programming, Data structures, algorithms and mathematics, which are very important skills for machine learning. 
+2.	Gaining the experience in programming languages is important:
+ Gaining the experience in programming languages such as Python, Java, or C++ is important for machine learning as it helps to understand the data structures and algorithms. They are the fundamental concepts of machine learning. 
+3.	Online courses or attending boot camps helps in machine learning: 
+Taking online courses or attending boot camps in machine learning, Artificial intelligence, and data science help to gain insights of fundamental and to develop the practical skills. 
+4.	Portfolio building: 
+Showcasing skills and knowledge of machine learning can help you to demonstrate your abilities to the potential clients and employers. GitHub or Kaggle are the platforms that can be used in this regard, as it helps to collaborate you to other machine learning enthusiasts. 
+5.	Internships and hands-on training can boost professional experience: 
+The aspirants of machine learning can gain professional experience from internships or entry-level positions in machine learning from the industry professionals. They can provide valuable knowledge and opportunities. The gained experience will allow you to have practical skills and understanding of machine learning. 
+6.	Follow the latest trends and development of machine learning: 
+The latest trends and developments of machine learning can be developed by attending networking events, workshops and conferences. Machine learning is evolving rapidly and it is really important to keep up with the latest trends. Staying up-to-date with the advancements and connecting to other machine learning professionals can greatly help the aspirants. 
+These steps provide the better knowledge of the steps required to avail a great machine learning engineer career. It is a rewarding career with great challenges, however, hard work and dedication can help you to succeed. 
+Conclusion
+In conclusion, the machine learning engineer have exciting and dynamic role and it requires technical skills, problem solving abilities and creativity. It is a rewarding career option and has many opportunities and challenges. However, by following the steps discussed in this article such as having a relevant experience, hands-on trainings, internships, bachelor degree, building portfolio and staying up-to-date can prepare you for a rewarding professional career in machine learning. Developing these skills is required as the field is rapidly growing and to match its standards for the professional development as a machine learning engineer, all of these can help. 
+
+
