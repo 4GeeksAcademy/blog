@@ -17,10 +17,7 @@ Computer software engineers create computer programs and operating systems. They
 
 Computer software engineers also analyze user needs, provide design consultation, and coordinate software installation. Engineers must consider mathematical models and scientific analysis to project outcomes when designing software systems.
 
-<div style="text-align:center">
-
 ![source: https://www.simplilearn.com/how-to-become-a-software-engineer-article](https://www.simplilearn.com/ice9/free_resources_article_thumb/how_to_become_a_software_engineer.jpg)
-</div>
 
 ### What is Software Engineering?
 The field of computer science that deals with the design, development, testing, and maintenance of software applications is known as software engineering. Software engineers use engineering principles and programming language knowledge to create software solutions for end users.
@@ -42,11 +39,7 @@ The field of computer science that deals with the design, development, testing, 
 + Version management
 + Debugging and design testing
 
-<div style="text-align:center">
-
 ![](https://www.wpcargo.com/wp-content/uploads/2018/10/dashboard-1.png)
-
-</div>
 
 As a **full stack developer**, the most common used technologies are:
 
@@ -69,12 +62,7 @@ GIT is a Version Control System that allows to a teamwork to share in a very org
 
 It should be noted that the specific technologies and tools used will vary depending on the project requirements, team preferences, and other factors.
 
-<div style="text-align:center">
-
 ![](https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png)
-
-
-</div>
 
 ## Salaries of Full Stack Developers vs. Software Engineers 💰💰
 
@@ -117,8 +105,4 @@ On the other hand, the salaries of **senior level software developers** and **fu
 Full stack development and software engineering are some of the most cutting-edge and highest-paying careers in the world. They can offer services to many different areas and the opportunity to grow is practically endless, and you could be next.
 To find out about full stack development courses, where without experience you can become one to start your career as a programmer, [click here](https://4geeksacademy.com/us/index).
 
-<div style="text-align:center">
-
 ![](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ubjm7dql4xwhwa2w7afp)
-
-</div>
