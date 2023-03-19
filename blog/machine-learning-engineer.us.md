@@ -18,7 +18,20 @@ The aspirants of machine learning can gain professional experience from internsh
 6.	Follow the latest trends and development of machine learning: 
 The latest trends and developments of machine learning can be developed by attending networking events, workshops and conferences. Machine learning is evolving rapidly and it is really important to keep up with the latest trends. Staying up-to-date with the advancements and connecting to other machine learning professionals can greatly help the aspirants. 
 These steps provide the better knowledge of the steps required to avail a great machine learning engineer career. It is a rewarding career with great challenges, however, hard work and dedication can help you to succeed. 
-Conclusion
-In conclusion, the machine learning engineer have exciting and dynamic role and it requires technical skills, problem solving abilities and creativity. It is a rewarding career option and has many opportunities and challenges. However, by following the steps discussed in this article such as having a relevant experience, hands-on trainings, internships, bachelor degree, building portfolio and staying up-to-date can prepare you for a rewarding professional career in machine learning. Developing these skills is required as the field is rapidly growing and to match its standards for the professional development as a machine learning engineer, all of these can help. 
 
+What Does a Machine Learning Engineer Do?
+1.	Data cleaning and preparation:
+ Data cleaning is the process of identifying and fixing errors, missing out values and other irregularities in the data and the data processing is process of formatting it for the analysis purpose. 
+2.	Feature engineering:
+        Machine learning engineer does the job of feature engineering. It is to select the most relevant features and the variables from the data, which is then used in the model. Featuring engineering transforms the data, make new features and then select the features. It is done through the domain knowledge. 
+3.	Model selection and training: 
+The machine learning engineers does the selection for suitable algorithm for the data and the issues at hand. This process involves the use of data to train and adjust the parameters of the model. 
+4.	Model evaluation and tuning:
+ They test and evaluate the model’s performance and making required adjustments on a validation dataset so that its accuracy can be improved. They adjust the hyper parameters, modify the features and change the algorithms so that high accuracy can be attained. 
+5.	Deployment: 
+After testing and evaluation the model, the machine learning engineers integrate it into the production system. 
+6.	Maintenance and monitoring: 
+After deployment, the machine learning engineers check and monitor its performance and make the required changes. They retrain, update and make necessary changes to improve the performance of the model.  
+Conclusion
+In conclude, the rapidly increasing demand of machine learning engineers is due to the importance of data in the digital world. The machine learning engineers design, implement and analyze machine learning algorithms to process the large amount of data. They identify patterns, optimize the algorithms and make the predictions. The machine learning engineer’s professional career is very promising and its salary is $112992 every year in US. The aspirants of machine learning engineer should have a proper knowledge of programming language, a degree of computer science statistics, or mathematics, create a good portfolio, have a professional experience and stay up to date with the latest trends of machine learning. The key responsibilities of machine learning engineer are the preparation and cleaning of data, model selection and training, feature engineering, deployment and monitoring. The professional career of machine learning engineer rewarding and the path required dedication and hard work as it is challenging, However, it offers professional growth and provides great opportunities. 
 
