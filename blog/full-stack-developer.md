@@ -14,9 +14,11 @@ Although they are different areas, generally performed by people with different 
 
 >The full stack developer is the person in charge of build, develop, mantain and manage the whole stuff, the front end, with all the design of the website in charge of been friendly, attractive and cool, and the other side, **the backend**.
 
-Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 10 years, the demand for front-end and back-end developers has increased by 135% leaving many companies without enough people to carry out the projects. Consequently, a new discipline arises that combines both, all developed by a single person, we call it full stack developer. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
+Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 10 years, the demand for front-end and [back-end developers](https://4geeks.com/lesson/backend-developer) has increased by 135% leaving many companies without enough people to carry out the projects. Due this increase on the demand of Full Stack Developers many bootcamps and universities has launched [Full Stack developer courses](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) that can be done online or face to face. Consequently, a new discipline arises that combines both, all developed by a single person, we call it full stack developer. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
 
 A full-stack developer can work in-house (remotely) or at a computer development company that engineers websites, software, and other components for other businesses. This is one of the great advantages of this job, the freedom to physically work from wherever you want, often with flexible hours and good salaries. Basically this is what a full stack developer is.
+
+Full stack developers are very often confused with Software Engineers, if you want to learn more about this you can check this article about the [differences between a Full Stack Developer and a Software Engineer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-vs-software-engineer).
 
 ## Skills and Responsibilities of a Full Stack Developer
 
@@ -31,32 +33,6 @@ Some of the responsibilities of s full stack developer are:
 + **Testing and debugging** 🐞: Full stack developers are responsible for ensuring that their code works as it is supposed to, detecting bugs, errors and different kinds of problems. Testing pages is a whole area in development so there are very skilled people working in it, but it is important to have to manage the basic part of it.
 
 + **Staying up-to-date** with industry trends and best practices: Full stack developers need to keep abreast of the latest technologies, programming languages, frameworks, and tools in order to ensure that they are using the most effective and efficient solutions for their projects. This is important also because the SEO of a web page is much better if it’s built with good practices.
-
-
-### Common Technologies Used by Full Stack Developers
-
-The most used languages for front-end development are HTML, CSS and javaScript. The latter, unlike the other 2, is a programming language, that is, it can be programmed with, while HTML and CSS are simply code to build something visible, but it does not interact with the user, it does not work. with variables or functions. Within the JavaScript world there are many frameworks, or work structures, that using this language facilitate the development of complex platforms in the easiest way possible. Some of these are Vue.js, Angular, and React. For the backend, languages are generally used to manage databases, such as SQL (the most used), and for all the rest Java, PHP, Ruby and Python.
-
-Full stack developers work with a range of technologies across the front-end and back-end of a web application or platform. Here are some common technologies used by full stack developers:
-
-#### 🖥 Front-end Technologies:
-
-For creating the structure and visual styling of web pages the most used language is **HTML** and **CSS**. They both work together, the first one in the structure and the second one for the design, colors, fonts and the rest of variables.
-
-After that for creating interactive and dynamic web pages **JavaScript** is the third ingredient, as well as for developing front-end frameworks and libraries like React, Angular, and Vue.
-
-There are also front-end frameworks and libraries, these tools help a lot to get a nice result of the development using popular front-end frameworks and libraries include **React**, **Angular**, **Vue**, and **Bootstrap**.
-
-
-#### 🖥 Back-end Technologies:
-
-Server-side languages: Common server-side languages used by full stack developers include **Java**, **Python**, **Ruby**, **Node.js**, and **PHP**.
-
-Web servers: Common web servers used in full stack development include **Apache** and **Nginx**.
-
-Databases: Full stack developers work with a variety of databases, including **MySQL**, **MongoDB**, **Oracle**, and **PostgreSQL**. It is important to mention that there are basically 2 types of databases, relational (SQL) and non-relational (non-SQL).
-
-APIs: Full stack developers often create and work with **APIs** (Application Programming Interfaces) that allow different software systems to communicate with each other. An API is a little program used as an intermediary between a server and a user. Data and information can be requested and it responds to be able to use that data.
 
 ## Full Stack Developer Salary 💰💰
 
@@ -138,7 +114,7 @@ These jobs can be found in many different sectors, such as technology, finance, 
 
 ## How to Become a Full Stack Developer
 
-The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* curricula called **online bootcamps**.
+The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* called **[online bootcamps](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp)**.
 
 ![what is a full stack developer](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
 
@@ -146,22 +122,34 @@ These courses train from scratch anyone who has **no knowledge** of programming 
 
 There are many academies running very good bootcamp programs with very good teachers, assistants, infrastructure and very good planned syllabusses, but there are some academies that make a difference by offering some particularities.
 
-An example of these academies is [4Geeks Academy](https://www.4geeksacademy.com/), an academy with face-to-face modality and also online with more than 15 locations in different cities like the bootcamp located in Miami or the coding bootcamp in Berlin, offering 3 specialties on  different subjects of technology development including a full stack developer course. It offers **mentoring for its students for life**, this is scheduling with very experienced alumni to solve personal problems that may arise both in their own project and developing for an external company. All this at no additional cost and even once the course is finished, that is, **for life**. Not only that, but it also offers a system that helps recent graduates find a job and position themselves in a company that is looking for full stack developers, and this too **for life**.
+An example of these academies is [4Geeks Academy](https://www.4geeksacademy.com/), an academy with face-to-face modality and also online with more than 15 locations in different cities like the [bootcamp located in Miami](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-miami) or the [coding bootcamp in Berlin](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany), offering 3 specialties on  different subjects of technology development including a [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). It offers **mentoring for its students for life**, this is scheduling with very experienced alumni to solve personal problems that may arise both in their own project and developing for an external company. All this at no additional cost and even once the course is finished, that is, **for life**. Not only that, but it also offers a system that helps recent graduates find a job and position themselves in a company that is looking for full stack developers, and this too **for life**.
 
 ![4Geeks Academy Logo](https://www.lascondes.cl/files/8505) 
 
-### Essential Skills and Knowledge for Full Stack Developers
+## Common Technologies Used by Full Stack Developers
 
-As explained above, the full stack developer develops both the frontend and the backend of a platform, making communication between them and working together for proper operation.
+The most used languages for front-end development are HTML, CSS and [javaScript](https://4geeks.com/lesson/what-is-javascript-learn-to-code-in-javascript). The latter, unlike the other 2, is a programming language, that is, it can be programmed with, while HTML and CSS are simply code to build something visible, but it does not interact with the user, it does not work. with variables or functions. Within the JavaScript world there are many frameworks, or work structures, that using this language facilitate the development of complex platforms in the easiest way possible. Some of these are Vue.js, Angular, and React. For the backend, languages are generally used to manage databases, such as SQL (the most used), and for all the rest Java, PHP, Ruby and Python.
 
-Therefore, generally for the frontend, **HTML**, **CSS** and **JavaScript** are always used, in addition to the use of a framework that wraps the entire front end based on a work methodology. Some of these frameworks for front are **ReactJS** or **Angular**.
+Full stack developers work with a range of technologies across the front-end and back-end of a web application or platform. Here are some common technologies used by full stack developers:
 
-For the backend part, the use and management of some database language is essential, such as SQL, MySQL or non-relational database languages (noSQL) such as MongoDB, Cassandra, and Couchbase.
-For backend there are also certain frameworks, some of the most popular is the **Python** library called **"Flask"** or **Django**.
+#### 🖥 Front-end Technologies:
 
-A full stack developer should always use at least **one database language, one framework for front-end development and another for back-end**.
+For creating the structure and visual styling of web pages the most used language is **HTML** and [**CSS**](https://4geeks.com/lesson/what-is-css-learn-css). They both work together, the first one in the structure and the second one for the design, colors, fonts and the rest of variables.
 
-One other fundamental skill is using **git** and **gitHub**. Those are **Version Control Systems** that allows to a separated group of people to work together in one single project with many different mechanics, workflows and possibilities that this awsome technology offers.
+After that for creating interactive and dynamic web pages **JavaScript** is the third ingredient, as well as for developing front-end frameworks and libraries like React, Angular, and Vue.
+
+There are also front-end frameworks and libraries, these tools help a lot to get a nice result of the development using popular front-end frameworks and libraries include **React**, **Angular**, **Vue**, and **Bootstrap**.
+
+
+#### 🖥 Back-end Technologies:
+
+Server-side languages: Common server-side languages used by full stack developers include **Java**, **Python**, **Ruby**, **[Node.js](https://4geeks.com/lesson/introduction-to-node-js)**, and **PHP**.
+
+Web servers: Common web servers used in full stack development include **Apache** and **Nginx**.
+
+Databases: Full stack developers work with a variety of databases, including **MySQL**, **MongoDB**, **Oracle**, and **PostgreSQL**. It is important to mention that there are basically 2 types of databases, relational (SQL) and non-relational (non-SQL).
+
+APIs: Full stack developers often create and work with **APIs** (Application Programming Interfaces) that allow different software systems to communicate with each other. An API is a little program used as an intermediary between a server and a user. Data and information can be requested and it responds to be able to use that data.
 
 ### Recommended Learning Resources and Pathways
 
@@ -169,7 +157,7 @@ One other fundamental skill is using **git** and **gitHub**. Those are **Version
 
 + **Key Elements of a Strong Full Stack Developer Resume**: There are 2 very used tools in the tech industry to show your skills and previous works to a company for a job position. The first one is the classic **CV**, where the previous companies are mentioned, projects that have been developed, some references and contacts and the skills that you have learned and that you can offer to the company to which you are applying. 
 
-+ **Developer Portfolio**: The other great tool widely used in these cases is the portfolio. A portfolio is basically a web page where the applicant can physically and specifically demonstrate the projects they have developed by putting links to said pages (if they are not their own), and creating a good experience for the person who will enter said web page. That is where all the creativity of the developer can be embodied. If you want to know more about portfolios and how to build them [click here](https://4geeksacademy.com/us/software-engineer/software-engineer-portfolio).
++ **Full Stack Developer Portfolio**: The other great tool widely used in these cases is the portfolio. A portfolio is basically a web page where the applicant can physically and specifically demonstrate the projects they have developed by putting links to said pages (if they are not their own), and creating a good experience for the person who will enter said web page. That is where all the creativity of the developer can be embodied. If you want to know more about portfolios and how to build them you can check our article about how to create a [Full Stack Developer Portfolio](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-portfolio).
 
 + **Tips for Crafting an Effective Full Stack Developer Job Application**: As an application to any other job it is always important to read the job proposal that is being offered. Understand that a profile is needed with certain skills that I must have in order to contribute. Another good tip is to do a little research on the company you are applying to, understand its market, departments, and basic work system in order to demonstrate professionalism and interest when interviewing. A tip that is typical of **job interviews for technology** development companies is to be logically trained to solve tests that possibly make you solve as a filter. Possibly a problem will arise and a code must be written that solves said problem in a certain time, and for this it is good to have been training the days before the interview. There are many pages with exercises to solve in many different languages for different areas.
 
