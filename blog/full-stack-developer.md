@@ -1,23 +1,21 @@
 ---
 author: "jrdelrio"
-excerpt: "Discover whats does a full stack developers do, how much they earn and learn about all the posibilities that the world of technology offers. Read about some hints to have in mind before taking a bootcamp and applying to jobs."
+excerpt: "Discover what is a full stack developer and what they do, how much they earn and learn about why you should enroll in a full stack bootcamp"
 template: "post"
-title: "Full Stack Developers | What they do, how to become into one and how much money can you earn?"
+title: "What is a Full Stack Developer and what they do?"
+
 ---
 
 ## What is a Full Stack Developer?
 
-In the world of web pages and platforms, there are 2 large blocks that, working together, build the powerful platforms that we use daily, from the simplest pages to very complex social networks. These blocks are called the **front end** and the **back end**. The frontend is the part of web development that is dedicated to the front part of a website, in short, the design of a website, everything that can be seen on the screen and the part of the site with which the user has interaction, from the structure of the site to styles such as colors, backgrounds, sizes to animations, photos, videos, forms to write data and effects.
+A full stack developer is responsible for building, testing, maintaining and managing a web platform in all its aspects, this means both the front-end and the back-end. The front-end is all the content that can be seen on the screen, that is, texts, photos, forms, videos, colors and everything that has direct interaction with the user, on the other hand, the back-end is the part of the platform that is behind, that is, the management of the databases that this page stores, authentication system, password management, data saving, etc. 
+
+Although they are different areas, generally performed by people with different backgrounds using different technological tools, and different techniques, with the great growth that the web world has had in the last 15 years began this career of full-stack, an expert developer in both areas.
 
 >The full stack developer is the person in charge of build, develop, mantain and manage the whole stuff, the front end, with all the design of the website in charge of been friendly, attractive and cool, and the other side, **the backend**.
 
-The backend is the part of web development that ensures that all the logic of a web page works correctly. This is the set of actions that take place on a website but that we **do not see**, this includes communication with the server, saving a user's data, matching the username and password of a profile, and is not responsible for displaying nothing on the screen, but to give consistency to all the data it saves. This also includes everything involved in databases, generally called SQL.
-
-![](https://miro.medium.com/max/800/0*XH3rLskyOsCqVV-j.jpg)
-
-Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 20 years, the demand for front end and back end developers has skyrocketed, leaving many companies without enough people to carry out the projects. Consequently, a new discipline arises that combines both, front and back end, all developed by a single person, we call it **full stack development**. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
+Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 20 years, the demand for front end and back end developers has increased by 135%   companies without enough people to carry out the projects. Consequently, a new discipline arises that combines both, front and back end, all developed by a single person, we call it **full stack development**. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
 A full-stack developer can work in-house (remotely) or at a computer development company that engineers websites, software, and other components for other businesses. This is one of the great advantages of this job, the freedom to physically work from wherever you want, often with flexible hours and good salaries. Basically this is what a **full stack developer** is.
-
 
 ## Skills and Responsibilities of a Full Stack Developer
 
