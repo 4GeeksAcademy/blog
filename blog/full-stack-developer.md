@@ -14,16 +14,15 @@ Although they are different areas, generally performed by people with different 
 
 >The full stack developer is the person in charge of build, develop, mantain and manage the whole stuff, the front end, with all the design of the website in charge of been friendly, attractive and cool, and the other side, **the backend**.
 
-Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 20 years, the demand for front end and back end developers has increased by 135%   companies without enough people to carry out the projects. Consequently, a new discipline arises that combines both, front and back end, all developed by a single person, we call it **full stack development**. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
-A full-stack developer can work in-house (remotely) or at a computer development company that engineers websites, software, and other components for other businesses. This is one of the great advantages of this job, the freedom to physically work from wherever you want, often with flexible hours and good salaries. Basically this is what a **full stack developer** is.
+Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitization in the last 10 years, the demand for front-end and back-end developers has increased by 135% leaving many companies without enough people to carry out the projects. Consequently, a new discipline arises that combines both, all developed by a single person, we call it full stack developer. With this explanation it is easy to define a full stack developer as a developer (or engineer) who can build, maintain and work with both the front end and the back end of a website. Since full-stack developers are involved with all aspects of the development process, they must have expertise in both.
+
+A full-stack developer can work in-house (remotely) or at a computer development company that engineers websites, software, and other components for other businesses. This is one of the great advantages of this job, the freedom to physically work from wherever you want, often with flexible hours and good salaries. Basically this is what a full stack developer is.
 
 ## Skills and Responsibilities of a Full Stack Developer
 
-Because a **full stack developer** works with several disciplines, it is necessary that they have knowledge and know how to work with several **programming languages**.
+Because a full stack developer works with several disciplines, it is necessary that they have knowledge and know how to work with several programming languages. A very important skill for the front-end is the ability to work in a team, because generally the design of the website that the user sees (also called UX) is not done by a full stack developer, but by a digital designer, an expert in aesthetics, user intuition when using the page and the order of the items.
 
-A very important skill for the front-end is the ability to **work in a team** 👥. This is because generally the design of the page to give the user a good experience (we call it UX) is not done by a full stack developer, but by a digital designer, an expert in aesthetics, user intuition when using the page and the order of the items.
-
-Some of the **responsibilities** that a full stack developer has are the following:
+Some of the responsibilities of s full stack developer are:
 
 + **Developing** and, after that, **maintaining** the server-side and client-side components of the web site.
 
@@ -31,7 +30,7 @@ Some of the **responsibilities** that a full stack developer has are the followi
 
 + **Testing and debugging** 🐞: Full stack developers are responsible for ensuring that their code works as it is supposed to, detecting bugs, errors and different kinds of problems. Testing pages is a whole area in development so there are very skilled people working in it, but it is important to have to manage the basic part of it.
 
-+ Staying up-to-date with industry trends and best practices: Full stack developers need to keep abreast of the latest technologies, programming languages, frameworks, and tools in order to ensure that they are using the most effective and efficient solutions for their projects. This is important also because the SEO of a web page is much better if it’s built with good practices.
++ **Staying up-to-date** with industry trends and best practices: Full stack developers need to keep abreast of the latest technologies, programming languages, frameworks, and tools in order to ensure that they are using the most effective and efficient solutions for their projects. This is important also because the SEO of a web page is much better if it’s built with good practices.
 
 
 ### Common Technologies Used by Full Stack Developers
@@ -83,14 +82,9 @@ The Full Stack Developers salary might vary depending on a number of factors, in
 
 It's critical to remember that these variables might change based on the organization and the person. The pay of a full stack developer may also be affected by additional elements like performance and negotiating prowess.
 
-
-
-
 ### Comparison of Full Stack Developer Salaries in Different Locations
 
 Here is a list of some of the average annual salaries per year for full stack developers in 2021:
-
-
 
 | Country        | min yearly | max yearly |
 |:--------------:|:----------:|:----------:|
@@ -103,7 +97,6 @@ Here is a list of some of the average annual salaries per year for full stack de
 | China          | $17,690    | $29,500    |
 
 
-
 It is important to emphasize that the full stack developer salary varies depending on the level you have, and these are basically classified into 3; **Junior**, **Semi-Senior** and **Senior**.
 
 To have in mind the huge difference in salaries in different countries, this table shows the registered minimum, maximum and average salary, depending on the experience of the developer:
@@ -113,7 +106,6 @@ To have in mind the huge difference in salaries in different countries, this tab
 | Junior 👶         | $60,000    | $30,000    | $100,000   |
 | Semi-Senior 👨🏼‍🦰   | $60,000    | $40,000    | $110,000   |
 | Senior 🧓🏼         | $100,000   | $70,000    | $170,000   |
-
 
 ## Full Stack Developer Jobs
 
@@ -146,15 +138,15 @@ These jobs can be found in many different sectors, such as technology, finance, 
 
 ## How to Become a Full Stack Developer
 
-The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* curricula called **bootcamps**.
+The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* curricula called **online bootcamps**.
 
-![](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
+![what is a full stack developer](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
 
 These courses train from scratch anyone who has **no knowledge** of programming or web development into a Junior level full stack developer ready to go out and offer their services to companies. This gives you the opportunity to become a *freelancer* or work *full-time* for a company.
 
 There are many academies running very good bootcamp programs with very good teachers, assistants, infrastructure and very good planned syllabusses, but there are some academies that make a difference by offering some particularities.
 
-An example of these academies is [4Geeks Academy](https://www.4geeksacademy.com/), an academy with face-to-face modality and also online in more than 15 countries with 3 bootcamps in different subjects of technology development. It offers **mentoring for its students for life**, this is scheduling with very experienced alumni to solve personal problems that may arise both in their own project and developing for an external company. All this at no additional cost and even once the course is finished, that is, **for life**. Not only that, but it also offers a system that helps recent graduates find a job and position themselves in a company that is looking for full stack developers, and this too **for life**.
+An example of these academies is [4Geeks Academy](https://www.4geeksacademy.com/), an academy with face-to-face modality and also online with more than 15 locations in different cities like the bootcamp located in Miami or the coding bootcamp in Berlin, offering 3 specialties on  different subjects of technology development including a full stack developer course. It offers **mentoring for its students for life**, this is scheduling with very experienced alumni to solve personal problems that may arise both in their own project and developing for an external company. All this at no additional cost and even once the course is finished, that is, **for life**. Not only that, but it also offers a system that helps recent graduates find a job and position themselves in a company that is looking for full stack developers, and this too **for life**.
 
 ![4Geeks Academy Logo](https://www.lascondes.cl/files/8505) 
 
@@ -195,6 +187,7 @@ Here are some common errors to avoid when submitting applications for positions 
 + Neglecting **soft skills**: Full Stack Developers require outstanding communication skills in addition to their technical expertise.
 
 ### Conclusion
+
 Today there is a great opportunity to enter the world of technology, not only is it cheaper than before, but there are **more possibilities** for academies, modalities and opportunities. To enter alone, it is enough to dedicate yourself for about **6 months** to learn the basics and then go out and offer your services as a Junior developer to contracting companies.
 For this we must always rely on our **CV, application letter and portfolio**, they are our strongest tools, in addition to a good performance during the interview itself, making it natural, simple and being well trained for a possible **technical test**.
 
