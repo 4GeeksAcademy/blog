@@ -1,7 +1,7 @@
 ---
 author: "jrdelrio"
 excerpt: "Discover what is a full stack developer and what they do, how much they make, and learn about why you should enroll in a full stack bootcamp"
-template: "post"
+template: "landing_post"
 title: "What is a Full Stack Developer?"
 
 ---
@@ -116,7 +116,7 @@ These jobs can be found in many different sectors, such as technology, finance, 
 
 The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* called **[online bootcamps](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp)**.
 
-![what is a full stack developer](https://storage.googleapis.com/breathecode-asset-images/6652f240a7412914a05edb4a473dac391c228d6c16c9ddb38d3478cf34df5256.jpg)
+![what is a full stack developer](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
 
 These courses train from scratch anyone who has **no knowledge** of programming or web development into a Junior level full stack developer ready to go out and offer their services to companies. This gives you the opportunity to become a *freelancer* or work *full-time* for a company.
 
