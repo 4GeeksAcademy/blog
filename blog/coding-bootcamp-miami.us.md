@@ -1,3 +1,11 @@
+---
+author: "jrdelrio"
+excerpt: "Learn about the latest Junior Software Engineer salary trends and how to negotiate your pay. Read our comprehensive guide for insights and tips."
+template: "post"
+title: "Junior Software Engineer Salary"
+
+---
+
 Jumpstart Your Tech Career: A Guide to Coding Bootcamps in Miami
 If you are struggling to start your career in tech industry and do not have a computer science degree? A coding bootcamp is a perfect solution for anyone facing this issue. The coding bootcamps provide intensive training in web development, programming languages and other fields related to tech industry and they take less time to complete. In Miami, there are many bootcamps and an aspirant who lives in this city is lucky as there are variety of options to choose from. 
 Miami Coding Bootcamp Options
