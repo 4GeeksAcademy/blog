@@ -1,4 +1,12 @@
-Junior Software Engineer Salary
+---
+author: "jrdelrio"
+excerpt: "Learn about the latest Junior Software Engineer salary trends and how to negotiate your pay. Read our comprehensive guide for insights and tips."
+template: "post"
+title: "Junior Software Engineer Salary"
+
+---
+
+
 Aspiring software engineers are curious about their expected salary in the start of their career. Earning a competitive salary is very important for those who are thinking of working in the promising field of software engineering. There are various factors that influence the pay scale including, the location, experience, and industry. Therefore, knowing the average salary of junior software engineers in different locations and industries is essential. This article covers salary of junior software engineer and examines the average salary in different locations and industries and also tells about the various factors that impact the pay rate. 
 Average Junior Software Engineer Salary
 The location has a great effect on the average salary of junior software engineer. For example, according to Glassdoor the average salary of Junior software engineer in Florida is around 67578 dollars every year which is below the national average salary. It is due to the fact that the cost of living is relatively low in this state compared to others. In Berlin the average salary of junior software engineer is around 45600 euros per year according to PayScale. This is also lower than the average salary of Junior software engineers in other cities of Germany as the cost of living in Berlin is relatively lower than other major cities. 
