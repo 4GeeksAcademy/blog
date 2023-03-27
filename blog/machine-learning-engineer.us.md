@@ -9,9 +9,11 @@ title: "Machine Learning Engineer: A Highly Demanded Career Path"
 If you are someone, who is looking for a career path that combines the passion for technology, innovation and problem solving, then becoming a machine learning engineer is the best choice for you! In today’s digital world, data has become the most precious and valuable resource. Many companies are searching for these professionals as they can help them to make better decisions by extracting the data from their company’s insights. The machine learning engineers can design, develop and implement machine learning algorithms to solve complicated issues. In this article, machine learning engineer career job outlook is briefly discussed. 
 
 ## What Is a Machine Learning Engineer?
+
 A machine learning engineer is a professional who has the skills in Programming language, computer science, and statistics. They build and deploy machine learning models that learn from data to make the predictions. Their key role is to implement the algorithms that have the ability to analyze and process data that is of large amount, along with identifying the patterns and make the predictions based on the patterns already discovered. They also optimize these algorithms so that its proficiency and efficiency can be improved. Moreover, they collaborate with other software developers, data scientists and stakeholders to ensure that the integration of machine learning models is done smoothly into the existing systems.  
 
 ## Machine Learning Engineer Job Outlook
+
 There is an increased demand for machine learning engineers and it is expected to continue its growth in the future. The national average salary of a machine learning engineer is $ 112,992 per year in US. It is the highest paid job salary in the tech industry. The outlook of the job is also promising. The Bureau of Labor Statistics have already predicted the growth rate of information research scientists from 2019 to 2029, including machine learning engineers. 
 How to Become a Machine Learning Engineer?
 1.	To become a machine learning engineer, it is important to have a degree in Computer Science, Mathematics, Statistics or related field: 
@@ -30,6 +32,7 @@ The latest trends and developments of machine learning can be developed by atten
 These steps provide the better knowledge of the steps required to avail a great machine learning engineer career. It is a rewarding career with great challenges, however, hard work and dedication can help you to succeed. 
 
 ## What Does a Machine Learning Engineer Do?
+
 1.	Data cleaning and preparation:
  Data cleaning is the process of identifying and fixing errors, missing out values and other irregularities in the data and the data processing is process of formatting it for the analysis purpose. 
 2.	Feature engineering:
@@ -44,5 +47,6 @@ After testing and evaluation the model, the machine learning engineers integrate
 After deployment, the machine learning engineers check and monitor its performance and make the required changes. They retrain, update and make necessary changes to improve the performance of the model.  
 
 ## Conclusion
+
 In conclude, the rapidly increasing demand of machine learning engineers is due to the importance of data in the digital world. The machine learning engineers design, implement and analyze machine learning algorithms to process the large amount of data. They identify patterns, optimize the algorithms and make the predictions. The machine learning engineer’s professional career is very promising and its salary is $112992 every year in US. The aspirants of machine learning engineer should have a proper knowledge of programming language, a degree of computer science statistics, or mathematics, create a good portfolio, have a professional experience and stay up to date with the latest trends of machine learning. The key responsibilities of machine learning engineer are the preparation and cleaning of data, model selection and training, feature engineering, deployment and monitoring. The professional career of machine learning engineer rewarding and the path required dedication and hard work as it is challenging, However, it offers professional growth and provides great opportunities. 
 
