@@ -53,7 +53,7 @@ Last but not least, the position as a software developer pays well, according to
 Most job applications require a level of certification to validate your skills, here we pinpoint a few things you must keep in mind while looking for a great program certification:
 
 - The importance of figuring out what industry you'd like to work in, sports, health, development, etc.
-- What role looks appealing to you? Frontend developer? Backend developer? Full-stack developer?  
+- What role looks appealing to you? Frontend developer? Backend developer? [Full-stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer)?  
 - Once you have that clear, find out what skills the role demands
 - How much time are you willing to dedicate to your learning path?
 - Finally, look for the certification that fulfills your expectations: time-based, skills knowledge you are looking for that particular position and drives you to practice a lot and build a strong portfolio so at the end of your program you have a solid foundation to apply to your dream job, most popular online portfolios include: GitHub, Behance, and LinkedIn Pages.
@@ -89,5 +89,3 @@ Source: LinkedIn
 So I have two questions for you, are you a passionate problem solver, logical thinker, and fan of technology? Are you looking for a fresh start or an upgrade to your current career?
 
 If so, [click here](https://4geeksacademy.com) and check out our programs and certifications (: 
-
-
