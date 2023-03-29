@@ -76,7 +76,7 @@ A bootcamp has the characteristic of being very demanding in terms of the speed 
 
 ## Salaries for Coding Bootcamp graduates in Berlin
 
-The average [salary for bootcamp graduates in Berlin](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary-germany) depends on the specific program, industry area, and the individual's level. However, a full-stack developer in Berlin, just graduate can expect to earn around **€60,000 - €80,000** per year and senior positions offering salaries upwards of **€100,000**.
+The average [salary for bootcamp graduates in Berlin](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary-germany) depends on the specific program, industry area, and the individual's level. However, a [full-stack developer](https://admin.4geeks.com/media/asset/full-stack-developer-portfolio) in Berlin, just graduate can expect to earn around **€60,000 - €80,000** per year and senior positions offering salaries upwards of **€100,000**.
 
 
 ## Job Opportunities in Berlin's Tech Industry
