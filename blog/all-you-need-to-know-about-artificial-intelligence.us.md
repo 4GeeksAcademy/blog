@@ -59,7 +59,7 @@ So, what to do with all of this information? Don’t worry, we saved the best fo
 6. Software Developer - $95.000 USD
 7. Software Architect - $135,107 USD
 8. Senior Data Scientist - $127,500 USD
-9. Full Stack Developer - $108,730 USD
+9. [Full Stack Developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) - $108,730 USD
 10. Principal Software Engineer - $155,000 USD
 
 One thing we are certain of, the future will be all about AI, Software Devs, Cloud, and Data.
