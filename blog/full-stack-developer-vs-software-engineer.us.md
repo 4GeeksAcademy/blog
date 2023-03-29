@@ -6,7 +6,7 @@ title: "Full Stack Developer vs Software Engineer"
 
 ---
 
-When it comes to Software development mainly two terms are used which are software engineer and [full stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). However, they differ in their duties and provided salaries. Let us examine in detail the key differences on the basis of their salaries and responsibilities, so that it can become easier for you to anticipate getting after taking any one of these positions. 
+When it comes to Software development mainly two terms are used which are software engineer and [full stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer). However, they differ in their duties and provided salaries. Let us examine in detail the key differences on the basis of their salaries and responsibilities, so that it can become easier for you to anticipate getting after taking any one of these positions. 
 
 ## Difference between Full Stack Developer vs. Software Engineer
 
@@ -16,7 +16,7 @@ When it comes to Software development mainly two terms are used which are softwa
 
 ## Work Content for Full Stack Developers vs. Software Engineers
 
-The work content can also differ as we already discussed, the full stack developers primary focus is on web development. They mainly work on creating the UI, development of server side logistics using Ruby, Python, or Node.js languages. Also they work on front end code by using HTML, CSS, and JavaScript. Their key role is to manage the database so that web development could work smoothly.  On the other hand, the software engineer's work is not limited to web development and can work on a wide range of projects. Their work includes software applications for mobiles and desktop computers. Typically, their work will be designing, testing the software, and using programming languages such as C++, [Python](https://4geeks.com/technology/python), and Java.
+The work content can also differ as we already discussed, the full stack developers primary focus is on web development. They mainly work on creating the UI, development of server side logistics using Ruby, Python, or Node.js languages. Also they work on front end code by using HTML, CSS, and JavaScript. Their key role is to manage the database so that web development could work smoothly, if you want to increase your knowledge in any of the languages previously mentioned, you should definitely try a [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) by 4Geeks Academy.  On the other hand, the software engineer's work is not limited to web development and can work on a wide range of projects. Their work includes software applications for mobiles and desktop computers. Typically, their work will be designing, testing the software, and using programming languages such as C++, [Python](https://4geeks.com/technology/python), and Java.
 
 ## Salary for Full Stack Developers vs. Software Engineers
 
