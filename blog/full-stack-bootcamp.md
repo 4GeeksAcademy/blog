@@ -31,7 +31,7 @@ At [4Geeks Academy](https://4geeksacademy.com/), for example, students are taugh
 
 ## Benefits of Attending a Full Stack Bootcamp
 
-With the tremendous growth of web development that we have experienced for over 15 years, the demand for *Front End*, *Back End* and *Full Stack* developers have grown very strongly. The number of offered jobs by this market is enormous and extends to practically every country in the world.
+With the tremendous growth of web development that we have experienced for over 15 years, the demand for *Front End*, *Back End* and [*Full Stack* developers](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) have grown very strongly. The number of offered jobs by this market is enormous and extends to practically every country in the world.
 
 > As per a report by Labor-Statistics-US Bureau, jobs for full-stack developers will exceed 853,000 by 2024.
 
