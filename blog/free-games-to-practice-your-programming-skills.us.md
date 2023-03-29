@@ -47,5 +47,5 @@ Want to know more? Here is our top 5 games you can play to practice your program
 
 ![coding.png](https://storage.googleapis.com/media-breathecode/cdbe245edb2c76ec241f1426a39fa7d454850e4e44f17d6a6be9d0d3f9e043f6)
 
-We hope you enjoy playing these games and that they help you to strengthen your coding skills! To learn more about these programming languages and career opportunities as a Full-Stack Software Developer or Machine Learning Engineer [click here](https://4geeksacademy.com/) and check out our programs!
+We hope you enjoy playing these games and that they help you to strengthen your coding skills! To learn more about these programming languages and career opportunities as a [Full-Stack Software Developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) or Machine Learning Engineer [click here](https://4geeksacademy.com/) and check out our programs!
 
