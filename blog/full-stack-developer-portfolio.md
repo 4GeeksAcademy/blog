@@ -8,7 +8,7 @@ title: "Full Stack Developers | Salaries around the world and how to build your 
 
 A portfolio is a self build tool, where you can show and expose your completed projects and works. It does not focus on educational titles or jobs previous experience, but on showing, with evidence, what the developer can really do.
 
-Do not confuse the portfolio with the resume: The full stack developer resume (or CV) is the place to showcase academic achievements, certifications and diplomas that support your learning, experience in previous companies, etc.
+Do not confuse the portfolio with the resume: The [full stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) resume (or CV) is the place to showcase academic achievements, certifications and diplomas that support your learning, experience in previous companies, etc.
 
 ## The format and layout for a developer portfolio
 
