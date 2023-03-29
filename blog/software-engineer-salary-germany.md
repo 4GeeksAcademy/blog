@@ -67,7 +67,7 @@ No previous coding experience required, they teach you through online classes in
 Getting started is easier and cheaper than any other Coding Bootcamp. At 4Geeks Academy, there will always be someone to guide you in how to grow in technology: mentors, colleagues and business partners.
 
 > This newly launched 4-month bootcamp is available in over 10 countries and is here to stay in Europe strengthening its ecosystem to learn and grow with its students, using technology, using code.
-> You can become a [**Full Stack Developer**](https://4geeksacademy.com/us/coding-bootcamps/full-time-full-stack-developer) by learning the most in-demand skills (like JavaScript, Python, React, etc.) with passionate instructors and hands-on syllabus to help you get a job coding as a junior developer.
+> You can [become a **Full Stack Developer**](https://4geeksacademy.com/us/coding-bootcamps/full-time-full-stack-developer) by learning the most in-demand skills (like JavaScript, Python, React, etc.) with passionate instructors and hands-on syllabus to help you get a job coding as a junior developer.
 
 Or become a [**Software Engineer**](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) by diving into cloud computing and applications, learning skills that 90% of Fortune 500 list is looking for. Or up to an [**AI/Machine Learning Engineer**](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) by developing the necessary tools to upskill for the future of AI work.
 
