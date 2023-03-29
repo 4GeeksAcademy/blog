@@ -15,43 +15,25 @@ featured: true
 ## HOW TO PAY FOR A CODING BOOTCAMP
 
 
-
-
-Pricing and the options to pay for a quality program such as the 4Geeks (whether [full-stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) or [machine learning](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) or the [data science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning/?lang=en)), it’s just of a fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle. 
-
-
+Pricing and the options to pay for a quality program such as 4Geeks (whether a [full-stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) or [machine learning](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) or the [data science](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning/?lang=en)), it’s just of a fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle. 
 
 
 In general terms, pricing is an obstacle for top quality education. Every now and then I realize how important is to talk about how are we capable of offering the program at such a spectacular tuition fee. To be honest, we just can, and we just keep getting better at it. Not only our program gets better, more awarded, and increases credibility over the years, but also we are capable of improving access to education for our students. 
 
 
-
-
 Recently, we posted some news regarding a new [scholarship at 4Geeks Academy](https://4geeksacademy.com/us/apply) available for those unemployed or underpaid, and someone on social media said: “That’s impossible, it has to be a Scam”. I couldn’t believe it. We are achieving a level of support that’s almost unbelievable for some.  I do understand why it creates that feeling in someone that is not aware of the things we are doing to improve their chances to get the best coding education possible for a fraction of the cost of a regular program in the US (or worldwide).
-
-
-
 
 Now I just remembered how important it is to share, in detail, every option or scholarship or payment plan available for those who are looking to change their life with coding and 4Geeks. 
 
 
-
-
 The main question remains the same: how to enroll/get admitted into a premium quality [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) without compromising your present and future? In this case, how to pay for a worldwide awarded coding program?
-
-
-
 
 ## How to apply if you are Unemployed or Underemployed 
 
 We have partnered with [Clark University](https://www.clarku.edu/) to offer and bring their Tech Booost Program to 4Geeks Academy students. If you have a work permit in the US and you are unemployed or underemployed (ask for clarifications if needed, but look below for more info), you can get a scholarship for up to $4000 that will be applied to your tuition at 4Geeks. 
 
 
-
-
 It can be applied to any of pur programs. For example, if you are applying to [become software developer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp/?utm_source=careerkarma&utm_campaign=careerkarma) (full-stack program), and you get accepted as part of the Tech Boost Scholarship Program (you can apply here), your tuition will be reduced $4000. That means that if you enroll now (by the moment we posted this article, our tuition for the whole program is equal to $9999), you could only pay $5999 for everything that we offer at 4Geeks:
-
-
 
 
 *  Unlimited Career Support
