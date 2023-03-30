@@ -3,6 +3,7 @@ author: "alesanchez"
 excerpt: "Un curso puede ser realizado por cualquiera, pero pocos tenemos la noción de saber cual nos conviene, cual nos sirve y cual necesitamos"
 template: "post" 
 title: "Curso programación"
+
 --- 
 
 La industria del diseño de sistemas computarizados y servicios relacionados ha sido uno de los campos con mayor crecimiento de las últimas décadas. Este desarrollo monumental es debido a que esta industria se ha integrado en muchos de los procesos de automatización relevantes a cualquier negocio, sean procesos de manufactura o informáticos. Debido a esto, los empleos en el área de programación son tan abundantes y con buena paga, es un oficio esencial y que necesita de un trabajador especializado en el área. Después de leer esto, podrías pensar que no cualquiera es capaz de hacer este trabajo, pero la verdad es que aprender programación nunca había sido más fácil que hoy en día. La cantidad de recursos gratuitos disponibles es masiva y accesible a cualquier persona interesada que cuente con una computadora y la motivación para hacerlo. 
