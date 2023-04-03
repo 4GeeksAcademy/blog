@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Preparing for a full stack developer interview? Make sure you're ready with our list of full stack developer interview questions to help you land your dream job."
+excerpt: "Discover the exciting world of a Machine Learning Engineer! Learn how they use data to create intelligent systems that drive real-world impact."
 template: "post" 
 title: "Machine Learning Engineer: A Highly Demanded Career Path"
 
