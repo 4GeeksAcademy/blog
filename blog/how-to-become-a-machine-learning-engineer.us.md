@@ -47,7 +47,7 @@ As the field of machine learning is rapidly evolving, the only way to succeed is
 Having skills in programming language and machine learning libraries can prove to be very beneficial and help to excel in machine learning field. [Pytho](https://)n, R and [Java](https://4geeks.com/lesson/what-is-java-learn-to-code-in-java) should be learn along with the libraries of TensorFlow and Scikit-learn.
 
 #### Participate in Kaggle competitions: 
-The Kaggle is the platform where data science competitions are held. It provides opportunity to improve the skills of machine learning and to gain exposure to the real world problems. To become a top machine learning engineer, a professional should participate in Kaggle. 
+The Kaggle is the platform where data science competitions are held. It provides opportunity to improve the skills of machine learning and to gain exposure to the real world problems. To become a top machine learning engineer, a professional should participate in [Kaggle](https://www.kaggle.com/). 
 
 #### Build a portfolio: 
 Portfolio building can help to showcase the skills and experience in machine learning field. Top machine learning engineers must have a good portfolio that will help them to ace in this promising profession. 
