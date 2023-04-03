@@ -18,7 +18,7 @@ There is an increased demand for machine learning engineers and it is expected t
 
 ### How to Become a Machine Learning Engineer?
 
-1.	To become a machine learning engineer, it is important to have a basic knowledge of Computer Science, Mathematics, Statistics or related fields, a [Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) can help you to increase your skills in all the previous fields. 
+1.	To become a machine learning engineer, it is important to have a basic knowledge of Computer Science, Mathematics, Statistics or related fields, a [Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) can help you to increase your skills in all the previous fields. 
 2.	Gaining the experience in programming languages is important:
 Gaining the experience in programming languages such as [Python](https://), Java, or C++ is important for machine learning as it helps to understand the data structures and algorithms. They are the fundamental concepts of machine learning. 
 3.	Online courses or attending bootcamps helps in machine learning: 
