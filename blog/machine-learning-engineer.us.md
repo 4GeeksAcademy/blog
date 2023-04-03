@@ -15,7 +15,9 @@ A machine learning engineer is a professional who has the skills in Programming 
 ## Machine Learning Engineer Job Outlook
 
 There is an increased demand for machine learning engineers and it is expected to continue its growth in the future. The national average salary of a machine learning engineer is $ 112,992 per year in US. It is the highest paid job salary in the tech industry. The outlook of the job is also promising. The Bureau of Labor Statistics have already predicted the growth rate of information research scientists from 2019 to 2029, including machine learning engineers. 
-How to Become a Machine Learning Engineer?
+
+### How to Become a Machine Learning Engineer?
+
 1.	To become a machine learning engineer, it is important to have a degree in Computer Science, Mathematics, Statistics or related field: 
 Earning a bachelor degree in computer Science, mathematics, statistics or any related field is very important as it provides strong foundation for machine learning profession. It helps in programming, Data structures, algorithms and mathematics, which are very important skills for machine learning. 
 2.	Gaining the experience in programming languages is important:
