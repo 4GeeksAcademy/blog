@@ -1,4 +1,10 @@
-Best Online Coding Bootcamp
+---
+author: "alesanchezr"
+excerpt: "Looking for the best online coding bootcamp? Our top-rated program offers expert instruction and personalized support to help you launch your career in tech. Enroll today!"
+template: "post"
+title: "Best Online Coding Bootcamp"
+
+---
 
 Who said that stepping into the software and web development world require you to study for four years? Well, even if you do, what’s the point of reading the slides rather than coding?
 Web and software development are practice-based skills, making bootcamps a great way of learning the professional skills at a quicker rate. 
