@@ -93,7 +93,7 @@ No importa si estudias un [curso de programación](https://4geeksacademy.com/es/
 
 Una de las grandes comunidades de programadores, StackOverflow, realiza todos los años una encuesta entre sus miembros. En esta encuesta se puede conocer según los encuestados, entre otros aspectos: cuáles son tecnologías más populares, cuáles son las preferidas y temidas, con cuáles han trabajado y quieren trabajar, y qué remuneraciones están ligadas a diferentes tecnologías.
 
-Según esta comunidad de programadores, JavaScript, HTML/CSS y Python conforman el top 3 de tecnologías en cuanto a uso, es decir, son las más populares. Estas herramientas sonla base fundamental de cualquier programador y por eso, quien esté aprendiendo a programar desde cero debe considerar estas tres tecnologías como el punto de partida de una carrera en tecnología.
+Según esta comunidad de programadores, JavaScript, HTML/CSS y [Python](https://4geeks.com/technology/python) conforman el top 3 de tecnologías en cuanto a uso, es decir, son las más populares. Estas herramientas sonla base fundamental de cualquier programador y por eso, quien esté aprendiendo a programar desde cero debe considerar estas tres tecnologías como el punto de partida de una carrera en tecnología.
 
 ### HTML/CSS
 
