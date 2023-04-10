@@ -145,7 +145,7 @@ Además de ser parte del kit de inicio en el mundo de la programación, también
 
 ## ¿Qué significa convertirse en un fullstack developer?
 
-Si ya te has convencido sobre lo importante y poderoso que es aprender a programar, ahora demos un vistazo a qué significa ser un desarrollador full stack.
+Si ya te has convencido sobre lo importante y poderoso que es aprender a programar, ahora demos un vistazo a qué significa ser un [desarrollador full stack](https://4geeksacademy.com/es/full-stack-developer/desarrollador-full-stack).
 
 La programación es un campo muy amplio en el que hay varias formas de especialización. Si lo deseas, puedes especializarte en algún lenguaje, pero hay caminos profesionales muy diversos en la programación, y acá te mencionamos algunos de ellos:
 
