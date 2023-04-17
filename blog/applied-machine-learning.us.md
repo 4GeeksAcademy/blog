@@ -1,8 +1,16 @@
-Applied Machine Learning
+---
+author: "4GeeksAcademy"
+excerpt: "Discover the power of Applied Machine Learning with our comprehensive course. Learn practical techniques to tackle real-world problems. Enroll now!"
+template: "post"
+title: "Applied Machine Learning by 4Geeks Academy"
+
+---
+
 Tech is growing, which means we will be welcoming a lot of new disciplines, and Applied Machine Learning is one of them. 
 AML is basically the field of AI and helps create teaching systems that can learn from information and data provided to them. Astonishing, right? But it’s only the beginning!
 This means that systems will be able to improve their own, and programmers won’t have to write new codes. It wouldn’t be wrong to say that it’s pretty efficient and will become a thriving field for programmers. 
 So, if you are an enthusiast, we are reviewing the Applied Machine Learning Course by 4Geeks Academy!
+
 What Is 4Geeks Academy?
 First things first, you need to know about the academy you are joining, right?
 This is a licensed platform and is considered one of the best, and results-driven boot camps out there. They tell people how to code and learn the art of methodology and programming, so everyone can enjoy a career boost. 
