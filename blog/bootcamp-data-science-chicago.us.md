@@ -1,4 +1,11 @@
-Bootcamp Data Science Chicago
+---
+author: "4GeeksAcademy"
+excerpt: "Join our Data Science Bootcamp in Chicago and gain the skills you need to succeed. Hands-on training, expert instructors, and a supportive community await! Apply now."
+template: "post"
+title: "Best Bootcamp Data Science Chicago"
+
+---
+
 Haven’t we all seen the advent of technology in the past few years? Ranging from AI to Machine Learning, every niche is booming, but let’s not forget about Data Science.
 Data Science is all about statistics and mathematics, and it’s all about learning advanced analytics, AI, specialized programming, and Machine Learning. 
 That’s because it’s all about extracting meaningful insights for the clients and business. So, if you want to dip your toes in this niche, we are talking about Data Science Bootcamp by 4Geeks Academy because it’s the most effective and practical learning experience!
@@ -40,5 +47,3 @@ The Bottom Line
 The bottom line is that if you were looking for the best Data Science boot camps in Chicago, we are sure you will love the one by 4Geeks Academy. It’s interactive and promises a real-time learning experience because everyone deserves to enjoy learning, right?
 However, this isn’t everything because even after you are graduated, you can get a mentorship (yes, your mentor will always be there), so you can navigate through the coding problems with professional help. 
 On top of everything, every student gets employment help, which helps you secure a nice job as they can help with resume-building as well as interviews!
- 
-
