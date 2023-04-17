@@ -6,8 +6,7 @@ title: "Applied Machine Learning by 4Geeks Academy"
 
 ---
 
-Tech is growing, which means we will be welcoming a lot of new disciplines, and Applied Machine Learning is one of them. 
-AML is basically the field of AI and helps create teaching systems that can learn from information and data provided to them. Astonishing, right? But it’s only the beginning!
+Tech is growing, which means we will be welcoming a lot of new disciplines, and Applied Machine Learning is one of them. Applied Machine Learning d of AI and helps create teaching systems that can learn from information and data provided to them. Astonishing, right? But it’s only the beginning!
 This means that systems will be able to improve their own, and programmers won’t have to write new codes. It wouldn’t be wrong to say that it’s pretty efficient and will become a thriving field for programmers. 
 So, if you are an enthusiast, we are reviewing the Applied Machine Learning Course by 4Geeks Academy!
 
