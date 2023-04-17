@@ -1,8 +1,8 @@
 # 4GeeksAcademy partners with Co.Lab
 
-After the completion of a structured program like a [coding bootcamp](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-miami) like 4GeeksAcademy, it can be difficult for graduates to stay consistent in continuing to further their programming portfolio on their own. Standing out among peers is also a challenge, which impacts confidence during the job search. The catch-22 of needing a job to get a job is especially real for junior tech talent and those pivoting from other careers. 
+After the completion of a structured program like a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) like 4GeeksAcademy, it can be difficult for graduates to stay consistent in continuing to further their programming portfolio on their own. Standing out among peers is also a challenge, which impacts confidence during the job search. The catch-22 of needing a job to get a job is especially real for junior tech talent and those pivoting from other careers. 
 
-4Geeks has partnered with Co.Lab to tackle this issue head-first.
+4Geeks Academy [coding bootcamp in miami](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-miami) has partnered with Co.Lab to tackle this issue head-first.
 
 ## Simulating Real-World Tech Environment
 
