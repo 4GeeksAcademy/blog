@@ -44,7 +44,7 @@ You will love deploying the Machine Learning strategies, we promise (did we ment
 
 Now that you know how exciting the course is, you must be wondering about the campuses. Well, there are online sessions available with self-paced lectures and one-on-one mentoring. However, if you want to go on the campus, there are [campuses in Toronto](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-toronto-canada), Orlando, and Miami. In case you are in Europe, you can take on-campus classes in Madrid, Barcelona, Malaga, Valencia, Lisbon, Munich, Dublin, Berlin, Roma, Milan, and more.
 
-What we love about 4Geeks Academy is that there are on-campus sessions available in Latam, including Venezuela, Chile, Bolivia, Mexico, Colombia, Costa Rica, Argentina, Panama, Uruguay, and Ecuador.
+What we love about 4Geeks Academy is that there are on-campus sessions available in Latam, including Venezuela, Chile, Bolivia, Mexico, Colombia, Costa Rica, Argentina, Panama and Uruguay.
 
 Don’t we all feel lost at some point in our careers? Well, with 4Geeks Academy, that’s not a problem. This is because everyone who joins the boot camp will get an instant membership, so you can get a mentor and lifetime support.  There is also [GeekForce](https://4geeksacademy.com/us/geekforce-career-support), with which their graduates get employment coaching (yup, you will be taught how to land a job with 401k!).
 
