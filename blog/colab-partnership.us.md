@@ -1,4 +1,10 @@
-# 4GeeksAcademy partners with Co.Lab
+---
+author: "4GeeksAcademy"
+excerpt: "4GeeksAcademy partners with Co.Lab and now graduates can get a guaranteed spot in Co.Lab’s program"
+template: "post"
+title:  "4GeeksAcademy partners with Co.Lab"
+
+---
 
 After the completion of a structured program like a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) like 4GeeksAcademy, it can be difficult for graduates to stay consistent in continuing to further their programming portfolio on their own. Standing out among peers is also a challenge, which impacts confidence during the job search. The catch-22 of needing a job to get a job is especially real for junior tech talent and those pivoting from other careers. 
 
