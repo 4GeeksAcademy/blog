@@ -31,7 +31,7 @@ Solving real-world problems is the ultimate way of learning how data can help yo
 
 ### Decision Tree Learning
 
-This is all about learning the decision tree algorithms, so you can learn the classifications in depth. In addition, you will learn how a node will be split up while using entropy and indexes. Also, you can learn R, [Phyton](https://4geeks.com/technology/python), and Azure.
+This is all about learning the decision tree algorithms, so you can learn the classifications in depth. In addition, you will learn how a node will be split up while using entropy and indexes. Also, you can learn R, [Python](https://4geeks.com/technology/python), and Azure.
 
 ### Boosting
 
@@ -42,23 +42,11 @@ The students will be able to learn fundamental boosting techniques. In addition,
 
 Contrary to other boot camps where you are left to figure out stuff on your own, [4Geeks Academy](https://4geeksacademy.com/) has added experimentation and testing models as well. You will be able to conduct multivariate as well as A/B testing. The best thing is that experimentation and testing are fully online, so everyone has a hands-on experience.
 
-### Schedule
-
-When it comes down to the schedule, many students don’t join because they cannot commit full-time. Well, the good time is that there are part-time and full-time options available for students. The full-time option is available for people who like studying daily (three classes a week), and part-time is good if you want to learn after the job time.
-
-## Fee
-
-4Geeks Academy has set a different price for the boot camp, depending on if you want to learn full-time or part-time. In addition, the fee is different for every location. However, if you cannot afford the fee, you can have a scholarship and study the course for free or with discounts. The best option is the ISA, with which you will start paying the fee when you get a job (yes, you can learn for free). This is a great option for full-time students as they only have to pay a small deposit before starting the bootcamp and then wait for the job before they’ve to start paying again. It seems like they have full trust in their bootcamp!
-
-### Interview
-
-Now, many people don’t know this, but the students are interviewed before they are allowed to participate in the bootcamp (nope, it’s not about paying the fee only). The interview usually includes a discussion on your education, experience, career ambitions, your passion for coding, and similar stuff.
-
 ## Why Is It Better Than The Others?
 
 It’s only wise to question why you should choose 4Geeks Academy over the other bootcamps. To begin with, you can get employment and career coaching, unlike other bootcamps that ask you to figure it all on your own. In addition, we love how 4Geeks Academy has a scholarship available, so students can learn for free if they don’t have the means. All this, along with exceptional course material, so why not? To make your decision more concrete, we are sharing the differences between 4Geeks Academy and other bootcamps!
 
-	4Geeks Academy 	Other Bootcamps 
+4Geeks Academy 	Other Bootcamps 
 Hiring Rates	85%	70% to 75% 
 Response Time By Instructors 	15 minutes or less 	Never specified 
 Career Support (Employment) 	Lifetime 	Only until graduation 
