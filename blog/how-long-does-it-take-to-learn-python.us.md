@@ -44,7 +44,7 @@ We’ve been mentioning the factors that affect how long to master Python, so le
 
 ### Previous Programming Experience
 
-Whether you’ve worked with Javascript or C++, previous knowledge of coding languages plays a huge role in how quickly you’ll pick up Python. After all, coding languages are pretty similar, even if specific syntax and application tend to play out differently. It’s like normally learning a new language - you’ll learn the ones from the same family far easier, especially those with essential similarities. For example, for an English speaker, Germanic languages like Norwegian (which even has similar words and pronunciation) would be easiest to learn. Similarly, for coding, having a basic understanding of other coding languages makes Python easier to learn, too.
+Whether you’ve worked with [Javascript ](https://4geeks.com/lesson/what-is-javascript-learn-to-code-in-javascript)or C++, previous knowledge of coding languages plays a huge role in how quickly you’ll pick up Python. After all, coding languages are pretty similar, even if specific syntax and application tend to play out differently. It’s like normally learning a new language - you’ll learn the ones from the same family far easier, especially those with essential similarities. For example, for an English speaker, Germanic languages like Norwegian (which even has similar words and pronunciation) would be easiest to learn. Similarly, for coding, having a basic understanding of other coding languages makes Python easier to learn, too.
 
 ### Learning Method
 
@@ -61,7 +61,6 @@ Of course, there are other methods as well, but the ones outlined above tend to 
 
 Where you learn this language tends to impact your attention span, which can either reduce or increase the time it’ll take for you to learn. For example, a classroom setup can offer you the structure and focus more informal environments might not be able to provide. On the other hand, other options might allow you to earn more practical experience, which isn’t as easy with standardized classroom experiences.
 
-
 ### Frequency of Practice
 
 Practice, practice, practice! For any skill in the world, this is pretty much the one concept that reigns the same across industries, people, and even subjects. The more you code in Python and use the syntax, the more you’ll get used to working with it, and the faster you’ll be able to adopt the skills. Practicing with it for a few hours daily can give you the boost needed to speed up your learning process.
@@ -75,22 +74,22 @@ Lastly, but definitely not least, you’ll need to be dedicated to the language 
 Python has incredible popularity and prospects in professional fields, and it’s also recommended as one of the easier programming languages for beginners to learn. Here are a few other reasons why you might end up wanting to learn Python:
 
 ●      It’s an in-demand career skill, especially these days when the economy is majorly in IT.
-●      It’s versatile and has a LOT of applications - some even go beyond using Python as a job skill. In fact, you can use it to automate tasks, develop websites, and analyze data for your regular job (which isn’t programming-related).
+●      It’s versatile and has many applications, some even go beyond using Python as a job skill. In fact, you can use it to automate tasks, develop websites, and analyze data for your regular job (which isn’t programming-related).
 ●      It has a huge community of learners and programmers who are always willing to help out.
-●      It’s simple to learn - especially for beginners - since it has clean syntax and easy-to-memorize concepts.
+●      It’s simple to learn, especially for beginners since it has clean syntax and easy-to-memorize concepts.
 
 ## What jobs are available for Python programmers?
 
 To be honest, considering the versatility of this programming language, you can use it in countless aspects of modern life. Still, there are a few pretty popular and in-demand jobs that might interest you, so let me list out the fields in which you can get a position with experience in programming with Python:
 
 ●      Data analysis and visualization
-●      Machine learning
-●      Web development
-●      Task automation
+●      [Machine learning engineering](https://4geeksacademy.com/us/machine-learning-engineer/machine-learning-engineer)
+●      Task Automation
+●      [Full Stack Development](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer)
 ●      Cloud Computing
 
-These aren’t all of the possible options for you, so don’t take it as the end-all. You can always do more research or surf the web on LinkedIn to discover who wants to hire a Python programmer - we can guarantee it’ll be quite a large number of people. After all, the software development industry is expected to experience a substantial increase in demand, with projections showing a 25% growth rate between 2021 and 2031, as per the U.S. Bureau of Labor Statistics.
+These aren’t all of the possible options for you, so don’t take it as the end-all. You can always do more research or surf the web on LinkedIn to discover who wants to hire a Python programmer, we can guarantee it’ll be quite a large number of people. After all, the software development industry is expected to experience a substantial increase in demand, with projections showing a 25% growth rate between 2021 and 2031, as per the [U.S. Bureau of Labor Statistics](https://www.bls.gov/).
 
-As you can see, how long to learn Python doesn’t really have a clear-cut answer because it all depends on various factors - whether you’re learning from scratch, whether you want a job, where and how you’re learning it, and so on. But rough estimates put the learning process for fundamentals at a few months, while mastery can take a few years.
+As you can see, how long to learn Python doesn’t really have a clear-cut answer because it all depends on various factors, whether you’re learning from scratch, whether you want a job, where and how you’re learning it, and so on. But rough estimates put the learning process for fundamentals at a few months, while mastery can take a few years.
 
-Still, one thing everyone can be sure about is that learning Python requires dedication, motivation, and practice, and if you’ve got all three in spades, you’re ready to take on the world! After all, what’s more, useful than an easy-to-learn programming language in a world that’s shifting increasingly online?
+Still, one thing everyone can be sure about is that learning Python requires dedication, motivation, and practice, and if you’ve got all three in spades, you’re ready to take on the world!
