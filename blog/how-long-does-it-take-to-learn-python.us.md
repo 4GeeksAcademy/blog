@@ -7,12 +7,6 @@ Python is a coding language that’s taking the world by storm - and the questio
 The short answer is that learning Python can take from a few weeks to a few months, or - especially if you intend to master it may take quite a few years even. It all depends on to what extent you want to learn.
 
 
-Alt text: how long does it take to learn python?
-
-
- https://www.istockphoto.com/photo/python-programming-language-computer-source-code-text-example-close-up-on-a-blue-gm1411610324-461375804?phrase=python%20programming
-
-
 A shorter time frame only works if you’re looking for a basic understanding of the coding language. If you’re aiming to master it, however, you’ll need a little more time, especially with how much the language has evolved in recent years.
 
 
