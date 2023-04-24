@@ -1,3 +1,11 @@
+---
+author: "4GeeksAcademy"
+excerpt: "Discover the answer to the burning question: How long does it take to learn Python? Explore the different factors that can affect your learning journey."
+template: "post"
+title: "How Long does it take to learn Python?"
+
+---
+
 How Long Does It Take To Learn Python?
 
 
