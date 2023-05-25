@@ -13,7 +13,7 @@ A shorter time frame only works if you’re looking for a basic understanding of
 
 ## How Long Does It Take To Learn Python From Scratch?
 
-If you’re fresh on the scene for [Python](www.4geeks.com/technology/python) coding or any coding, learning becomes a little more difficult in terms of getting used to the syntax and context in which you’re using the language. While an advantage of being fresh is that you don’t have to unlearn any coding habits from other languages, a disadvantage is that you’re learning an entirely new language from scratch. Learning Python iwht no previous experience can take several months, most of which are just relegated to getting into the habit of coding and the Python syntax, as well as learning how to navigate its libraries, frameworks, and building basic applications.
+If you’re fresh on the scene for [Python](https://www.4geeks.com/technology/python) coding or any coding, learning becomes a little more difficult in terms of getting used to the syntax and context in which you’re using the language. While an advantage of being fresh is that you don’t have to unlearn any coding habits from other languages, a disadvantage is that you’re learning an entirely new language from scratch. Learning Python iwht no previous experience can take several months, most of which are just relegated to getting into the habit of coding and the Python syntax, as well as learning how to navigate its libraries, frameworks, and building basic applications.
 
 ## How Long Does It Take To Learn Python To Get A Job?
 
