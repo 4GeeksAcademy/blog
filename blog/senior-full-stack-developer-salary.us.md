@@ -43,7 +43,7 @@ The salaries exposed in the table above point to a senior developer who is just 
 
 ## Overview of Senior Full Stack Developer Roles
 
-![salary-of-a-senior-full-stack-developer](https://storage.googleapis.com/breathecode-asset-images/dd31f226cb9f092427a36df700b214178444183cf4c2a8b636d08fa06dbfbbce.jpeg)
+![salary-of-a-senior-full-stack-developer](https://porozmawiajmyoit.pl/wp-content/uploads/2021/03/senior_developer-scaled.jpeg)
 
 In every company, the development area of a web platform, software, or similar, is responsible for building, maintaining and testing the code that is developed as the project progresses. This team should be led by a developer with a lot of experience and who has global knowledge of the operation of the tools that are being used for the project.
 
@@ -87,7 +87,7 @@ Considering the skills that a Senior Full Stack Developer mentioned above must h
 
 + **Gain experience**: There are many ways to gain experience in the development world. It is possible to gain experience working for others and working for oneself on personal issues. Experience is an item that makes a big difference between one person and another, it is for this reason that it is common for companies to publish job offers for people with a minimum of 1 year of experience. Think about it!
 
-+ Be at the **forefront of techniques**: The technology at this era is changing and evolving every day, and there is bunch of forums and blogs where people talk about this topics. Keep yourself up with the latest technologies and frameworks in the Full Stack development field a must in your senior Full Stack developer self-grow, also is the option of attending conferences, a [full stack bootcamp](https://4geeksacademy.com/us/coding-bootcamps/full-stack-bootcamp) and watching online courses.
++ Be at the **forefront of techniques**: The technology at this era is changing and evolving every day, and there is bunch of forums and blogs where people talk about this topics. Keep yourself up with the latest technologies and frameworks in the Full Stack development field a must in your senior Full Stack developer self-grow, also is the option of attending conferences, a [full stack bootcamp](https://4geeksacademy.com/us/full-stack-developer/full-stack-bootcamp) and watching online courses.
 
 ## Gaining Experience and Building a Portfolio as a Senior Full Stack 
  There are many ways of gaining experience in the development world. Since the most obvious one to other more creative and self worked.
