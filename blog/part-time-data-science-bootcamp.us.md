@@ -2,7 +2,7 @@
 author: "4GeeksAcademy"
 excerpt: "Enroll now in our Python Bootcamp Online and become a proficient Python developer. Learn Python programming from anywhere with our comprehensive online course."
 template: "post"
-title: "Master Python with 4Geeks Academy’s Online Bootcamp"
+title: "Part Time Data Science Bootcamp"
 
 ---
 
