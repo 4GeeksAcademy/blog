@@ -134,12 +134,11 @@ Full stack developers work with a range of technologies across the Front End and
 
 ### 🖥 Front End Technologies:
 
-For creating the structure and visual styling of web pages the most used language is **HTML** and [**CSS**](https://4geeks.com/lesson/what-is-css-learn-css). They both work together, the first one in the structure and the second one for the design, colors, fonts and the rest of variables.
+For creating the structure and visual styling of web pages the most used language is **HTML** and **[CSS](https://4geeks.com/lesson/what-is-css-learn-css)**. They both work together, the first one in the structure and the second one for the design, colors, fonts and the rest of variables.
 
 After that for creating interactive and dynamic web pages **JavaScript** is the third ingredient, as well as for developing front-end frameworks and libraries like React, Angular, and Vue.
 
 There are also front-end frameworks and libraries, these tools help a lot to get a nice result of the development using popular front-end frameworks and libraries include **React**, **Angular**, **Vue**, and **Bootstrap**.
-
 
 ### 🖥 Back End Technologies:
 
