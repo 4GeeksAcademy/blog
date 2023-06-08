@@ -1,8 +1,8 @@
 ---
 author: "jrdelrio"
-excerpt: "Discover what is a full stack developer and what they do, how much they make, and learn about why you should enroll in a full stack bootcamp"
+excerpt: "Descubre qué es un Desarrollador Full Stack, qué hace, cuánto gana, y aprende sobre por qué deberías cursar un Bootcamp de Full Stack"
 template: "landing_post"
-title: "What is a Full Stack Developer?"
+title: "¿Qué es un desarrollador Full Stack?"
 
 ---
 
