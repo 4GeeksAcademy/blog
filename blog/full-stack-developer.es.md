@@ -39,7 +39,7 @@ Algunas responsabilidades de un Desarrollador Full Stack son:
 
 Después de aprender sobre la gran demanda de desarrolladores Full Stack alrededor del mundo, la pregunta más obvia es, cuánto estas compañías pagan por estos servicios? Cuál es el salario de desarrollos Full Stack? Cómo el salario del Desarrollador Full Stack? Por supuesto, esta respuesta varía mucho dependiendo del País, el nivel de experiencia que el desarrollador tenga y de la compañía de la que estemos hablando. En cualquier caso, hay un consenso de que es una de las carreras mejor pagadas, con mucho potencial de crecimiento y desarrollo, y eso seguirá así por algunos años más... 
 
-### Facactores que afectan los salarios de Desarrollador Full Stack 
+### Factores que afectan los salarios de Desarrollador Full Stack 
 
 El salario de los Desarrolladores Full Stack puede variar dependiendo de un número de factores:
 
