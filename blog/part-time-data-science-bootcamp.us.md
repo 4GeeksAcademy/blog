@@ -48,7 +48,8 @@ Compared to other data science learning platforms, 4Geeks stands out as a very r
 ### Flexible way to learn data science 
 
 The part-time data science boot camp of 4Geeks Acadamy accommodates individuals who wish to acquire crucial data science skills while managing their work and personal time. There will be a no-brainer if you are busy or need personal time to relax and relieve stress.  The course perfectly fits professionals looking to transition into the field or enhance their skills in their current roles.
-Job-guarantee 
+
+### Job-guarantee 
 
 4Geeks offers a 180-day job guarantee, one way they show their commitment to student success. This guarantee shows their confidence in the effectiveness of their part-time data science program. 4Geeks Academy is committed to helping students find jobs after finishing the program.  The part-time data science boot camp has achieved remarkable results. The platform has trained more than 4,000 students and helped them build successful careers in data science. 
 
