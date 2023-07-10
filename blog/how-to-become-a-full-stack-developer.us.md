@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Learn how can you become a full stack developer and which technologies you should learn"
+excerpt: "Learn how can you become a full stack developer and which technologies you should learn if you want to highlight your career in tech."
 template: "post"
 title: "How to Become a Full Stack Developer?"
 
