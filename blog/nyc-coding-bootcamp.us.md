@@ -14,7 +14,7 @@ When it comes to the curriculum, top NYC bootcamps cover a wide range of modern 
 
 ## Best NYC Coding Bootcamp
 
-* **4Geeks Academy** is also a great option as an [online coding bootcamp](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp). They offer programming courses to teach students skills for careers in software engineering and web development. Students learn in-demand tech skills like Python, JavaScript, React and others in their [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). The courses are live, remote, weekly for 3 months. 4Geeks offers career support including networking opportunities, mentorship, and helping students find jobs after they graduate from the program.
+* **4Geeks Academy** is a great option as an [online coding bootcamp](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp). They offer programming courses to teach students skills for careers in software engineering and web development. Students learn in-demand tech skills like Python, JavaScript, React and others in their [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). The courses are live, remote, weekly for 3 months. 4Geeks also offers career support including networking opportunities, mentorship, and helping students find jobs after they graduate from the program.
 
 * One of the most prestigious bootcamps in NYC is **Hack Reactor**. With a strong focus on software engineering skills, Hack Reactor has built a reputation for producing highly skilled and sought-after graduates. Their comprehensive curriculum and rigorous training prepare students to tackle complex coding challenges.
 
