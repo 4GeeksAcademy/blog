@@ -15,7 +15,6 @@ Los [coding bootcamps en New York](https://4geeksacademy.com/es/coding-campus/bo
 
 A continuación, analizaremos algunos de los principales bootcamps en la ciudad de New York y lo que los hace destacar:
 
-
 #### **4Geeks Academy**
 4Geeks Academy se especializa en impulsar tu carrera en tecnología convirtiéndose en una opción de estudio con resultados comprobados, funcionando principalmente en línea y especialmente diseñado para New York, 4Geeks ha graduado a más de 4000 estudiantes y tiene una tasa de éxito en la carrera del 84%. Además, ha establecido asociaciones con empresas tecnológicas líderes, como Google, Facebook y Goldman Sachs. Ofrecen [cursos de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es) reconocidos a nivel mundial como es el [curso de Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) o el [curso de Machine Learning](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
 
