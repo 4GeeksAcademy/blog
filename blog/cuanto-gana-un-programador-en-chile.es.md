@@ -14,7 +14,7 @@ Con todos los avances a nivel mundial en el área, el gobierno chileno ha estado
 
 Si tienes dudas de si empezar a programar hoy, solo al ver cuál es el salario de los programadores en Chile te dará el impulso que necesitas para finalmente tomar la decisión de empezar en el mundo de la programación. 
 
-La verdad es que el salario de los programadores en Chile ha experimentado un crecimiento constante en los últimos años. Esto se debe a que la demanda de profesionales en tecnología ha ido en aumento, la escasez de talento en el sector y el avance de la industria tecnológica en el país.Según nos señala ChileTech en su reporte “ChileTech Talent Salaries Report 2022” el monto salarial de un programador en Chile puede variar según varios factores, la primera y más importante es la experiencia, luego el  nivel de especialización, la empresa en la que trabaje y la región donde esté ubicado.
+La verdad es que el salario de los programadores en Chile ha experimentado un crecimiento constante en los últimos años. Esto se debe a que la demanda de profesionales en tecnología ha ido en aumento, la escasez de talento en el sector y el avance de la industria tecnológica en el país. Según nos señala ChileTech en su reporte “ChileTech Talent Salaries Report 2022” el monto salarial de un programador en Chile puede variar según varios factores, la primera y más importante es la experiencia, luego el  nivel de especialización, la empresa en la que trabaje y la región donde esté ubicado.
 
 Tomando esto en cuenta, ChileTech Talent nos indica que el sueldo promedio de un programador junior es de 1.580.000 pesos chilenos al mes, lo que equivale a unos 1.850$ USD. Por otro lado, arroja que un programador semi-senior posee un sueldo promedio de 2.150.000 pesos chilenos al mes, lo que es igual a 2.500$ USD mensuales.
 
@@ -44,7 +44,7 @@ No podemos olvidar que la inversión extranjera que Chile está atrayendo se est
 
 Si aún no estás dentro de la industria de la tecnología, este es el momento para tomar las riendas y formar parte. Busca las herramientas necesarias para brillar, aprende a programar y desarrolla tu potencial para que puedas mejorar tus ingresos y tu nivel académico. 
 
-Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](https://4geeksacademy.com/), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece programas de [cursos de desarrollo full-stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
+Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](https://4geeksacademy.com/), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece [cursos de desarrollo full-stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
 
 Si, en cambio, ya eres programador y deseas devengar un mayor sueldo o te gustaría un giro en tu vida laboral, te recomendamos los siguientes portales de empleo:
 
