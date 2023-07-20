@@ -13,7 +13,7 @@ cluster: "aprender-a-programar"
 
 ---
 
-¿Hay tal cosa como una carrera de programación? 
+#### ¿Hay tal cosa como una carrera de programación? 
 
 En el sentido estricto de los estudios universitarios, no hay una carrera de la cual sea posible graduarse con el título de “programador”.
 
@@ -27,11 +27,11 @@ Antes de continuar, **repasemos lo que hace un programador.**
 
 Los programadores pueden crear software que se puede ejecutar en múltiples dispositivos: tabletas, teléfonos inteligentes o sistemas automatizados utilizados en las industrias fabriles. Con el papel protagónico que han pasado a ocupar los teléfonos inteligentes en la vida de todos, las aplicaciones móviles son cada vez más importantes. Del mismo modo, las aplicaciones de software como servicio (SaaS), y el comercio electrónico, van ganando importancia.
 
-![aprender_a_programar.jpg](https://storage.googleapis.com/media-breathecode/2e52f52fab7b84c983408cd18b1309beb08aae63720e283f61b08f877b2b743d)
+![carrera-de-programacion.jpg](https://storage.googleapis.com/media-breathecode/2e52f52fab7b84c983408cd18b1309beb08aae63720e283f61b08f877b2b743d)
 
 Una vez que un programa funciona, los programadores pueden ser responsables de probar errores, eliminar errores, crear e instalar actualizaciones. Los programadores también pueden implementar el diseño de la interfaz de usuario, esta es la parte que vemos, y con la que interactuamos.
 
-Aunque en la educación formal han opciones que se han usado como puerta de entrada al mundo de la programación, el contenido de un coding bootcamp es el más cercano a lo que necesita un programador en la vida real. La carrera "formal" de programación incluye materias obsoletas o temas que carecen de aplicabilidad en el mundo real. 
+Aunque en la educación formal hay opciones que se han usado como puerta de entrada al mundo de la programación, el contenido de un [coding bootcamp](https://4geeksacademy.com/us/index) es el más cercano a lo que necesita un programador en la vida real. La carrera "formal" de programación incluye materias obsoletas o temas que carecen de aplicabilidad en el mundo real. 
 
 Para que tenga aplicabilidad, **la carrera de programación debe comprender lo siguiente:**
 
@@ -42,7 +42,7 @@ Para que tenga aplicabilidad, **la carrera de programación debe comprender lo s
 - Fundamentos sobre bases de datos
 - Fundamentos sobre redes (networking)
 
-**En un curso de Full Stack developer se puede aprender gran parte de este contenido**. Lo más importante, con estos conocimientos y un portafolio mínimo, se puede iniciar la búsqueda empleo como desarrollador jr. 
+**En un [curso de Full Stack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) se puede aprender gran parte de este contenido**. Lo más importante, con estos conocimientos y un portafolio mínimo, se puede iniciar la búsqueda empleo como desarrollador jr. 
 
 No es necesario cursar la carrera de programación en la universidad para convertirse en developer y empezar a trabajar en el área de tecnología. 
 
@@ -52,10 +52,10 @@ La formación de un programador no necesariamente ocurre en la universidad. Hay 
 
 Empecemos por los motivos profesionales. Estudiar una carrera de programación:
 
-- **Mejora las posibilidades de conseguir empleo**
+### **Mejora las posibilidades de conseguir empleo**
     
     
-Según el Foro Económico Mundial, en los últimos dos años se ha observado una aceleración importante en la adopción de nuevas tecnologías en las empresas. Además, a partir de la pandemia, la necesidad de algunos talentos se ha exacerbado: especialmente personal médico y personal que permita a las empresas transitar y desempeñarse en sus procesos de transformación digital.
+Según el [Foro Económico Mundial](https://es.weforum.org/), en los últimos dos años se ha observado una aceleración importante en la adopción de nuevas tecnologías en las empresas. Además, a partir de la pandemia, la necesidad de algunos talentos se ha exacerbado: especialmente personal médico y personal que permita a las empresas transitar y desempeñarse en sus procesos de transformación digital.
     
 La transformación digital no solamente favorecerá las carreras y ocupaciones relacionadas con la tecnología. También tiene otro tipo de impactos en la fuerza laboral. Con la adopción rápida en las empresas de la automatización, la robótica y la creciente preferencia por la compra en ecommerce, la transformación digital hará que algunos empleos pierdan relevancia, que no existan o que su oferta se vea mermada.
 
@@ -65,7 +65,7 @@ La transformación digital no solamente favorecerá las carreras y ocupaciones r
     
 Desde hoy se crearán menos de estos empleos que requieren trabajo físico y mucha proximidad entre personas. Quizás algunos de estos empleos desaparecerán.
     
-![aprenderaprogramar.png](https://storage.googleapis.com/media-breathecode/68142ae0f78a4ef794b7bf0d26b7e4d7c0c2c66570346195a342f5f57f94e50b)
+![carrera-de-programacion.png](https://storage.googleapis.com/media-breathecode/68142ae0f78a4ef794b7bf0d26b7e4d7c0c2c66570346195a342f5f57f94e50b)
     
 Esto llevará a que muchos necesiten hacer un cambio de carrera rápidamente. Habrá trabajo disponible, pero para acceder a él hay que formarse en otras áreas. La programación es una opción para **seguir vigente en el mercado laboral** **y para obtener empleo.**
     
@@ -73,11 +73,11 @@ Con estas alternativas educativas de formato intensivo y con mucha práctica, no
     
 Para 2025 son múltiples las tecnologías que adoptarán las empresas para ser competitivas. Los programadores serán quienes implementen estas tecnologías. ***Cloud Computing, análisis de Big Data, IoT o el internet de las cosas, encriptamiento y ciberseguridad, inteligencia artificial, procesamiento de texto, imágenes y voz, comercio electrónico, etc. ¡Toda la revolución digital crea trabajo para nuevos programadores!***
     
-Si tienes dudas de porqué es importante cursar la carrera de programación… Según LinkedIn, para 2026 se generarán aproximadamente 150 millones de nuevos empleos relacionados a la tecnología. 
+Si tienes dudas de porqué es importante cursar la carrera de programación… Según [LinkedIn](https://www.linkedin.com/), para 2026 se generarán aproximadamente 150 millones de nuevos empleos relacionados a la tecnología. 
     
 ¿Qué esperas para dar el salto y de una vez aprender programación?
     
-- **Mejora las posibilidades de incrementar tus ingresos**
+### **Mejora las posibilidades de incrementar tus ingresos**
     
     
 La pandemia tuvo mayor impacto en trabajos con salarios bajos. Casi todo el crecimiento en la demanda de talento está sucediendo en trabajos con salarios altos. Para los trabajadores en ocupaciones con salarios bajos es importante desarrollar habilidades que les permita acceder a estos nuevos empleos. Debido a la transformación digital, parte de estos nuevos empleos se generarán en funciones relacionadas a la tecnología. Estos empleos tendrán remuneraciones y salarios muy altos.
@@ -95,16 +95,13 @@ Si bien hay empresas con outsourcing de desarrolladores en Latinoamérica (con s
     2. La zona horaria de Latinoamérica es beneficiosa para trabajar con empresas de Estados Unidos en comparación con India.
     3. Culturalmente hay mayor afinidad con los latinos que con otras nacionalidades.
     
-- **Da acceso a trabajo remoto bien remunerado**
-    
+### **Da acceso a trabajo remoto bien remunerado**
     
 ***Una carrera en programación permite ganar bien y tener beneficios que muchos trabajos tradicionales de 9 a 5 no tienen.*** Programar es una de las habilidades mejor remuneradas y con mayor disponibilidad de vacantes de forma remota. 
     
 Se estima que antes de la pandemia y la cuarentena obligatoria al menos [10% de la fuerza laboral](https://www.willistowerswatson.com/en-US/Insights/2021/02/2021-emerging-from-the-pandemic-survey) ya trabajaba de forma remota. En plena pandemia, 57% de los empleados trabajaban de forma remota. Aunque se estima que a finales de año ese porcentaje baje, el trabajo remoto llegó para quedarse.
     
-Ventas, Marketing, y Diseño Gráfico se acercan a la programación en término de cantidad de trabajos disponibles en modalidad remota. Pero la programación sigue siendo una de las alternativas mejor pagadas en cuanto a trabajo remoto se refiere. Desde hace algunos años, ser desarrollador abre las puertas al trabajo remoto [más fácilmente que otras ocupaciones](https://weworkremotely.com/remote-work-trends).
-    
-Aprender programación tiene potencialmente una ventaja por encima de otras profesiones y ocupaciones. 
+Ventas, Marketing, y Diseño Gráfico se acercan a la programación en término de cantidad de trabajos disponibles en modalidad remota. Pero la programación sigue siendo una de las alternativas mejor pagadas en cuanto a trabajo remoto se refiere. Desde hace algunos años, ser desarrollador abre las puertas al trabajo remoto [más fácilmente que otras ocupaciones](https://weworkremotely.com/remote-work-trends). [Aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) tiene potencialmente una ventaja por encima de otras profesiones y ocupaciones. 
     
 > 😎 Cursar clases de programación aumenta las posibilidades de obtener un trabajo remoto. Actualmente, el [86% de los desarrolladores trabajan de forma remota](https://terminal.io/pdf/Terminal-State-of-engineering-2021.pdf), gozando de múltiples beneficios de trabajar desde casa, como: ahorro de dinero y tiempo en traslados, posibilidad de conseguir un balance de vida y trabajo, mayor autonomía, mejora en la productividad, y para algunos hasta menor carga de estrés.
     
@@ -112,8 +109,7 @@ Existen posiciones disponibles tanto a tiempo completo, como a tiempo parcial y 
     
 Los motivos para aprender programación no están relacionados solamente al área laboral ni a la remuneración. **Otras razones para tomar clases de programación pueden ser las relacionadas al reto intelectual y a la autorrealización personal:**
 
-- **Porque aprendes a aprender**
-    
+### **Porque aprendes a aprender**
     
 No vamos a caer en el lugar común de argumentar lo rápido que cambia la tecnología. Todos somos testigos de ello. Lo que sí podemos rescatar son las implicaciones de aprendizaje que trae el dinamismo de la tecnología.
     
@@ -123,15 +119,15 @@ Hay múltiples vías para convertirse en programador, desde las tradicionales qu
     
 No es la acumulación de conocimientos lo que te llevará al éxito sino la capacidad de desaprender y aprender: nuevas herramientas, lenguajes, librerías, frameworks. La experiencia educativa que te hace humilde para entenderlo también te hará un desarrollador resiliente, flexible, preparado para los cambios. 
     
-Generalmente, y por nuestra experiencia formando a programadores desde cero, la universidad no se traduce en desarrolladores más resilientes. Por otra lado, la vía autodidacta no es la que más rápido forma a programadores exitosos.
+Generalmente, y por nuestra experiencia formando a [programadores desde cero](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es), la universidad no se traduce en desarrolladores más resilientes. Por otra lado, la vía autodidacta no es la que más rápido forma a programadores exitosos.
     
 > 👨🏻‍💻 Creemos firmemente que la filosofía de los coding bootcamps es la más eficiente. Es la que, desde el inicio se enfoca en “aprender a aprender” como motto de vida.
     
-- **Porque desarrollas habilidades para solución de problemas y creatividad**
+### **Porque desarrollas habilidades para solución de problemas y creatividad**
     
 En el momento que quien recién aprende a programar se enfrenta a un problema, existe la tentación de echar mano inmediatamente a una solución con código. Pensar de forma estratégica es fundamental para el éxito en la vida como desarrollador. Quien desee evitar más frustraciones de las necesarias, pronto entiende que el código es solo parte de la solución. Saber de código generalmente no es la solución completa para tu problema de programación.
     
-Aprender programación obliga a los desarrolladores de una forma u otra a cambiar el mindset para solucionar problemas. Un desarrollador reconoce si realmente hay un problema, seguidamente identifica cuál es, y si se puede solucionar con código.
+[Aprender programación](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) obliga a los desarrolladores de una forma u otra a cambiar el mindset para solucionar problemas. Un desarrollador reconoce si realmente hay un problema, seguidamente identifica cuál es, y si se puede solucionar con código.
     
 > 👩🏼‍🎨 Por eso tomar clases de programación estimula la creatividad. No es una creatividad artística, más bien se trata de una creatividad técnica. Un lenguaje de programación está formado palabras y símbolos determinados, sintaxis y semántica particular, cada lenguaje tiene sus formas de expresión.
     
@@ -141,15 +137,15 @@ Probablemente, al menos que se trate de un problema muy puntual y “fácil” d
     
 Si entendemos que programar es una forma de expresión, un desarrollo puede ser un gran libro de poemas.
     
-- **Te hace parte de una gran comunidad**
+### **Te hace parte de una gran comunidad**
     
 No nos engañemos, programar no es fácil. Las continuas innovaciones simplifican tareas y agregan nuevas funcionalidades, pero generan más material para mantenerse actualizado. En respuesta a esto la comunidad de programadores es de las más prolíficas en el ámbito profesional.
     
 ¡Vaya que hay grandes comunidades en línea para videojuegos, esports, anime, trading, criptomonedas! Pero la comunidad de programadores es particularmente interesante. Es de las pocas en la que puedes solucionar de forma colaborativa con extraños, problemas que tienes incluso en tu trabajo.
     
-![people-looking-at-a-computer.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
+![personas-mirando-una-computadora-en-una-carrera-de-programacion.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
     
-No importa si estudias un curso de programación o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
+No importa si estudias un [curso de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es) o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
     
 Cuando aprendes a programar es inevitable usar los recursos disponibles en las comunidades de desarrolladores. Por eso lo ideal es que seas parte activa de la comunidad, no solamente con el aprendizaje sino a través de la colaboración. Comparte tu conocimiento y experiencias con otros, siempre será útil ¡sin importar el tiempo de experiencia que tengas en el área!
     
@@ -178,7 +174,7 @@ Al principio no es el camino más lucrativo, pero definitivamente es una opción
 
 Ahora, freelancing también puede ser el camino que elijas para tu futuro profesional a largo plazo. Elegir esta forma de vida es una cuestión de preferencias personales. La vida del freelance tiene sus pros’s y con’s:
 
-**Pro’s:**
+#### **Pro’s:**
 
 1. Decides en qué proyectos involucrarte
 2. Tienes la posibilidad de ganar experiencia en varias industrias
@@ -191,7 +187,7 @@ Trabajar como freelance en programación no es excluyente de tener un empleo fij
 
 ### Mentorías para conseguir empleo
 
-Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un coding bootcamp el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
+Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un [desarrollador full-stack](https://4geeksacademy.com/es/desarrollador-full-stack/desarrollador-full-stack-developer) que cursa un coding bootcamp el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
 
 Un **plan ideal de acompañamiento profesional** incluye, pero no see limita, a lo siguiente:
 
@@ -270,9 +266,7 @@ Nuestra recomendación, ***estudiar un coding bootcamp de fullstack developer***
 
 > ➡️ En este tipo de coding bootcamp recibirás clases de programación de manera intensiva e inmersiva. Un curso de fullstack developer permite manejar los aspectos de frontend y backend. Es decir, puede abordar proyectos que involucran base de datos, API, y desarrollar una aplicación del lado del cliente y del lado del servidor. Todo, en menos de seis meses.
 
-Esta sería nuestra evaluación de un coding bootcamp enfocado en full stack development.
-
-[Pro's y con's de un coding bootcamp de fullstack development-](https://www.notion.so/622b47122a0c4f81bd791717d3530bf9)
+Esta sería nuestra evaluación de un coding bootcamp enfocado en full stack development: [Pro's y con's de un coding bootcamp de fullstack development-](https://www.notion.so/622b47122a0c4f81bd791717d3530bf9)
 
 ## Conoce nuestro Curso de Programación Full Stack
 
@@ -286,4 +280,4 @@ Somos conscientes de que estos programas son un reto de dedicación y de conocim
 - Puedes estudiar el coding bootcamp online, remoto en vivo, y si estamos en tu ciudad también puedes tomar las clases de programación de forma presencial
 - Puedes trabajar en paralelo, pues ofrecemos una modalidad part-time, 3 veces por semana, en las noches, más prácticas.
 
-Si deseas conocer más sobre nuestro coding bootcamp para convertirte en fullstack developer. Déjanos tus datos.
+Si deseas conocer más sobre nuestro coding bootcamp para [convertirte en fullstack developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack). Déjanos tus datos.
