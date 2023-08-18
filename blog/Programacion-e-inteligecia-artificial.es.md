@@ -19,12 +19,11 @@ La **Inteligencia Artificial (IA)** se ha consolidado como el motor central de l
 
 # Índice
 
-1. [Introducción](#introducción)
-2. [Navegando el Cosmos de la Inteligencia Artificial](#navegando-el-cosmos-de-la-inteligencia-artificial)
-3. [Frutos de la Maestría en Programación de Inteligencia Artificial](#frutos-de-la-maestría-en-programación-de-inteligencia-artificial)
-4. [El Tapiz de Lenguajes de Programación para la IA](#el-tapiz-de-lenguajes-de-programación-para-la-ia)
-5. [Recursos para Desarrollar Tus Habilidades en IA](#recursos-para-desarrollar-tus-habilidades-en-ia)
-6. [Forjando un Futuro con la Programación de IA](#forjando-un-futuro-con-la-programación-de-ia)
+1. [Navegando el Cosmos de la Inteligencia Artificial](#navegando-el-cosmos-de-la-inteligencia-artificial)
+2. [Frutos de la Maestría en Programación de Inteligencia Artificial](#frutos-de-la-maestría-en-programación-de-inteligencia-artificial)
+3. [El Tapiz de Lenguajes de Programación para la IA](#el-tapiz-de-lenguajes-de-programación-para-la-ia)
+4. [Recursos para Desarrollar Tus Habilidades en IA](#recursos-para-desarrollar-tus-habilidades-en-ia)
+5. [Forjando un Futuro con la Programación de IA](#forjando-un-futuro-con-la-programación-de-ia)
 
 
 
