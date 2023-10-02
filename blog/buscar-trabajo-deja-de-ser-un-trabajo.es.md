@@ -1,15 +1,11 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-21T11:32:02+00:00"
-excerpt: "Buscar un trabajo deja de ser un trabajo"
+excerpt: "Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su comunidad a la hora de conseguir un nuevo empleo."
 template: "post"
 title: "Opground y 4Geeks se unen para que buscar un trabajo deje de ser un trabajo"
-description: "Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su comunidad a la hora de conseguir un nuevo empleo."
-image: ""
 image_alt: "consigue trabajo article"
-status: "draft"
-featured: false
-cluster: "full-stack-developer-jobs"
+cluster: "trends-and-tech"
 
 ---
 
