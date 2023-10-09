@@ -5,7 +5,6 @@ excerpt: "Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su 
 template: "post"
 title: "Opground y 4Geeks se unen para que buscar un trabajo deje de ser un trabajo"
 image_alt: "consigue trabajo article"
-cluster: "trends-and-tech"
 
 ---
 
