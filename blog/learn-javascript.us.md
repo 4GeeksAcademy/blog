@@ -16,7 +16,12 @@ image_alt: "Learn JavaScript"
 - Avoid colloquialisms, very informal language, slang, or expressions in writing. Maintain a professional tone throughout.
 - Ensure that the section titled "The Path to Mastering JavaScript" appears below the introduction.
 - Include more examples in "The Path to Mastering JavaScript" section. These examples need not be overly complex.
-- For each example, provide a brief description of what the code does.
+- For each example, briefly describe what the code does.
+- Include the javascript roadmap from roadmap.sh and talk about the technologies included there and ways to aproach learning them.
+- Include bootcamps (like 4Geeks Academy), online courses and free resources to learn javascript.
+- Include [this url](https://4geeks.com/technology/javascript) a main reasource page for javascript.
+- Recommend this [free interactive video tutorial with solutions](https://4geeks.com/interactive-exercise/javascript-beginner-exercises).
+- Recomend this [free course](https://4geeks.com/start-coding-using-javascript)
 
 **SEO Recommendations:**
 
