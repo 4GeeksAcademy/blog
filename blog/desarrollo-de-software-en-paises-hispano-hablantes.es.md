@@ -15,6 +15,8 @@ El desarrollo de software, en términos sencillos, se refiere a la creación de 
 
 El desarrollo de software ha tenido un impacto significativo en América Latina, impulsando el crecimiento económico y la creación de empleos bien remunerados como un [Desarrollador Full Stack](https://4geeksacademy.com/desarrollador-full-stack-developer). Según datos de 4Geeks Academy, la demanda de profesionales en programación ha experimentado un aumento constante en la región por lo que cursos y los [Bootcamps de programación](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion) surgen para suplir la demanda del mercado. Países como México, Colombia, Argentina y Brasil se han convertido en centros de desarrollo tecnológico, atrayendo inversiones y oportunidades laborales. Esto ha mejorado la calidad de vida de muchas personas y ha abierto puertas para quienes desean aprender estas habilidades, no solo para programadores experimentados.
 
+![República Dominicana](https://images.unsplash.com/photo-1625435644379-850d24b17e86?auto=format&fit=crop&q=80&w=1472&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
 ## Empresas Emblemáticas y su Contribución
 
 Un ejemplo destacado del impacto del desarrollo de software es Mercado Libre, una empresa argentina de comercio electrónico. Fundada en 1999, esta plataforma se ha convertido en una de las más grandes de la región y ha tenido un impacto significativo en la economía local. En 2020, Mercado Libre informó un aumento del 70% en sus ingresos netos en comparación con el año anterior, lo que demuestra el potencial de crecimiento de la industria del software en Latinoamérica. La empresa ha creado empleo y ha impulsado el comercio electrónico en toda la región, demostrando el impacto positivo del desarrollo de software en la economía local.
@@ -43,6 +45,8 @@ Ciudades como Bogotá, Ciudad de México y Buenos Aires se destacan como "tech h
 
 Según investigaciones recientes, se prevé un constante crecimiento en la demanda de profesionales tecnológicos en toda América Latina. Por lo tanto, este momento se configura como una oportunidad idónea para considerar adentrarse en este mercado y explorar distintos caminos para hacerlo posible.
 
+![Santiago De Chile](https://images.unsplash.com/photo-1593985437133-03d5e1435c03?auto=format&fit=crop&q=80&w=1633&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+> Santiago De Chile
 
 ## 4Geeks Academy y su Contribución al Desarrollo Profesional
 
