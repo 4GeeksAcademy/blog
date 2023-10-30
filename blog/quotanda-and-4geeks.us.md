@@ -4,7 +4,7 @@ date: "2023-10-30T02:58:12+00:00"
 excerpt: "Looking for affordable educational financing? Income Share Agreements (ISAs) could be the solution. With ISA, you'll pay a minimum percentage of your income, allowing you to focus on your studies without the burden of student debt. Join 4Geeks and Quotanda's programs to gain high-quality education and open up employment opportunities in software development or data science."
 template: "post"
 title: "Quotanda and 4Geeks Academy"
-image_alt: "Acuerdo de Ingresos Compartidos Bootcamps Latam"
+image_alt: "Quotanda and 4Geeks Academy"
 
 
 ---
