@@ -5,7 +5,6 @@ excerpt: "Financiamiento educativo accesible y asequible con acuerdos de partici
 template: "post"
 title: "Acuerdo de Ingresos Compartidos entre Quotanda y 4Geeks Academy "
 image_alt: "Acuerdo de Ingresos Compartidos Bootcamps Latam"
-cluster: "aprender-programacion"
 
 ---
 
