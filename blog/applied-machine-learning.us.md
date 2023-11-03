@@ -5,11 +5,10 @@ template: "post"
 title: "Applied Machine Learning by 4Geeks Academy"
 
 ---
+# Applied Machine Learning
 
 Tech is growing, which means we will be welcoming a lot of new disciplines, and Applied Machine Learning is one of them. Applied Machine Learning is the field of AI that helps create teaching systems that can learn from information and data provided to them. Astonishing, right? But it's only the beginning! This means that systems will be able to improve their own, and programmers won't have to write new codes. It wouldn't be wrong to say that it's pretty efficient and will become a thriving field for programmers. So, if you are an enthusiast, we are reviewing the Applied [Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) by 4Geeks Academy!
 
-## What Is 4Geeks Academy?
-First things first, you need to know about the academy you are joining, right? This is a licensed platform and is considered one of the best, and results-driven bootcamps out there.Once you join [4Geeks Academy](https://4geeksacademy.com/) to learn coding, you get lifetime career support, quick response time if you have any questions, and one-on-one mentoring (did we mention it’s unlimited?).
 
 ## What Is The Applied Machine Learning Course?
 This course is a perfect choice for programmers interested in learning Google Data Studio, [Python](https://4geeks.com/technology/python), Statistics, and Streamlit. It’s because knowing how to analyze the data is the important part (wouldn’t be wrong to call it the foundational step). By the end of this course, you will be to create your predictive models with the help of Numpy, Pandas, and Python.
@@ -52,4 +51,7 @@ The pricing of the course is different, depending on your location, so you can g
 
 The bottom line is that Applied Machine Learning in Python is pretty great, and 4Geeks Academy is doing a great job teaching an in-demand skill. In fact, 84% of their graduates get a job in tech within 90 days of graduating, which is a great number, especially when unemployment is on the rise. So, we say this place is a great option!
  
+ ## What Is 4Geeks Academy?
+First things first, you need to know about the academy you are joining, right? This is a licensed platform and is considered one of the best, and results-driven bootcamps out there.Once you join [4Geeks Academy](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) to learn coding, you get lifetime career support, quick response time if you have any questions, and one-on-one mentoring (did we mention it’s unlimited?).
+
 
