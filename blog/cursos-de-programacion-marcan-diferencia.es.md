@@ -41,4 +41,4 @@ Sin embargo, el trabajo remoto también puede presentar desafíos, como la neces
 En general, el trabajo remoto puede proporcionar una excelente oportunidad para aquellos que buscan un mayor equilibrio entre el trabajo y la vida, y que están dispuestos a enfrentar los desafíos que puedan surgir.
 
 
-<call-to-action button_text="Enroll now" button_link="https://4geeksacademy.com/es/curso-de-programacion-desde-cero" background="rgba(0, 151, 205, 0.15)" title="Curso de programación desde cero" text="Dale un boost a tu carrera profesional entra hoy a 4geeks"></call-to-action>
+<call-to-action button_text="Enroll now" button_link="https://4geeksacademy.com/es/curso-de-programacion-desde-cero" background="rgba(0, 151, 205, 0.15)" title="Puedes estar más cerca de tu proximo trabajo remoto incribiendote a el Curso de programación desde cero" text="¡Potencia tu Futuro Profesional! Únete Hoy al Curso de Programación desde Cero en 4Geeks Academy"></call-to-action>
