@@ -170,7 +170,7 @@ Los seres humanos somos muy visuales y nos resulta más fácil entender informac
 
 Estructurar las gráficas en función a los datos recopilados, ayuda a los científicos de datos a comunicar los resultados de su análisis de manera más eficiente y eficaz, ya que pueden compartir sus hallazgos de una forma sencilla de entender. 
 
-![Correlogram]([https://breathecode.herokuapp.com/v1/media/file/correlogram-example-jpeg)
+![Correlogram-example](https://breathecode.herokuapp.com/v1/media/file/correlogram-example-jpeg)
 
 Al graficar los datos obtenidos, se simplifica la comprensión de la información, facilitando una toma de decisiones basada en las tendencias y los patrones. 
 
