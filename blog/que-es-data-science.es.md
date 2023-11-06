@@ -18,7 +18,7 @@ Este conocimiento puede ayudar a las organizaciones a tomar decisiones más info
 
 ## **Data Science y su avance en nuestro mundo tecnológico**
 
-Actualmente, casi todas las empresas a nivel mundial afirman haber recurrido a Data Science de alguna manera en un momento dado. Por ende, las prácticas y enfoques empleados por los profesionales** varían dependiendo de la organización. 
+Actualmente, casi todas las empresas a nivel mundial afirman haber recurrido a Data Science de alguna manera en un momento dado. Por ende, las prácticas y enfoques empleados por los profesionales **varían dependiendo de la organización**. 
 
 El campo de Data Science ha crecido considerablemente a nivel mundial; sin embargo, en países de habla hispana como Colombia, México, Chile y España **ha experimentado un crecimiento vertiginoso**. 
 
@@ -59,10 +59,13 @@ Actualmente ambos son utilizados en el reconocimiento de imágenes y videos para
 
 
 * **Gestión de datos:** para establecer una estadística sobre una temática precisa.
-* **Data analytics: **para obtener datos, analizar los resultados para establecer una visualización.** **
+* **Data analytics: **para obtener datos, analizar los resultados para establecer una visualización.
 * **Business analytics: **para la toma de decisiones en la empresa.
+---
 
 <call-to-action button_text="Accede y Regístrate" button_link="https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning" background="rgba(0, 151, 205, 0.15)" title="Desarrolla tu carrera en Data Science" text="En 4Geeks Academy puedes adquirir todos los conocimientos necesarios para desempeñarte en el área. Contamos con Bootcamps de Machine Learning y de  Data Science que te abrirán las puertas a un nuevo mundo de datos y de  posibilidades. También contamos con un sólido programa de Career Support para que ingreses al mundo laboral de forma exitosa."></call-to-action>
+
+---
 
 ## La demanda de científicos de datos crece en todas las industrias
 
@@ -167,7 +170,7 @@ Los seres humanos somos muy visuales y nos resulta más fácil entender informac
 
 Estructurar las gráficas en función a los datos recopilados, ayuda a los científicos de datos a comunicar los resultados de su análisis de manera más eficiente y eficaz, ya que pueden compartir sus hallazgos de una forma sencilla de entender. 
 
-[Correlogram]([https://github.com/G-code7/blog/assets/426452/f45614ef-1973-46cb-b53b-2307ca38a7f9](https://github.com/G-code7/blog/assets/426452/f45614ef-1973-46cb-b53b-2307ca38a7f9))
+![Correlogram]([https://breathecode.herokuapp.com/v1/media/file/correlogram-example-jpeg)
 
 Al graficar los datos obtenidos, se simplifica la comprensión de la información, facilitando una toma de decisiones basada en las tendencias y los patrones. 
 
