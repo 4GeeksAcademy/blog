@@ -6,56 +6,49 @@ title: "Qué es Data Science: Un Vistazo a la Ciencia de Datos"
 image_alt: "¿Qué es data science?"
 
 ---
-
 Actualmente, en esta era digital, el término “Data Science” se está escuchando cada vez más. Pero, lo que todos queremos saber es **¿qué es exactamente Data Science?** Se conoce como Data Science, al área de la tecnología que se encarga de la extracción de información importante y explotable a partir de datos en su forma original sin procesar, lo que llamamos datos brutos. 
 
-Este campo multidisciplinario se encarga de **identificar tendencias, conceptos, prácticas, conexiones y correlaciones en las grandes series de datos.** La ciencia de datos engloba varias herramientas y técnicas como la práctica de la programación, el análisis predictivo, la estadística o la inteligencia artificial.
+Este campo multidisciplinario se encarga de **identificar tendencias, conceptos, prácticas, conexiones y correlaciones en las grandes series de datos.** La ciencia de datos engloba varias herramientas y técnicas como la práctica de la programación, el análisis predictivo, la estadística y la inteligencia artificial.
 
-En esencia, la ciencia de datos extrae conocimiento y valor de grandes volúmenes de datos. Utilizando técnicas avanzadas de estadística, aprendizaje automático o  Machine Learning, visualización de datos, los científicos de datos analizan y modelan conjuntos de datos para **obtener información valiosa**.
-
-Este conocimiento puede ayudar a las organizaciones a tomar decisiones más informadas, identificar patrones, tendencias, y prever resultados futuros. A continuación exploraremos esta emocionante disciplina, su impacto en las industrias y el futuro del mundo con esta herramienta.
+En esencia, la ciencia de datos extrae conocimiento y valor de grandes volúmenes de datos, utilizando técnicas avanzadas de estadística, aprendizaje automático o  Machine Learning y visualización de datos. El conocimiento adquirido puede ayudar a las organizaciones a tomar decisiones más informadas, identificar patrones, tendencias, y prever resultados futuros. 
+A continuación exploraremos esta emocionante disciplina, su impacto en las industrias y el futuro.
 
 
 ## **Data Science y su avance en nuestro mundo tecnológico**
 
-Actualmente, a nivel mundial gran parte de las empresas afirman haber recurrido a Data Science de alguna manera en un momento dado. La ciencia de datos tiene el potencial de impulsar la innovación y el desarrollo económico en sectores muy diversos como la salud, las finanzas, la educación y la gestión ambiental. Por ende, el enfoque y las prácticas por los profesionales varían dependiendo de la organización. 
+Actualmente, gran parte de las empresas afirman haber recurrido a Data Science de alguna manera en un momento dado. La ciencia de datos tiene el potencial de impulsar la innovación y el desarrollo económico en sectores muy diversos como la salud, las finanzas, la educación y la gestión ambiental. Por ende, el enfoque y las prácticas por los profesionales varían dependiendo de la organización. 
 
 El campo de Data Science ha crecido considerablemente a nivel mundial; sin embargo, en países de habla hispana como Colombia, México, Chile y España ha experimentado un crecimiento vertiginoso. Según un informe de la empresa de análisis de datos IDC, el número de profesionales en Data Science en países de habla hispana se duplicará entre 2022 y 2025.
 
-
-**Colombia**, por ejemplo, la acogida de Data Science es cada vez más prominente en la **industria de la salud**. Debido a su capacidad para analizar grandes volúmenes de datos médicos, se han descubierto patrones y tendencias que han mejorado la eficiencia de los diagnósticos y la creación de tratamientos personalizados.
+En **Colombia**, por ejemplo, la acogida de Data Science es cada vez más prominente en la **industria de la salud**. Debido a su capacidad para analizar grandes volúmenes de datos médicos, se ha utlizado para descubrir patrones y tendencias, mejorando así la eficiencia de los diagnósticos y la creación de tratamientos personalizados.
 
 **En México**, se revolucionó el **sector financiero**. Los bancos y las instituciones crediticias analizan los datos financieros y los riesgos crediticios a través de algoritmos avanzados para evaluar a los solicitantes. Esto ha permitido una toma de decisiones más precisa y una reducción significativa en los riesgos crediticios.
 
-**En Chile**, Data Science ha jugado un papel vital en el **campo de la minería**. El análisis de grandes conjuntos de datos a través de algoritmos han logrado optimizar los procesos de extracción. Por ende, se ha aumentado la eficiencia de la industria y, al mismo tiempo, ha ayudado a minimizar el impacto ambiental.
+**En Chile**, Data Science ha jugado un papel vital en el **campo de la minería**. A través del análisis de grandes conjuntos de datos a través de algoritmos, han logrado optimizar los procesos de extracción,  aumentado así la eficiencia de la industria y ayudando a minimizar su impacto ambiental.
 
 La demanda actual de [ingenieros de data science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning) y [expertos en inteligencia artificial](https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial?lang=es) es muy alta y la predicción es que continúe en fuerte ascenso. Para potenciar al máximo las oportunidades que ofrece Data Science, es esencial aumentar la inversión en educación y capacitación en esta área. Los gobiernos y las instituciones académicas deben fomentar programas y cursos especializados en Data Science, garantizando así que haya **profesionales altamente capacitados **para enfrentar los desafíos del futuro. Aprender Data Science y Machine Learning sin duda representa una excelente oportunidad laboral.
 
 ## **¿Dónde empezó el Data Science?**
 
-El origen de la ciencia de datos se remonta a varias décadas atrás, a 1962 cuando el estadístico estadounidense John W. Tukey reflejó en su artículo “The Future of Data Analysis” el término “ciencia de datos” y surgió como una evolución de la estadística matemática. El acceso a datos masivos y avances tecnológicos impulsaron su crecimiento, al reconocer el valor de la información en la toma de decisiones y la optimización de procesos. 
+La ciencia de datos surgió como una evolución de la estadística matemática, y se remonta a 1962 cuando el estadístico estadounidense John W. Tukey reflejó en su artículo “The Future of Data Analysis” el término “ciencia de datos”. El acceso a datos masivos, los avances tecnológicos, y el valor de la información para la toma de decisiones y la optimización de procesos, han impulsado su vertiginoso crecimiento.
 
 Además, el desarrollo de técnicas de aprendizaje automático y el aumento en la capacidad de procesamiento de las computadoras han ampliado las posibilidades de análisis de datos. Estos avances han hecho que la Data Science sea más accesible y han dado lugar a la aparición de **nuevas aplicaciones** en una amplia gama de industrias.
 
-Data Science inicia centrándose en el análisis y recopilación de datos estructurados basándose en técnicas estadísticas tradicionales. Sin embargo, con el nacimiento de nuevas tecnologías y enfoques de algoritmos más avanzados, la Data Science ha evolucionado para incluir el **análisis de datos no estructurados**, como texto, imágenes y video.
+Data Science inició centrándose en el análisis y recopilación de datos estructurados basándose en técnicas estadísticas tradicionales. Sin embargo, con el nacimiento de nuevas tecnologías y enfoques de algoritmos más avanzados, la Data Science ha evolucionado para incluir el **análisis de datos no estructurados**, como texto, imágenes y video.
 
 ## **Cómo funciona y quién maneja la Ciencia de Datos**
 
-La Data Science abarca una amplia variedad de disciplinas y de campos de especialidad, su **principal objetivo es dar sentido a los datos brutos** y para conseguirlo es necesario que un experto en el área posea competencias, conocimientos y habilidades en ingeniería de datos, matemáticas, estadística, informática y visualización de datos. 
+La Data Science abarca una amplia variedad de disciplinas y de campos de especialidad, pero su **principal objetivo es ordenar y dar sentido a los datos brutos** . Para conseguirlo, es necesario  un experto que posea competencias, conocimientos y habilidades en ingeniería de datos, matemáticas, estadística, informática y visualización de datos. El Data Scientist es quien recorre las abundantes series de datos brutos para extraer de ellas la información necesaria y comunicarles a los responsables. 
 
-El Data Scientist, el experto en ciencia de datos, recorre las abundantes series de datos brutos para extraer de ellas la información necesaria y comunicarles a los responsables. El científico de datos tiene un perfil experto que incluye **el uso de la inteligencia artificial, no solo con el machine learning, sino también con el deep learning**. 
-
-Para entender un poco mejor, el **Machine Learning** (aprendizaje automático) es el campo de la inteligencia artificial que permite a los ordenadores **aprender sin ser programados explícitamente**, es decir, aprenden a partir de los datos y la experiencia, lo cual les permite mejorar los resultados con el tiempo.
-
-Y el Deep Learning (aprendizaje profundo) es un subcampo del aprendizaje automático que **utiliza redes neuronales artificiales** para aprender a partir de los datos; estas redes están inspiradas en la estructura y funcionamiento del cerebro humano. 
+El científico de datos tiene un perfil experto que incluye **el uso de la inteligencia artificial, no solo con el machine learning, sino también con el deep learning**. Para entender un poco mejor, el **Machine Learning** (aprendizaje automático) es el campo de la inteligencia artificial que permite a los ordenadores **aprender sin ser programados explícitamente**, es decir, aprenden a partir de los datos y la experiencia, lo cual les permite mejorar los resultados con el tiempo. El Deep Learning (aprendizaje profundo) es un subcampo del aprendizaje automático que **utiliza redes neuronales artificiales** para aprender a partir de los datos; estas redes están inspiradas en la estructura y funcionamiento del cerebro humano. 
 
 Actualmente ambos son utilizados en el reconocimiento de imágenes y videos para la identificación de objetos y personas, y la predicción de tendencias futuras  en el área financiera, el entretenimiento, la salud y los seguros por ejemplo. 
 
-**Los científicos de datos crean modelos y realiza predicciones** usando algoritmos. Tienen responsabilidades como la
+**Los científicos de datos crean modelos y realizan predicciones** usando algoritmos. Tienen responsabilidades como :
 
 
 
-* **Gestión de datos:** para establecer una estadística sobre una temática precisa.
+* **La gestión de datos:** para establecer una estadística sobre una temática precisa.
 * **Data analytics: **para obtener datos, analizar los resultados para establecer una visualización.
 * **Business analytics: **para la toma de decisiones en la empresa.
 ---
