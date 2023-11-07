@@ -28,10 +28,13 @@ Las provincias que tienen mayor número de  las vacantes de TI en Colombia se en
 
 Siguiendo con la idea principal; podemos comparar los sueldos promedios de los profesionales en tecnología de acuerdo con el rol que desempeñan dentro de sus empresas. 
 
-**Acá te mencionaremos algunas de estas: **
+**Acá te mencionaremos algunas de estas**:
+
 - 1 El cargo de gerente de TI es el mejor remunerado con **10.642,916 COP.**
 - 2 Los expertos en Inteligencia Artificial con **9.133.000 COP**. 
+
 > Cabe mencionar que nuestra academia te ofrece la oportunidad de convertirte en todo un [experto en machine learning](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning). 
+
 - 3 DevOps cuenta con un salario de **8.827.188 COP.** 
 - 4 Por último, el Arquitecto de Software **8.097.014 COP.**
 > Datos proporcionados por glassdoor. 
