@@ -66,7 +66,7 @@ Al poder tener estos conocimientos, tendrás la oportunidad de ganar un sueldo b
 
 Muchos de nuestros egresados han sido contratados en empresas internacionales teniendo mayores ingresos como [Full-Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time) gracias al programa **GeekFORCE**. Marcas como: National Geographic, KPMG, Facebook, Tipjob.es, Microsoft, tcg, entre otras... brindan esta increíble oportunidad para miles de personas. 
 
-Uno de nuestros egresados, Alejandro Delgado investigó sobre cuánto gana un programador en Colombia, vió la oportunidad y actualmente es Full Stack Developer Python en WOM. Él también buscó la manera de saber cuánto gana un programador, alcanzó la meta y consiguió empleo, Puede conocer la opinión de otros de nuestros egresados  y sus testimonios ⬅️ haciendo click en el enlace. 
+Uno de nuestros egresados, Alejandro Delgado investigó sobre cuánto gana un programador en Colombia, vió la oportunidad y actualmente es Full Stack Developer Python en WOM. Él también buscó la manera de saber cuánto gana un programador, alcanzó la meta y consiguió empleo, Puede conocer la opinión de otros de [nuestros egresados  y sus testimonios](https://4geeksacademy.com/es/testimonios) ⬅️ haciendo click en el enlace. 
 
  En nuestras plataformas podrás encontrar workshops gratuitos, eventos con partners y mucho más ¡Ya lo sabes! El tener el conocimiento de saber cuánto gana un programador en Colombia te da la ventaja de aprovechar formarte en esta profesión del futuro.
 
