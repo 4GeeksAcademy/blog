@@ -14,6 +14,8 @@ Los acuerdos de participación en los ingresos (ISA) están consagrados como una
 **Los ISA son un mecanismo que apuesta a tu carrera, a tu futuro, quitando del medio la variable económica** que siempre envuelve al sistema educativo. 
 No  pagas intereses ni la mayoría del capital **hasta que consigas trabajo y generes ingresos con un salario determinado**.
 
+![4Geeks Academy](https://storage.googleapis.com/media-breathecode/ea4fd897823186161355bdfce8b2d4f443a1effdc17d84c7b00c14e3de85c5aa)
+
 ### Ventajas principales de los Acuerdos de Ingresos compartidos:
 
 - **Alivio de la carga financiera**: Los ISA permiten a los estudiantes concentrarse en sus estudios sin preocuparse por la deuda estudiantil.
