@@ -10,6 +10,9 @@
   
 - Salary Trends and Market Projections: Include specific salary data from reputable sources such as LinkedIn, Glassdoor, or industry reports for full-stack developers in 2024. 
 Present statistics on salary growth compared to previous years and projections for the upcoming year. Include regional variations in full-stack development salaries, focusing on major tech hubs.
+
+- Salary by country: Which country pay the most? top 10 countries and bottom 10 countries.
+- Remove vs in-person: Can you get paid the same with a remote salary? Can you get paid the same if you live in a different city or country?
   
 - Comparative Data: Compare the average salaries of full-stack developers with specialized roles like front-end, back-end, and data scientists. Discuss the advantages and potential trade-offs of pursuing a full-stack development career in terms of compensation.
 
