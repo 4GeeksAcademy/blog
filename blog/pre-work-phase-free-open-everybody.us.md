@@ -23,7 +23,7 @@ Probably you are asking why? Here is the thing:
 
 
  	
-  1. Is an opportunity for the student to try out the course, write his first lines of code, create his first website and see if coding is for him.
+  1. It's an opportunity for the student to try out the course, write his first lines of code, create his first website and see if coding is for him.
 
  	
   2. We want to know our students, and it is imposible to really know someone after 2 or 3 meetings: The interview process for a bootcamp is pretty much like a job interview. Applicants know what to say in order to please the recruiter, that's why the recruiter needs to work hard in order to have access to the real personality and thoughts of the candidate. At the end, you never know after he starts working.
