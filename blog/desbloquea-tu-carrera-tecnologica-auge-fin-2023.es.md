@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
-excerpt: "Los meses de septiembre y octubre han sido testigos de un notable aumento en las contrataciones, con empresas tecnológicas buscando activamente nuevos talentos para satisfacer sus necesidades cambiantes. El número de octubre de 2023 sigue siendo un 43% superior al de octubre de 2022. 
+excerpt: "El éxito en las contrataciones en septiembre y octubre muestra un aumento del 43% en comparación con el año anterior. Ahora, en noviembre y diciembre, se presentan oportunidades de empleo para..."
 template: "post"
 title: "Desbloqueando tu Carrera Tecnológica Aprovechando el Auge de Contrataciones de Fin de Año"
 image_alt: "Desbloqueando tu Carrera Tecnológica"
