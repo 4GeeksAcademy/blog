@@ -9,6 +9,8 @@ image_alt: "Desbloqueando tu Carrera Tecnológica"
 ---
 En el mundo del desarrollo web y la tecnología, **el timing**⏱️ lo es todo. En [**4Geeks Academy**](https://4geeksacademy.com/es/inicio?lang=es), creemos que saber cuándo dar el paso en el mercado laboral puede marcar la diferencia. En este artículo, exploraremos por qué los últimos meses del año son la oportunidad perfecta para que los entusiastas de la tecnología soliciten y consigan sus trabajos soñados. Vamos a profundizar en por qué deberías estar emocionado acerca de estos últimos meses del año.
 
+![Desbloqueando tu Carrera Tecnológica](https://breathecode.herokuapp.com/v1/media/file/laptop-closeup-jpg)
+
 
 ## El éxito de Septiembre y Octubre:
 Los meses de septiembre y octubre han sido testigos de un notable aumento en las contrataciones, con empresas tecnológicas buscando activamente nuevos talentos para satisfacer sus necesidades cambiantes. El número de **octubre de 2023 sigue siendo un 43% superior** al de octubre de 2022. Esto es aún más asombroso cuando consideramos que nuestra tasa de contratación aumentó de manera sorprendente en un **133%** desde el mes anterior.
