@@ -51,7 +51,7 @@ Estas plataformas brindan oportunidades valiosas para los interesados en aprende
 
 La comunidad de programadores en Caracas se destaca por su pasión y dedicación. A pesar de la limitada educación formal en ciencias de la computación, muchos han adquirido habilidades de forma autodidacta, impulsados por recursos en línea y proyectos personales, creando una comunidad motivada y emprendedora. Aunque la industria tecnológica de Venezuela enfrenta desafíos económicos y políticos, Caracas alberga una próspera comunidad comprometida con el avance tecnológico y el apoyo mutuo. La especialización en áreas como blockchain e inteligencia artificial ha generado oportunidades laborales y proyectos innovadores, fortaleciendo la contribución de los programadores al crecimiento tecnológico del país.
 
-### Recursos Adicionales para Cursos de Programación
+### Recursos Adicionales para Cursos de Programación Caracas
 
 En Caracas, aquellos que deseen mejorar sus habilidades de programación cuentan con diversas opciones disponibles:
 
