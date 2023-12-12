@@ -11,20 +11,6 @@ Caracas, a pesar de retos económicos y políticos, está experimentando un crec
 <img src="https://breathecode.herokuapp.com/v1/media/file/caracas-picture-jpg" alt="caracas-img" style="display: block; margin: 0 auto; border: 3px solid #f00; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); border-radius: 5px;">
 
 
-### Razones para ser un Programador
-
-Ser programador ofrece ventajas y oportunidades atractivas para aquellos que elijan esta carrera en Caracas:
-
-- 📈**Demanda Laboral**: La creciente industria tecnológica en Venezuela demanda programadores para desarrollar software en diversas áreas, lo que asegura una alta demanda de empleo.
-
-- 🤑**Salarios Competitivos**: Los programadores reciben salarios competitivos en Caracas, siendo uno de los trabajos mejor remunerados del país.
-
-- ⏱️**Flexibilidad Laboral**: Los programadores disfrutan de horarios flexibles y posibilidades de trabajo remoto, mejorando su equilibrio entre vida personal y profesional.
-
-- 🚀**Desarrollo Profesional**: La constante evolución tecnológica brinda oportunidades para aprender nuevas habilidades y mantenerse actualizados, lo que impulsa el crecimiento profesional.
-
-- 🗺️**Impacto en la Sociedad**: Los programadores pueden crear soluciones tecnológicas innovadoras que impacten positivamente en la vida de las personas, mejorando la comunicación y la eficiencia laboral.
-
 ### Estadísticas sobre la Población de Programadores en Caracas
 
 En Caracas, el interés por la programación ha experimentado un notable aumento, respaldado por estadísticas reveladoras. Según la encuesta "Stack Overflow Developer Survey 2022", el número de personas que han tomado [cursos de programación](https://4geeksacademy.com/es/curso-programacion/curso-programacion) en Venezuela ha crecido un impresionante 50% en los últimos 5 años. Glassdoor estima que más de **100,000 programadores trabajan en el país,** evidenciando la importancia de esta comunidad. **El salario promedio de un programador en Venezuela es de $50,000 al año**, lo que refleja la competitividad en remuneración del sector tecnológico. Asimismo, se prevé un **crecimiento del 20%** en la demanda de programadores en los próximos **5 años**, según Indeed.com, señal de una creciente necesidad de talento en el campo de la programación en diversas empresas y sectores.
@@ -67,3 +53,17 @@ El auge de la industria tecnológica en Caracas presenta un escenario prometedor
 
 
 <call-to-action button_text="Aplicar" button_link="https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es" background="rgba(0, 151, 205, 0.15)" title="Se parte hoy de esta tendencia" text="De cero a tener tu primer trabajo como programador, aprende todo lo necesario, recibe soporte de por vida y consigue un trabajo después de 18 semanas de estudio."></call-to-action>
+
+### Razones para ser un Programador
+
+Ser programador ofrece ventajas y oportunidades atractivas para aquellos que elijan esta carrera en Caracas:
+
+- 📈**Demanda Laboral**: La creciente industria tecnológica en Venezuela demanda programadores para desarrollar software en diversas áreas, lo que asegura una alta demanda de empleo.
+
+- 🤑**Salarios Competitivos**: Los programadores reciben salarios competitivos en Caracas, siendo uno de los trabajos mejor remunerados del país.
+
+- ⏱️**Flexibilidad Laboral**: Los programadores disfrutan de horarios flexibles y posibilidades de trabajo remoto, mejorando su equilibrio entre vida personal y profesional.
+
+- 🚀**Desarrollo Profesional**: La constante evolución tecnológica brinda oportunidades para aprender nuevas habilidades y mantenerse actualizados, lo que impulsa el crecimiento profesional.
+
+- 🗺️**Impacto en la Sociedad**: Los programadores pueden crear soluciones tecnológicas innovadoras que impacten positivamente en la vida de las personas, mejorando la comunicación y la eficiencia laboral.
