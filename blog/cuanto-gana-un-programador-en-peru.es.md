@@ -3,16 +3,17 @@ Article Length: approx. 1000-1500 words
 Aim to create an informative, engaging article that keeps a clear focus.
 Ensure that each section is adequately detailed and well-explained and that they are logically connected.
 Additional Notes:
-Make sure the article's title includes the keywords: Cuanto Gana un programador en Peru
-Additional keywords for SEO (please include at least one from each group  in the article)
-Cuanto gana un programador
-5 tips para encutrar tu proximo trabajo
-CUANTO GANA UN PROGRAMADOR EN COLOMBIA
-CUANTO GANA UN PROGRAMADOR EN MEXICO
-CUANTO GANA UN PROGRAMADOR EN CHILE
-ALTA DEMANDA DE PROGRAMADORES 
-Best-online-coding-bootcamp 
-Python one of the most in-demand programming languages
+Make sure the article's title includes the keywords: Cuanto Gana un programador en Peru.
+
+Additional keywords for SEO: please include these other keywords within the content of the article; they will be added as backlinks to other articles
+- Cuanto gana un programador
+- 5 tips para encutrar tu proximo trabajo
+- CUANTO GANA UN PROGRAMADOR EN COLOMBIA
+- CUANTO GANA UN PROGRAMADOR EN MEXICO
+- CUANTO GANA UN PROGRAMADOR EN CHILE
+- ALTA DEMANDA DE PROGRAMADORES
+
+
 —-------
 Integrate the keywords as naturally as possible into the content, without forcing it.
 Audience: Beginners Considering Learning Full-stack-development (ranging from complete novices to those with some familiarity with the topic)
