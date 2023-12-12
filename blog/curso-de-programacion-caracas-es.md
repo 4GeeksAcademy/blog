@@ -29,7 +29,7 @@ Ser programador ofrece ventajas y oportunidades atractivas para aquellos que eli
 
 En Caracas, el interés por la programación ha experimentado un notable aumento, respaldado por estadísticas reveladoras. Según la encuesta "Stack Overflow Developer Survey 2022", el número de personas que han tomado [cursos de programación](https://4geeksacademy.com/es/curso-programacion/curso-programacion) en Venezuela ha crecido un impresionante 50% en los últimos 5 años. Glassdoor estima que más de **100,000 programadores trabajan en el país,** evidenciando la importancia de esta comunidad. **El salario promedio de un programador en Venezuela es de $50,000 al año**, lo que refleja la competitividad en remuneración del sector tecnológico. Asimismo, se prevé un **crecimiento del 20%** en la demanda de programadores en los próximos **5 años**, según Indeed.com, señal de una creciente necesidad de talento en el campo de la programación en diversas empresas y sectores.
 
-## Opciones para Cursos de Programación en Caracas
+## Opciones para Cursos de Programación Caracas
 
 Caracas ofrece una variedad de opciones para aquellos que deseen adentrarse en el mundo de la programación y desarrollar habilidades tecnológicas. Aquí presentamos algunas de las principales opciones:
 
@@ -51,7 +51,7 @@ Estas plataformas brindan oportunidades valiosas para los interesados en aprende
 
 La comunidad de programadores en Caracas se destaca por su pasión y dedicación. A pesar de la limitada educación formal en ciencias de la computación, muchos han adquirido habilidades de forma autodidacta, impulsados por recursos en línea y proyectos personales, creando una comunidad motivada y emprendedora. Aunque la industria tecnológica de Venezuela enfrenta desafíos económicos y políticos, Caracas alberga una próspera comunidad comprometida con el avance tecnológico y el apoyo mutuo. La especialización en áreas como blockchain e inteligencia artificial ha generado oportunidades laborales y proyectos innovadores, fortaleciendo la contribución de los programadores al crecimiento tecnológico del país.
 
-### Recursos Adicionales para Cursos de Programación Caracas
+## Recursos Adicionales para Cursos de Programación Caracas
 
 En Caracas, aquellos que deseen mejorar sus habilidades de programación cuentan con diversas opciones disponibles:
 
