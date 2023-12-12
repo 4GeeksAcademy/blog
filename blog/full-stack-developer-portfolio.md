@@ -6,31 +6,31 @@ title: "Full Stack Developers | Salaries around the world and how to build your 
 
 ---
 
-A portfolio is a self build tool, where you can show and expose your completed projects and works. It does not focus on educational titles or jobs previous experience, but on showing, with evidence, what the developer can really do.
+A portfolio is a self built tool designed to showcase your completed projects. It is not focused on educational titles, jobs, or previous experience but on providing evidence of what you can do as a developer.
 
-Do not confuse the portfolio with the resume: The [full stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) resume (or CV) is the place to showcase academic achievements, certifications and diplomas that support your learning, experience in previous companies, etc.
+Do not confuse the portfolio with the resume: The [full stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) resume (or CV) is the place to list academic achievements, certifications and diplomas that prove your qualifications, experience in previous companies, etc.
 
-## The format and layout for a developer portfolio
+## The format and layout of a developer portfolio
 
-There are professionals who opt for developing a personal website, others create a repository in the cloud, make infographics or there are even professionals who create a YouTube channel to show their projects or share live how they develop a facet of their professional life. The limit is the imagination and the format is up to you.
+There are professionals who choose to develop a personal website, others create a repository in the cloud or make infographics. There are even professionals who create a YouTube channel to exhibit their projects and share their knowledge and skills. Your imagination is the limit and the format is up to you.
 
-> If you want to be a front end developer portfolio, the layout and UI/UX must be great!
+> If you want to be a front end developer, the layout and UI/UX of your portfolio must be great!
 
-A good piece of advice before starting to plan a portfolio is to know that it must speak for itself, that the employer at the moment of entering the page is **quickly convinced that the applicant is very capable and knows what he is doing**. It will be the letter of introduction, that is, it doesn't matter if you have a great academic background, if you are not capable of making a consistent code that you can show, then you have to review that.
+A good piece of advice for your portfolio is that it must speak for itself. When the potential employer visits your page they should **immediately get a sense of your level of capability and knowledge**. Your portfolio is your letter of introduction. In the world of coding, it doesn't matter if you have or don't have a great academic background; you need to be a good coder and be able to show it.
 
 ## Elements of a Strong Full Stack Developer Portfolio
 
-As we mentioned earlier, the portfolio should speak for itself and be consistent. Here we leave you some tips for a good portfolio and certain things that cannot be missing for a strong portfolio.
+Here is a list of elements that are essential to include in a strong portfolio, plus a few extra tips.
 
-+ **Personal projects**: Publish one post for each project in which you can explain what the project does, show screenshots, explain the architecture and engineering challenges, etc. Make sure to point people to a live demo (recomended) or github repostiory.
++ **Personal projects**: Publish one slide for each project, explaining what the project is about and how it works. Include screenshots, explain the architecture and engineering challenges, etc. Make sure to provide a link to a live demo (recommended) or github repository.
 
-+ **Curriculum vitae**:Although in the world of technology, titles and experience are not the most important thing, as in other fields, it is always good to have a solid and well-presented CV, because a good resume also speaks of your good professionalism.
++ **Resume**: Although in the world of technology, titles and formal experience are not the most important thing, it is always a good idea to have a solid and well-presented resume that will speak for a high level of professionalism.
 
-+ **Contact information**: Obviously, like any presentation element, contact details cannot be missing, they are essential for the employer to reach and contact you.
++ **Contact information**: Ensure your contact details are included and easy to find. They are essential for the employer to be able to reach you.
 
-+ **Github or Gitlab repository URL's**: Although it may sound a bit technical, in the world of technology development a repository is a daily occurrence. A repository is an element, generally online, where many people can work simultaneously to put together a larger project.
++ **Github or Gitlab repository URL's**: Although it may sound a bit technical, in the world of technology working with a Github or Gitlab repository is a daily occurrence. A repository is an online storage space that allows people to work on projects colaboratively.
 
-+ **Training certificates**: Just like those offered by [4Geeks Academy](https://4geeksacademy.com/), the training courses, although they do not speak of your net ability, do certify certain training and instruction in a certain subject, that is why we call them certifications and they are also material that, if you have them, cannot be missing in your portfolio. It is an important part of your presentation.
++ **Training certificates**: Just like those offered by [4Geeks Academy](https://4geeksacademy.com/), any training or courses you have taken provides evidence of a certain grade of knowledge and instruction. Although they do not reveal your real abilities, they are an important part of your background and should definitely be included in your portfolio.
 
 
 ### Important skills to show on a Full Stack Developer Portfolio
