@@ -11,9 +11,6 @@ Caracas, a pesar de retos económicos y políticos, está experimentando un crec
 <img src="https://breathecode.herokuapp.com/v1/media/file/caracas-picture-jpg" alt="caracas-img" style="display: block; margin: 0 auto; border: 3px solid #f00; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); border-radius: 5px;">
 
 
-### Estadísticas sobre la Población de Programadores en Caracas
-
-En Caracas, el interés por la programación ha experimentado un notable aumento, respaldado por estadísticas reveladoras. Según la encuesta "Stack Overflow Developer Survey 2022", el número de personas que han tomado [cursos de programación](https://4geeksacademy.com/es/curso-programacion/curso-programacion) en Venezuela ha crecido un impresionante 50% en los últimos 5 años. Glassdoor estima que más de **100,000 programadores trabajan en el país,** evidenciando la importancia de esta comunidad. **El salario promedio de un programador en Venezuela es de $50,000 al año**, lo que refleja la competitividad en remuneración del sector tecnológico. Asimismo, se prevé un **crecimiento del 20%** en la demanda de programadores en los próximos **5 años**, según Indeed.com, señal de una creciente necesidad de talento en el campo de la programación en diversas empresas y sectores.
 
 ## Opciones para Cursos de Programación Caracas
 
@@ -37,6 +34,10 @@ Estas plataformas brindan oportunidades valiosas para los interesados en aprende
 
 La comunidad de programadores en Caracas se destaca por su pasión y dedicación. A pesar de la limitada educación formal en ciencias de la computación, muchos han adquirido habilidades de forma autodidacta, impulsados por recursos en línea y proyectos personales, creando una comunidad motivada y emprendedora. Aunque la industria tecnológica de Venezuela enfrenta desafíos económicos y políticos, Caracas alberga una próspera comunidad comprometida con el avance tecnológico y el apoyo mutuo. La especialización en áreas como blockchain e inteligencia artificial ha generado oportunidades laborales y proyectos innovadores, fortaleciendo la contribución de los programadores al crecimiento tecnológico del país.
 
+### Estadísticas sobre la Población de Programadores en Caracas
+
+En Caracas, el interés por la programación ha experimentado un notable aumento, respaldado por estadísticas reveladoras. Según la encuesta "Stack Overflow Developer Survey 2022", el número de personas que han tomado [cursos de programación](https://4geeksacademy.com/es/curso-programacion/curso-programacion) en Venezuela ha crecido un impresionante 50% en los últimos 5 años. Glassdoor estima que más de **100,000 programadores trabajan en el país,** evidenciando la importancia de esta comunidad. **El salario promedio de un programador en Venezuela es de $50,000 al año**, lo que refleja la competitividad en remuneración del sector tecnológico. Asimismo, se prevé un **crecimiento del 20%** en la demanda de programadores en los próximos **5 años**, según Indeed.com, señal de una creciente necesidad de talento en el campo de la programación en diversas empresas y sectores.
+
 ## Recursos Adicionales para Cursos de Programación Caracas
 
 En Caracas, aquellos que deseen mejorar sus habilidades de programación cuentan con diversas opciones disponibles:
@@ -51,9 +52,6 @@ En Caracas, aquellos que deseen mejorar sus habilidades de programación cuentan
 
 El auge de la industria tecnológica en Caracas presenta un escenario prometedor para aquellos **interesados en adentrarse en el mundo de la programación**. Con una creciente demanda laboral, salarios competitivos, flexibilidad laboral y diversas opciones de desarrollo profesional, ser programador en Caracas ofrece la posibilidad de un futuro tecnológico emocionante. La industria tecnológica en la ciudad continúa evolucionando hacia nuevas y emocionantes áreas especializadas. **En Caracas**, el mundo de la programación ofrece un sinfín de oportunidades para aquellos que deseen explorar su potencial en un [curso de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero). El futuro tecnológico aguarda con infinitas posibilidades para quienes elijan embarcarse en este emocionante viaje en la capital venezolana.
 
-
-<call-to-action button_text="Aplicar" button_link="https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es" background="rgba(0, 151, 205, 0.15)" title="Se parte hoy de esta tendencia" text="De cero a tener tu primer trabajo como programador, aprende todo lo necesario, recibe soporte de por vida y consigue un trabajo después de 18 semanas de estudio."></call-to-action>
-
 ### Razones para ser un Programador
 
 Ser programador ofrece ventajas y oportunidades atractivas para aquellos que elijan esta carrera en Caracas:
@@ -67,3 +65,7 @@ Ser programador ofrece ventajas y oportunidades atractivas para aquellos que eli
 - 🚀**Desarrollo Profesional**: La constante evolución tecnológica brinda oportunidades para aprender nuevas habilidades y mantenerse actualizados, lo que impulsa el crecimiento profesional.
 
 - 🗺️**Impacto en la Sociedad**: Los programadores pueden crear soluciones tecnológicas innovadoras que impacten positivamente en la vida de las personas, mejorando la comunicación y la eficiencia laboral.
+
+<call-to-action button_text="Aplicar" button_link="https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es" background="rgba(0, 151, 205, 0.15)" title="Se parte hoy de esta tendencia" text="De cero a tener tu primer trabajo como programador, aprende todo lo necesario, recibe soporte de por vida y consigue un trabajo después de 18 semanas de estudio."></call-to-action>
+
+
