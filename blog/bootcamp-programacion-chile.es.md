@@ -85,7 +85,7 @@ Además, estos bootcamps tienden a ser más asequibles que los programas univers
 
 ## Factores a Considerar al Elegir un Bootcamp de Programación en Chile
 
-Al elegir un bootcamp de programación adecuado, es crucial considerar factores como el enfoque del programa, su duración, la calidad de los instructores, las tasas de empleabilidad y las oportunidades de networking. Participar en un bootcamp es una experiencia intensa y gratificante, lleno de aprendizaje práctico y resolución de problemas. Los estudiantes trabajan en proyectos reales, aplicando directamente sus conocimientos y construyendo un portafolio atractivo para los empleadores.
+Al elegir un [bootcamp de programación adecuado](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion), es crucial considerar factores como el enfoque del programa, su duración, la calidad de los instructores, las tasas de empleabilidad y las oportunidades de networking. Participar en un bootcamp es una experiencia intensa y gratificante, lleno de aprendizaje práctico y resolución de problemas. Los estudiantes trabajan en proyectos reales, aplicando directamente sus conocimientos y construyendo un portafolio atractivo para los empleadores.
 
 ### La Experiencia de un Bootcamp de Programación 
 
