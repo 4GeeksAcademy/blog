@@ -12,8 +12,7 @@ Si decidiste iniciar una nueva carrera o potenciarte en el área, [hacer un boot
 
 Los bootcamps tienen una duración de entre **12 a 24 semanas** aproximadamente y se enfocan en habilidades específicas, como lo es **desarrollo web, móvil, de videojuegos o ciencia de datos**. Esta es una excelente manera de [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) rápidamente y conseguir un trabajo en la industria. 
 
-![Barcelona España - Bootcamp-Programacion-Barcelona](https://breathecode.herokuapp.com/v1/media/file/barcelona-spain-landscape-jpg)
-
+<img src="https://breathecode.herokuapp.com/v1/media/file/barcelona-spain-landscape-jpg" alt="Barcelona España - Bootcamp-Programacion-Barcelona" style="margin: 0 auto; width: 70%;">
 
 ## Top 7 Bootcamps de Programación en Barcelona
 Como indicamos anteriormente, Barcelona cuenta con más de 100 bootcamps de programación y acá te traemos los 7 mejores para facilitarte esa larga búsqueda: 
