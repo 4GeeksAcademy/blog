@@ -12,7 +12,7 @@ The cost of a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) de
 
 Now that you have the idea, let's get straight to the point! 💵 The cost of a coding bootcamp can vary greatly depending on the program and location. Generally, coding bootcamps range from $7,000 to $20,000. 
 
-<img src="https://storage.googleapis.com/breathecode-asset-images/44711e9c4ab99cea1fb8702d5c8be4d4faf8f801f53ccb4baf7012f19705863f.png" alt="How much is a coding bootcamp" style="display: block; margin: 0 auto; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+<img src="https://storage.googleapis.com/breathecode-asset-images/44711e9c4ab99cea1fb8702d5c8be4d4faf8f801f53ccb4baf7012f19705863f.png" alt="How much is a coding bootcamp" style="display: block; margin: 0 auto; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; width: 70%;">
 
 
 ## Face-to-face Coding Bootcamps 
