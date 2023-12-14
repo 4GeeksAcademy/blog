@@ -1,8 +1,8 @@
 ---
 author: "alesanchezr"
-excerpt: "Coding bootcamps help you get the skills you need to become a coder, they cost anywhere from $7,000 to $20,000, and graduates see an average salary increase of $22,000. Start your coding career today!"
+excerpt: "Explore Coding Bootcamps, Accelerate Your Skills, and Unveil the True Cost of Shaping Your Future in Tech! Discover Now. 💡💻💰"
 template: "post" 
-title: "Know how much is a Coding Bootcamp"
+title: "How much is a Coding Bootcamp"
 
 ---
 
