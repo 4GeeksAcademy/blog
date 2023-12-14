@@ -224,7 +224,7 @@ At [4Geeks Academy](https://4geeksacademy.com/us/index), we offer a comprehensiv
 
 ### Benefits ✅
 
-<CODE WILL SET YOU FREE!!> That is our slogan! ;)
+< CODE WILL SET YOU FREE!! > That is our slogan! ;)
 
 - 👉 [Geekpal](https://4geeksacademy.com/us/geekpal-support): GeekPAL is an instant membership you get when you become a student at 4Geeks Academy. Don't code alone ever again, have mentors for the rest of your life (even after graduation!).
 
