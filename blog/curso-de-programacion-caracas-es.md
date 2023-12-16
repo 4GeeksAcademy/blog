@@ -8,7 +8,7 @@ title:  "Los mejores cursos de programación en Caracas"
 
 Caracas, a pesar de retos económicos y políticos, está experimentando un crecimiento en su industria tecnológica. La demanda de programadores altamente capacitados ha aumentado considerablemente, generando un auge en [cursos de programación en la ciudad](https://4geeksacademy.com/es/curso-de-programacion-desde-cero). En este artículo, se exploran las razones detrás de esta atracción hacia la programación, se presentan estadísticas relevantes sobre la población de programadores en Caracas y se detallan diversas opciones para aquellos interesados en tomar cursos en esta vibrante capital.
 
-<img src="https://breathecode.herokuapp.com/v1/media/file/caracas-picture-jpg" alt="caracas-img" style="display: block; margin: 0 auto; border: 3px solid #f00; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); border-radius: 5px;">
+<img src="https://breathecode.herokuapp.com/v1/media/file/caracas-picture-jpg" alt="caracas-img" style="display: block; margin: 0 auto; border: 3px solid #4b4b4b; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); border-radius: 5px; max-width: 450px;">
 
 
 
