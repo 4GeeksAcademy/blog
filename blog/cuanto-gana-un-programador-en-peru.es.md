@@ -2,12 +2,11 @@
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
 excerpt: ""
-slug: "example-delete-me"
-template: "post" # post or landing_post
-title: ""
+slug: "cuanto-gana-un-programador-en-peru"
+template: "post" 
+title: "¿Cuánto gana un programador en Perú?"
 image: "https://breathecode.herokuapp.com/v1/media/file/lima-peru-background-jpg"
 image_alt: "Cuanto Gana un programador en Peru"
-featured: true # featured must be a boolean value
 
 ---
 
