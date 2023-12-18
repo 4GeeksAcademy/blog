@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: ""
+excerpt: "Descubre las claves sobre salarios y perspectivas laborales para programadores en Perú 🚀. ¡Potencia tu carrera en un mercado en pleno crecimiento tecnológico! 💼💻"
 slug: "cuanto-gana-un-programador-en-peru"
 template: "post" 
 title: "¿Cuánto gana un programador en Perú?"
