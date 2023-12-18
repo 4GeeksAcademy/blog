@@ -15,7 +15,7 @@ El mercado laboral para programadores en Perú experimenta un crecimiento sosten
 
 
 
- Ahora, **¿Cuánto gana un programador en Perú?**
+ ## Ahora, **¿Cuánto gana un programador en Perú?**
 
 Para determinar el máximo salario de un programador en Perú, es necesario considerar **la experiencia**, especialmente para un desarrollador senior. Mientras que **un programador junior puede comenzar con un salario de 2,159 soles al mes**, según reportes de Indeep hasta febrero, **un desarrollador senior puede llegar a ganar en promedio 3,960 soles**, según múltiples fuentes.
 
