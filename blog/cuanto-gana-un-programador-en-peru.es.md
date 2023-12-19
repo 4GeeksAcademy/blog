@@ -82,12 +82,12 @@ cuando nos preguntamos cuanto gana un programador en peru, inevitablemente const
 
 Determinar cuánto gana un programador en Perú también implica tener en cuenta factores geográficos. A continuación, se presentan algunas de las mejores ubicaciones en Perú para programadores, según el salario mensual promedio:
 
-| Ubicación                | Salario         |
+| Ubicación                | Salario  Promedio      |
 |--------------------------|-----------------|
-| Magdalena del Mar, Lima  | 3,588 soles/mes |
-| Lima, Lima               | 1,601 soles/mes |
-| San Isidro, Lima         | 1,560 soles/mes |
-| Santiago de Surco, Lima  | 1,453 soles/mes |
+| Magdalena del Mar  | 3,588 soles/mes |
+| Lima           | 1,601 soles/mes |
+| San Isidro         | 1,560 soles/mes |
+| Santiago de Surco  | 1,453 soles/mes |
 
 
 > Es crucial destacar que estos valores son promedios y no representan cifras absolutas. La remuneración real puede variar significativamente debido a factores individuales y condiciones del mercado laboral. En la actualidad, algunos programadores pueden incluso alcanzar salarios de hasta 5,000 soles.
