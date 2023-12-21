@@ -1,9 +1,9 @@
-Title: "¿Cuanto Gana un programador en Peru?"
+Title: "¿Cuanto Gana un programador en Uruguay?"
 Article Length: approx. 1000-1500 words
 Aim to create an informative, engaging article that keeps a clear focus.
 Ensure that each section is adequately detailed and well-explained and that they are logically connected.
 Additional Notes:
-Make sure the article's title includes the keywords: Cuanto Gana un programador en Peru
+Make sure the article's title includes the keywords: Cuanto Gana un programador en Uruguay
 Additional keywords for SEO (please include at least one from each group  in the article)
 Cuanto gana un programador
 5 tips para encutrar tu proximo trabajo
