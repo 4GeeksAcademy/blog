@@ -2,7 +2,7 @@
 author: "4GeeksAcademy"
 excerpt: ""
 template: "post"
-title: "HACKEA EL RECLUTAMIENTO"
+title: "Hack el Reclutamiento"
 
 ---
 
