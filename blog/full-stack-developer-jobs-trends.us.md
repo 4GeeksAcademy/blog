@@ -13,10 +13,10 @@ full stack developer job description
 full stack developer portfolio
 full stack developer salary
 
-how to become a fullstack developer
+how to become a full stack developer
 —-------
 Integrate the keywords as naturally as possible into the content, without forcing it.
-Audience: Beginners Considering Learning Full-stack-development or People that made a bootcamp and they're applying to a firts job
+Audience: Beginners Considering Learning Full stack development or People who made a bootcamp and they're applying for a first job
 (ranging from complete novices to those with some familiarity with the topic)
 It's important to briefly explain each technical term before introducing it so that a novice can understand what is being discussed.
 
