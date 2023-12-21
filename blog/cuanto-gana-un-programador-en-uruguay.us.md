@@ -1,3 +1,38 @@
+Title: "¿Cuanto Gana un programador en Peru?"
+Article Length: approx. 1000-1500 words
+Aim to create an informative, engaging article that keeps a clear focus.
+Ensure that each section is adequately detailed and well-explained and that they are logically connected.
+Additional Notes:
+Make sure the article's title includes the keywords: Cuanto Gana un programador en Peru
+Additional keywords for SEO (please include at least one from each group  in the article)
+Cuanto gana un programador
+5 tips para encutrar tu proximo trabajo
+CUANTO GANA UN PROGRAMADOR EN COLOMBIA
+CUANTO GANA UN PROGRAMADOR EN MEXICO
+CUANTO GANA UN PROGRAMADOR EN CHILE
+Cuanto Gana un Programador en Peru
+ALTA DEMANDA DE PROGRAMADORES 
+Best-online-coding-bootcamp 
+
+—-------
+Integrate the keywords as naturally as possible into the content, without forcing it.
+Audience: Beginners Considering Learning Full-stack-development (ranging from complete novices to those with some familiarity with the topic)
+It's important to briefly explain each technical term before introducing it so that a novice can understand what is being discussed.
+
+Writing Style and Tone:
+Maintain a clear, direct, and professional tone without sounding overly complex or academic.
+Avoid colloquial language or overly informal expressions.
+Avoid over-using words that are clearly “Chat-GPT-ish” ( for example: embark, journey, paramount, unlock potential)
+Use a moderate amount of technical language. Write simply so that both beginners and those somewhat familiar with the field can derive value from the article.
+Avoid "fillers" - phrases that don't add meaningful content.
+Ensure logical content flow between different sections to maintain a smooth article.
+Avoid promotional language.
+Include relevant data:
+Include statistics, numbers, and specific metrics related to software engineering.
+Cite reliable sources to validate the information.
+
+
+---
 ### Título: "¿Cuánto Gana un Programador en Uruguay?"
 
 **Extensión del artículo:** Aproximadamente 1000-1500 palabras
