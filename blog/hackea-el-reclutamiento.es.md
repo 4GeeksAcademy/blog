@@ -1,17 +1,18 @@
 ---
 author: "4GeeksAcademy"
-excerpt: ""
+excerpt: "¡Descubre cómo "hackear el reclutamiento" con la alianza entre 4geeks y RecruHack! Potencian el talento TI 💻 Unen fuerzas para captar y formar profesionales en tecnología."
 template: "post"
-title: "Hack el Reclutamiento"
+title: "¡Hackea el Reclutamiento!"
 
 ---
-
-
+**La colaboración entre 4geeks y RecruHack** representa una sinergia estratégica en el ámbito del reclutamiento y la formación en tecnología. 4geeks, reconocido por  sus cursos de programación, se ha asociado con RecruHack, especializado en el reclutamiento y contratación, fortaleciendo así las capacidades de reclutamiento en perfiles de TI. Esta unión permite a los reclutadores acceder a un conocimiento más profundo de las habilidades tecnológicas actuales, facilitando la identificación y atracción del talento TI más relevante para las empresas.
 Si eres alguien que tiene la misión de encontrar el mejor talento TI para las empresas, entonces seguramente este post es para ti, porque acá te contaremos acerca de este misterioso mundo de encontrar ese talento, que (SPOILER ALERT) no está oculto, sólo que no está buscando empleo porque ya lo tiene!!!
 
-En **RecruHack** tenemos cursos para entrenar a Reclutadores de perfiles TI, puedes revisar nuestros [cursos aquí](https://recruhack.com/).
+En **RecruHack** tenemos [cursos para entrenar a Reclutadores de perfiles TI](https://recruhack.com/) que puedes revisar en el enlace. 
 
-Existe una gran verdad como ya dijimos: el Talento TI, en su gran mayoría, ya está trabajando, por lo tanto, no está buscando empleo. El gran porcentaje de este talento no va a postular a tus vacantes de avisos de empleo y es muy probable que quizás no se haya registrado en alguna bolsa de empleo (contando con destacables excepciones como **ChumiJobs** que se ha ganado una reputación en el mercado y le permite captar talentos que se registran en su base de datos); entonces, ¿cómo encuentro este talento tan requerido por las empresas hoy en día?
+
+### Existe una gran verdad como ya dijimos
+El Talento TI, en su gran mayoría, ya está trabajando, por lo tanto, no está buscando empleo. El gran porcentaje de este talento no va a postular a tus vacantes de avisos de empleo y es muy probable que quizás no se haya registrado en alguna bolsa de empleo (contando con destacables excepciones como **ChumiJobs** que se ha ganado una reputación en el mercado y le permite captar talentos que se registran en su base de datos); entonces, ¿cómo encuentro este talento tan requerido por las empresas hoy en día?
 
 **Otro Spoiler:** Este talento TI seguirá “escondido” porque la demanda por Perfiles TI NO VA A MENGUAR, todo lo contrario, con el tiempo, será más requerida.
 
