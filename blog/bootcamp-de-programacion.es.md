@@ -31,7 +31,10 @@ Cite reliable sources to validate the information.
 --- 
 
 Introducción:
-Inicia con un análisis sobre cómo los bootcamps de programación han revolucionado la educación tecnológica, destacando su importancia en la formación de profesionales en desarrollo de software y su impacto en la industria laboral actual. Menciona la relevancia de elegir el bootcamp correcto para obtener resultados exitosos en la inserción laboral.
+Menciona que elegir un bootcamp es retados porque todos parecen iguales cuando estas haciendo la investigation, todos dicen tener mucha empleabilidad, un gran syllabus, etc. Para poder llegar a la verdad es mejor enfocarse en entrevistar alumnos, professors, analizar el sistema de mentorias, cuanto soporte de dan y por cuanto tiempo, no pensar tanto en el precio sino en las formas de pago ya que si es bueno se paga por si solo, incluso tienen muchas becas. Estos y muchos otros criterios.
+
+Tecnologia y Contenido:
+Los bootcamps no son conocidos por tener muchas herramientas o tecnologia para enseñar a programer, sin embargo, ya varios bootcamps han desarrollado herramientas como LearnPack que potencian el aprendizaje con AI y feedback en tiempo real. Es realmente una ventaja muy importante contar con un tutor de inteligencia articial para potenciar tu aprendizaje. Por otro lado, hoy en dia es recomendable que los bootcamps tengan su propoio contenido para tener un mejro control del ambiente de clase y acelerar el aprendizaje. Que lenguaje enseñan? y porque? 
 
 Beneficios y Valor de los Bootcamps de Programación:
 Detalla los beneficios de asistir a un bootcamp, incluyendo la inmersión intensiva en tecnología, la oportunidad de adquirir habilidades prácticas, el mentoring personalizado y la red de contactos que ofrecen. Destaca cómo estos aspectos aceleran el aprendizaje y preparan a los estudiantes para el mercado laboral.
@@ -47,11 +50,19 @@ acá puedes conseguir varios testimonios de personas que han participado en 4gee
 Métodos de Enseñanza y Enfoque Curricular:
 Detalla los métodos de enseñanza utilizados en bootcamps de programación, como proyectos prácticos, colaboraciones, mentorías y más. Describe el enfoque del plan de estudios y cómo se alinea con las demandas del mercado laboral actual.
 
+Soporte
+Formas de ayudar, limitaciones para acceder a la ayuda, disponibilidad?
+
+Precio:
+Que becase tienen? los mejores tienen muchas becas porque las ONG y Gobiernos confían en ellos. Un programa de becase solido es el mejor credencial.
+Que financiamientos tienen?
+Te devuelve el dinero?
+
 Consejos para Elegir el Bootcamp Adecuado:
 Ofrece consejos prácticos para aquellos que buscan elegir un bootcamp de programación. Incluye consideraciones como el tipo de tecnología deseada, el nivel de habilidad, la ubicación y la reputación del bootcamp.
 
 Impacto en el Empleo y Perspectivas Laborales:
-Analiza cómo la asistencia a un bootcamp de programación puede influir en las oportunidades laborales. Incluye estadísticas sobre el porcentaje de colocación laboral después de completar un bootcamp y salarios promedio.
+Analiza cómo la asistencia a un bootcamp de programación puede influir en las oportunidades laborales. Incluye estadísticas sobre el porcentaje de colocación laboral después de completar un bootcamp y salarios promedio. Revisa cuales lenguajes enseñan y cuantas vacantes de trabajo hay en esas tecnologias.
 
 Conclusión y Recomendaciones Finales:
 Finaliza con una conclusión que resume los puntos clave discutidos en el artículo. Ofrece recomendaciones finales sobre la elección de un bootcamp de programación y la importancia de la educación continua en la industria tecnológica.
