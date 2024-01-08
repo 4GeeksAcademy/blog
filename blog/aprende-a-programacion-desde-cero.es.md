@@ -39,15 +39,14 @@ Cite reliable sources to validate the information.
 ---
 
 **Introducción:**  
-Comienza con una introducción directa que oriente a aquellos que buscan información sobre cómo empezar a programar desde cero. Destaca la importancia de tener una guía clara y recursos adecuados para iniciar el aprendizaje de programación.
-puedes dar una breve explicación de porque es más sencillo tener una guia como la que puedes conseguir en este enlace https://roadmap.sh
-y explicar que a pesar que puedes aprender a programar por tu cuenta el contar con un guia o un programa de estudio puede hacer que todo el proceso se mucho más rápido y sencillo al aprender de los errores de los demás. 
+Todo el mundo quiere aprender a programar pero solo el el ~8% de los cursos de programación online son completados con éxito. ¿Porque pasa esto? Muchas razones: Falta de estructura, falta de ayuda, etc. Tenemos años enseñando a programar y te queremos sintetizar rápidamente los retos que encontraras para evitarte el fracaso.
 
 **Recursos y Herramientas para Principiantes:**  
 Describe una variedad de recursos, libros, plataformas en línea, herramientas y entornos de desarrollo (IDE) que son ideales para aquellos que comienzan desde cero. Enfatiza su utilidad, accesibilidad y cómo pueden facilitar el proceso de aprendizaje.
 
 **Plan de Estudio o Ruta de Aprendizaje Sugerida:**  
 Crea una guía paso a paso o una ruta sugerida para aprender a programar desde cero puedes utilizar el roadmap que se muestra en la pag. Proporciona una estructura lógica y progresiva, desde los conceptos más básicos hasta temas más avanzados, adecuados para principiantes.
+puedes dar una breve explicación de porque es más sencillo tener una guia como la que puedes conseguir en este enlace https://roadmap.sh
 podrías mostrar una ruta para los lenguajes más utiles como javascript o python. 
 
 **Bootcamps de Programación (incluyendo 4Geeks Academy):**  
