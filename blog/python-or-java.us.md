@@ -44,5 +44,6 @@ Analyze the job market demand for Python and Java developers. Include informatio
 Community Support and Resources:
 Discuss the availability of learning resources, online communities, and support for individuals learning Python or Java.
 
-Conclusion:
+What type of software engineer do you want to be?:
 Summarize the comparison, emphasizing that the choice between Python and Java should align with individual goals, preferences, and intended applications.
+Big companies hire java devs with higher salaries but python deves are hired everywhere (more jobs) but with lower salaries.
