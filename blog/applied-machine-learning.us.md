@@ -35,37 +35,35 @@ Cite reliable sources to validate the information.
 ---
 
 Introduction:
-Start the article by briefly explaining the processes behind handling large datasets and how big companies utilize AI to optimize their data processes for market approach and efficiency.
+What is the problem? Companies have millions of datapoints and its really hard to put them together and the info from them (datamining). Also, there are hundreds of ways you can use AI, its overwhelming, this article will help you understand the most popular so you can get right on and apply it successfully.
+
 
 Data Understanding and Preparation:
-Define a data scientist and explain how they collect necessary data, enhancing their skills to create relevant datasets suitable for machine learning tasks. Elaborate on how these data scientists use algorithms like the perceptron to process data effectively for the company's goals.
+How many databases are there? how are they structured? how to organize them? how to access that from every department?
+Define a data scientist in 10 words (do not elaborate that much) and explain how they collect necessary data, enhancing their skills to create relevant datasets suitable for machine learning tasks. Elaborate on how these data scientists use algorithms like the perceptron to process data effectively for the company's goals.
 
-Applied Machine Learning in a Personal Context:
-Explain how regular users utilize AI tools today to enhance their work or activities. Describe why it's common for users to employ generative AI like ChatGPT or MidJourney for text and image generation. Discuss how these tools are expected to push the boundaries of our capabilities further.
+But what about using machine learning for personal use?
+Explain how regular users utilize AI tools today to enhance their work or activities. 
+Describe why it's common for users to employ generative AI like ChatGPT or MidJourney for text and image generation. 
+Which tools use machine learning that most people use? Google Ads, Email Spam, etc. (ask chat gpt for more tools).
+Discuss how these tools are expected to push the boundaries of our human capabilities further.
 
-Data Preprocessing:
+Applying machine elarning onto every career:
+Give example on how machine learning helps Digital Marketeers, Doctors, Lawyers, Bank Executives, Software Engineers, Architects and Teachers. Every career on a separate bullet with examples.
+
+You need data to apply machine learning on your company or your life
+Briefly explaining the processes behind handling large datasets and how big companies utilize AI to optimize their data processes for market approach and efficiency.
 Describe the data preprocessing process as a streamlined evolution involving cleaning, transforming, and refining raw data into a format optimized for model training. Outline the sequential steps involved in handling missing values, encoding categorical variables, and scaling features. Maintain a direct and clear approach while illustrating the evolution of raw data into a model-ready state.
+
+How has machine learning improved productivity?
+Give examples on use cases that companies have were applying machine learning has help them save X amount of money, save X amount of time, etc. Be specific with company name, amounts, etc.
+
+Learning to apply machine learning
+Recomend resources to start learning machine learning and also different resources to start learning how to apply machine learning. 4Geeks academy has a course that teaches you the basics to start applying machine learning on your company or work life.
 
 Understanding of Machine Learning Concepts:
 Demonstrate proficiency in machine learning algorithms by explaining their diverse applications. Detail the core principles behind pivotal algorithms such as regression, classification, and clustering.
 
-Model Evaluation:
-Show proficiency in model selection by assessing performance using key metrics like accuracy, precision, recall, and F1-score. Illustrate the process of evaluating various models to choose the most fitting solution for a given problem. Provide insights into how companies utilize these models to optimize their probabilities in areas like business, health, bank loans, etc.
-
-Programming and Tool Proficiency:
-Demonstrate the ease of learning how to apply AI and provide a roadmap for mastering essential programming languages for machine learning, such as Python or R. Showcase proficiency in utilizing these languages for machine learning tasks and compare values or statistics to illustrate progress compared to human progress without these tools.
-
-Feature Engineering and Selection:
-Demonstrate the ability to enhance model performance through adept feature engineering. Showcase proficiency in crafting new features or transforming existing ones to optimize model outcomes.
-
-Model Deployment and Management:
-Illustrate proficiency in deploying AI models into production environments for real-time predictions or decision-making purposes, citing real-life examples. Highlight expertise in transitioning models from development to operational systems, ensuring seamless integration for practical use.
-
-Monitoring and Maintenance:
-Demonstrate an understanding of the criticality of monitoring model performance and implementing necessary updates or enhancements as new data streams in. Emphasize the importance of this practice in sustaining model relevance over time.
-
 Ethical and Legal Considerations:
 Illustrate awareness of the ethical dimensions inherent in artificial intelligence, encompassing issues such as biases, fairness, and privacy concerns. Highlight the significance of recognizing and addressing biases in datasets, ensuring fairness in model outcomes, and safeguarding user privacy. Demonstrate knowledge regarding legal and regulatory frameworks related to data privacy, security, and responsible usage of AI. Emphasize the significance of adhering to these regulations in AI development and deployment.
 
-Quote at the End:
-Applying machine learning models effectively requires a blend of technical skills, domain knowledge, and an understanding of the broader implications and responsibilities of leveraging AI technologies. In the words of Albert Einstein, 'The true sign of intelligence is not knowledge but imagination.' Briefly mention a course about applying AI that nurtures the imagination needed to apply AI effectively, offering a comprehensive understanding of its workplace applications, implementation opportunities, challenges.
