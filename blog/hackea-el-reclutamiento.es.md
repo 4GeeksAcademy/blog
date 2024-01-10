@@ -5,6 +5,7 @@ template: "post"
 title: "¡Hackea el Reclutamiento!"
 
 ---
+
 **La colaboración entre 4geeks y RecruHack** representa una sinergia estratégica en el ámbito del reclutamiento y la formación en tecnología. 4geeks, reconocido por  sus cursos de programación, se ha asociado con RecruHack, especializado en el reclutamiento y contratación, fortaleciendo así las capacidades de reclutamiento en perfiles de TI. Esta unión permite a los reclutadores acceder a un conocimiento más profundo de las habilidades tecnológicas actuales, facilitando la identificación y atracción del talento TI más relevante para las empresas.
 Si eres alguien que tiene la misión de encontrar el mejor talento TI para las empresas, entonces seguramente este post es para ti, porque acá te contaremos acerca de este misterioso mundo de encontrar ese talento, que (SPOILER ALERT) no está oculto, sólo que no está buscando empleo porque ya lo tiene!!!
 
