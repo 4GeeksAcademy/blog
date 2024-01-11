@@ -1,68 +1,69 @@
 ---
 author: "jrdelrio"
-excerpt: "Discover what is a full stack developer and what they do, how much they make, and learn about why you should enroll in a full stack bootcamp"
+excerpt: "Conoce que es un desarrollador full-stack y a que se dedica, cuanto dinero gana, y como puedes convertirte en un desarrollador."
 template: "landing_post"
-title: "What is a Full Stack Developer?"
+title: "¿Qué es un desarrollador full stack?"
 
 ---
 
-## What is a Full Stack Developer?
+## Qué es un desarrollador Full Stack?
 
-A full stack developer is responsible for building, testing, maintaining and managing a web platform in all its aspects, this means both the Front End and the Back End. The Front End is all the content that can be seen on the screen, that is, texts, photos, forms, videos, colors and everything that has direct interaction with the user, on the other hand, the Back End is the part of the platform that is behind, that is, the management of the databases that this page stores, authentication system, password management, data saving, etc. 
+Un desarrollador full stack es el responsable de construir, testear, mantener y manejar una plataforma web en todos los aspectos, esto significa que ambos tanto Front End and Back End. Front End es todo el contenido que puede ser visualizado desde la pantalla, eso es, textos, fotos, formulios, videos, colores y todo lo que tiene interacción directa con el usuario, por el otro lado, el Back End es parte de la plataforma que está detrás, eso es, el manejo de la base de datos que esta página almacena, sistema de auntentificación, manejo de contraseñas, ahorro de datos, etc.
 
-Although they are different areas, generally performed by people with different backgrounds using different technological tools, and different techniques, with the great growth that the web world has had in the last 15 years began this career of Full Stack, an expert developer in both areas.
+Aunque sean áreas diferentes, generalmente son realizadas por personas diferentes con diversos antecedentes utilizando múltiples herramientas tecnológicas y técnicas. Con el increible crecimiento que el mundo web ha tenido en los últimos 15 años comenzó esta carrera de de Full Stack, un desarrollador experto en ámbas áreas.
 
->The full stack developer is the person in charge of build, develop, maintain and manage the whole stuff, the Front End, with all the design of the website in charge of been friendly, attractive and cool, and the other side, the Back End.
+> El desarrollador Full Stack es la persona acargo de construir, desarrollar, mantener, y manejar todo en sí, el Front End, con todo el diseño de un sitio web para que sea amistoso, atractivo, y cool, y por el otro lado el Back End.
 
-Even though they are different disciplines from each other and therefore it can be thought that developer profiles are different from each other, with the growth of digitalization in the last 10 years, the demand for [Front End](https://4geeks.com/lesson/what-is-front-end-development) and [Back End developers](https://4geeks.com/lesson/backend-developer) has increased by 135% leaving many companies without enough people to carry out the projects. Due this increase on the demand of Full Stack Developers many bootcamps and universities has launched [Full Stack developer courses](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) that can be done online or face to face. Consequently, a new discipline arises that combines both, all developed by a single person, we call it Full Stack developer. With this explanation it is easy to define a Full Stack developer as a developer (or engineer) who can build, maintain and work with both the Front End and the Back End of a website. Since Full Stack developers are involved with all aspects of the development process, they must have expertise in both.
+A pesar de que son diciplinas diferentes entre sí, y por lo tanto se puede pensar que los perfiles de los desarrolladores son diferentes entre sí, con el crecimiento digital en los últimos 10 años, la demanda de [Front End](https://4geeks.com/es/lesson/what-is-front-end-development-es) y [Back End developers](https://4geeks.com/es/lesson/backend-developer-es) ha incrementado en un 135% dejando a muchas compañías sin suficientes personas para llevar a cabo los proyectos. Debido a este aumento en la demanda de desarrolladres de Full Stack, muchos bootcamps y universidades han lanzado [cursos para desarrolladores Full Stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/)
+que pueden ser hechos online o presencial. Consecuentemente, durge una nueva diciplina que combina ambas todas desarrolladas por una misma persona, lo llamamos un Desarrollador Full Stack. Con esta explicación es fácil definir a un desarrollador Full Stack como un desarrollador (o ingeniero) que puede construir, mantener, y trabajar con abos el Front End y el Back End de un sitio web. Desde que los desarrolladores Full Stack están involucrados con todos los aspectos el proceso de desarrollo, deben tener experiencia en ambos 
 
-A Full Stack developer can work in-house (remotely) or at a computer development company that engineers websites, software, and other components for other businesses. This is one of the great advantages of this job, the freedom to physically work from wherever you want, often with flexible hours and good salaries.
+Un Desarrollador Full stack puede trabajar desde casa (remoto) o en una compañía de desarrollo informático que diseña sitios web, software y otros componentes para otras empresas. Esta es una de las grandes ventajas de este trabajo, la libertad de trabajar físiccamente donde quieras cuando quieras usualmente con horario flixible y buenos salarios.
 
-Full stack developers are very often confused with Software Engineers, if you want to learn more about this you can check this article about the [differences between a Full Stack Developer and a Software Engineer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-vs-software-engineer).
+Desarrolladores Full Stack son usualmente confundidoscon Ingenieros de Software, si quieres aprender más sobre esto puedes chequear este artículo sobre [diferencias entre un Desarrollador Full Stack y un Iengeniero de Software](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-vs-software-engineer).
 
-## Skills and Responsibilities of a Full Stack Developer
+## Habilidades y Responsabilidaddes de un Desarrollador Full Stack
 
-Because a Full Stack developer works with several disciplines, it is necessary that they have knowledge and know how to work with several programming languages. A very important skill for the Front End is the ability to work in a team, because generally the design of the website that the user sees (also called UI) is not made by a Full Stack developer, but by a UX/UI designer, an expert in aesthetics, user intuition when using the page and the order of the items.
+Debido a que un Desarrollador Full Stack trabaja en diferentes diciplinas, es necesario que tengan el conocimiento necesario y sepan cómo trabajar con diversos lenguajes de programación. Una habilidad muy importante para el Front End es la habilidad de trabajar en equipo, porque generalmente el diseño de un sitio web que el usuario ve (también llamado UI) no es hecho por un Desarrollador Full Stack, sino hecho por un diseñador UX/UI, un experto es estética, intuición del usuario a lo hora de usar la página y el orden de los artículos.
 
-Some of the responsibilities of a full stack developer are:
+Algunas responsabilidades de un Desarrollador Full Stack son:
 
-+ **Developing** and, after that, **maintaining** the server-side and client-side components of the web site.
++ **Desarrollar** y luego de eso **mantener** los componentes del sitio web tanto del lado del servidor como el del cliente. 
 
-+ **Integrating** the server-side and client-side components of a web application: This involves writing code to ensure that the server-side and client-side components communicate effectively with each other.
++ **integrar** los componentes de una aplicación web del lado del servidor y del cliente: esto involucra escribir código para asegurar que los componentes del lado del servidor y del cliente se comuniquen eficientemente entre sí. 
 
-+ **Testing and debugging** 🐞: Full stack developers are responsible for ensuring that their code works as it is supposed to, detecting bugs, errors and different kinds of problems. Testing pages is a whole area in development so there are very skilled people working on it, but it is important to be able to manage the basic part of it.
++ **Testear y depurar** 🐞: Los desarrolladores Full Stack son responsables de asegurar que su código funcione como se supone, detectando bugs, errores y diferentes tipos de problemas. Testear páginas es toda una area en desarrollo, por lo tanto hay mucha gente capacitadas trabajando en ello, pero es importante poder manejar la parte básica de ello.
 
-+ **Staying up-to-date** with industry trends and best practices: Full Stack developers need to keep abreast of the latest technologies, programming languages, frameworks, and tools in order to ensure that they are using the most effective and efficient solutions for their projects. This is important also because the SEO of a web page is much better if it's built with good practices.
++ **Manteniendose al Día** con las tendencias de la industria y mejores prácticas: los Desarrolladores Full Stack deben mantenerse actualizados con las últimas tecnologías, lenguajes de programación, frameworks, y herramientas para poder asegurar que están utilizando la solución más eficiente y efectiva para sus proyectos. Esto es importante tambien porque el SEO de una página web es mucho mejor si se construye con buenas prácticas. 
 
-## Full Stack Developer Salary 💰💰
+## Salario de Desarrolladores Full Stack 💰💰 
 
-After learning about the great demand for Full Stack developers around the world, the most obvious question is, how much do companies pay for these services? What is the Full Stack developer salary? How does the Full Stack developer salary vary? Of course, this answer varies a lot from country to country, the level of experience that the developer has, and the company that we are referring to. In any case, there is a consensus that it is one of the best paid careers, with a lot of potential for growth and development, and that it will remain that way for a few more years.
+Después de aprender sobre la gran demanda de desarrolladores Full Stack alrededor del mundo, la pregunta más obvia es, cuánto estas compañías pagan por estos servicios? Cuál es el salario de desarrollos Full Stack? Cómo el salario del Desarrollador Full Stack? Por supuesto, esta respuesta varía mucho dependiendo del País, el nivel de experiencia que el desarrollador tenga y de la compañía de la que estemos hablando. En cualquier caso, hay un consenso de que es una de las carreras mejor pagadas, con mucho potencial de crecimiento y desarrollo, y eso seguirá así por algunos años más... 
 
-### Factors Affecting Full Stack Developer Salaries
+### Factores que afectan los salarios de Desarrollador Full Stack 
 
-The Full Stack Developers salary might vary depending on a number of factors, including:
+El salario de los Desarrolladores Full Stack puede variar dependiendo de un número de factores:
 
-+ **Experience** 🧑🏽‍💻: Senior developers receive salaries that are frequently higher than those of entry-level (Juniors) developers.
++ **Experiencia** 🧑🏽‍💻: los desarrolladores "senior" tienen salarios que son frecuentemente mayores que los "Junior".
 
-+ **Capabilities**: Full Stack Developers may be more useful to a business and thus be paid more if they have a varied set of abilities and experience with a range of **technologies** and **programming languages**.
++ **Capacidades**: los Desarrolladores Full Stack pueden ser más útiles para una empresa, y por lo tanto se le pagan más si tienen un conjunto de habilidades diversas y experiencia con una gama de **tecnologías** y **lenguajes de programación**. 
 
-+ **Industry**: The Full Stack Developer's salary will depend on the industry he or she works in. Developers in the **banking**, **finances** and **healthcare** sectors, for instance, can make more money than those in the retail or entertainment sectors.
++ **Industria**: Los salarios de desarrolladores Full stack van a depender de la industria en donde se trabaje. Desarrolladores en los sectores de **banca**, **finanzas** y **salud**, pueden hacer más dinero que aquellos en sectores minorista o de entretenimiento.
 
-+ **Location** 🌎: Salaries can change based on where a job is located. Developers in smaller or less expensive cities may make less that those living in places with greater cost of living, like **San Francisco**, **New York**, **London**, **Berlin** or **Hong Kong**.
++ **Locación** 🌎: Los salarios puedes variar dependiendo de dónde esté localizado el trabajo. Desarrolladores en ciudades más pequeñas y menos costosas pueden ganar menos que aquellos que viven en lugares con mayor costo de vida, como **San Francisco**, **New York**, **London**, **Berlin** o **Hong Kong**.
 
-+ **Company size** 🏢: The size of the business may have an effect on wages. Developers at **bigger corporations** with more funding and revenue may make more money than those at startups with fewer resources.
++ **Tamaño de la Compañía** 🏢: El tamaño de la compañía puede tener un efecto en los salarios. Desarrolladores en **grandes corporaciones** con más financiación e ingresos suelen hacer más dinero que aquellos que trabajan en empresas emergentes que tienen menos recursos.
 
-+ **Education** 👩🏽‍🎓: A Full Stack Developer may be able to make more money than someone without a degree if they have a degree in computer science or a closely related profession.
++ **Educación** 👩🏽‍🎓: Un desarrollador Full Stack puede hacer más dinero que alguien sin un título si tiene un título en informática o una profeción bastante relacionada.
 
-+ **Job obligations**: Like any other job developers who take on additional tasks, including **managing** a team or a project, may be paid more.
++ **Obligación de trabajo**: como en cualquier otro trabajo, los desarrolladores capaces de hacer tareas adicionales, incluyendo el **manejar** a un equipo o proyecto, pueden ser mejor remunerados económicamente. 
 
-It's critical to remember that these variables might change based on the organization and the person. The pay of a Full Stack developer may also be affected by additional elements like performance and negotiating prowess.
+Es escencial recordar que estas variables pueden cambiar basado en la organización y la persona. El salario de un Desarrollador Full Stack puede también ser afectado por elementos adicionales como el rendimiento y la destreza de negociación.
 
-### Comparison of Full Stack Developer Salaries in Different Locations
+### Comparación de Salarios de un Desarrollador Full Stack en Diferentes Locaciones 
 
-Here is a list of some of the average annual salaries per year for full stack developers in 2021:
+Aquí hay una lista con promedios de algunos salarios anuales para un Desarrollador Full Stack en 2021:
 
-| Country        | min yearly | max yearly |
+| País       | mínimo anual | máximo anual |
 |:--------------:|:----------:|:----------:|
 | United States  | $110,000   | $150,000   |
 | Canada         | $70,000    | $120,000   |
@@ -71,115 +72,123 @@ Here is a list of some of the average annual salaries per year for full stack de
 | Germany        | €60,000    | €60,000    |
 | France         | €35,000    | €50,000    |
 | China          | $17,690    | $29,500    |
+| España     | €35,000  | €45,000  | 
+| Portugal   | €30,000  | €40,000  | 
+| México    | $30,000  | $50,000  | 
+| Argentina  | $40,000  | $60,000  | 
+| Brasil    | $35,000  | $55,000  | 
 
+Es importante resaltar que el salario de un Desarrollador Full Stack varía dependiendo del nivel que tengas, y básicamente estos están clasificados en 3; **Junior**, **Semi-Senior** and **Senior**.
 
-It is important to emphasize that the full stack developer salary varies depending on the level you have, and these are basically classified into 3; **Junior**, **Semi-Senior** and **Senior**.
+Para tener en cuenta la gran diferencia de salarios en diferentes países, esta tabla enseña el mínimo registrado, máximo y el salario primedio, dependiendo de la experiencia del desarrollador: 
 
-To have in mind the huge difference in salaries in different countries, this table shows the registered minimum, maximum and average salary, depending on the experience of the developer:
-
-| Seniority      | avg yearly | min yearly | max yearly |
+| Antigüedad      | promendio anual | mínimo anual | máximo anual |
 |:--------------:|:----------:|:----------:|:----------:|
 | Junior 👶         | $60,000    | $30,000    | $100,000   |
 | Semi-Senior 👨🏼‍🦰   | $60,000    | $40,000    | $110,000   |
 | Senior 🧓🏼         | $100,000   | $70,000    | $170,000   |
 
-## Full Stack Developer Jobs
+## Trabajos de Desarrolladores Full Stack
 
-The following are some examples of positions that are frequently held by full-stack developers:
+Los sigientes son algunos ejemplos de posiciones que son frecuentemente ocupados por Desarrolladores Full Stack
 
-+ Full Stack **Web Developer**
++ **Desarrollador Web** Full Stack
 
-+ Web **Application** Developer
++ Desarrollador de **Aplicación** Web
 
-+ **Software** Engineer (Full Stack)
++ Ingeniero de **Software** (Full Stack)
 
-+ Full Stack **.NET** Developer
++ Desarrollador Full Stack **.NET**
 
-+ Full Stack **Python** Developer
++ Desarrollador **Python** Full Stack
 
+Estos trabajos pueden ser encontrados en diferentes sectores, como tecnología, Finanza, Salud, y Comercio. Dependiendo en el rol particular y la organización, los deberes y requerimientos del trabajo pueden variar.
 
-These jobs can be found in many different sectors, such as technology, finance, health care, and e-commerce. Depending on the particular role and organization, the duties and requirements of the job may change.
+### Descripción del Trabajo para Posiciones de Desarrollador Full Stack
 
-### Job Descriptions for Full Stack Developer Positions
++ **Desarrollador Web Full Stack**: Utiliza una gama de tecnologías, incluyendo HTML, CSS, JavaScript, NodeJS y SQL, para **crear** y **mantener** aplicaciones web desde el Front End hasta el Back End.
 
-+ **Full Stack Web Developer**: Utilizes a range of technologies, including HTML, CSS, JavaScript, NodeJS, and SQL, to **create** and **maintain** web applications *from the Front End to the Back End**.
++ **Ingeniero Full Stack**: Utiliza una variedad de lenguajes de programación y frameworks, incluyendo React, Angular, Python y Java, para diseñar, desarrollar y manejar aplicaciones de software desde el Front End hasta el Back End.
 
-+ **Full Stack Engineer**: Utilizes a range of programming languages and frameworks, including React, Angular, Python, and Java, to design, develop, and manage software applications from the Front End to the Back End.
++ Utilizando **frameworks** como **Spring**, **Hibernate** y **AngularJS**, Los Desarrolladores Full Stack en Java están a cargo de **crear y mantener** Aplicaciones web basadas en Java desde el front-end hasta el back-end.
 
-+ Using **frameworks** like **Spring**, **Hibernate**, and **AngularJS**, Full Stack Java developers are in charge of **creating and maintaining** Java-based web applications from the front end to the back end.
++ Los labores de un **Desarrollador Full Stack .NET** incluyen **crear y mantener** aplicaciones en línea basadas en .NET desde el front-end hasta el back-end, utilizando herramientas como ASP.NET, C#, y Servidor SQL.
 
-+ The duties of a **Full Stack .NET** developer include **creating and maintaining** .NET-based online applications from the Front End to the Back End utilizing tools like ASP.NET, C#, and SQL Server.
++ Desarrollador Full Stack PHP: Se encargan de crear y mantener aplicaciones web basadas en PHP implemetando frameworks esde el front-end hasta el back-end.
 
-+ Full Stack PHP Developer: In charge of **creating and maintaining** PHP-based web applications employing frameworks from the Front End to the Back End.
+## Cómo convertirse en un Desarrollador Full Stack?
 
-## How to Become a Full Stack Developer?
+La manera clásica de estudiar es siempre una opción para convertirse en un profesional de cualquier tipo. Te matriculas en la universidad de tu elección, pasas todas la materias y entre 4 y 5 años te conviertes en un desarrollador web con todo el conocimiento general que esta institución quiere que tengas. Pero la demando de hoy en día para este tipo de trabajos es tan alta que ciertas academias más pequeñas han creado una manera más rápida, mas intentsa y directa al grano llamada **[Bootcamps Online](https://4geeksacademy.com/es/coding-campus/online-bootcamp-programacion/?lang=es)**.
 
-The classic way of studying is always an option to become a professional of any kind. You enroll in the university of your choice, pass all the subjects and in about 4 or 5 years you become a web developer with all the integral knowledge that this institution wants to print in you. But today the demand for these types of jobs is so high that certain smaller academies have created quicker, more intense and *to the point* called **[online bootcamps](https://4geeksacademy.com/us/coding-campus/online-coding-bootcamp)**.
+![que es un desarrollador full stack](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
 
-![what is a full stack developer](https://images.squarespace-cdn.com/content/v1/5ccd4dca07417900017da218/1560842763432-HTRALZ2WJEHLHEHGQSQP/bootcamp.jpg)
+Estos cursos entrenan desde cero a cualquiera que **no posea conocimiento** de programación o desarrollo web hasta un nivel de desarrollador full stack a nivel Junior, listo para salir y ofrecer sus servicios a compañías. Esto te da la oportunidad de convertirte en *freelancer* o trabajar a *tiempo completo* para una empresa.
 
-These courses train from scratch anyone who has **no knowledge** of programming or web development into a Junior level full stack developer ready to go out and offer their services to companies. This gives you the opportunity to become a *freelancer* or work *full-time* for a company.
+Existen muchas academias ofreciendo muy buenos programas de entrenamiento con muy buenos profesores, asistentes, infraestructura y programas de estudio muy bien planificados; pero hay algunas academias que hacen la diferencia al ofrecer ciertas particularidades.
 
-There are many academies running very good bootcamp programs with very good teachers, assistants, infrastructure and very good planned syllabus, but there are some academies that make a difference by offering some particularities.
+Un ejemplo de estas academias es [4Geeks Academy](https://www.4geeksacademy.com/), una academia con modalidad cara-a-cara y además en línea con mas de 15 localidades en diferente ciudades como el [bootcamp ubicado en Miami](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-miami) o el [coding bootcamp en Berlin](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany), ofreciendo 3 especialidades en diferentes temas de desarrollo tecnológico incluyendo el [curso de desarrollador full stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). Ofrece **tutoría de por vida para sus estudiantes** con sus programas llamados [GeekPal](https://4geeksacademy.com/es/geekpal/?lang=es), que permite agendar reuniones con tutores de mucha experiencia para resolver cualquier problema técnico que puedas tener como estudiante o después de graduado, mientras trabajas para otra empresa. Todo esto sin costo adicional, incluso una vez terminado el curso. También ofrece un sistema que ayuda a los recién graduados conseguir un trabajo y posicionarse en una compañía que esté en la búsqueda de desarrolladores full stack, y esto también es **de por vida**.
 
-An example of these academies is [4Geeks Academy](https://www.4geeksacademy.com/), an academy with face-to-face modality and also online with more than 15 locations in different cities like the [bootcamp located in Miami](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-miami) or the [coding bootcamp in Berlin](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-berlin-germany), offering 3 specialties on  different subjects of technology development including a [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer). It offers **mentoring for its students for life** with their program named [GeekPal](https://4geeksacademy.com/us/geekpal-support), which allow scheduling meetings with very experienced mentors to solve any technical problems you may have as a student or after graduation while working at another company. All this at no additional cost even once the course is finished. It also offers a system that helps recent graduates find a job and position themselves in a company that is looking for full stack developers, and this too **for life**.
+![4Geeks Academy Logo](https://www.lascondes.cl/files/8505)
 
-![4Geeks Academy Logo](https://www.lascondes.cl/files/8505) 
+## Tecnologías Comunes Utilizadas por los Desarrolladores Full Stack
 
-## Common Technologies Used by Full Stack Developers
+El lenguaje más utilizado para desarrollos Front End son HTML, CSS y
+[JavaScript](https://4geeks.com/lesson/what-is-javascript-learn-to-code-in-javascript). Este último, a diferencia de los otros 2, es un lenguaje de programación, es decir, que se puede programar con él; mientras que HTML y CSS son simplemente código para construir algo visible, pero no interactúa con el usuario, no trabaja con variables o funciones. Dentro del mundo de Javascript existen muchos frameworks o estructuras de trabajo, que utilizando este lenguaje facilita el desarrollo de plataformas complejas de la forma más sencilla posible.      
+Algunos de ellos son VueJS, Angular, y React. Para el Back End,  generalmente se utilizan lenguajes para gestionar base de datos, tales como SQL (el más empleado), y para los restantes Java, PHP, Ruby y Python.
 
-The most used languages for Front End development are HTML, CSS and [JavaScript](https://4geeks.com/lesson/what-is-javascript-learn-to-code-in-javascript). The latter, unlike the other 2, is a programming language, that is, it can be programmed with, while HTML and CSS are simply code to build something visible, but it does not interact with the user, it does not work. with variables or functions. Within the Javascript world there are many frameworks, or work structures, that using this language facilitate the development of complex platforms in the easiest way possible. Some of these are VueJS, Angular, and React. For the Back End, languages are generally used to manage databases, such as SQL (the most used), and for all the rest Java, PHP, Ruby and Python.
+Los desarrolladores Full Stack trabajan con un abanico de tecnologías a través del Front End y Back End de una aplicación web o plataforma. A continuación algunas tecnologías comunes utilizadas por los desarrolladores full stack:
 
-Full stack developers work with a range of technologies across the Front End and Back End of a web application or platform. Here are some common technologies used by full stack developers:
+### 🖥 Tecnologías Front End:
 
-### 🖥 Front End Technologies:
+Para crear la estructura y estilo visual de las páginas web, el lenguaje más utilizado es **HTML** y **[CSS](https://4geeks.com/es/lesson/what-is-css-learn-css-es)**. Ambos trabajan juntos, el primero en la estructura y el segundo para el diseño, colores, fuentes y el resto de las variables. 
 
-For creating the structure and visual styling of web pages the most used language is **HTML** and **[CSS](https://4geeks.com/lesson/what-is-css-learn-css)**. They both work together, the first one in the structure and the second one for the design, colors, fonts and the rest of variables.
+Posteriormente, para crear páginas web interactivas y dinámicas **JavaScript** es el tercer ingrediente, así como para desarrollar frameworks front-end y librerías como React, Angular, and Vue.
 
-After that for creating interactive and dynamic web pages **JavaScript** is the third ingredient, as well as for developing front-end frameworks and libraries like React, Angular, and Vue.
+También existen herramientas que ayudan mucho a conseguir un resultado atractivo del desarrollo, empleando frameworks front-end populares y librerías, que incluyen **React**, **Angular**, **Vue**, and **Bootstrap**.
 
-There are also front-end frameworks and libraries, these tools help a lot to get a nice result of the development using popular front-end frameworks and libraries include **React**, **Angular**, **Vue**, and **Bootstrap**.
+### 🖥 Tecnologías Back End:
 
-### 🖥 Back End Technologies:
+Lenguajes del lado del servidor: lenguajes del lado del servidor comunes, utilizados por desarrolladores full stack, incluyen **Java**, **Python**, **Ruby**, **[Node.js](https://4geeks.com/es/lesson/introduccion-a-node-js)**, y **PHP**.
 
-Server-side languages: Common server-side languages used by full stack developers include **Java**, **Python**, **Ruby**, **[Node.js](https://4geeks.com/lesson/introduction-to-node-js)**, and **PHP**.
+Servidores web: Servidores web comunes utilizados en desarrollos full stack incluyen **Apache** and **Nginx**.
 
-Web servers: Common web servers used in full stack development include **Apache** and **Nginx**.
+Base de Datos: Los desarrolladores full stack trabajan con una variedad de base de datos, incluyendo: **MySQL**, **MongoDB**, **Oracle**, y **PostgreSQL**. Es importante mencionar que existen básicamente 2 tipos de base de datos, relacional (SQL) y no-relacional (no SQL). 
 
-Databases: Full stack developers work with a variety of databases, including **MySQL**, **MongoDB**, **Oracle**, and **PostgreSQL**. It is important to mention that there are basically 2 types of databases, relational (SQL) and non-relational (non-SQL).
+APIs: Los desarrolladores full stack frecuentemente crean y trabajan con **APIs** (Interfaces de Programación de Aplicaciones) que permiten a distintos sistemas de software comunicarse entre sí. un API es un pequeño programa utilizado como intermediario entre un servidor y un usuario. Información y datos pueden ser solicitados y responde a la capacidad de utilizar esos datos. 
 
-APIs: Full stack developers often create and work with **APIs** (Application Programming Interfaces) that allow different software systems to communicate with each other. An API is a little program used as an intermediary between a server and a user. Data and information can be requested and it responds to be able to use that data.
+## Resumen de un Desarrollador Full Stack y Aplicación a un Empleo
 
-## Full Stack Developer Resume and Job Application
++ **Elementos Claves de un Buen Resumen de Desarrollador Full Stack**: 
+Existen 2 herramientas bastante utilizadas en la industria tecnológica, para mostrar las destrezas y trabajos previos a una compañía para un puesto de trabajo. La primera es el clásico **CV**, donde se mencionan las compañías anteriores, proyectos desarrollados, algunas referencias y contactos y las habilidades que has aprendido y que puedes ofrecer a la compañía para la cual estás aplicando. 
 
-+ **Key Elements of a Strong Full Stack Developer Resume**: There are 2 very used tools in the tech industry to show your skills and previous works to a company for a job position. The first one is the classic **CV**, where the previous companies are mentioned, projects that have been developed, some references and contacts and the skills that you have learned and that you can offer to the company to which you are applying. 
++ **Portafolio del Desarrollador Full Stack**: la otra gran herramienta ampliamente utilizada en estos casos es el portafolio. Un portafolio es básicamente una página web donde el aplicante puede mostrar física y específicamente los proyectos que han desarrollado, colocando enlaces a dichas páginas (si es que no son propias) y creando una grata experiencia para la persona que entrará a dicha página web. Allí es donde toda la creatividad del desarrollador puede ser encarnada. Si deseas conocer mas sobre portafolios y como construirlos, puedes revisar nuestro artículo acerca de como crear un [Portafolio de Desarrollador Full Stack](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-portfolio).
 
-+ **Full Stack Developer Portfolio**: The other great tool widely used in these cases is the portfolio. A portfolio is basically a web page where the applicant can physically and specifically demonstrate the projects they have developed by putting links to said pages (if they are not their own), and creating a good experience for the person who will enter said web page. That is where all the creativity of the developer can be embodied. If you want to know more about portfolios and how to build them you can check our article about how to create a [Full Stack Developer Portfolio](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer-portfolio).
++ **Consejos para Elaborar una Aplicación de Empleo de Desarrollador Full Stack** Como una aplicación para cualquier otro trabajo, siempre es importante leer la propuesta de empleo que se está ofreciendo. 
+Entender que se requiere un perfil con ciertas destrezas que debo tener para poder contribuir. Otro buen consejo es hacer una pequeña investigación de la compañía a la que estás aplicando, para entender su mercado, departamentos, y sistema básico de trabajo para demostrar profesionalismo e interés durante la entrevista. Un consejo que es típico de **entrevistas de trabajo para tecnología** de compañías de desarrollo, es contar con el entrenamiento lógico para solucionar exámenes que posiblemente te pongan a resolver como filtro. Posiblemente surja un problema y tenga que escribirse un código que resuelva dicho problema en un determinado tiempo, y para esto es bueno haber entrenado los días previos a la entrevista. Hay muchas páginas con ejercicios para resolver en muchos lenguajes diferentes para distintas áreas.
 
-+ **Tips for Crafting an Effective Full Stack Developer Job Application**: As an application to any other job it is always important to read the job proposal that is being offered. Understand that a profile is needed with certain skills that I must have in order to contribute. Another good tip is to do a little research on the company you are applying to, understand its market, departments, and basic work system in order to demonstrate professionalism and interest when interviewing. A tip that is typical of **job interviews for technology** development companies is to be logically trained to solve tests that possibly make you solve as a filter. Possibly a problem will arise and a code must be written that solves said problem in a certain time, and for this it is good to have been training the days before the interview. There are many pages with exercises to solve in many different languages for different areas.
+### **Errores comunes que debemos evitar cuando aplicamos para empleos de Desarrollador Full Stack**:
+A continuación algunos errores comunes que debemos evitar cuando enviamos aplicaciones para puestos como Desarrollador Full Stack:
 
-### **Common Mistakes to Avoid When Applying for Full Stack Developer Jobs**: 
-Here are some common errors to avoid when submitting applications for positions as Full Stack Developers:
++ Aplicar a empleos que **no se ajustan a tus habilidades**: Antes de aplicar, lee detenidamente la descripción del cargo. Al aplicar a puestos a los que uno no califica, pierdes tu tiempo y el de la persona que recluta. 
 
-+ Applying for jobs that **don't fit your skill set**: Before applying, thoroughly read the job description. By applying for positions you are not qualified for, you are wasting both your time and the recruiter's time.
++ No personalizar tu **carta de presentación y resumen**: Asegúrate de concordar los materiales de la aplicación al empleador y la descripción de cargo. En tu resumen, enfatiza tu experiencia y talentos pertinentes y dale razones de porqué serías un buen candidato para el cargo. 
 
-+ Not personalizing your **cover letter and resume**: Make sure to match your application materials to the employer and job description. In your resume, emphasize your pertinent experience and talents and give reasons why you'd be a good fit for the job.
++ Omitir el **presentar tu trabajo**: Suministra enlaces a tu Github, portafolio, o cualquier trabajo pertinente. Tu futuro empleador está interesado en conocer más acerca de tus destrezas y manera de afrontar la resolución de problemas. 
 
-+ Omitting to **present your work**: Give links to your Github, portfolio, or any pertinent works. Your future employer is interested in learning more about your skills and approach to problem-solving.
++ Agregar **complejidad innecesaria** a tu aplicación: Mantenlo breve y al punto. Evita sobrecargar al reclutante con una carta de presentación larga o un resumen muy complicado.
 
-+ Adding **unnecessary complexity** to your application: Keep it brief and to the point. Avoid overwhelming the recruiter with a lengthy cover letter or a résumé that is too complicated.
-
-+ Neglecting **soft skills**: Full Stack Developers require outstanding communication skills in addition to their technical expertise.
++ Ignorando **destrezas sutiles**: Los Desarrolladores Full Stack  requieren habilidades sobresalientes de comunicación además de su experticia técnica. 
 
 ### Conclusion
 
-Today there is a great opportunity to enter the world of technology, not only it is cheaper than before, but there are **more possibilities** for academies, modalities and opportunities. To enter alone, it is enough to dedicate yourself for about **6 months** to learn the basics and then go out and offer your services as a Junior developer to contracting companies.
+Hoy día hay una gran oportunidad de ingresar al mundo de la tecnología, no solo es más económico que antes, pero existen **más posibilidades** para las academias, modalidades y oportunidades. Para entrar solo, es suficiente que te dediques alrededor de **6 meses** para aprender los principios y luego salir a ofrecer tus servicios como desarrollador Junior a compañías contratantes.
 
-For this we must always rely on our **CV, application letter and portfolio**, they are our strongest tools, in addition to a good performance during the interview itself, making it natural, simple and being well trained for a possible **technical test**.
+Para esto debemos siempre confiar en nuestro **CV, carta de aplicación y portafolio**, son nuestras herramientas más poderosas; además de un buen desempeño durante la entrevista misma, haciéndola natural, simple y estando bien entrenado para un posible **examen técnico**
 
-Salaries in the world (in general) are very good and you can participate in development in **any country in the world**, so you just have to search and apply.
-Always keep in mind that this is a changing, complex world, that is always in constant reinvention and that you always have to be aware of what is new that is coming out so as not to be left behind in development.
+Los salarios mundiales (en general) son muy buenos y puedes participar en desarrollo en **cualquier país del mundo**, así que solo debes buscar y aplicar.
+Ten siempre presente que este es un mundo cambiante y complejo, que está siempre en constante reinvención y que siempre tienes que estar al tanto de lo nuevo que vaya a salir, para que no te quedes atrás en el desarrollo.
 
-So **what are you waiting for?** You already know everything you have to do, the opportunities ahead of you, salaries, growth opportunities, flexibility and the opportunity to enter this revolutionary world that we did not have a few years ago, and today it is available to anyone who commits to study 6 intense months and enter this huge industry that permeates practically all types of people and places today.
+Así que **qué estás esperando??** Ya sabes todo lo que tienes que hacer, las oportunidades delante de ti, salarios, oportunidades de crecimiento, flexibilidad y la oportunidad de entrar en este mundo revolucionario que no teníamos unos pocos años atrás; y actualmente está disponible a cualquiera que se comprometa a estudiar 6 intensos meses e ingrese a esta gigantesca industria que permea prácticamente todo tipo de personas y lugares de hoy.
 
-<call-to-action button_text="Enroll now" button_link="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="Boost your career, learn to code!" text="Join a Full Stack Developer course and boost your career."></call-to-action>
+<call-to-action button_text="Regístrate Ahora" button_link="https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, aprende a programar!" text="Únete a un curso de Desarrollador Full Stack e impulsa tu carrera."></call-to-action>
+
