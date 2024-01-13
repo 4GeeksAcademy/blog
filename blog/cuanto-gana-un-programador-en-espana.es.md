@@ -39,7 +39,7 @@ Para los programadores semi-senior con **2 a 4 años de experiencia**, los rango
 | Senior        | 49.000 €                        | 52.000 €              |
 
 
-Tomando en cuenta todo lo dicho hasta ahora, en **4Geeks Academy** siempre aconsejamos a nuestros egresados y aquellos que [estudiaron en un bootcamp de programación](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion), que no se cierren a la posibilidad de tomar experiencia en startups empresas pequeñas, o nuevas, ya que es allí donde pueden comenzar a plasmar todo lo aprendido y a creer profesionalmente en este rubro, entonces, para nosotros es importante que escuchen todas las opciones del mercado y no tengan temor de enfrentarse a algo nuevo.
+Tomando en cuenta todo lo dicho hasta ahora, en **4Geeks Academy** siempre aconsejamos a nuestros egresados y aquellos que [estudiaron en un bootcamp de programación](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion), que no se cierren a la posibilidad de adquirir experiencia en startups, empresas pequeñas o nuevas. Es en estos entornos donde pueden comenzar a aplicar todo lo aprendido y a crecer profesionalmente en este rubro. Por lo tanto, es importante para nosotros que consideren todas las opciones del mercado y no tengan temor de enfrentarse a algo nuevo.
 
 En lo que se refiere a los sueldos según el lenguaje de programación, los desarrolladores Java en España pueden esperar ganar entre 35.000 y 55.000 € anuales. Los programadores PHP tienen un rango salarial de 35.000 a 45.000 €, mientras que los ingenieros .NET pueden recibir entre 40.000 y 60.000 € al año. 
 
