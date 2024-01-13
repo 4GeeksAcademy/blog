@@ -14,13 +14,13 @@ Para responder a la pregunta [Cuanto gana un programador](https://4geeksacademy.
 
 Para los **programadores junior**, el salario promedio que van desde los **25.000 € al año**. A medida que los profesionales adquieren experiencia, aumenta sus conocimientos y alcanzan el nivel senior, los salarios aumentan significativamente, con rangos de **40.000 a 60.000 € anuales**. Para [los ingenieros de software](https://4geeksacademy.com/es/coding-bootcamps/ingenieria-de-software-programacion), el rango salarial se sitúa entre **35.000 y 65.000 € al año**, reflejando el nivel de especialización y responsabilidad asociado a este rol.
 
+![Cuanto gana un programador en España](https://breathecode.herokuapp.com/v1/media/file/beautiful-brunette-young-woman-holding-spain-flag-euros-banknotes-smiling-laughing-hard-out-loud-because-funny-crazy-joke-2-jpg)
 
-
-El salario de un programador en España puede variar debido a diversos factores. En primer lugar, el nivel de experiencia es un factor clave, ya que aquellos con más años de trabajo suelen recibir salarios más altos. Además, las tecnologías dominadas por un programador también influyen en su remuneración. Aquellos que poseen habilidades en lenguajes de programación demandados, como JavaScript, Python, PHP, Java o .NET, tienden a ganar más. 
+El salario de un programador en España puede variar debido a diversos factores. En primer lugar, el nivel de experiencia es un factor clave, ya que aquellos con más años de trabajo suelen recibir salarios más altos. Además, las tecnologías dominadas por un programador también influyen en su remuneración. Aquellos que poseen habilidades en lenguajes de programación demandados, como **JavaScript, Python, PHP, Java o .NET**  tienden a ganar más. 
 
 La ubicación geográfica también es relevante, por el hecho de que las áreas metropolitanas y ciudades más grandes generalmente ofrecen salarios más altos debido al costo de vida. Por último, el tamaño de la empresa puede afectar el salario, ya que las grandes empresas suelen ofrecer paquetes de compensación más competitivos.
 
-Los sueldos de los programadores de Python en España varían según su nivel de experiencia, según informes de Michael Page y Adecco, los programadores junior pueden ganar alrededor de 22.000-26.500 € brutos al año con 0 a 2 años de experiencia. 
+Los sueldos de los [programadores de Python](https://4geeksacademy.com/es/aprender-a-programar/python-uno-de-los-lenguajes-de-programacion-mas-demandados) en España varían según su nivel de experiencia, según informes de Michael Page y Adecco, **los programadores junior pueden ganar alrededor de 22.000-26.500 € brutos al año** con 0 a 2 años de experiencia. 
 
 Para los programadores semi-senior con 2 a 4 años de experiencia, los rangos salariales pueden alcanzar hasta los 36.000 € brutos anuales, según Robert Half e Infoempleo, y en el caso de los programadores senior más de 4 años experiencia, los sueldos oscilan entre 40.000 y 60.000 € brutos al año, según LinkedIn e InfoJobs.
 
