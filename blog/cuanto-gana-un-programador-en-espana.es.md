@@ -44,6 +44,7 @@ Tomando en cuenta todo lo dicho hasta ahora, en **4Geeks Academy** siempre acons
 En lo que se refiere a los sueldos según el lenguaje de programación, los desarrolladores Java en España pueden esperar ganar entre 35.000 y 55.000 € anuales. Los programadores PHP tienen un rango salarial de 35.000 a 45.000 €, mientras que los ingenieros .NET pueden recibir entre 40.000 y 60.000 € al año. 
 
 Además de los datos salariales, es fundamental resaltar que el salario medio de los programadores en España ha experimentado un aumento significativo en los últimos 5 años, con un crecimiento del 30%. Esto demuestra el valor cada vez mayor que se atribuye a estos profesionales en el mercado laboral español. Además, más del 50% de los trabajos de TI creados en España están relacionados con puestos de programación, lo que indica una demanda constante y creciente de estos profesionales en el país.
+Tendencias que parecen repetirse en otros paises y puedes conocer acá los [salarios de un programador en colombia](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-colombia) o conocer [cuanto gana un programador en méxico](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-mexico)  
 
 ## Perspectivas laborales para programadores en España
 
