@@ -12,15 +12,15 @@ cluster: "full-stack"
 
 ---
 
-En nuestra publicación anterior hablábamos sobre lo [que significa ser programador o programadora *full-stack*](/es/full-stack/que-es-full-stack) (te recomiendo que le des un vistazo porque es muy interesante). Por resumir: un perfil *full-stack* básicamente es esa persona que trabaja tanto del lado del cliente (*frontend*) como del lado del servidor (*backend*), y es capaz de ofrecer soluciones en cualquier parte de la aplicación. Es un rol muy versátil dentro de los equipos tecnológicos y puede asumir diferentes responsabilidades en los proyectos.
+En nuestra publicación anterior hablábamos sobre lo [que significa ser programador o programadora *full-stack*](https://4geeksacademy.com/desarrollador-full-stack-developer) (te recomiendo que le des un vistazo porque es muy interesante). Por resumir: un perfil **full-stack** básicamente es esa persona que trabaja tanto del lado del cliente (***frontend***) como del lado del servidor (***backend***), y es capaz de ofrecer soluciones en cualquier parte de la aplicación. Es un rol muy versátil dentro de los equipos tecnológicos y puede asumir diferentes responsabilidades en los proyectos.
 
-Pero hoy la pregunta, o mejor dicho las preguntas son... ¿cuáles son las habilidades que debería tener una persona “todo terreno”, que trabaja o quiere trabajar en el rol de *Full-Stack*? ¿Debe tener conocimientos en todas las tecnologías y lenguajes? ¿Bastaría con conocer solo un lenguaje en el *front* y uno en el *back*? ¿En qué tecnologías debería enfocarse? ¿React, Vue o Angular?, ¿Python, PHP o NodeJS? ¿Cuáles son las principales habilidades *Full-Stack*? Acompáñame a descubrir juntos las respuestas.
+Pero hoy la pregunta, o mejor dicho las preguntas son... **¿cuáles son las habilidades que debería tener una persona “todo terreno”, que trabaja o quiere trabajar en el rol de *Full-Stack*?** ¿Debe tener conocimientos en todas las tecnologías y lenguajes? ¿Bastaría con conocer solo un lenguaje en el *front* y uno en el *back*? ¿En qué tecnologías debería enfocarse? ¿React, Vue o Angular?, ¿Python, PHP o NodeJS? **¿Cuáles son las principales habilidades *Full-Stack*?** Acompáñame a descubrir juntos las respuestas.
 
-![íconos de lenguajes de programación](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-02.png?raw=true)
+![habilidades de desarrollador full stack](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-02.png?raw=true)
 
-Las habilidades técnicas que te convierten en un gran *Full-Stack Developer* siempre tendrán mucho espacio para debates y cada quien tendrá su opinión, desde reclutadores IT hasta programadores seniors y CTO’s, todos tendrán una visión que seguramente estará basada en sus experiencias y stack tecnológicos que utilizan las empresas donde trabajan. Aquí te dejo las que consideramos mi equipo y yo en nuestra escuela de programación.
+Las habilidades técnicas que te convierten en un gran **Full-Stack Developer** siempre tendrán mucho espacio para debates y cada quien tendrá su opinión, desde reclutadores IT hasta programadores seniors y CTO’s, todos tendrán una visión que seguramente estará basada en sus experiencias y stack tecnológicos que utilizan las empresas donde trabajan. Aquí te dejo las que consideramos mi equipo y yo en nuestra escuela de programación.
 
-## *Habilidades de desarrollador Full Stack* en *Frontend 🎨*
+## **Habilidades de desarrollador Full Stack* en Frontend 🎨*
 
 Empezaré por el *front*, y luego pasaremos al *back*, pero también hablaremos de otro tipo de competencias o habilidades importantes
 
@@ -74,7 +74,7 @@ Una vez escuché a un alumno de la academia que decía, “si sabes programació
 
 ## Herramientas importantes para las potenciar las habilidades de un desarrollador Full Stack 🔧⛏
 
-Por último, pero no menos importante, toda persona que quiera ser *full-stack developer* tiene saber utilizar Git, GitHub (o cualquier otro servicio de repositorios de código en la nube) y la terminal.
+Por último, pero no menos importante, toda persona que quiera ser **[full-stack developer](https://4geeksacademy.com/desarrollador-full-stack-developer)** tiene saber utilizar **Git, GitHub** (o cualquier otro servicio de repositorios de código en la nube) y la terminal.
 
 [Git](https://git-scm.com/) es un sistema de control de versiones, con el que podrás administrar todos aquellos cambios que realices en tus aplicaciones, códigos, *software*, documentación, etc. Gracias a Git los equipos de programación pueden trabajar en equipo, y para ello utilizan GitHub, un portal en el que puedes alojar todos tus desarrollos, si controlas las versiones usando Git. Por supuesto, para poder utilizar Git y otras tecnologías, es necesario que sepas utilizar la **línea de comandos** (o terminal, o consola) que, además, te permite ejecutar acciones dentro del servidor, como instalar paquetes, configurar el entorno, o gestionar estructuras de archivos y directorios, entre otras.
 
