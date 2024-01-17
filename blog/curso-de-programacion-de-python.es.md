@@ -10,6 +10,8 @@ Un curso de programación en python siempre es la respuesta,  no importa la preg
 En este contexto, [**Python**, conocido por ser uno de los lenguajes de programación más accesibles](https://4geeksacademy.com/es/aprender-a-programar/python-uno-de-los-lenguajes-de-programacion-mas-demandados), puede representar la opción ideal. Es particularmente relevante si aspiras a ingresar al panorama tecnológico o si te interesan carreras relacionadas con el **machine learning o la ciencia de datos**. En tal caso, un curso de programación en Python puede ser el camino perfecto para iniciar tu camino en este campo.
 
 
+![curso de programación de Python](https://breathecode.herokuapp.com/v1/media/file/3593972-jpg)
+
 ## ¿Por qué aplicar a un curso de programación de Python?
 
 Un curso de programación de Python es una oportunidad educativa diseñada para enseñar los fundamentos y las mejores prácticas del lenguaje de programación Python de una manera fácil de entender. Aprenderás la sintaxis básica de Python, funciones, clases y te introducirás a los populares frameworks Django y Flask, entre otros temas clave.
