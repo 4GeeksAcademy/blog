@@ -11,7 +11,7 @@ image_alt: "Aprender a Programar en Español en Estados Unidos"
 
 Aprender a programar se ha convertido en una habilidad invaluable. Aquí vamos a explorar por qué hacerte programador en Estados Unidos ha sido tan limitado y tan restringido, y por qué nos tardó tanto darnos cuenta. Además hablaremos de si es verdaderamente posible, de sus costos y de sus expectativa laborales al concluir. 
 
-Aprender en Español
+## Aprender a programar en Español
 
 Por alguna razón extraña nos tomó años darnos cuenta que el programa de 4GEeks en USA debería ser también enseñado y ejecutado en Español. Mucho más considerando que todos nuestros programas, curriculums, tecnología y metodología ya está en Español como consecuencia de las sedes y programas en ejecución actualmente en España, Chile, México y muchos más Países de Latinoamérica.
 
