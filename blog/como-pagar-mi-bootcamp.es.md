@@ -18,6 +18,9 @@ Si te quieres unir a **4Geeks Latam**, desde donde sea que estés ubicado, lo pr
 
 Luego, dependiendo de esa decisión, te queremos apoyar siguiendo tus decisiones profesionales, tu realidad económica, y lo que tienes planificado para tu presente y futuro. Así, en caso de elegir uno de esos programas, podrás luego decidir hacerlo de alguna de **las siguientes 3 formas:**
 
+![Aprender a programar](https://breathecode.herokuapp.com/v1/media/file/payment-jpg)
+
+
 ## Programa Académico exclusivamente
 ### Programa Académico  + Acompañamiento Profesional;
 **Job Guarantee**. Si quieres todo lo anterior y que además garanticemos tu empleabilidad dentro de los siguientes **6 meses** después de haberte graduado. [Aquí los términos y condiciones](https://storage.googleapis.com/4geeks-academy-website/PDF%20and%20Docs/Conditions%20Job%20Guaranteed%20Program.pdf). 
