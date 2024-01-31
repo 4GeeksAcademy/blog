@@ -17,6 +17,9 @@ Hay muchas razones por las que aprender a programar puede ser una buena idea. La
 En el ámbito laboral, la programación es una habilidad muy demandada. Los programadores son necesarios en una amplia gama de industrias, desde la tecnología hasta la salud y la educación. Si quieres tener una carrera exitosa en tecnología, aprender a programar es un buen punto de partida.
  
 En tu vida personal, la programación puede ayudarte a automatizar tareas, crear tus propias aplicaciones y juegos, y aprender más sobre cómo funciona el mundo digital.
+
+
+![aprender programacion desde cero](https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg)
  
 ### Recursos y herramientas para principiantes:
  
