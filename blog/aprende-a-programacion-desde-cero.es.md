@@ -47,7 +47,7 @@ Los libros son una excelente manera de [aprender programación desde cero](https
  
 **Plataformas en línea o tutoriales:**
 
-Las plataformas en línea o tutoriales ofrecen una forma interactiva de aprender a programar. Estas plataformas suelen ofrecer cursos y tutoriales paso a paso que pueden ayudarte a aprender los conceptos básicos de la programación de forma rápida y sencilla
+Las plataformas en línea o tutoriales ofrecen una forma interactiva de aprender a programar desde cero. Estas plataformas suelen ofrecer cursos y tutoriales paso a paso que pueden ayudarte a aprender los conceptos básicos de la programación de forma rápida y sencilla
 Algunas plataformas populares incluyen:
 
 - [4Geek.com](www.4geeks.com)
@@ -57,7 +57,7 @@ Algunas plataformas populares incluyen:
 - Code.org
  
 **Canales de YouTube:**
-Los canales de YouTube pueden ser una forma divertida y visual de aprender a programar. Estos canales suelen ofrecer tutoriales cortos y concisos que pueden ayudarte a aprender los conceptos básicos de la programación sin tener que invertir mucho tiempo.
+Los canales de YouTube pueden ser una forma divertida y visual de aprender a programar desde cero. Estos canales suelen ofrecer tutoriales cortos y concisos que pueden ayudarte a aprender los conceptos básicos de la programación sin tener que invertir mucho tiempo.
 Hay muchos canales de YouTube que ofrecen tutoriales y videos de programación. Algunos canales populares incluyen:
 
 - The Coding Train
@@ -74,7 +74,7 @@ Los foros y comunidades de programación pueden ser un recurso valioso para los 
  
 ## Herramientas
  
-Hay una variedad de herramientas disponibles que pueden ayudarte a programar. Algunas de las herramientas más populares son:
+Hay una variedad de herramientas disponibles que pueden ayudarte a programar desde cero. Algunas de las herramientas más populares son:
  
 #### Editores de código:
 Los editores de código son programas que te permiten escribir y editar código. Algunos editores de código populares incluyen:
