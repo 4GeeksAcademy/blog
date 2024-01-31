@@ -12,6 +12,7 @@ In the vast world of programming, beginners often find themselves at a crossroad
 ## Ease of learning: Python's Simplicity vs. Java's Structure
  
 **Python's Gentle Learning Curve:**
+So, should I learn Python or Java? Let's begin through Python and its simplicity
 [Python, celebrated for its simplicity](https://4geeksacademy.com/us/learn-python/is-python-hard-to-learn), provides an easy start for beginners. The language's clean and readable syntax significantly reduces the initial learning curve, creating an environment where novices can focus on problem-solving rather than wrestling with intricate language structures. The persistent query of "Is Python hard to learn?" finds a reassuring answer in the user-friendly features Python offers. For example, to print “Hello World!” in **Python, the code is:**
 
 ```
