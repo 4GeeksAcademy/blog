@@ -3,8 +3,8 @@ author: "4GeeksAcademy"
 date: "2023-10-23T12:58:12+00:00"
 template: "post"
 title: "Recursos y Herramientas para Aprender programación desde cero"
-excerpt: "En el mundo del aprendizaje de programación, solo el 8% logra completar cursos en línea. Descubre las razones detrás y cómo superar los desafíos. La programación, una habilidad transformadora. 🌐✨ "
-image_alt: "Aprender programación desde cero"
+excerpt: "En el mundo del aprendizaje de programación, solo el 8% logra completar cursos en línea. Descubre las razones detrás y cómo superar los desafíos. La programación, una habilidad transformadora Aprender Programacion Desde Cero hoy 🌐✨ "
+image_alt: "Aprender Programacion Desde Cero"
 
 ---
 
@@ -19,7 +19,7 @@ En el ámbito laboral, la programación es una habilidad muy demandada. Los prog
 En tu vida personal, la programación puede ayudarte a automatizar tareas, crear tus propias aplicaciones y juegos, y aprender más sobre cómo funciona el mundo digital.
 
 
-![aprender programacion desde cero](https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg)
+![Aprender Programacion Desde Cero](https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg)
  
 ### Recursos y herramientas para principiantes:
  
