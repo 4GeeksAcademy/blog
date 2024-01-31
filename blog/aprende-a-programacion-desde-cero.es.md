@@ -10,9 +10,9 @@ image_alt: "Aprender Programacion Desde Cero"
 
 Todo el mundo quiere aprender a programar pero, solo el **8%** de los cursos de programación online son completados con éxito, el area de [tecnología tiene muchas ventajas](https://4geeksacademy.com/es/aprender-a-programar/ventajas-de-trabajar-en-tecnologia) pero al mismo tiempo no todos los que entran parece poder culminar. 😮 **¿Por qué pasa esto?** Muchas razones: Falta de estructura, falta de ayuda, etc. Tenemos años enseñando a programar y queremos sintetizar rápidamente los retos que encontrarás para evitarte el fracaso.
  
-## ¿Por qué aprender a programar?
+## Aprender Programacion Desde Cero
  
-Hay muchas razones por las que aprender a programar puede ser una buena idea. La programación es una habilidad valiosa que puede abrirte muchas puertas, tanto en el mundo laboral como en tu vida personal.
+Aprender Programacion Desde Cero puede ser una buena idea. La programación es una habilidad valiosa que puede abrirte muchas puertas, tanto en el mundo laboral como en tu vida personal.
  
 En el ámbito laboral, la programación es una habilidad muy demandada. Los programadores son necesarios en una amplia gama de industrias, desde la tecnología hasta la salud y la educación. Si quieres tener una carrera exitosa en tecnología, aprender a programar es un buen punto de partida.
  
