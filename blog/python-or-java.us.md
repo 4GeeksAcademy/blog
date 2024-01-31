@@ -9,6 +9,7 @@ image_alt: "Should I Learn Python or Java"
  
 In the vast world of programming, beginners often find themselves at a crossroads, deciding between two popular languages: **[Python, highly in demand](https://4geeksacademy.com/us/python-bootcamp/python-one-of-the-most-in-demand-programming-languages), and Java.** Each has its strengths and applications. This exploration aims to guide beginners in making informed decisions based on their unique needs and aspirations. Now, let's delve into the specifics of Python and Java to understand their merits and applications.
  
+![should i learn python or java](https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg)
 ## Ease of learning: Python's Simplicity vs. Java's Structure
  
 **Python's Gentle Learning Curve:**
@@ -67,6 +68,8 @@ The collaborative nature of the Python community is clear in the many open-sourc
 Java's community, with decades of industry presence, boasts a wealth of resources. Robust support systems, including online communities, forums, and official documentation, cater to the diverse needs of Java learners. Frameworks like Spring, with their comprehensive solutions, exemplify the depth of resources available for enterprise-level development.
  
 Java's community has stood the test of time, fostering a culture of mentorship and knowledge-sharing. Engaging with this community provides not only learning opportunities but also a sense of belonging to a global network of Java enthusiasts.
+
+![should i learn python or java](https://breathecode.herokuapp.com/v1/media/file/data-1-2-jpg)
 
 ## What Type of Software Engineer Do You Want to Be?
  
