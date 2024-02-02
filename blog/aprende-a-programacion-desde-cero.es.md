@@ -19,7 +19,7 @@ En el ámbito laboral, la programación es una habilidad muy demandada. Los prog
 En tu vida personal, la programación puede ayudarte a automatizar tareas, crear tus propias aplicaciones y juegos, y aprender más sobre cómo funciona el mundo digital.
 
 
-![Aprender Programacion Desde Cero](https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg)
+<img src="https://breathecode.herokuapp.com/v1/media/file/data-1-3-jpg" alt="Aprender Programacion Desde Cero" style="max-width: 400px; width: 100%; margin: 0 auto;">
  
 ### Recursos y herramientas para principiantes:
  
