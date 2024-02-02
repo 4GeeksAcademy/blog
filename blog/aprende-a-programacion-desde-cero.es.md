@@ -10,9 +10,9 @@ image_alt: "Aprender Programacion Desde Cero"
 
 Todo el mundo quiere aprender a programar pero, solo el **8%** de los cursos de programación online son completados con éxito, el area de [tecnología tiene muchas ventajas](https://4geeksacademy.com/es/aprender-a-programar/ventajas-de-trabajar-en-tecnologia) pero al mismo tiempo no todos los que entran parece poder culminar. 😮 **¿Por qué pasa esto?** Muchas razones: Falta de estructura, falta de ayuda, etc. Tenemos años enseñando a programar y queremos sintetizar rápidamente los retos que encontrarás para evitarte el fracaso.
  
-## Aprender Programacion Desde Cero
+## Aprender Programación Desde Cero
  
-Aprender Programacion Desde Cero puede ser una buena idea. La programación es una habilidad valiosa que puede abrirte muchas puertas, tanto en el mundo laboral como en tu vida personal.
+Aprender Programación es una habilidad valiosa que puede abrirte muchas puertas, tanto en el mundo laboral como en tu vida personal.
  
 En el ámbito laboral, la programación es una habilidad muy demandada. Los programadores son necesarios en una amplia gama de industrias, desde la tecnología hasta la salud y la educación. Si quieres tener una carrera exitosa en tecnología, aprender a programar es un buen punto de partida.
  
@@ -23,7 +23,7 @@ En tu vida personal, la programación puede ayudarte a automatizar tareas, crear
  
 ### Recursos y herramientas para principiantes:
  
-Hay una gran cantidad de recursos disponibles para ayudar a los principiantes a aprender a programar. Estos recursos incluyen cursos en línea, libros, tutoriales y comunidades de aprendizaje una gran duda que muchas personas tienen es si [¿debería ir a la universidad o hacer un bootcamp?](https://4geeksacademy.com/es/aprender-a-programar/disyuntiva-para-futuros-programadores-universidad-o-bootcamp) una interesante pregunta que abarcamos en este articulo.
+Hay una gran cantidad de recursos disponibles para ayudar a los principiantes a aprender a programar. Estos recursos incluyen cursos en línea, libros, tutoriales y comunidades de aprendizaje una gran duda que muchas personas tienen es si [¿debería ir a la universidad o hacer un bootcamp?](https://4geeksacademy.com/es/aprender-a-programar/disyuntiva-para-futuros-programadores-universidad-o-bootcamp) Una interesante pregunta que abarcamos en este artículo.
  
 **Cursos de programación: **
  
@@ -38,7 +38,7 @@ Hay muchos cursos en línea gratuitos y de pago disponibles que pueden ayudarte 
 
 Los libros son una excelente manera de [aprender programación desde cero](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) y los conceptos básicos de la programación a tu propio ritmo. Los libros también pueden ser una buena opción para los principiantes que prefieren aprender leyendo. Algunos libros populares para principiantes 
 
-**incluyen:**
+**Incluyen:**
  - Python Crash Course - Eric Matthes
 - The Odin Project - Brandon Rhodes
 - HTML, CSS, & JavaScript All-in-One For Dummies – Paul McFedries
@@ -105,7 +105,7 @@ Los sistemas de control de versiones te ayudan a rastrear los cambios en tu cód
 
 ## ¿Cómo empezar a programar?
 
-Una vez que hayas elegido un lenguaje de programación y hayas reunido algunos recursos y hayas definido algunas [facilidades y dificultdes para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/facilidades-y-dificultades-para-aprender-a-programar) es hora de empezar a aprender. Es importante iniciar con los conceptos básicos, como la sintaxis y la lógica de programación. Una vez que tengas una buena comprensión de los conceptos básicos, puedes empezar a crear tus propios programas.
+Una vez que hayas elegido un lenguaje de programación y hayas reunido algunos recursos y hayas definido algunas [facilidades y dificultades para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/facilidades-y-dificultades-para-aprender-a-programar) es hora de empezar a aprender. Es importante iniciar con los conceptos básicos, como la sintaxis y la lógica de programación. Una vez que tengas una buena comprensión de los conceptos básicos, puedes empezar a crear tus propios programas.
 
 ### Plan de estudios para aprender a programar desde cero:
 
@@ -113,9 +113,9 @@ La ruta de aprendizaje para aprender a programar puede variar según las necesid
 
 1.  Aprende los conceptos básicos de la programación: antes de empezar a programar, es importante tener una comprensión básica de los conceptos básicos de la programación, como variables, tipos de datos, operadores y control de flujo. Puedes aprender estos conceptos en línea, en libros o en cursos presenciales.
 2.  Elige un lenguaje de programación: hay muchos lenguajes diferentes disponibles. Algunos lenguajes son más sencillos de aprender para principiantes, por ejemplo Python o JavaScript. Sin embargo, trata de identificar cuáles son los más pedidos en el mundo laboral antes de sumergirte en un plan de estudios.
-3.  Practica, practica, y continúa practicando: la mejor manera de aprender a programar es practicar. Intenta programar durante al menos 30 minutos al día. Puedes programar cualquier cosa que te interese, como juegos, aplicaciones web o programas para automatizar tareas.
-4.     Únete a una comunidad de programadores: una comunidad de programadores puede ser una gran fuente de apoyo y aprendizaje. Puedes unirte a un foro, un grupo de Slack o un canal de Discord para conectarte con otros programadores.
-5.     Realiza un proyecto propio: Una vez que hayas aprendido los conceptos básicos y hayas practicado un poco, busca oportunidades para aplicar tus habilidades. Puedes contribuir a proyectos de código abierto, participar en hackathons o desarrollar tus propios proyectos.
+3.  Práctica, Práctica, y más Práctica: la mejor manera de aprender a programar es practicar. Intenta programar durante al menos 30 minutos al día. Puedes programar cualquier cosa que te interese, como juegos, aplicaciones web o programas para automatizar tareas.
+4. Únete a una comunidad de programadores: una comunidad de programadores puede ser una gran fuente de apoyo y aprendizaje. Puedes unirte a un foro, un grupo de Slack o un canal de Discord para conectarte con otros programadores.
+5. Realiza un proyecto propio: Una vez que hayas aprendido los conceptos básicos y hayas practicado un poco, busca oportunidades para aplicar tus habilidades. Puedes contribuir a proyectos de código abierto, participar en hackathons o desarrollar tus propios proyectos.
 
 Ahora bien, te vamos a dar un ejemplo de cómo puede ser un plan de estudios para un principiante en programación solo para que tengas una idea de cómo puede ser el proceso. Este plan de estudio es solo una sugerencia. Puedes adaptarlo a tus necesidades y preferencias.
 
@@ -165,6 +165,6 @@ Estas aplicaciones de la IA son una buena manera de ver cómo se puede utilizar 
  
 En conclusión, [aprender a programar desde cero](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) puede ser todo un reto, pero también es muy gratificante.🦾🤓 Con el tiempo y la dedicación, cualquiera puede aprender a programar, incluso si no tiene ningún conocimiento previo de informática.
  
-La importancia de tener acceso a recursos adecuados al aprender a programar desde cero es fundamental. Los recursos adecuados pueden proporcionarte el conocimiento y las habilidades que necesitas para aprender a programar de manera efectiva, en 4geeks academy nos gusta darte toda la infomación que  requieras para que puedas tomar la decisión de ingresar a nuetro bootcamp acá una de la dudas que más nos llegan [¿Cómo pagar mi bootcamp?](https://4geeksacademy.com/es/aprender-a-programar/como-pagar-bootcamp-de-programacion)
+La importancia de tener acceso a recursos adecuados al aprender a programar desde cero es fundamental. Los recursos adecuados pueden proporcionarte el conocimiento y las habilidades que necesitas para aprender a programar de manera efectiva, en 4geeks academy nos gusta darte toda la información que  requieras para que puedas tomar la decisión de ingresar a nuestro bootcamp acá una de la dudas que más nos llegan [¿Cómo pagar mi bootcamp?](https://4geeksacademy.com/es/aprender-a-programar/como-pagar-bootcamp-de-programacion)
  
 Si estás interesado en [aprender a programar desde cero entra a 4Geeks Academy](https://4geeksacademy.com/es/landing/academia-programacion), te recomendamos que busques recursos adecuados que te ayuden a aprender de manera efectiva. Con el tiempo y la dedicación, podrás aprender a programar y adquirir una habilidad valiosa que te abrirá muchas puertas en el mundo laboral y en tu vida personal.
