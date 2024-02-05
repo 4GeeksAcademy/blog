@@ -19,7 +19,7 @@ Data Science, also known as Data Science, is an interdisciplinary field that emp
 
 Before delving into the specific features of 4Geeks Academy, it is crucial to understand the elements that make a [Data Science bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) considered **the best**. The quality of the curriculum, industrial relevance, and strong student and career support are determining factors for success in this discipline. A comprehensive approach addressing these key aspects can make a difference in shaping skilled professionals ready to face the challenges of the Data Science field.
 
-![best data science bootcamp](https://breathecode.herokuapp.com/v1/media/file/education-concept-student-studying-brainstorming-campus-concept-close-up-students-discussing-their-subject-books-textbooks-selective-focus-jpg)
+<img style="max-width:400px;margin:0 auto;" src="https://breathecode.herokuapp.com/v1/media/file/education-concept-student-studying-brainstorming-campus-concept-close-up-students-discussing-their-subject-books-textbooks-selective-focus-jpg" alt="Best Data Science Bootcamp">
 
 ## Unique Attributes of 4Geeks Academy in Data Science
 
