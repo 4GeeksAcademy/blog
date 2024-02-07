@@ -24,19 +24,29 @@ Profesionales de recursos humanos buscando información sobre salarios en tecnol
 ---
 
 Introducción:
-Comenzar con una introducción sobre la importancia de entender los salarios en el campo del desarrollo Full Stack y cómo diversos factores influyen en estas cifras esto son datos a tener en cuenta si ya se es un desarrollador full stack con experiencia o si estas empezando desde cero para tener una proyección de cuanto podría ser tu salario y en que precio se pone a tus habilidades como desarrollador en el marcado actual.
+Propociona información sobre los rangos salariales de latam, USA y europa (más abajo ahondaremos en regiones especificas) para aquellos que buscan mejores oportunidades de optener un salario alto algunos han tomado decisones estrategicas como mudarse  temporalmente a capitales o a otros paises para luego solicitar un trabajo remoto, es bien sabido que la ubicación geografica repercute directamente en los salarios  tanto para bien como para mal. 
+(aunque no es necesariamente malo ganar un poco menos en algnos casos, pues en algunas ciudades con rangos más bajos el coste de vida es mucho menor, habla sobre que ciudades podría ofrecer buenos servicios y buen internet). 
+Así como  países que no cuentan con la infraestructura  para proveer servicios básicos estables y con un internet lento juegan en tu contra a la hora de conseguir un mejor trabajo. 
+
+investiga cuales son las tecnologias más demandadas actualmente y explica porqué no solo aumenta las probabilidades de conseguir un trabajo sino tambien las posibilidades de optener un mejor sueldo.
+
 
 Factores que Influyen en el Sueldo:
 
 Geolocalización:
+Explorar cómo la ubicación geográfica impacta los salarios de los desarrolladores Full Stack, acá puedes detallar un poco más las regiones, puedes enfocarte en paises claves de Latam, EEUU y europa. puedes hacer una lista  con dichos estados o capitales  y una descripción breve de porqué estan en la lista, tambien incluye los rangos salariales. 
 
-Explorar cómo la ubicación geográfica impacta los salarios de los desarrolladores Full Stack.
-Proporcionar ejemplos de diferencias salariales en distintas regiones, elabora una tabla con distintas capitales del mundo comparando los ingresos de un desarrollador por ejemplo en la tam con uno de europa o EEUU.
+Proporcionar ejemplos de diferencias salariales en distintas regiones, elabora una lista con distintas capitales del mundo comparando los ingresos de un desarrollador por ejemplo en latam con uno de europa o EEUU.
+tambien incluye una lista con los peores paises para buscar trabajo 
 
-Experiencia:
+Experiencia
 Analizar cómo la experiencia laboral afecta los sueldos y las oportunidades profesionales.
 Ofrecer consejos para aquellos que buscan mejorar su remuneración a través de la experiencia.
 Dame cifras reales y en el tiempo sobre cuanto en promedio se les paga a los programadores jr vs sr 
+
+¿qué tecnologia dominar? 
+explica porque Java es mejor pagado que Javascript pero a su vez es mucho más complejo de aprender cuando no tienes experiencia. 
+haz una lista con las tecnologias mejor y peor pagadas de la industria, exhorta al lector a la idea que siempre va a ser mejor especializarse para subir tu salario. 
 
 
 Tendencias del Mercado en 2023 y 2024:
@@ -47,6 +57,10 @@ Datos sobre nuevas oportunidades de empleo en el campo del desarrollo Full Stack
 
 Perspectivas Salariales:
 Ofrecer proyecciones salariales basadas en las tendencias actuales y las expectativas para el próximo año.
+Cual es la tenologia que mas ha mejorado su salario ultimamente?
+Programar para blockchain o web3 vale la pena?
+Programar AI vale la pena?
+Programar VR o Augmented Reality vale la pena? Sobretodo ahora que apple lanzo el visionPro con Spacial Computing.
 
 
 
