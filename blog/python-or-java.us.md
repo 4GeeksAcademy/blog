@@ -41,7 +41,7 @@ Output:  Hello, World!
 
 **Java's syntax**, as shown above, is more complex and involves more boilerplate code **compared to Python**. This structured approach is great for large-scale projects and enterprise-level software development.
 
-### should I learn Python or Java?
+#### should I learn Python or Java?
  | Interests         |                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Interests:**     | Does data science, automation, or web development pique your curiosity?                                           |
