@@ -23,8 +23,6 @@ print("Hello, World!")
 output: Hello, World
 ```
 
-
-> This simple and intuitive code snippet illustrates the readability and ease of Python.
  
 **Java's Structured Ascent:**
 In contrast, Java is a robust and time-tested language with a steeper learning curve. Its syntax, while enforcing a structured and strict approach, might pose an initial challenge for beginners. However, this strictness becomes an asset down the line, contributing to the creation of robust code and instilling good programming practices. **To print “Hello World!” in Java, the code is**:
@@ -43,8 +41,8 @@ Output:  Hello, World!
 
 **Java's syntax**, as shown above, is more complex and involves more boilerplate code **compared to Python**. This structured approach is great for large-scale projects and enterprise-level software development.
 
-
- | Interests         | should I learn Python or Java?                                                                       |
+### should I learn Python or Java?
+ | Interests         |                                                       |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **Interests:**     | Does data science, automation, or web development pique your curiosity?                                           |
 | **Aspirations:**   | Do you dream of enterprise-level development or Android apps? Java could be the key.                               |
