@@ -60,6 +60,7 @@ A continuación, le proporcionamos una breve lista de los sectores con mayor dem
 - **Industria 4.0**: son aquellas empresas grandes, de sectores tradicionales, que se están adaptando al mundo digital y requieren de ingenieros para gestionar ciertos cambios. 
 
 ## 6 habilidades que aumentan el salario de los ingenieros informáticos
+
 Para aumentar tu salario y tus oportunidades laborales no solo hay que buscar la empresa con mejores oportunidades. Es necesario que como ingeniero informático poseas ciertas certificaciones y habilidades para entrar en competencia en el área y encontrar los salarios más altos.
  Te enumeramos a continuación algunas de las habilidades más buscadas en España: 
 
@@ -73,6 +74,7 @@ Para aumentar tu salario y tus oportunidades laborales no solo hay que buscar la
 Si ya eres programador y no posees algunas de estas habilidades, no te abrumes, poco a poco puedes irte perfeccionando y sumando certificaciones a tu curriculum. Recuerda que una carrera exitosa no se construye en pocos días. 
 
 ## 4 tips para aumentar tu salario como ingeniero informático. 
+
 Nos hemos enfocado anteriormente en dar información para los nuevos ingenieros y presentarles herramientas para que se enamoren de la carrera y obtengan resultados favorables económicamente hablando; pero si ya eres ingeniero y no sabes como mejorar tus ingresos, no te desanimes y sigue estos tips.: 
 
 1. Consigue certificaciones reconocidas de los principales proveedores de tecnología como lo son Azure, AWS, Google Cloud, entre otras. 
