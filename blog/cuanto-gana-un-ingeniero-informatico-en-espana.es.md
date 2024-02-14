@@ -64,24 +64,31 @@ A continuación, le proporcionamos una breve lista de los sectores con mayor dem
 Para aumentar tu salario y tus oportunidades laborales no solo hay que buscar la empresa con mejores oportunidades. Es necesario que como ingeniero informático poseas ciertas certificaciones y habilidades para entrar en competencia en el área y encontrar los salarios más altos.
  Te enumeramos a continuación algunas de las habilidades más buscadas en España: 
 
-1.  Experiencia con Frameworks modernos de desarrollo web como lo son Angular, React, Vue, Spring, Django entre otras. 
-2.  Habilidades en Big Data e inteligencia artificial, análisis de datos masivos, aprendizaje automático, visión artificial, etc. 
-3. Capacitación en metodologías ágiles y DevOps. Habilidades que mejoran la productividad como automatización de pipelines de desarrollo, integración y entrega continua, etc. 
-4. Dominio de arquitecturas cloud, diseño e implementación de soluciones en la nube. 
-5. Experiencia con lenguajes modernos de programación dominados en la industria como Python, Java, JavaScript, C#, PHP, GO, etc. Entre más popular es el lenguaje, mejor pagado es. Te recomendamos realizar coding bootcamps son una excelente opción para aprender. 
-6.  Habilidades blandas como comunicación, liderazgo, resolución de problemas y pensamiento crítico. 
 
-Si ya eres programador y no posees algunas de estas habilidades, no te abrumes, poco a poco puedes irte perfeccionando y sumando certificaciones a tu curriculum. Recuerda que una carrera exitosa no se construye en pocos días. 
+1. **Experiencia con Frameworks modernos de desarrollo web:** tales como [Angular](https://angular.io/), [React](https://reactjs.org/), [Vue](https://vuejs.org/), [Spring](https://spring.io/), [Django](https://www.djangoproject.com/) y otros frameworks. Descubre por qué [Node.js es el camino hacia el éxito](https://4geeksacademy.com/es/aprender-a-programar/nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end) y explora otras opciones.
+
+2. **Habilidades en Big Data e inteligencia artificial:** incluyendo análisis de datos masivos, aprendizaje automático, visión artificial, entre otros.
+
+3. **Capacitación en metodologías ágiles y DevOps:** Desarrollo de habilidades que mejoran la productividad, como automatización de pipelines de desarrollo, integración y entrega continua, entre otros.
+
+4. **Dominio de arquitecturas en la nube:** Diseño e implementación de soluciones en la nube.
+
+5. **Experiencia con lenguajes modernos de programación:** Dominio de lenguajes ampliamente utilizados en la industria como Python, Java, JavaScript, C#, PHP, GO, etc. Se destaca que entre más popular es el lenguaje, mejores oportunidades laborales suelen presentarse. Se recomienda realizar coding bootcamps como una excelente opción para aprender.
+
+6. **Habilidades blandas:** Incluyen habilidades de comunicación, liderazgo, resolución de problemas y pensamiento crítico.
+
+Si ya eres programador y no posees algunas de estas habilidades, no te abrumes. Puedes perfeccionarte gradualmente y sumar certificaciones a tu currículum. En [este otro artículo profundizamos en los 5 frameworks más fundamentales para el desarrollo front-end](https://4geeksacademy.com/es/aprender-a-programar/los-5-frameworks-fundamentales-para-frontend). Recuerda que una carrera exitosa no se construye en pocos días.
+
 
 ## 4 tips para aumentar tu salario como ingeniero informático. 
 
-Nos hemos enfocado anteriormente en dar información para los nuevos ingenieros y presentarles herramientas para que se enamoren de la carrera y obtengan resultados favorables económicamente hablando; pero si ya eres ingeniero y no sabes como mejorar tus ingresos, no te desanimes y sigue estos tips.: 
+Nos hemos enfocado anteriormente en dar información para los nuevos ingenieros y presentarles herramientas para que se enamoren de la carrera y obtengan resultados favorables económicamente hablando; pero si ya eres ingeniero y no sabes como mejorar tus ingresos, no te desanimes y sigue estos tips: 
 
-1. Consigue certificaciones reconocidas de los principales proveedores de tecnología como lo son Azure, AWS, Google Cloud, entre otras. 
-2. Participa en proyectos de código abierto para mostrar tus habilidades de programación. 
-3. Aprende nuevas tecnologías y mantente al día con las últimas tendencias. 
-4. Refuerza o aprende habilidades de programación, ya que es un agregado importante. 
+1. **Consigue certificaciones reconocidas de los principales proveedores de tecnología** como lo son Azure, AWS, Google Cloud, entre otras. 
+2. **Participa en proyectos de código abierto** para mostrar tus habilidades de programación. 
+3. **Aprende nuevas tecnologías** y mantente al día con las últimas tendencias. 
+4. **Refuerza o aprende habilidades de programación**, ya que es un agregado importante. 
 
-Sabemos que se lee muy fácil, pero en la práctica es complicado. No olvides que puedes apoyarte en campus como el de 4Geeks Academy que te ofrece programas y un plan de estudio actualizado para reforzar conocimientos, además de empezar desde cero con nuevas habilidades de programación. 
+Sabemos que se lee muy fácil, pero en la práctica es complicado. No olvides que puedes apoyarte con el [Bootcamp de programación de 4Geeks Academy](https://4geeksacademy.com/es/curso-de-programacion-desde-cero) que te ofrece programas y un plan de estudio actualizado y enfocado para que puedas ingresar a la industria como todo un profesional una vez te hayas graduado, ¡no esperes el próximo gran bum tecnológico y posiciónate como un programador desde ya! 
+ 
 
-Los últimos años los salarios de los ingenieros informáticos en España han ido en aumento debido a la alta demanda en el área. Además de que todo apunta a que en los próximos 5 - 10 años, los salarios seguirán en aumento a un ritmo mucho más rápido que la mayoría de las otras profesiones, así que llegó el momento de empezar a darle un giro a tu vida laboral. 
