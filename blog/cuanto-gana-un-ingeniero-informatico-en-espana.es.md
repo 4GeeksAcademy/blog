@@ -1,12 +1,12 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Machine learning is a rapidly growing field that is having a major impact on the world around us"
+excerpt: "Para aumentar tu salario y tus oportunidades laborales no solo hay que buscar la empresa con mejores oportunidades. Es necesario que como ingeniero informático poseas ciertas certificaciones y habilidades para entrar en competencia en el área y encontrar los salarios más altos..."
 template: "post"
 title:  "¿Cuánto gana un ingeniero informático en España?"
 
 ---
 
-Si te estás preguntando cuanto gana un ingeniero informático en España, probablemente es porque esa carrera te está tentando o porque quieres mejorar tus perspectivas laborales. Cambiar de carrera es una decisión muy difícil y retadora, uno de los mayores miedos es si tu vida laboral mejorará y si habrá un crecimiento económico. 
+Si te preguntas cuánto gana un ingeniero informático en España, puede ser porque consideras entrar en esta carrera o mejorar tus perspectivas laborales. Cambiar de profesión es una decisión difícil, el temor al estancamiento o falta de crecimiento económico es común. Sin embargo, optar por la [ingeniería informática en España](https://4geeksacademy.com/es/coding-bootcamps/ingenieria-de-software-programacion) **es una elección inteligente y bien remunerada**. Además, en **4Geeks Academy, ofrecemos oportunidades** para desarrollarte como un profesional destacado en el área a través de nuestos coding bootcamps o bootcamp de programación como [ingeniería de software](https://4geeksacademy.com/es/coding-bootcamps/ingenieria-de-software-programacion), [Curso de Desarrollador Full Stack] o si lo que te interesa es el big data y la inteligencia artifical tenemos nuestro [Curso Data Science and Machine Learning](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning). Te guiamos paso a paso hacia el éxito en esta emocionante industria. ¡Aprovecha las oportunidades de crecimiento y [planes de financiamiento con 4Geeks Academy](https://4geeksacademy.com/es/financiacion) el éxito en esta apasionante profesión te espera!
 
 Debemos decirte que sea cual sea tu carrera actualmente, si decidiste cambiarla y convertirte en ingeniero informático has dado un gran paso que será recompensado económicamente, ya que la ingeniería informática es una profesión muy bien remunerada en España. 
 
