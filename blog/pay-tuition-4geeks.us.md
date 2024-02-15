@@ -53,3 +53,4 @@ Check out your options on the chart below:
 [Click here if you want to learn more about our syllabus, program details, and methodology.](/us/coding-bootcamps/part-time-full-stack-developer)
 
 This program has been built for everyone. Miami is a city full of different backgrounds and nationalities. Therefore, the Extended Payment Plan is available to everyone. Once you apply to the program, we will take care of everything. The process of getting your tuition paid will not be affected by your background. There are only a few steps you have to complete in order to become a Full Stack developer.
+![](https://)
