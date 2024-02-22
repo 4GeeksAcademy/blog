@@ -1,9 +1,9 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-10-23T12:58:12+00:00"
-template: "landing_post"
-title: "Qué es Data Science: Un Vistazo a la Ciencia de Datos"
-image_alt: "¿Qué es data science?"
+template: "post"
+title: "Tu futuro te espera mejora tus habilidades con nuestra Academia de programación"
+image_alt: ""
 
 ---
 
