@@ -65,7 +65,7 @@ In addition to these topics, data science bootcamps can also cover more specific
  
 Nevertheless, you should keep in mind that while you are training, you will have to do your best to succeed in your studies and your job. The bootcamp will provide you with all the tools and prepare you for the technological world, but it is important to emphasize that you must be sure that you will maintain the practice and dedication to achieve your goals.
  
-## What are the benefits of a bootcamp?
+## What are the benefits of a Data Science Bootcamp?
  
 There are bootcamps of all kinds around different programming languages or technologies, such as Full Stack programming, UX/UI design, data science, or mobile application development. This intensive training is aimed at anyone who wants to reinvent themselves professionally and direct their career towards the digital sector. There are no minimum requirements to sign up, as all the necessary knowledge is acquired in a short time.
  
