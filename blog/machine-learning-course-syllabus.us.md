@@ -30,6 +30,7 @@ Structure:
 * Briefly mention the key libraries covered in this section, such as Pandas, NumPy, and Matplotlib, and their role in data manipulation and visualization.
 
 3. Mathematical Fundamentals:
+* Comments that it is not necessary to have such deep knowledge in the area of mathematics to be a data scientist, given that the most in-depth programming has already been done, but that knowledge of the behavior of statistics and how to interpret data bases mathematics and statistics and explains how the basic training you will have in the data science bootcamp will give you the tools to interpret the data correctly despite the difficulties you may have with mathematics.
 * Explain why linear algebra is essential for understanding and implementing machine learning algorithms.
 * Briefly mention the key concepts covered in this section, like matrices, vectors, and relationships between variables, and how they are applied using Python for practical exercises.
 
