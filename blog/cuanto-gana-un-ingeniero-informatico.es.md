@@ -26,10 +26,10 @@ Incluir estadísticas oficiales y estudios confiables.
 Proyecciones salariales para 2030 (si las hay).
 
 Estados Unidos:
-Mismo desglose para Europa, incluyendo ciudades importantes (Nueva York, San Francisco, Miami, Atlanta, Chicago, etc.).
+Mismo desglose que para Europa, en este caso, incluyendo ciudades importantes (Nueva York, San Francisco, Miami, Atlanta, Chicago, etc.).
 
 LatAm:
-Mismo desglose para Europa, incluyendo países importantes (México, Argentina, Colombia, Chile, Uruguay, etc.).
+Mismo desglose que para Europa, en este caso, incluyendo países importantes (México, Argentina, Colombia, Chile, Uruguay, etc.).
 
     Explicación: Brindar información precisa y actualizada sobre el salario de un ingeniero informático en distintas regiones como Europa, Estados Unidos y LatAm (debes segmentar dicha información, sería preciso obtener una lista por     cada una de las locaciones donde se muestre la diferencia entre distintos estados, capitales e incluso entre países para el caso de Europa y Latam).
 
