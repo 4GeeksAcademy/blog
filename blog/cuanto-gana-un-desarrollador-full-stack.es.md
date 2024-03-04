@@ -13,7 +13,7 @@ En las últimas dos décadas hemos presenciado la mayor aceleración tecnológic
 
 En un estudio reciente, hecho por IT Hunter, el perfil de Desarrollador Web Full-Stack ha sido uno de los más solicitados. Pero además, un perfil clave para este proceso de transformación digital. Si te apasiona este tipo de perfil, sigue leyendo, hablaremos de qué se encarga este profesional y cuánto puede llegar a ganar en Chile.
 
-## ¿Qué es un Desarrollador y cuánto gana Full-Stack?
+## ¿Qué es un Desarrollador Web Full-Stack?
 
 Un [programador full stack](https://4geeksacademy.com/desarrollador-full-stack-developer) es el encargado de usar correctamente el lenguaje de programación para construir una página web, una aplicación y entre otras plataformas web. Tienen un perfil técnico completo acorde a los lenguajes de programación, por lo que tienen dominación y posibilidad de establecer estrategias para cada parte del proceso de desarrollo web.
 
@@ -22,7 +22,7 @@ Las plataformas digitales o páginas web, son espacios en internet que permiten 
 Para ser un [Desarrollador full stack tienes que tener ciertas habilidades](https://4geeksacademy.com/es/desarrollador-full-stack/habilidades-desarrollador-full-stack) pasión por lo que haces, ganas de aprender siempre, dominar HTML, aportar funcionalidades y conocimientos de los lenguajes y códigos de programación, para así desarrollar grandes proyectos digitales a lo largo de su carrera.
 
 
-### ¿Cuánto gana un Desarrollador Full-Stack en Chile?
+## ¿Cuánto gana un Desarrollador Full-Stack en Chile?
 
 Para saber cúanto gana un desarrollador Fullstack miramos la famosa guía salarial Robert Half 2021, [el salario de un Desarrollador Full-Stack en Chile](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-chile) puede varias entre **$2.300.000 y $3.600.000 pesos chilenos**. Así mismo, Benjamín Toselli, presidente ejecutivo de IT Hunter, afirma que un Desarrollador Web Full-Stack gana en promedio **$2.800.000 de pesos chilenos**. Tosello agrega que: “En este caso, el profesional es senior y con manejo de inglés avanzado. Esta posición ha crecido en los últimos años en casi un 100%”. 
 
@@ -32,8 +32,8 @@ Muchas personas que se vuelven programadores web, no sabían qué carrera escoge
 
 Este ranking muestra los sueldos promedios, que rondan entre los $900.000 a más de $2.500.000 mensuales al 4to año de egreso. 
 
-Mira la siguiente tabla donde se muestra el promedio de salario de las carreras en la industria tecnológica:
-## Tabla promedio entre un desarrollador Full stack y otras ingenierías
+**Mira la siguiente tabla donde se muestra el promedio de salario de las carreras en la industria tecnológica:**
+
 
 | Vacante | Salario |
 | --- | --- |
@@ -42,6 +42,7 @@ Mira la siguiente tabla donde se muestra el promedio de salario de las carreras 
 | Ingeniería Civil en Informática | **$1.200.000 a $1.800.000** |
 | Ingeniería de Ejecución en Computación e Informática | **$1.200.000 a $1.600.000** |
 
+---
 
 En este orden de ideas, se podría afirmar que para empezar como desarrollador web, sin experiencia laboral previa en el área, se puede posicionar rápidamente en un rango atractivo de salario. También queda demostrado que, a medida de que pasen el tiempo en la [carrera como desarrollador Full Stack](https://4geeksacademy.com/desarrollador-full-stack-developer), habrá un crecimiento dentro de la industria, por lo que viene siendo una gran oportunidad para aquellos egresados que quieran desenvolverse en esta área. 
 
