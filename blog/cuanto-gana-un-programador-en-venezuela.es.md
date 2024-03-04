@@ -74,7 +74,7 @@ dicho esto acá tenemos una tabla que compara el salario promedio de un desarrol
 
 ## Perfiles en programación  más buscados en venezuela
 
-La programación en Venezuela es un campo en crecimiento, impulsado por la demanda de profesionales en tecnología tanto a nivel nacional como internacional. Las carreras más buscadas en este ámbito incluyen:
+[La programación en Venezuela es un campo en crecimiento](https://4geeksacademy.com/es/cuanto-gana-un-programador/ser-programador-entre-las-profesiones-con-mayor-demanda), impulsado por la demanda de profesionales en tecnología tanto a nivel nacional como internacional. Las carreras más buscadas en este ámbito incluyen:
 
 - **Full stack python developer**: un desarrollador full stack python es alguien que puede trabajar tanto en el frontend como en el backend de una aplicación utilizando el lenguaje de programación python. Esto implica habilidades en frameworks como django o flask para el backend, así como en tecnologías como html, css, y javascript para el frontend.
 - **Desarrollador web full stack**: este profesional tiene habilidades tanto en el desarrollo del lado del cliente como del servidor. Es capaz de crear aplicaciones web completas, desde el diseño de la interfaz de usuario hasta la implementación de la lógica del negocio en el servidor. 
@@ -85,9 +85,9 @@ La programación en Venezuela es un campo en crecimiento, impulsado por la deman
 
 ## Tendencias emergentes en la programación
 
-En los últimos años, hemos presenciado un aumento relevante en el interés por la inteligencia artificial (ia) y el aprendizaje automático (machine learning) en todo el mundo. En Venezuela, esta tendencia también está ganando impulso. La ia y el aprendizaje automático están revolucionando diversos sectores como la medicina, la banca y las finanzas, entre otros. Por lo tanto, aquellos que dominen estas habilidades tendrán una ventaja competitiva en el mercado laboral.
+En los últimos años, hemos presenciado un aumento relevante en el interés por la inteligencia artificial **(IA)** y el aprendizaje automático **(machine learning)** en todo el mundo. En Venezuela, esta tendencia también está ganando impulso. La ia y el aprendizaje automático están revolucionando diversos sectores como la medicina, la banca y las finanzas, entre otros. Por lo tanto, aquellos que dominen estas habilidades tendrán una ventaja competitiva en el mercado laboral.
 
-Otra tendencia emergente es el desarrollo de aplicaciones móviles. Con el crecimiento exponencial del uso de teléfonos inteligentes, cada vez más empresas están invirtiendo en aplicaciones móviles para llegar a sus clientes de manera más efectiva. Esto ha creado una gran demanda de desarrolladores de aplicaciones móviles capacitados. Aprender a desarrollar aplicaciones móviles puede abrir muchas puertas profesionales para los programadores venezolanos.
+Otra tendencia emergente es el **desarrollo de aplicaciones móviles**. Con el crecimiento exponencial del uso de teléfonos inteligentes, cada vez más empresas están invirtiendo en aplicaciones móviles para llegar a sus clientes de manera más efectiva. Esto ha creado una gran demanda de desarrolladores de aplicaciones móviles capacitados. Aprender a desarrollar aplicaciones móviles puede abrir muchas puertas profesionales para los programadores venezolanos.
 
 
 ## Oportunidades para los programadores venezolanos
@@ -101,14 +101,15 @@ Además, el crecimiento del comercio electrónico en Venezuela ha generado la ne
 
 Estas aptitudes son fundamentales no solo en Venezuela, sino en cualquier parte del mundo donde se ejerza la programación. Aquí hay algunos comentarios adicionales:
 
-Adaptabilidad a diferentes lenguajes y tecnologías: dado el rápido cambio en el panorama tecnológico, es crucial para un programador ser capaz de aprender nuevos lenguajes y tecnologías según sea necesario. Esto puede incluir frameworks, bibliotecas y herramientas específicas para proyectos particulares.
+**Adaptabilidad a diferentes lenguajes y tecnologías**: dado el rápido cambio en el panorama tecnológico, es crucial para un programador ser capaz de aprender nuevos lenguajes y tecnologías según sea necesario. Esto puede incluir frameworks, bibliotecas y herramientas específicas para proyectos particulares.
 
-Conocimiento del entorno local y necesidades del mercado: en Venezuela, como en cualquier otro país, es útil tener un entendimiento de las tendencias locales, las necesidades del mercado y las oportunidades específicas en la industria tecnológica. Esto puede influir en las decisiones de carrera y en la especialización en ciertos campos de la programación.
+**Conocimiento del entorno local y necesidades del mercado**: en Venezuela, como en cualquier otro país, es útil tener un entendimiento de las tendencias locales, las necesidades del mercado y las oportunidades específicas en la industria tecnológica. Esto puede influir en las decisiones de carrera y en la especialización en ciertos campos de la programación.
 
-Énfasis en la resolución de problemas en entornos desafiantes: dada la situación económica y tecnológica en Venezuela, los programadores pueden enfrentarse a desafíos adicionales, como la escasez de recursos o la inestabilidad política. La capacidad de adaptarse y encontrar soluciones innovadoras en tales circunstancias puede ser especialmente valiosa.
+**Énfasis en la resolución de problemas en entornos desafiantes**: dada la situación económica y tecnológica en Venezuela, los programadores pueden enfrentarse a desafíos adicionales, como la escasez de recursos o la inestabilidad política. La capacidad de adaptarse y encontrar soluciones innovadoras en tales circunstancias puede ser especialmente valiosa.
 
-Enfoque en el desarrollo de habilidades blandas: además de las habilidades técnicas, las habilidades blandas como la empatía, la resiliencia y la capacidad de trabajar bajo presión pueden ser cruciales para el éxito en el campo de la programación en Venezuela, donde pueden surgir desafíos únicos.
+**Enfoque en el desarrollo de habilidades blandas**: además de las habilidades técnicas, las habilidades blandas como la empatía, la resiliencia y la capacidad de trabajar bajo presión pueden ser cruciales para el éxito en el campo de la programación en Venezuela, donde pueden surgir desafíos únicos.
 
+Acá puedes conseguir Tips para encontrar tu proximo empleo 
 
 ## Impacto de la experiencia y certificaciones
 
