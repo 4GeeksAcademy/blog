@@ -29,6 +29,12 @@ Los salarios de los programadores en Venezuela pueden variar significativamente 
 | Posiciones especializadas | $10,000 - $12,500 |
 
 
+En promedio notamos que los salarios de un programador en venezuela pueden ser más bajo de lo que[ gana un programador en Colombia](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-colombia) o de lo que [gana un programador en España](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-espana)
+ pero no hay por qué preocuparse acá exploramos las oportunidades y rangos salariales de un programador en venezuela. 
+
+
+![Cuanto gana un desarrollador en Venezuela](https://breathecode.herokuapp.com/v1/media/file/parque-central-jpg?height=400 "Cuanto gana un desarrollador en Venezuela")
+
 ## Tabla de rangos salariales para programadores en Venezuela
 #### Las tecnologías más demandadas en Venezuela son:
 
