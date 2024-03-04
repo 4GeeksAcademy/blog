@@ -17,7 +17,7 @@ En un estudio reciente, hecho por IT Hunter, el perfil de Desarrollador Web Full
 
 Un [programador full stack](https://4geeksacademy.com/desarrollador-full-stack-developer) es el encargado de usar correctamente el lenguaje de programación para construir una página web, una aplicación y entre otras plataformas web. Tienen un perfil técnico completo acorde a los lenguajes de programación, por lo que tienen dominación y posibilidad de establecer estrategias para cada parte del proceso de desarrollo web.
 
-Las plataformas digitales o páginas web, son espacios en internet que permiten la ejecución de distintas aplicaciones o programas en mismo lugar para satisfacer diversas necesidades. Estas no requieren de un programa específico instalado para que puedan funcionar. 
+Las plataformas digitales o páginas web, son espacios en internet que permiten la ejecución de distintas aplicaciones o programas en un mismo lugar para satisfacer diversas necesidades. Estas no requieren de un programa específico instalado para que puedan funcionar. 
 
 Para ser un [Desarrollador full stack tienes que tener ciertas habilidades](https://4geeksacademy.com/es/desarrollador-full-stack/habilidades-desarrollador-full-stack) pasión por lo que haces, ganas de aprender siempre, dominar HTML, aportar funcionalidades y conocimientos de los lenguajes y códigos de programación, para así desarrollar grandes proyectos digitales a lo largo de su carrera.
 
@@ -33,6 +33,7 @@ Muchas personas que se vuelven programadores web, no sabían qué carrera escoge
 Este ranking muestra los sueldos promedios, que rondan entre los $900.000 a más de $2.500.000 mensuales al 4to año de egreso. 
 
 Mira la siguiente tabla donde se muestra el promedio de salario de las carreras en la industria tecnológica:
+## Tabla promedio entre un desarrollador Full stack y otras ingenierías
 
 | Vacante | Salario |
 | --- | --- |
@@ -48,7 +49,9 @@ Curiosamente, en 2019, según el VIII Estudio Público de Sueldos TIC de la cons
 
 Pero este número no es el único en aumento, pues en el mismo estudio de IT Hunter, a inicios del 2020, determinó que: “La demanda por profesionales TI seguirá en aumento. Según cifras de ACTI, existe una demanda insatisfecha de 6.000 profesionales al año. Esto obligará al mercado a buscar soluciones que permitan preparar especialistas vía Bootcamp, método de aprendizaje acelerado que en 14 semanas genera especialistas, como un [Full Stack Developer](https://4geeksacademy.com/desarrollador-full-stack-developer) o un Data Scientist”.
 
-El 76% de los egresados busca un trabajo justo después de graduarse y el 24% busca [mejorar sus habilidades como desarrollador](https://4geeksacademy.com/es/desarrollador-full-stack/habilidades-desarrollador-full-stack) o emprender con startups. Las personas que se gradúan en 4Geeks Academy tienen una edad promedio de 30 años, las edades varían entre los 26 y 32. ¡Pero recuerda que nunca se es demasiado mayor o demasiado joven para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero)!
+## Cuánto gana un desarrollador full stack recién graduado
+
+El 76% de los egresados busca un trabajo justo después de graduarse y el 24% busca [mejorar sus habilidades como desarrollador](https://4geeksacademy.com/es/desarrollador-full-stack/habilidades-desarrollador-full-stack) o emprender con startups. Las personas que se gradúan en 4Geeks Academy tienen una edad promedio de 30 años, las edades varían entre los 26 y 32 años. ¡Pero recuerda que nunca se es demasiado mayor o demasiado joven para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero)!
 
 Cuando se trata de estudiantes recién graduados, entre los 25 y 35 años de edad, que ingresaron directamente a un puesto “entry level, trainee o de semillero” suelen empezar a tener ingresos entre 700.000 a 900.000 pesos chilenos. 
 
@@ -57,10 +60,12 @@ Cuando se trata de estudiantes recién graduados, entre los 25 y 35 años de eda
 
 ![companies-that-work-with-us-png](https://storage.googleapis.com/media-breathecode/bfc8ae0bc7ac6a7099b9540bb4a1b0f14284c9d5b2a6f3d2b0e136f20d10dc60)
 
-Uno de nuestros egresados, Ignacio Codina, nos comparte sobre su experiencia trabajando en Boosmap Chile.
+Uno de nuestros egresados, Ignacio Codina, nos comparte sobre su experiencia trabajando en Boosmap Chile, conoce otras historias de nuestros alumnos en [nuestro apartado de testimonios](https://4geeksacademy.com/es/testimonios).
 
-“Hoy en día me desempeño como ingeniero en software backend. Es impresionante la cantidad de herramientas y tecnologías que hay para construir servidores web cada vez más sofisticados. En este sentido, la academia entrega herramientas fundamentales para tener un punto de partida sólido y la experiencia de lo que es aprender nuevas tecnologías. Un ejercicio de perseverancia. Creo que lo que más me ha servido para continuar aprendiendo y hacer mejor mi trabajo es practicar y estudiar constantemente; así como participar de la comunidad que hay entorno a los distintos lenguajes y tecnologías. Está lleno de personas que comparten su conocimiento.”
+“Hoy en día me desempeño como ingeniero en software backend. Es impresionante la cantidad de herramientas y tecnologías que hay para construir servidores web cada vez más sofisticados. En este sentido, la academia entrega herramientas fundamentales para tener un punto de partida sólido y la experiencia de lo que es aprender nuevas tecnologías. Un ejercicio de perseverancia. Creo que lo que más me ha servido para continuar aprendiendo y hacer mejor mi trabajo es practicar y estudiar constantemente; así como participar de la comunidad que hay en torno a los distintos lenguajes y tecnologías. Está lleno de personas que comparten su conocimiento.”
 
 ![foto de egresado, Ignacio Codima, Engineer Manager](https://storage.googleapis.com/breathecode-asset-images/46309a67ecc4920d6f266a24e5f688667a8aded24060777cfb5c867f59a37e7c.jpeg?raw=true)
 
 Como dice Ignacio, no hay nada más importante que la disciplina en lo que haces para lograr lo que quieres, alcanzar las metas, sobresalir en tu trabajo, siempre y cuando seas constante y tener confianza y seguridad en ti mismo. Para así también continuar con tu crecimiento personal y tomando el control y acción de tus propias decisiones y futuro.
+
+
