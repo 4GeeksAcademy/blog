@@ -10,6 +10,9 @@ image_alt: "Programar tu propia Inteligencia Artificial"
 
 La inteligencia artificial o IA está revolucionando todas las áreas, no importa qué carrera ejerzas vas a utilizar o necesitar de la inteligencia artificial para escalar al próximo panorama mundial. La IA es un campo que se enfoca en crear sistemas que sean capaces de realizar tareas que normalmente necesitan o requieren de la inteligencia humana por lo que [arender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) ha convertido en una prioridad. 
 
+
+![Aprender a programar inteligencia artificial](https://breathecode.herokuapp.com/v1/media/file/workshop-tips-gif "Aprender a programar inteligencia artificial")
+
 Su objetivo principal es ejecutar tareas que necesiten el procesamiento y análisis de datos a gran escala. Integra un diseño de programación que le permite almacenar información sobre determinada área, convirtiéndola en conocimiento y así poder implementarla en el día a día de la actividad humana 
 
 La IA engloba desde software como asistentes virtuales, motores de búsqueda o sistemas de reconocimiento de voz y rostro; hasta sistemas integrados como robots, drones y vehículos autónomos. 
@@ -35,7 +38,7 @@ Ambas nos ayudan a mejorar las oportunidades, cerrando brecha entre los algoritm
 
 Debido a que la IA se ha convertido en una de las disciplinas más emocionantes y prometedoras, [aprender a programar[https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning] es fundamental y queremos que conozcas las herramientas o lenguajes esenciales para su programación clave. 
 
-Para **programar tu propia inteligencia artificial** debes conocer los siguientes conceptos y lenguajes. Primero debes saber que existen varios tipos de inteligencia artificial y para iniciar debes definir cuál deseas hacer. Por otro lado, es necesario conocer el concepto más importante que es el **Machine Learning**.
+Para **aprender programar tu propia inteligencia artificial** debes conocer los siguientes conceptos y lenguajes. Primero debes saber que existen varios tipos de inteligencia artificial y para iniciar debes definir cuál deseas hacer. Por otro lado, es necesario conocer el concepto más importante que es el **Machine Learning**.
 
 El aprendizaje automático se trata de una técnica que permite a las máquinas aprender a partir de datos sin necesidad de que se les haya programado anteriormente como realizar una tarea específica. 
 
