@@ -21,7 +21,7 @@ Todo esto no sería posible sin el **perceptrón**; este es una neurona artifici
 
 ## ¿IA predictiva o IA generativa? Conceptos y diferencias
 
-El el amplio mundo de la Inteligencia artificial nos presenta dos enfoques o clasificaciones de la IA como lo son la IA predictiva o la IA generativa, la primera predice cosas mientras la otra las genera. Aunque existen como modelos separados, ambas demuestran el potencial de ayudar a las empresas a ser más eficientes e innovadoras, en este otro artículo exploramos las [herramientas y recursos que necesitas para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero).
+Para aprender a Programar Inteligencia Artificial el amplio mundo del machine learning nos presenta dos enfoques o clasificaciones de la IA como lo son la IA predictiva o la IA generativa, la primera predice cosas mientras la otra las genera. Aunque existen como modelos separados, ambas demuestran el potencial de ayudar a las empresas a ser más eficientes e innovadoras, en este otro artículo exploramos las [herramientas y recursos que necesitas para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero).
 
 
 **La Inteligencia Artificial predictiva** es aquella que recopila y analiza datos para predecir sucesos futuros. Tiene como objetivo comprender patrones en los datos y realizar predicciones informadas; es utilizada en la industria para hacer debates financieros sobre posibles ganancias y perdidas esperadas o para determinar si el estado de salud de una persona tiene tendencia hacia una enfermedad. 
