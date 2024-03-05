@@ -66,7 +66,7 @@ Después de que te hayas familiarizado con las herramientas y librerías, solo d
 
 Por último, pero no menos importante, mantente al día con las últimas tendencias y desarrollos, la inteligencia artificial es un campo de constante evolución y debes contar con una comunidad de apoyo con la que puedas retroalimentarte mutuamente. Puedes unirte a foros y comunidades de programadores. 
 
-## ¿Vale la pena aprender a programar y desarrollar tu propia IA?
+## ¿Vale la pena aprender a programar inteligencia artificial?
 
 ¡Claro! La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas en una cantidad incontable de personas en distintas áreas de trabajo, por lo que [aprender a programar inteligencia artificial ](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) debería ser una prioridad para aquellos que aspiran entrar en la industria tecnológica.
 … 
