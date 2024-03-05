@@ -31,7 +31,7 @@ El el amplio mundo de la Inteligencia artificial nos presenta dos enfoques o cla
 
 Ambas nos ayudan a mejorar las oportunidades, cerrando brecha entre los algoritmos y generando el mejor resultado posible en cada área en específico. 
 
-## ¿Cómo programar tu propia inteligencia artificial? 
+## ¿Cómo aprender a programar tu propia inteligencia artificial? 
 
 Debido a que la IA se ha convertido en una de las disciplinas más emocionantes y prometedoras, queremos que conozcas las herramientas o lenguajes esenciales para su programación clave. 
 
@@ -61,7 +61,7 @@ Después de que te hayas familiarizado con las herramientas y librerías, solo d
 
 Por último, pero no menos importante, mantente al día con las últimas tendencias y desarrollos, la inteligencia artificial es un campo de constante evolución y debes contar con una comunidad de apoyo con la que puedas retroalimentarte mutuamente. Puedes unirte a foros y comunidades de programadores. 
 
-## ¿Vale la pena aprender y hacer tu propia IA?
+## ¿Vale la pena aprender a programar y desarrollar tu propia IA?
 
 ¡Claro! La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas a en una cantidad incontable de personas en distintas áreas de trabajo. 
 … 
