@@ -36,7 +36,7 @@ Ambas nos ayudan a mejorar las oportunidades, cerrando brecha entre los algoritm
 
 ## ¿Cómo aprender a programar tu propia inteligencia artificial? 
 
-Debido a que la IA se ha convertido en una de las disciplinas más emocionantes y prometedoras, [aprender a programar[https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning] es fundamental y queremos que conozcas las herramientas o lenguajes esenciales para su programación clave. 
+Debido a que la IA se ha convertido en una de las disciplinas más emocionantes y prometedoras, [aprender a programar inteligencia artificial](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning) es fundamental y queremos que conozcas las herramientas o lenguajes esenciales para su programación clave. 
 
 Para **aprender programar tu propia inteligencia artificial** debes conocer los siguientes conceptos y lenguajes. Primero debes saber que existen varios tipos de inteligencia artificial y para iniciar debes definir cuál deseas hacer. Por otro lado, es necesario conocer el concepto más importante que es el **Machine Learning**.
 
@@ -68,7 +68,7 @@ Por último, pero no menos importante, mantente al día con las últimas tendenc
 
 ## ¿Vale la pena aprender a programar y desarrollar tu propia IA?
 
-¡Claro! La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas en una cantidad incontable de personas en distintas áreas de trabajo, por lo que [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) debería ser una prioridad para aquellos que aspiran entrar en la industria tecnológica.
+¡Claro! La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas en una cantidad incontable de personas en distintas áreas de trabajo, por lo que [aprender a programar inteligencia artificial ](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) debería ser una prioridad para aquellos que aspiran entrar en la industria tecnológica.
 … 
 Por otro lado, es muy valioso saber que los **salarios de los profesionales de la IA son altos** y las perspectivas de empleos son sólidas; según la Oficina de Estadísticas Laborales de los Estados Unidos, los científicos de datos, que son un tipo de profesional de la IA, tienen un salario medio anual de $122,840. Los ingenieros de IA tienen un **salario medio anual de $110,140**. Y los especialistas en aprendizaje automático tienen un **salario medio anual de $114,010**
 
