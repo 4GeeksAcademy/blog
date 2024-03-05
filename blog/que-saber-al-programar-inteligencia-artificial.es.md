@@ -3,7 +3,7 @@ author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
 excerpt: "que saber al programar una IA"
 template: "post"
-title: "¿Qué debes saber al Programar tu propia Inteligencia Artificial?"
+title: "¿Quieres aprender a Programar tu propia Inteligencia Artificial?"
 image_alt: "Programar tu propia Inteligencia Artificial"
 
 ---
