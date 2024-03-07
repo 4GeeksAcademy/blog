@@ -8,7 +8,7 @@ image_alt: "Programar tu propia Inteligencia Artificial"
 
 ---
 
-La inteligencia artificial o IA está revolucionando todas las áreas, no importa qué carrera ejerzas vas a utilizar o necesitar de la inteligencia artificial para escalar al próximo panorama mundial. La IA es un campo que se enfoca en crear sistemas que sean capaces de realizar tareas que normalmente necesitan o requieren de la inteligencia humana por lo que [arender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) ha convertido en una prioridad. 
+La inteligencia artificial o IA está revolucionando todas las áreas, no importa qué carrera ejerzas vas a utilizar o necesitar de la inteligencia artificial para escalar al próximo panorama mundial. La IA es un campo que se enfoca en crear sistemas que sean capaces de realizar tareas que normalmente necesitan o requieren de la inteligencia humana por lo que [arender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) se ha convertido en una prioridad. 
 
 
 ![Aprender a programar inteligencia artificial](https://breathecode.herokuapp.com/v1/media/file/workshop-tips-gif "Aprender a programar inteligencia artificial")
@@ -21,7 +21,7 @@ Todo esto no sería posible sin el **perceptrón**; este es una neurona artifici
 
 ## ¿IA predictiva o IA generativa? Conceptos y diferencias
 
-Para aprender a Programar Inteligencia Artificial el amplio mundo del machine learning nos presenta dos enfoques o clasificaciones de la IA como lo son la IA predictiva o la IA generativa, la primera predice cosas mientras la otra las genera. Aunque existen como modelos separados, ambas demuestran el potencial de ayudar a las empresas a ser más eficientes e innovadoras, en este otro artículo exploramos las [herramientas y recursos que necesitas para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero).
+Para aprender a Programar Inteligencia Artificial el amplio mundo del machine learning nos presenta dos enfoques o clasificaciones de la IA como lo son la IA predictiva o la IA generativa, la primera predice patrones de comportamiento  mientras la otra las genera con base a la replica. Aunque existen como modelos separados, ambas demuestran el potencial de ayudar a las empresas a ser más eficientes e innovadoras, en este otro artículo exploramos las [herramientas y recursos que necesitas para aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero).
 
 
 **La Inteligencia Artificial predictiva** es aquella que recopila y analiza datos para predecir sucesos futuros. Tiene como objetivo comprender patrones en los datos y realizar predicciones informadas; es utilizada en la industria para hacer debates financieros sobre posibles ganancias y perdidas esperadas o para determinar si el estado de salud de una persona tiene tendencia hacia una enfermedad. 
@@ -55,7 +55,7 @@ Por potro lado, no solo debes saber conceptos sino de lenguajes de programación
 - **Prolog**: Se utiliza en IA para razonar tomar decisiones basadas en reglas de lógica. Aunque Prolog no es tan popular como Python o C++, es una elección valiosa cuando se trata de problemas de IA centrados en la lógica y el razonamiento.
 …
 
-En 4Geeks Academy podemos apoyarte con el aprendizaje de estos lenguajes. En nuestro [bootcamp de programación](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es) puedes [aprender a programar desde cero sin ningún inconveniente](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero). También contamos con [cursos de Data Science para aprender o reforzar los conocimientos que necesitas para desarrollar tu IA](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning). Contarás con los mejores profesores y un material completamente actualizado, no dude en contactarnos. 
+En **4Geeks Academy** podemos apoyarte con el aprendizaje de estos lenguajes. En nuestro [cursos de Data Science para aprender a programar tu propia inteligencia artificial](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning)  también, puedes [aprender a programar desde cero sin ningún inconveniente](https://4geeksacademy.com/es/aprender-a-programar/aprende-a-programacion-desde-cero). También contamos con [Nuestro curso de Fullstack Development](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es), donde contarás con los mejores profesores y un material completamente actualizado, no dude en contactarnos. 
 
 #### Luego de manejar y definir el lenguaje, debes revisar las herramientas y librerías de programación que te servirán de apoyo, ya que son esenciales en el desarrollo de la IA. Inicialmente tenemos:
 
@@ -68,7 +68,7 @@ Por último, pero no menos importante, mantente al día con las últimas tendenc
 
 ## ¿Vale la pena aprender a programar inteligencia artificial?
 
-¡Claro! La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas en una cantidad incontable de personas en distintas áreas de trabajo, por lo que [aprender a programar inteligencia artificial ](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) debería ser una prioridad para aquellos que aspiran entrar en la industria tecnológica.
+**¡Claro!** La inteligencia artificial es un campo acelerado y constante que ofrece oportunidades profesionales, provechosas y gratificantes. No solo a nivel personal, sino por la satisfacción de poder ayudar a personas en una cantidad incontable de personas en distintas áreas de trabajo, por lo que [aprender a programar inteligencia artificial ](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) debería ser una prioridad para aquellos que aspiran entrar en la industria tecnológica.
 … 
 Por otro lado, es muy valioso saber que los **salarios de los profesionales de la IA son altos** y las perspectivas de empleos son sólidas; según la Oficina de Estadísticas Laborales de los Estados Unidos, los científicos de datos, que son un tipo de profesional de la IA, tienen un salario medio anual de $122,840. Los ingenieros de IA tienen un **salario medio anual de $110,140**. Y los especialistas en aprendizaje automático tienen un **salario medio anual de $114,010**
 
