@@ -51,7 +51,7 @@ Full stack software engineers possess a comprehensive skill set that allows them
 
 ## Building a Strong Software Engineer Portfolio
 
-Building a strong portfolio is like creating a showcase of your talents and achievements for potential employers to see. Your portfolio should feature a variety of items, including personal projects you've worked on, contributions you've made to open-source projects (projects where people share their code for free), and any work you've completed during bootcamps or training programs. A well-crafted portfolio can make a strong impression and help you stand out.
+[Building a strong portfolio as software engineer](https://4geeksacademy.com/us/software-engineer/software-engineer-portfolio) is like creating a showcase of your talents and achievements for potential employers to see. Your portfolio should feature a variety of items, including personal projects you've worked on, contributions you've made to open-source projects (projects where people share their code for free), and any work you've completed during bootcamps or training programs. A well-crafted portfolio can make a strong impression and help you stand out.
 
 ## Is Software Engineering Hard?
 
@@ -64,11 +64,11 @@ The salary and career outlook for a software engineer vary based on factors such
 
 ## Why Choose 4Geeks Academy?
 
-If you’re wondering how to become a software engineer, 4Geeks Academy is a top coding bootcamp that helps students get the skills they need to succeed in the software engineering industry. Named best coding bootcamp 2023 by Course Report, best center for coding bootcamps 2023 by Premios de Excelencia Educativa in Spain, listed among the top 10 in the US by Newsweek, and rated 4.92/5 on Switchup. Licensed by the Florida Department of Education, USA. They offer intensive programs designed to get you learning fast, and ready for a job quickly. 
+If you’re wondering [how to become a software engineer](https://4geeksacademy.com/us/software-engineer/software-engineer-your-path-to-success), **4Geeks Academy is a top coding bootcamp** that helps students get the skills they need to succeed in the software engineering industry. Named best coding bootcamp 2023 by Course Report, best center for coding bootcamps 2023 by Premios de Excelencia Educativa in Spain, listed among the top 10 in the US by Newsweek, and rated 4.92/5 on Switchup. Licensed by the Florida Department of Education, USA. They offer intensive programs designed to get you learning fast, and ready for a job quickly. 
 
 Learn the most sought-after and high-paying technologies, and become a pro at building websites. Python and JavaScript developers are consistently in demand, making them the top programming languages to master in 2023. Code in a web development language, learn algorithm scripting and build awesome apps using front-end libraries. Utilize APIs to consume data and enhance your app's functionality. Finalize the program by developing and presenting your project, and gaining hands-on experience. Reshape your mindset and embrace the programming, logic, and research skills needed to succeed in the tech industry.
 
-Get everything you need to succeed
+**Get everything you need to succeed**
 
 Unlimited Mentoring: Get expert support for all your coding needs. With GeekPAL, our mentors are available online or in-person, ready to help you from day one to ever after.
 
