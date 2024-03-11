@@ -77,5 +77,4 @@ La oferta de empleos tecnológicos ha experimentado un aumento significativo, co
 
 Elegir un [bootcamp de programación](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion) es un paso clave en tu carrera. Evalúa la historia, reputación y alineación con tus metas. Investiga testimonios, el currículo, y el formato de aprendizaje. La dedicación, el soporte y las oportunidades de empleo son factores que marcan la diferencia. En un mundo tecnológico en constante evolución, la educación continua se vuelve esencial. La elección sabia marcará la diferencia en tu viaje hacia el éxito.
 
-<call-to-action button_text="Aplica ahora" button_link="https://4geeksacademy.com/es/geekforce" background="rgba(0, 151, 205, 0.15)" title="Apoyo Profesional Ilimitador" text="Join  a Machine Learning Engineer bootcamp and become one of the highest paid professionals" text="No esperes más para tomar la decisión, 4Geeks Academy está aquí para llevarte de la mano y  enseñarte a programar. "></call-to-action>
 
