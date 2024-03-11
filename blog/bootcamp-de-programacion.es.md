@@ -12,6 +12,8 @@ Elegir el [bootcamp de programación adecuado](/Es/Bootcamp-De-Programacion/Estu
 
 Los bootcamps de programación surgieron a principios de la década de 2010 debido a la escasez de talento en la industria tecnológica. La demanda de desarrolladores y profesionales de tecnología superaba la oferta de graduados universitarios en ciencias de la computación. En respuesta, los bootcamps ofrecieron una alternativa rápida y centrada en habilidades para enseñar programación y preparar a los estudiantes para el mercado laboral. El pionero fue Dev Bootcamp, fundado en San Francisco en 2012, ofreciendo un programa intensivo de 9 semanas. Su éxito dio lugar a la proliferación de otros bootcamps de programación.
 
+![bootcamp de programación](https://breathecode.herokuapp.com/v1/media/file/coding-bootcamp-jpg)
+
 ## Tecnología y Contenido
 
 La evolución tecnológica en los bootcamps se destaca a través de herramientas innovadoras como LearnPack, que emplea inteligencia artificial y feedback en tiempo real para potenciar el aprendizaje. La presencia de tutores de IA confiere una ventaja significativa, y es crucial que los bootcamps dispongan de contenido propio para un control efectivo del entorno de aprendizaje. La elección del lenguaje de programación debe basarse en su relevancia y aplicabilidad en el mercado laboral.
