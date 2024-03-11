@@ -4,7 +4,7 @@ date: "2019-03-20T05:29:14+00:00"
 title: "Code Your Way to Success and Learn to be a Software Engineer: "
 excerpt: "To learn to be a software engineer you will learn programming languages for computers. Popular ones include Python, Java, JavaScript, and C++. Software engineers use these languages to write the instructions that tell computers what to do. Each language has its strengths and weaknesses, and the best language for a particular project will depend on the specific requirements."
 template: "post" 
-image_alt: ""
+image_alt: "learn to be a software engineer"
 
 ---
 
