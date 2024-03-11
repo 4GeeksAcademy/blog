@@ -35,13 +35,13 @@ Essential Tools: IDEs (Integrated Development Environments) are digital workspac
 **Beyond the Code**
 ## Mastering code is important, but so are other skills such as
 
-Communication: Software engineers need to explain technical ideas clearly to different people, like teammates and clients, to work well together.
+- **Communication**: Software engineers need to explain technical ideas clearly to different people, like teammates and clients, to work well together.
 
-Teamwork: Building software often involves working in teams, where everyone brings their skills to the table to solve problems together.
+- **Teamwork**: Building software often involves working in teams, where everyone brings their skills to the table to solve problems together.
 
-Problem-Solving: Software engineers face challenges daily, like fixing bugs or making programs run faster.
+- **Problem-Solving**: Software engineers face challenges daily, like fixing bugs or making programs run faster.
 
-Thinking Clearly: Analyzing situations, figuring out potential problems, and coming up with good solutions are all part of the job.
+- **Thinking Clearly**: Analyzing situations, figuring out potential problems, and coming up with good solutions are all part of the job.
 
 **Full Stack Software Engineer**
 
