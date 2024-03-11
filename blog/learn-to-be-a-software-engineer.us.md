@@ -9,11 +9,13 @@ image_alt: "learn to be a software engineer"
 ---
 
 
-The tech world is booming, and software engineers are at the heart of it all! If you're curious about how tech works and want to be a part of building the future, this guide is your roadmap to [becoming a successful software engineer](/Us/Coding-Bootcamps/Software-Engineer-Bootcamp).
+The tech world is booming, and **software engineers are at the heart of it all!** If you're curious about how tech works and want to be a part of building the future, this guide is your roadmap to [becoming a successful software engineer](/Us/Coding-Bootcamps/Software-Engineer-Bootcamp).
 
 ## What is a Software Engineer?
 
-Software engineers are the builders of the digital world. They're like architects who design and create the software applications we use every day, from user-friendly mobile apps and websites to complex programs that power critical infrastructure, medical devices, and even self-driving cars. Software engineers turn ideas into reality by writing code, which is a set of instructions that tells computers what to do. They also test and debug their code to make sure it works properly and fix any problems they find.
+Software engineers are the **builders** of the digital world. They're like architects who design and create the software applications we use every day, from user-friendly mobile apps and websites to complex programs that power critical infrastructure, medical devices, and even self-driving cars. Software engineers turn ideas into reality by writing code, which is a set of instructions that tells computers what to do. They also test and debug their code to make sure it works properly and fix any problems they find.
+
+![learn to be a software engineer](https://breathecode.herokuapp.com/v1/media/file/software-engineer-jpg?width=450 "Learn to be a software engineer")
 
 ## How can you learn to be a Software Engineer?
 
