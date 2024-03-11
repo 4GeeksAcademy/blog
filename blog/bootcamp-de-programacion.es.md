@@ -36,7 +36,7 @@ Entre estos, General Assembly destaca por su presencia global y una amplia ofert
 
 Flatiron School se distingue por su atención a la tecnología, brindando soporte post-bootcamp, y Ironhack ofrece programas variados en desarrollo web, diseño y análisis de datos. 
 
-En el contexto de América Latina, 4Geeks Academy se posiciona como una opción regional, proporcionando bootcamps centrados en el desarrollo web y programación, con modalidades tanto presenciales como en línea. 
+En el contexto de América Latina, [4Geeks Academy](https://4geeksacademy.com/es/inicio) se posiciona como una opción regional, proporcionando bootcamps centrados en el desarrollo web y programación, con modalidades tanto presenciales como en línea. 
 
 Es fundamental considerar la duración de los programas, el enfoque pedagógico y el apoyo posterior al bootcamp al evaluar cuál podría ser la mejor opción según las necesidades individuales y aspiraciones profesionales, puedes [comparar 4Geeks Academy con otros Bootcamp acá](https://4geeksacademy.com/es/geeks-vs-otros).
 
