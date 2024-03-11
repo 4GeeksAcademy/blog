@@ -9,7 +9,7 @@ image_alt: "learn to be a software engineer"
 ---
 
 
-The tech world is booming, and software engineers are at the heart of it all! If you're curious about how tech works and want to be a part of building the future, this guide is your roadmap to [becoming a successful software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp).
+The tech world is booming, and software engineers are at the heart of it all! If you're curious about how tech works and want to be a part of building the future, this guide is your roadmap to [becoming a successful software engineer](/Us/Coding-Bootcamps/Software-Engineer-Bootcamp).
 
 ## What is a Software Engineer?
 
@@ -17,7 +17,7 @@ Software engineers are the builders of the digital world. They're like architect
 
 ## How can you learn to be a Software Engineer?
 
-There are two main paths to becoming a software engineer. You could go the classical way of studying for a college degree which gives you a broad education in computer science, but it takes time (usually four years) and it is expensive. Or, you could choose a Coding Bootcamp. These programs are faster and teach you the specific skills you need to [learn to be a full stack software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) and land a job. Bootcamps like 4Geeks Academy take years of learning and pack it into a focused program, getting you job-ready quicker.
+There are two main paths to becoming a software engineer. You could go the classical way of studying for a college degree which gives you a broad education in computer science, but it takes time (usually four years) and it is expensive. Or, you could choose a Coding Bootcamp. These programs are faster and teach you the specific skills you need to [learn to be a full stack software engineer](/Us/Coding-Bootcamps/Software-Engineer-Bootcamp) and land a job. Bootcamps like 4Geeks Academy take years of learning and pack it into a focused program, getting you job-ready quicker.
 
 **Building Your Skills**
 ## To become a software engineer, you'll need a toolbox of skills
@@ -53,7 +53,7 @@ Building a strong portfolio is like creating a showcase of your talents and achi
 
 ## Is Software Engineering Hard?
 
-You may ask yourself if software engineering is hard. While there is a learning curve involved, the challenges and journey can be very rewarding. [Learning to become a software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) requires dedication and curiosity for new things. If you have a passion for creative problem-solving and enjoy keeping up to date with all the latest tech, there are numerous resources to help you develop the skills and knowledge needed to succeed in this exciting field. A full stack software engineering bootcamp is a great option to quickly gain the necessary skills to kickstart this promising career. 
+You may ask yourself if software engineering is hard. While there is a learning curve involved, the challenges and journey can be very rewarding. [Learning to become a software engineer](/Us/Coding-Bootcamps/Software-Engineer-Bootcamp) requires dedication and curiosity for new things. If you have a passion for creative problem-solving and enjoy keeping up to date with all the latest tech, there are numerous resources to help you develop the skills and knowledge needed to succeed in this exciting field. A full stack software engineering bootcamp is a great option to quickly gain the necessary skills to kickstart this promising career. 
 
 ## Salary and Career Outlook
 
