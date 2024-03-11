@@ -42,6 +42,7 @@ Investigar las tendencias históricas de los salarios de programadores en Argent
 
 - Testimonios o Encuestas de Salarios:
 Incorporar encuestas o testimonios de programadores Argentinos que revelen sus salarios y las condiciones que afectan sus ingresos.
+https://www.youtube.com/watch?v=olu4JzEc-mU   <--- acá hay un video de hace 7 meses que nos puede servir para conocer sueldos o experiencias. 
 
 
 - Perspectivas de Carrera y Consejos para Maximizar Ingresos:
