@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
+date: "2024-03-20T05:29:14+00:00"
 excerpt: "La evolución tecnológica en los bootcamps se destaca a través de herramientas innovadoras como LearnPack, que emplea inteligencia artificial y feedback en tiempo real para potenciar el aprendizaje."
 template: "post" 
 title: "Guía Completa para Elegir el Mejor Bootcamp de Programación"
