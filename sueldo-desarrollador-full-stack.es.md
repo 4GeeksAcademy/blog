@@ -23,7 +23,14 @@ A parte, en esta segunda lista habrá una lista de palabras claves secundarías 
 - Desarrollador full stack developer
 - Desarrollo de software 
 - Desarrollador full stack
-
+- Cuánto gana un programador en México
+- Cuánto gana un programador en Chile
+- Cuánto gana un desarrollador en Venezuela
+- Cuánto gana un programador en Argentina
+- Cuánto gana un programador en Colombia
+- Cuánto gana un programador en España
+- Cuánto gana un programador en Perú
+- Cuánto gana un programador en Uruguay
 
 ---
 
