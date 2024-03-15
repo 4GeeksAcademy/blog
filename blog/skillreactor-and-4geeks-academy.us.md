@@ -18,19 +18,24 @@ SkillReactor is not just another coding platform—it's a dynamic ecosystem tail
 
 **Real-world**
 
-- hands-on experience: Build projects based on functional requirements and validate solutions through automated verification.
-- Code reviews and mentorship: Receive instant automated feedback, and access to guidance from industry experts via code reviews and mentorship.
-- Verified portfolio: Showcase your skills to potential employers with a verified portfolio generated from your completed projects.
-- Personal Branding Resources: Access resources to enhance your personal branding and stand out in the competitive tech industry.
+- **hands-on experience**: Build projects based on functional requirements and validate solutions through automated verification.
+- **Code reviews and mentorship**: Receive instant automated feedback, and access to guidance from industry experts via code reviews and mentorship.
+- **Verified portfolio**: Showcase your skills to potential employers with a verified portfolio generated from your completed projects.
+- **Personal Branding Resources**: Access resources to enhance your personal branding and stand out in the competitive tech industry.
 
 **Pricing:**
 
 Thanks to our partnership, 4Geeks Academy students will receive an exclusive **25% discount for SkillReactor’s** different subscription plans:
-- 3 Months: $150 / quarter (Special 4Geeks price: $112.5 / quarter)
-- 6 Months: $250 / half-year (Special 4Geeks price: $187.50 / half-year)
-- 12 Months: $375 / year (Special 4Geeks price: $281.25 / year)
 
-All you have to do is sign up with the DiscountCode: `4GEEKS25`
+
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| **3 Months** | **$150 / quarter (Special 4Geeks price: $112.5 / quarter)**       |
+| **6 Months** | **$250 / half-year (Special 4Geeks price: $187.50 / half-year)** |
+| **12 Months** | **$375 / year (Special 4Geeks price: $281.25 / year)** |
+
+
+All you have to do is sign up with the DiscountCode: \"**4GEEKS25**\"
 
 **Sign-Up Link**: Unlock Your Potential with SkillReactor
 
