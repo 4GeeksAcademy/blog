@@ -7,7 +7,7 @@ template: "post"
 
 ---
 
-En este blog Hemos mencionado abarcado ya la pregunta [¿Cuánto gana un programador?](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) ahora, le toca a Venezuela, La programación en Venezuela es un campo dinámico que ha evolucionado constantemente, enfrentando desafíos económicos, políticos y sociales que han moldeado su trayectoria. A pesar de los obstáculos, los programadores venezolanos han demostrado su capacidad para innovar y adaptarse en un entorno en constante cambio. En el panorama laboral actual, la programación se ha convertido en una habilidad altamente solicitada, y en Venezuela, esta demanda sigue en aumento, atrayendo cada vez a más personas interesadas en adquirir conocimientos en este campo.
+En este blog Hemos abarcado ya la pregunta [¿Cuánto gana un programador?](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) ahora, le toca a Venezuela, La programación en Venezuela es un campo dinámico que ha evolucionado constantemente, enfrentando desafíos económicos, políticos y sociales que han moldeado su trayectoria. A pesar de los obstáculos, los programadores venezolanos han demostrado su capacidad para innovar y adaptarse en un entorno en constante cambio. En el panorama laboral actual, la programación se ha convertido en una habilidad altamente solicitada, y en Venezuela, esta demanda sigue en aumento, atrayendo cada vez a más personas interesadas en adquirir conocimientos en este campo.
 
 ---
 
@@ -18,7 +18,7 @@ Los salarios de los programadores en Venezuela pueden variar significativamente 
 
 
 
-## Tabla de rangos salariales para desarrolladores en Venezuela
+### Tabla de rangos salariales para desarrolladores en Venezuela
 
 | Tipo de trabajo | Salario mensual |
 |---|---|
@@ -35,7 +35,7 @@ En promedio notamos que los salarios de un programador en venezuela pueden ser m
 
 ![Cuanto gana un desarrollador en Venezuela](https://breathecode.herokuapp.com/v1/media/file/parque-central-jpg?height=400 "Cuanto gana un desarrollador en Venezuela")
 
-## Tabla de rangos salariales para programadores en Venezuela
+### Tabla de rangos salariales para programadores en Venezuela
 #### Las tecnologías más demandadas en Venezuela son:
 
 | Tecnología | Rango salarial mensual |
