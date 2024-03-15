@@ -1,9 +1,9 @@
 ---
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: "BLOGPOST CELEBRATING FORBES’ DOUBLE RECOGNITION"
+excerpt: "4Geeks Academy Earns Double Recognition: Named Best Bootcamp for Students on a Budget by Forbes for Full-Stack Development and Data Science"
 template: "post"
-title: "4Geeks Academy Earns Double Recognition: Named Best Bootcamp for Students on a Budget by Forbes for Full-Stack Development and Data Science"
+title: "4Geeks Academy best bootcamp on a budget by Forbes for Full-Stack Development and Data Science"
 image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/MAIN-BLOG-1024x270.jpg"
 image_alt: "4Geeks Academy Earns Double Recognition by Forbes"
 
