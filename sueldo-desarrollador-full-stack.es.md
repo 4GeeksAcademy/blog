@@ -37,9 +37,7 @@ A parte, en esta segunda lista habrá una lista de palabras claves secundarías 
 
 1. Descripción General:
 
-Definir muy brevemente qué es un desarrollador full stack y las habilidades que se requieren para este rol. Explicar de forma general  los diferentes factores que influyen en el sueldo de un desarrollador full stack, como la experiencia, las habilidades, la ubicación y el tipo de empresa.
-
-Brindar un panorama general del mercado laboral para desarrolladores full stack a nivel mundial, destacando la alta demanda y las oportunidades disponibles.
+Dar un rango de sueldo amplio (el mas bajo encontrado vs el mas alto) y explicar que muchos factores influyen en el sueldo tales como X,Y,Z y otros que vamos a detallar en el articulo.
 
 
 2. Sueldos por País:
@@ -50,7 +48,7 @@ Incluir información sobre el rango salarial en cada país, considerando diferen
 
 Utilizar datos de fuentes confiables como Glassdoor, Indeed, Stack Overflow y Salary.com para respaldar la información y obtener un panorama más preciso sobre los sueldos actuales y posibilidades en el área.
 
-3. Tecnologías Más Demandadas:
+3. Tecnologías Más Demandadas y su sueldo:
 
 Identificar las tecnologías full stack más demandadas en el mercado actual, como React JS, Node.js, Python, Java, AWS entre otras .
 
