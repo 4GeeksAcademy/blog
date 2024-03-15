@@ -20,6 +20,8 @@ Focus Keyword: "Machine Learning Course Syllabus"
 Additional keywords: 
 - best machine learning course 
 - best online machine learning course
+- machine learning bootcamp
+- applied machine learning
 
 Structure:
 
