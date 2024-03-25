@@ -23,10 +23,10 @@ As part of our unwavering commitment to making our top-quality coding education 
 ## We can't wait to see the incredible opportunities and connections that will unfold within our new locations. 
 
 
-#### If you’re in Atlanta, join us at:
+## If you’re in Atlanta, join us at:
 Serendipity Labs - Atlanta, GA - Buckhead 3 Alliance Center, 3550 Lenox Road NE, Atlanta, GA 30326 
 
-#### And in Houston at:
+## And in Houston at:
 4201 Main St Suite 200, 
 Houston, TX 77002
 
