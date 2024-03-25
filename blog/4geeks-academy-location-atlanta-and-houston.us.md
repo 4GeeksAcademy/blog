@@ -14,7 +14,7 @@ For the local tech enthusiasts and students alike, this marks a significant mile
 
 At our brand-new facilities, you'll be able to enhance your online learning experience with an in-person collaborative environment. Picture yourself working side by side with fellow students, brainstorming ideas, and tackling [coding challenges together](/Us/Coding-Bootcamp). Need some one-on-one guidance? Our dedicated mentors will be there to help you overcome any coding hurdles or refine your interview skills with personalized practice sessions.
 
-![Atlanta Coding Bootcamp](https://breathecode.herokuapp.com/v1/media/file/atlanta-background-jpg "Atlanta Coding Bootcamp")
+![Atlanta Coding Bootcamp](https://breathecode.herokuapp.com/v1/media/file/atlanta-highway-jpg "Atlanta Coding Bootcamp")
 
 But that's not all. We're rapidly forging partnerships with local tech organizations and businesses and will be offering an exciting variety of in-person talks, workshops, and networking events specially tailored to your area. Drawing from the success of our Miami location, we know firsthand the value of mingling and networking within the local tech community!
 
