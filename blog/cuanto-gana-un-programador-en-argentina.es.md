@@ -11,7 +11,7 @@ image: "https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-programad
 
 En la era digital, la programación se ha convertido en una de las profesiones más demandadas en todo el mundo. En Argentina, el panorama no es diferente, con un crecimiento constante del sector de la tecnología y una necesidad creciente de talento en programación. Pero, [¿Cuánto gana un programador?](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) y ¿qué tanto varían sus salarios en Argentina?, ¿Es posible vivir bien con este trabajo en el país? En este artículo, explicaremos detalladamente los salarios de los programadores en Argentina, brindando información actualizada y realista sobre las oportunidades y tendencias en el mercado laboral.
 
-![Cuanto gana un programador en Argentina](https://breathecode.herokuapp.com/v1/media/file/argentina-background-post-jpg?width=400 "Cuanto gana un programador en Argentina")
+![cuanto-gana-un-programador-en-argentina](https://breathecode.herokuapp.com/v1/media/file/argentina-background-post-jpg?width=400 "cuanto-gana-un-programador-en-argentina")
 
 ## Rangos Salariales por Experiencia y Nivel
 El Ministerio de Desarrollo Económico y Producción de la Ciudad de Buenos Aires realizó junto a Bumerán un informe que revela las pretensiones laborales de los perfiles IT como desarrolladores y programadores.
