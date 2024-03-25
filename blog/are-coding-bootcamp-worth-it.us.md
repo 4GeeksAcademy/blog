@@ -12,7 +12,9 @@ Imagine Aaron's journey from being a sergeant in the U.S. Army Ranger regiment t
 
 What is a coding bootcamp? A coding bootcamp is a short-term, intensive software development training program designed to build job-ready skills. Coding bootcamps can offer you a fast-track path into software development, help you build a network and place a job sooner. It’s important to consider all aspects, however, such as career aspirations and your budget before making a decision.
 
-The Value Proposition of Coding Bootcamps
+![are-coding-bootcamp-worth-it](https://breathecode.herokuapp.com/v1/media/file/coding-bootcamp-choise-jpg "are coding bootcamp worth it")
+
+## The Value Proposition of Coding Bootcamps
 
 Bootcamps offer a fast-track way to gain essential skills in software development. You learn various programming languages, frameworks, and technologies relevant to your career goals, like HTML, CSS, and JavaScript for web development. The bootcamps focus on practical skills, such as writing efficient code, debugging, using version control, and deploying projects online, preparing you for real-world tech challenges.
 
