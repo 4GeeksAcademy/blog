@@ -1,7 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Proper data analysis is essential for every aspect of marketing, from product launches to 
-ad campaigns to analyzing company growth. Recently, many industries have realized the value of using data to grow their business."
+excerpt: "4Geeks offers a 180-day job guarantee, one way they show their commitment to student success. This guarantee shows their confidence in the effectiveness of their part-time data science program. 4Geeks Academy is committed to helping students find jobs after finishing the program.  The part-time data science boot camp has achieved remarkable results."
 template: "post"
 title: "Part Time Data Science Bootcamp"
 
@@ -43,7 +42,7 @@ These programs offer students practical experience by working on real projects a
 
 ## 4 Geeks Academy Part-time Data Science Boot Camp: Standing Out from the Rest
 
-Compared to other data science learning platforms, 4Geeks stands out as a very respected choice. Their part-time data science boot camp is the feature that separates 4Geeks from other boot camps.
+[Compared to other data science learning platforms](https://4geeksacademy.com/us/geeks-vs-others), 4Geeks stands out as a very respected choice. Their [part-time data science boot camp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) is the feature that separates 4Geeks from other boot camps.
 
 ### Flexible way to learn data science 
 
