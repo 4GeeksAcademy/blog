@@ -40,9 +40,10 @@ Several top competitors in the data science bootcamp industry include General As
 The bootcamps cover essential topics such as programming, statistics, data manipulation, data visualization, and machine learning. 
 These programs offer students practical experience by working on real projects and receiving guidance from experienced instructors.
 
-## 4 Geeks Academy Part-time Data Science Boot Camp: Standing Out from the Rest
+## 4 Geeks Academy Part Time Data Science Bootcamp 
+**Standing Out from the Rest**
 
-[Compared to other data science learning platforms](https://4geeksacademy.com/us/geeks-vs-others), 4Geeks stands out as a very respected choice. Their [part-time data science boot camp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) is the feature that separates 4Geeks from other boot camps.
+[Compared to other data science learning platforms](https://4geeksacademy.com/us/geeks-vs-others), 4Geeks stands out as a very respected choice. Their [Part Time Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) is the feature that separates 4Geeks from other boot camps.
 
 ### Flexible way to learn data science 
 
@@ -62,11 +63,9 @@ Furthermore, you may be surprised that 4Geeks has been recognized as one of the 
 
 Furthermore, the curriculum includes SQL, a language specifically created for managing and manipulating structured data. Being proficient in SQL is crucial for data analysts since it enables them to efficiently extract, transform, and analyze data stored in databases.
 
-Since data visualization is another important aspect of the curriculum, 4Geeks teaches students how to use Looker, which helps create attractive and informative data visualizations. 
+Since data visualization is another important aspect of the curriculum, 4Geeks teaches students how to use Looker, which helps **create attractive and informative data visualizations. **
 
-## Having practical data visualization skills is very important because it helps to 
-
-communicate information in a manner that is easy to understand. 4Geeks includes Streamlit in its educational program, which enables learners to create interactive web apps for data analysis and presentation. Students will gain practical skills in creating user-friendly data-driven applications through this hands-on experience which will enhance their data science skill set.
+Having practical data visualization skills is very important because it helps to communicate information in a manner that is easy to understand. 4Geeks includes Streamlit in its educational program, which enables learners to create interactive web apps for data analysis and presentation. Students will gain practical skills in creating user-friendly data-driven applications through this hands-on experience which will enhance their data science skill set.
 
 ### Lifetime support 
 
