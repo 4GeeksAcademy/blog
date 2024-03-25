@@ -33,18 +33,20 @@ Los 5 puestos IT junior mejor pagos son: Programación con $121.711, Redes con $
 Mientras tanto, las posiciones IT senior o semi senior con mejores salarios son: Liderazgo de proyecto con $280.716, Tecnología/Sistemas con $227.012, Infraestructura con $209.461, Sistemas con $201.069y Análisis funcional con $186.930 pesos.
  
 ### En cuanto a los cargos que se contemplan, estos son los siguientes:
-·         Developer: es el programador, quien escribe código para que la computadora haga algo.
-·         SysAdmin / DevOps / SRE: está más cerca de administrar servidores, configurar, trabajar con la seguridad de los equipos donde luego los programadores (developers) ponen su código a funcionar.
-·         Technical Leader: es el líder técnico de un equipo, quien tiene más experiencia y puede supervisar la solución que hacen varios developers y otras funciones.
-·         QA / Tester: es quien crea las pruebas del sistema que permite garantizar una mejor calidad del producto (que salga con menor cantidad de fallas posibles).
-·         Manager / Director: puesto más bien clásico de gerencia.
-·         BI Analyst / Data Analyst: analista de datos.
-·         HelpDesk: atención de soporte técnico para los usuarios del software.
-·         Project Manager: es el líder del proyecto, quien asegura que el equipo funcione, resuelve conflictos que hubiera y trata de llegar a los objetivos.
-·         Data Engineer: construye y maneja datos, como puede ser administrar bases de datos o fuentes de almacenamiento de información. No es un ingeniero necesariamente para lo que es el título en Argentina. Es un puesto más cercano a la programación que Data Scientist.
-·         Data Scientist: es encargado de manejar en la empresa big data, inteligencia artificial, machine learning y distinto tipo de analíticas. Es un puesto más cercano a la estadística y matemática.
+
+- **Developer**: Es el desarollador, quien escribe código para que la computadora ejecute una tarea.
+- **SysAdmin / DevOps / SRE**: Está más cerca de administrar servidores, configurar, trabajar con la seguridad de los equipos donde luego los programadores (developers) ponen su código a funcionar.
+- **Technical Leader**: Es el líder técnico de un equipo, quien tiene más experiencia y puede supervisar la solución que hacen varios developers y otras funciones.
+- **QA / Tester**: Es quien crea las pruebas del sistema que permite garantizar una mejor calidad del producto (que salga con menor cantidad de fallas posibles).
+- **Manager / Director**: puesto más bien clásico de gerencia, organiza el equipo, plantea fechas 
+- **BI Analyst / Data Analyst**: analista de datos.
+- **HelpDesk**: atención de soporte técnico para los usuarios del software.
+- **Project Manager**: es el líder del proyecto, quien asegura que el equipo funcione, resuelve conflictos que hubiera y trata de llegar a los objetivos.
+- **Data Engineer**: construye y maneja datos, como puede ser administrar bases de datos o fuentes de almacenamiento de información. No es un ingeniero necesariamente para lo que es el título en Argentina. Es un puesto más cercano a la programación que Data Scientist.
+- **Data Scientist**: es encargado de manejar en la empresa big data, inteligencia artificial, machine learning y distinto tipo de analíticas. Es un puesto más cercano a la estadística y matemática.
  
 ## Tendencias Salariales a lo Largo del Tiempo
+
 A lo largo de los años, los salarios de los programadores en Argentina han mostrado un crecimiento constante, en sintonía con el desarrollo y la expansión del sector tecnológico en el país. Esta tendencia se espera que continúe en el futuro, ofreciendo oportunidades prometedoras para aquellos que deseen ingresar o avanzar en la industria de la programación.
 Hoy en día, los puestos de Tecnologías de la Información (IT) tienen salarios pretendidos un 28% más altos que el promedio de salarios en general, oscilando entre 91.719 y 315.612 pesos por mes. Estos datos provienen de un informe semestral realizado en colaboración entre la Subsecretaría de Desarrollo Económico de la Ciudad de Buenos Aires y Bumeran, el portal de búsqueda de empleo líder en el país.
 Además, los salarios pretendidos por los talentos continúan aumentando en paralelo con la inflación, y las búsquedas de tecnología ya han aumentado un 14% en comparación con junio de 2019, antes de la pandemia de COVID-19.
