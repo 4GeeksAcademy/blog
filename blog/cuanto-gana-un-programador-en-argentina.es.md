@@ -45,7 +45,7 @@ Mientras tanto, las posiciones IT senior o semi senior con mejores salarios son:
 - **Data Engineer**: construye y maneja datos, como puede ser administrar bases de datos o fuentes de almacenamiento de información. No es un ingeniero necesariamente para lo que es el título en Argentina. Es un puesto más cercano a la programación que Data Scientist.
 - **Data Scientist**: es encargado de manejar en la empresa big data, inteligencia artificial, machine learning y distinto tipo de analíticas. Es un puesto más cercano a la estadística y matemática.
  
-## cuanto-gana-un-programador-en-argentina y sus Tendencias
+## Cuánto gana un Programador en Argentina y sus Tendencias
 
 A lo largo de los años, los salarios de los programadores en Argentina han mostrado un crecimiento constante, en sintonía con el desarrollo y la expansión del sector tecnológico en el país. Esta tendencia se espera que continúe en el futuro, ofreciendo oportunidades prometedoras para aquellos que deseen ingresar o avanzar en la industria de la programación.
 Hoy en día, los puestos de **Tecnologías de la Información (IT)** tienen salarios pretendidos un **28% más altos** que el promedio de salarios en general, oscilando entre **91.719** y **315.612 pesos por mes**. Estos datos provienen de un informe semestral realizado en colaboración entre la **Subsecretaría de Desarrollo Económico de la Ciudad de Buenos Aires y Bumeran**, *el portal de búsqueda de empleo líder en el país.*
