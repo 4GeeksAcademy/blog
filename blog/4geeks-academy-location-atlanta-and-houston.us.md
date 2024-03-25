@@ -20,7 +20,7 @@ But that's not all. We're rapidly forging partnerships with local tech organizat
 
 As part of our unwavering commitment to making our top-quality coding education as affordable as possible, we're excited to introduce an important scholarship opportunity for Hispanics in the state of Texas. True to our mission, this initiative is just one of the many ways we are working to expand access to [quality coding education and support diversity within the tech industry](/Us/Coding-Bootcamp).
 
-## We can't wait to see the incredible opportunities and connections that will unfold within our new locations. 
+#### We can't wait to see the incredible opportunities and connections that will unfold within our new locations. 
 
 
 ## If you’re in Atlanta, join us at:
