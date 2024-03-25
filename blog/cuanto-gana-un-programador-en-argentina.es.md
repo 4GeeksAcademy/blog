@@ -48,18 +48,26 @@ Mientras tanto, las posiciones IT senior o semi senior con mejores salarios son:
 ## Tendencias Salariales a lo Largo del Tiempo
 
 A lo largo de los años, los salarios de los programadores en Argentina han mostrado un crecimiento constante, en sintonía con el desarrollo y la expansión del sector tecnológico en el país. Esta tendencia se espera que continúe en el futuro, ofreciendo oportunidades prometedoras para aquellos que deseen ingresar o avanzar en la industria de la programación.
-Hoy en día, los puestos de Tecnologías de la Información (IT) tienen salarios pretendidos un 28% más altos que el promedio de salarios en general, oscilando entre 91.719 y 315.612 pesos por mes. Estos datos provienen de un informe semestral realizado en colaboración entre la Subsecretaría de Desarrollo Económico de la Ciudad de Buenos Aires y Bumeran, el portal de búsqueda de empleo líder en el país.
-Además, los salarios pretendidos por los talentos continúan aumentando en paralelo con la inflación, y las búsquedas de tecnología ya han aumentado un 14% en comparación con junio de 2019, antes de la pandemia de COVID-19.
+Hoy en día, los puestos de **Tecnologías de la Información (IT)** tienen salarios pretendidos un **28% más altos** que el promedio de salarios en general, oscilando entre **91.719** y **315.612 pesos por mes**. Estos datos provienen de un informe semestral realizado en colaboración entre la **Subsecretaría de Desarrollo Económico de la Ciudad de Buenos Aires y Bumeran**, *el portal de búsqueda de empleo líder en el país.*
+Además, los salarios pretendidos por los talentos continúan aumentando en paralelo con la inflación, y las búsquedas de tecnología ya han aumentado un **14% en comparación con junio de 2019**, antes de la pandemia de COVID-19.
 Una pregunta frecuente relacionada con los puestos de IT se refiere a la estabilidad laboral. En 2022, fue un año desafiante para el sector tecnológico en todo el mundo: Amazon despidió a 10 mil empleados (y planea 8 mil más), Microsoft se unió a la ola con 10 mil despidos, Google redujo su plantilla en 12 mil puestos, y Meta (anteriormente Facebook) eliminó 11 mil empleos.
-Los profesionales que ya han superado una primera barrera de al menos 6 meses de trabajo logran una estabilidad laboral plena (difícilmente se quedan sin trabajo); lo que más cuesta es conseguir el primer empleo porque hay mucha gente que cree que está lista y no lo está.
-Sin conocimiento previo, hacer un curso de unos meses no es suficiente para conseguir tu primer trabajo. En general, lo que ocurre es una alta rotación porque las empresas, al no poder contratar personal nuevo, terminan robándole a otras empresas.
- 
+Los profesionales que ya han superado una primera barrera de al menos 6 meses de trabajo logran una estabilidad laboral plena (difícilmente se quedan sin trabajo); lo que más cuesta es conseguir el primer empleo porque hay mucha gente que cree que está lista y no lo está si es tu caso acá tienes [5 tips para encontrar tu próximo empleo como programador](https://4geeksacademy.com/es/cuanto-gana-un-programador/tips-para-encontrar-trabajo).
  
 ## Encuestas de Salarios
-Hemos recopilado testimonios de programadores argentinos que revelan sus salarios y las condiciones que afectan sus ingresos. Según una encuesta reciente realizada a programadores en Argentina, el 75% de los encuestados informaron que están satisfechos con sus salarios actuales, mientras que el 25% considera que podrían ganar más. Este hallazgo refleja una tendencia general de satisfacción con los ingresos en la industria de la programación en el país.
-La encuesta sobre los sueldos en la industria tecnológica argentina arrojó un promedio de 345 mil pesos mensuales (brutos), con un 26% de trabajadores con sueldo dolarizado, un 58% realizando teletrabajo y un 24% que experimentó un ajuste salarial de entre el 55% y el 90%.
-En lo que respecta al sector del desarrollo (programación, entre otras habilidades), la media se ubicó en 224 mil para los puestos junior (0-2 años de experiencia), 393 mil para los semi senior (2-5 años) y 500 mil para los más experimentados (senior, 5 años en adelante). El rubro con las medias más altas lo registró la categoría de ciencia de datos, con 287, 505 y 554 mil pesos.
+Hemos recopilado testimonios de programadores argentinos que revelan sus salarios y las condiciones que afectan sus ingresos. Según una encuesta reciente realizada a programadores en Argentina, **el 75% de los encuestados** informaron que están satisfechos con sus salarios actuales, mientras que el **25% considera que podrían ganar más**. Este hallazgo refleja una tendencia general de satisfacción con los ingresos en la industria de la programación en el país.
+La encuesta sobre los sueldos en la industria tecnológica argentina arrojó un promedio de **345 mil pesos mensuales (brutos)**, con un **26% de trabajadores con sueldo dolarizado**, un **58% realizando teletrabajo** y un **24% que experimentó un ajuste salarial de entre el 55% y el 90%.**
+En lo que respecta al sector del desarrollo (programación, entre otras habilidades), la media se ubicó en **224 mil para los puestos junior (0-2 años de experiencia)**, **393 mil para los semi senior (2-5 años)** y **500 mil para los más experimentados (senior, 5 años en adelante)**. El rubro con las medias más altas lo registró la categoría de ciencia de datos, con **287, 505 y 554 mil pesos**.
 Estos datos provienen de un relevamiento anónimo que contempla unas 7.300 respuestas recogidas entre diciembre de 2022 y enero de 2023, realizado por la plataforma colaborativa OpenQube. Esta encuesta se lleva a cabo desde 2014 y se publica anualmente en su sitio web.
+
+
+| Experiencia | Salario Bruto Promedio (ARS) | Rango Salarial (ARS) |
+|---|---|---|
+| Junior (0-2 años) | 224.000 | 140.000 - 300.000 |
+| Semi Senior (2-5 años) | 393.000 | 250.000 - 500.000 |
+| Senior (5 años+) | 500.000 | 350.000 - 600.000 |
+
+>  *Los salarios son promedios y pueden variar según la ubicación, la empresa, las habilidades y la experiencia específica.*
+
 Estos son algunos de los números que proporcionan una visión general de los salarios, condiciones y prácticas laborales en la industria tech local, y que se pueden complementar con otros estudios, como el realizado por la Cámara de la Industria Argentina del Software (CESSI) en diciembre del año pasado.
  
 ## Impacto de la Experiencia y Certificaciones
