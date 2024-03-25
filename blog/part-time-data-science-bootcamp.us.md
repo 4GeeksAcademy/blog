@@ -6,9 +6,9 @@ title: "Part Time Data Science Bootcamp"
 
 ---
 
-In today's data-driven world, data science has become a crucial field that helps people make better decisions.  The demand for skilled data analysts has skyrocketed in recent years due to the increasing dependency on data-driven applications. You can see that data analysts play an essential role in analyzing complex datasets for making decisions. This can help businesses to make informed decisions and bring ultimate success. 
+In today's data-driven world, data science has become a crucial field that helps people make better decisions.  The demand for skilled data analysts **has skyrocketed** in recent years due to the increasing dependency on data-driven applications. You can see that data analysts play an essential role in analyzing complex datasets for making decisions. This can help businesses to make informed decisions and bring ultimate success. 
 
-Therefore, data science skills are necessary for job security and lucrative career opportunities. You can enroll in a part-time Dara science boot camp and design a strong career roadmap. 
+Therefore, data science skills are necessary for job security and lucrative career opportunities. You can [enroll in a part-time Dara science boot camp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) and design a strong career roadmap. 
 
 ## The Growing Demand for Data Analysts
 
