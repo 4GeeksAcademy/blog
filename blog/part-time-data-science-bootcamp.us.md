@@ -1,6 +1,7 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Enroll now in our Python Bootcamp Online and become a proficient Python developer. Learn Python programming from anywhere with our comprehensive online course."
+excerpt: "Proper data analysis is essential for every aspect of marketing, from product launches to 
+ad campaigns to analyzing company growth. Recently, many industries have realized the value of using data to grow their business."
 template: "post"
 title: "Part Time Data Science Bootcamp"
 
@@ -74,4 +75,4 @@ communicate information in a manner that is easy to understand. 4Geeks includes 
 
 ## Conclusion
 
-Data science is a crucial talent in today's job market, as data analysts have high demand. You can enroll in part-time boot camps to begin your data science journey. There are several online boot camps available to start your journey. 4Geeks Academy prepares students for long-term success in the booming data science sector with job placement and continuous assistance. 4Geeks Academy's part-time data science bootcamp is ideal for busy professionals who want to master data science skills. This flexibility suits working people who want to balance their time and work time.
+Data science is a crucial talent in today's job market, as data analysts have high demand. You can enroll in part-time boot camps to begin your data science journey. There are several online boot camps available to start your journey. 4Geeks Academy prepares students for long-term success in the booming data science sector with job placement and continuous assistance. [4Geeks Academy's part-time data science bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) is ideal for busy professionals who want to master data science skills. This flexibility suits working people who want to balance their time and work time.
