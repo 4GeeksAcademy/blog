@@ -10,8 +10,9 @@ image_alt: ""
 
 En **4Geeks Academy Chile**, la transición de nuestros estudiantes al mundo laboral es una prioridad que nos lleva a buscar constantemente nuevas oportunidades de crecimiento y desarrollo para ellos. Es por eso que nos emociona anunciar nuestra alianza con [**FirstJob**](https://firstjob.me/), un portal de empleo especializado en ofrecer vacantes para programadores recién egresados. 
 
-Esta colaboración no solo amplía las oportunidades de empleo para nuestros estudiantes, sino que también les brinda una guía invaluable en su búsqueda de empleo. Un aspecto destacado de esta alianza es el acceso a los dos rankings, uno llamado **Best Internship Experiences (BIE)**, para conocer la experiencia de los practicantes de la organización y **Employers For Youth (EFY)**, para conocer la experiencia en el trabajo de colaboradores menores de 35años. 
-Además, FirstJob conmemora anualmente el Día del Practicante, una iniciativa que subraya la importancia de los jóvenes profesionales en el ámbito laboral. Este evento, celebrado el primer jueves de febrero de cada año, reúne a empresas líderes y ofrece a los estudiantes una plataforma para conectar con posibles empleadores. En la celebración de este año, organizaciones como [rankingie](https://www.rankingbie.com/) o [efy](https://www.efy.global/) participaron, proporcionando a los estudiantes una experiencia enriquecedora a través de paneles de discusión, talleres y oportunidades de networking.
+Esta colaboración no solo amplía las oportunidades de empleo para nuestros estudiantes, sino que también les brinda una guía invaluable en su búsqueda de empleo. Un aspecto destacado de esta alianza es el acceso a los dos rankings, uno llamado [Best Internship Experiences (BIE)](https://www.rankingbie.com/), para conocer la experiencia de los practicantes de la organización y [Employers For Youth (EFY)](https://www.efy.global/), para conocer la experiencia en el trabajo de colaboradores menores de 35años.
+
+En la celebración de este año, organizaciones como Falabella, Ripley, y Unilever participaron, proporcionando a los estudiantes una experiencia enriquecedora a través de paneles de discusión, talleres y oportunidades de networking.
 
 ## CONOCE ALGUNAS DE LAS EMPRESAS PARTICIPANTES:
 
