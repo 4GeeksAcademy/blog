@@ -27,12 +27,11 @@ SkillReactor is not just another coding platform—it's a dynamic ecosystem tail
 
 Thanks to our partnership, 4Geeks Academy students will receive an exclusive **25% discount for SkillReactor’s** different subscription plans:
 
+- **1 Month: $62.49 / month (Special 4Geeks price: $46.87 / month)**
+- **3 Months: $118.74 / quarter (Special 4Geeks price: $89.055 / quarter)**
+- **12 Months: $237.49 / year (Special 4Geeks price: $178.12 / year)**
 
-| <!-- -->    | <!-- -->    |
-|-------------|-------------|
-| **3 Months** | **$150 / quarter (Special 4Geeks price: $112.5 / quarter)**       |
-| **6 Months** | **$250 / half-year (Special 4Geeks price: $187.50 / half-year)** |
-| **12 Months** | **$375 / year (Special 4Geeks price: $281.25 / year)** |
+> If you are a 4Geeks student or alumni, connect with your Career Support mentor to get the unique discount code.
 
 
 **Sign-Up Link**: [Unlock Your Potential with SkillReactor](https://www.skillreactor.io/)
