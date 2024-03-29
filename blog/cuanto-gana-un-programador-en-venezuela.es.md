@@ -39,6 +39,8 @@ El contrato directo con empresas extranjeras suele comenzar a partir de los **$1
 
 ---
 
+![Cuanto Gana un Desarrollador en Venezuela](https://breathecode.herokuapp.com/v1/media/file/caracasdia-jpg "Cuanto Gana un Desarrollador en Venezuela")
+
 ## Los perfiles en programación más buscados en Venezuela
 
 La programación en Venezuela es un campo en crecimiento, impulsado por la demanda de profesionales en tecnología tanto a nivel nacional como internacional. Las carreras más buscadas en este ámbito incluyen:
