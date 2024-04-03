@@ -1,10 +1,10 @@
 ---
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: "Nos complace anunciar una colaboración estratégica entre RemoteAndTalent y 4Geeks Academy, dos reconocidos actores en el campo del empleo remoto y la formación en tecnología, respectivamente. Esta colaboración tiene como objetivo ofrecer a los profesionales interesados en el mundotech, un acceso más amplio tanto a oportunidades laborales"
+excerpt: "La colaboración entre RemoteAndTalent y 4Geeks Academy, tiene como objetivo ofrecer a los profesionales interesados en el mundotech, un acceso más amplio a oportunidades laborales"
 template: "post" 
 title: "Salidas Laborales en el Sector IT en el 2024"
-image: ""
+image: "https://storage.googleapis.com/media-breathecode/f09133dae309659c7a8b34670411793ab702385a95fb34d648be05bf7428ef83"
 image_alt: "4Geeks Academy"
 
 ---
