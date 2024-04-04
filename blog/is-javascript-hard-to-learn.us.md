@@ -19,7 +19,6 @@ Objective and informative.
 Content:
 ## 1. Introduction: Is JavaScript Hard to Learn?
 
-Hook: "Ever wondered if diving into the world of coding is right for you? JavaScript, a versatile programming language, is a popular option for beginners. But is javascript hard to learn?"
 **Difficulty Depends**: Briefly explain that the difficulty depends on your background and goals.
 **Many Faces of JavaScript**: Introduce the concept of front-end, back-end (Node.js), and mobile app (React Native) JavaScript, each with its learning path.
 
