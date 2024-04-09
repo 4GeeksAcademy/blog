@@ -15,7 +15,7 @@ Entre los cursos más buscados y que ofrecen el contenido más completo son los 
 Los bootcamps de programación son tan buscados por la comunidad porque suelen tener una duración de **3 a 6 meses**, están centrados en enseñar a los estudiantes fundamentos de la programación y suelen ser más asequibles que la universidad.  Es una manera rápida y efectiva de aprender las destrezas que necesita para convertirse en un desarrollador exitoso. 
 
 
-## Cursos de programación Full-Stack: ¿Qué ofrecen? ¿Cuánto cuestan?
+## Cursos de Desarrollador Full-Stack: ¿Qué ofrecen? ¿Cuánto cuestan?
 
 Los cursos de programación Full-Stack ofrecen una gran variedad de conocimientos útiles para una carrera de desarrollo web, cubren temas como **HTML, CSS, JavaScript, bases de datos y desarrollo de back-End**. Dependiendo del curso, también ofrecen desarrollo móvil, de juegos y desarrollo de realidad aumentada. 
 
