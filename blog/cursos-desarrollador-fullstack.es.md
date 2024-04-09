@@ -14,6 +14,7 @@ Entre los cursos más buscados y que ofrecen el contenido más completo son los 
 
 Los bootcamps de programación son tan buscados por la comunidad porque suelen tener una duración de **3 a 6 meses**, están centrados en enseñar a los estudiantes fundamentos de la programación y suelen ser más asequibles que la universidad.  Es una manera rápida y efectiva de aprender las destrezas que necesita para convertirse en un desarrollador exitoso. 
 
+![Cursos-Desarrollador-Full-Stack](https://breathecode.herokuapp.com/v1/media/file/code-screen-jpg "Cursos-Desarrollador-Full-Stack")
 
 ## Cursos de Desarrollador Full-Stack: ¿Qué ofrecen? ¿Cuánto cuestan?
 
