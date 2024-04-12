@@ -1,7 +1,6 @@
 ---
 author: "Alesanchezr"
 excerpt: "4Geeks se compromete con su misión y anuncia la publicación de todos sus contenidos gratis y open source"
-template: "post"
 title: "Anunciamos la publicación de todos nuestros contenidos gratis y open source"
 template: "landing_post" # post or landing_post
 
