@@ -4,7 +4,7 @@ excerpt: "4Geeks se compromete con su misión y anuncia la publicación de todos
 template: "post"
 title: "Anunciamos la publicación de todos nuestros contenidos gratis y open source"
 template: "landing_post" # post or landing_post
----
+
 ---
 
 Somos una escuela de programación fundada por programadores, tenemos mucha vocación y sabemos lo importante del rol que cumplimos. Es por eso que muchos gobiernos, universidades y actores importantes de los ecosistemas [nos tienen como un aliado incondicional](https://4geeksacademy.com/es/alianzas).
