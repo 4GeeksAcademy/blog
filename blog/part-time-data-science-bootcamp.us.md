@@ -10,6 +10,8 @@ In today's data-driven world, data science has become a crucial field that helps
 
 Therefore, data science skills are necessary for job security and lucrative career opportunities. You can [enroll in a part-time Dara science boot camp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) and design a strong career roadmap. 
 
+
+![Part time data science bootcamp](https://breathecode.herokuapp.com/v1/media/file/part-time-datasciencebootcamp-jpg "Part time data science bootcamp")
 ## The Growing Demand for Data Analysts
 
 Proper data analysis is essential for every aspect of marketing, from product launches to 
