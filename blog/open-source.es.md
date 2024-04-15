@@ -38,7 +38,7 @@ Los contenidos están divididos en 4 grandes grupos:
 
 3. **Lecturas:** También hemos decidido publicar todas las [lecturas](https://4geeks.com/es/lessons) y [how to's](https://4geeks.com/es/how-to) que son utilizadas en nuestros cursos, muchas de ellas que incluyen muchos videos, códigos ejecutables y otros recursos de enseñanza.
 
-4. **Exámenes**: Usualmente presentamos a los alumnos con diferentes quizes que sirven para autoevaluación, de esa manera el alumno puede entender el nivel de su progreso antes de seguir avanzando. La publicación de los exámenes todavía esta en proceso pero pueden encontrar un borrador en [el siguiente enlace](https://assessment.4geeks.com/).
+4. **Exams**: We usually present students with different quizzes that serve as self-assessment tools, allowing them to understand their progress level before moving forward. The publication of the exams is still in progress, but a draft can be found at [the following link](https://assessment.4geeks.com/).
 
 ![](https://github.com/4GeeksAcademy/blog/blob/main/blog_images/access-tutorial-exercise.gif?raw=true)
 
