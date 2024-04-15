@@ -40,6 +40,8 @@ Los contenidos están divididos en 4 grandes grupos:
 
 4. **Exámenes**: Usualmente presentamos a los alumnos con diferentes quizes que sirven para autoevaluación, de esa manera el alumno puede entender el nivel de su progreso antes de seguir avanzando. La publicación de los exámenes todavía esta en proceso pero pueden encontrar un borrador en [el siguiente enlace](https://assessment.4geeks.com/).
 
+![](https://github.com/4GeeksAcademy/blog/blob/main/blog_images/access-tutorial-exercise.gif?raw=true)
+
 ### Open Source
 
 Todos los contenidos se han sincronizado como paquetes en repositorios de GitHub para cumplir la metodología open source. Cualquier persona puede modificar, traducir o corregir los contenidos haciendo un PR en GitHub sobre el contenido deseado.
