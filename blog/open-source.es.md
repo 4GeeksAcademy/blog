@@ -3,6 +3,8 @@ author: "Alesanchezr"
 excerpt: "4Geeks se compromete con su misión y anuncia la publicación de todos sus contenidos gratis y open source"
 title: "Anunciamos la publicación de todos nuestros contenidos gratis y open source"
 template: "landing_post" # post or landing_post
+image: "https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source.png?raw=true"
+image_alt: "4Geeks becomes opensource"
 
 ---
 
