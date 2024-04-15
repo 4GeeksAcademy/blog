@@ -8,7 +8,7 @@ image_alt: "4Geeks becomes opensource"
 
 ---
 
-Somos una escuela de programación fundada por programadores, tenemos mucha vocación y sabemos lo importante del rol que cumplimos. Es por eso que muchos gobiernos, universidades y actores importantes de los ecosistemas [nos tienen como un aliado incondicional](https://4geeksacademy.com/es/alianzas).
+Somos una escuela **de programación y fundada por programadores**, sabemos lo importante del rol que cumplimos. Es por eso que muchos gobiernos, universidades y actores importantes de los ecosistemas [nos tienen como un aliado incondicional](https://4geeksacademy.com/es/alianzas).
 
 Para garantizar nuestra promesa de convertirte en un profesional que consigue un empleo rápidamente y sin conocimientos previos, construir contenido y tecnología es una prioridad, al contar con nuestro propio contenido y tecnología tenemos el control de toda la experiencia del alumno. Cada tutorial interactivo está construido de forma incremental, interactiva, auto-corregida y alineada con nuestros objetivos de [retención de memoria y feedback instantáneo](https://4geeks.com/es/mastering-technical-knowledge).
 
@@ -17,6 +17,16 @@ Para garantizar nuestra promesa de convertirte en un profesional que consigue un
 Anunciamos la publicación open source y gratuita de todos nuestros tutoriales interactivos, ejercicios, proyectos, lecturas y videos. Estamos hablando de casi mil contenidos que van a estar al alcance de todos.
 
 ### ¿Cómo están divididos los contenidos?
+
+Para facilitar el acceso hemos hecho un catalogo de contenidos con dos diferentes formas de agrupación: Por tecnologia o por tipo de contenido.
+
+#### Accede a los contenidos por tecnologia
+
+Aqui puedes encontrar un accesso directoa las tecnologias mas imporatnes como [Python](https://4geeks.com/es/technology/python), [Javascript](https://4geeks.com/es/technology/javascript), [Machine Learning](https://4geeks.com/es/technology/machine-learning), [Datascience](https://4geeks.com/technology/datas-science), [Python Flask](https://4geeks.com/technology/flask), etc.
+
+![4Geeks Leer lessons por tecnologia](https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-soruce-tecnologia-4geeks.png?raw=true)
+
+Dentro de cada lectura, projecto o tutorial encontraras un enlace para acceder a mas contenidos de la misma tecnologia.
 
 **Tutoriales:** La joya de la corona son los [tutoriales interactivos](https://4geeks.com/es/interactive-exercises), todos ellos vienen construidos usando [LearnPack](https://4geeks.com/learnpack-es) lo que les permite estar integrados dentro de VSCode, ser interactivos, tener un tutor de inteligencia artificial que lee tu código y te ayuda a resolver los tutoriales. También tienen auto-corrección instantánea, video soluciones, códigos de modelo de solución.
 
