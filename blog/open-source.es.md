@@ -28,11 +28,17 @@ Aqui puedes encontrar un accesso directoa las tecnologias mas imporatnes como [P
 
 Dentro de cada lectura, projecto o tutorial encontraras un enlace para acceder a mas contenidos de la misma tecnologia.
 
-**Tutoriales:** La joya de la corona son los [tutoriales interactivos](https://4geeks.com/es/interactive-exercises), todos ellos vienen construidos usando [LearnPack](https://4geeks.com/learnpack-es) lo que les permite estar integrados dentro de VSCode, ser interactivos, tener un tutor de inteligencia artificial que lee tu código y te ayuda a resolver los tutoriales. También tienen auto-corrección instantánea, video soluciones, códigos de modelo de solución.
+#### Accede a los contenidos por tipo
 
-**Proyectos:** También estamos publicando una [base de datos de más de cien proyectos](https://4geeks.com/es/interactive-coding-tutorials) para resolver, son similares a los que ocurren dentro de las empresas y lugares de trabajo. También cuentan con video soluciones, instrucciones claras y plantillas (templates) para empezar a trabajar en ellos sin necesidad de instalar o configurar nada en tu ordenador.
+Los contenidos están divididos en 4 grandes grupos:
 
-**Lecturas:** Por último, también hemos decidido publicar todas las [lecturas](https://4geeks.com/es/lessons) y [how to's](https://4geeks.com/es/how-to) que son utilizadas en nuestros cursos, muchas de ellas que incluyen muchos videos, códigos ejecutables y otros recursos de enseñanza.
+1. **Tutoriales:** La joya de la corona son los [tutoriales interactivos](https://4geeks.com/es/interactive-exercises), todos ellos vienen construidos usando [LearnPack](https://4geeks.com/learnpack-es) lo que les permite estar integrados dentro de VSCode, ser interactivos, tener un tutor de inteligencia artificial que lee tu código y te ayuda a resolver los tutoriales. También tienen auto-corrección instantánea, video soluciones, códigos de modelo de solución.
+
+2. **Proyectos:** También estamos publicando una [base de datos de más de cien proyectos](https://4geeks.com/es/interactive-coding-tutorials) para resolver, son similares a los que ocurren dentro de las empresas y lugares de trabajo. También cuentan con video soluciones, instrucciones claras y plantillas (templates) para empezar a trabajar en ellos sin necesidad de instalar o configurar nada en tu ordenador.
+
+3. **Lecturas:** También hemos decidido publicar todas las [lecturas](https://4geeks.com/es/lessons) y [how to's](https://4geeks.com/es/how-to) que son utilizadas en nuestros cursos, muchas de ellas que incluyen muchos videos, códigos ejecutables y otros recursos de enseñanza.
+
+4. **Exámenes**: Usualmente presentamos a los alumnos con diferentes quizes que sirven para autoevaluación, de esa manera el alumno puede entender el nivel de su progreso antes de seguir avanzando. La publicación de los exámenes todavía esta en proceso pero pueden encontrar un borrador en [el siguiente enlace](https://assessment.4geeks.com/).
 
 ### Open Source
 
