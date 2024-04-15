@@ -12,7 +12,7 @@ We are a programming school founded by programmers, we have a lot of dedication 
 
 To ensure our promise of turning you into a professional who quickly finds a job without prior knowledge, building content and technology is a priority. Having our own content and technology allows us to control the entire student experience. Each interactive tutorial is built incrementally, interactively, self-correcting, and aligned with our objectives of [memory retention and instant feedback](https://4geeks.com/es/mastering-technical-knowledge).
 
-## 🚨 We announce the publication of all our content for free and open source
+## 🚨 All our content for free and open-source
 
 We announce the open-source and free publication of all our interactive tutorials, exercises, projects, readings, and videos. We are talking about almost a thousand contents that will be available to everyone.
 
