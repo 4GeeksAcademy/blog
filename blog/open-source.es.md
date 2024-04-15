@@ -12,7 +12,7 @@ Somos una escuela de programación fundada por programadores, tenemos mucha voca
 
 Para garantizar nuestra promesa de convertirte en un profesional que consigue un empleo rápidamente y sin conocimientos previos, construir contenido y tecnología es una prioridad, al contar con nuestro propio contenido y tecnología tenemos el control de toda la experiencia del alumno. Cada tutorial interactivo está construido de forma incremental, interactiva, auto-corregida y alineada con nuestros objetivos de [retención de memoria y feedback instantáneo](https://4geeks.com/es/mastering-technical-knowledge).
 
-## 🚨 Anunciamos la publicación de todos nuestros contenidos gratis y open source
+## 🚨 Todos nuestros contenidos gratis y open-source
 
 Anunciamos la publicación open source y gratuita de todos nuestros tutoriales interactivos, ejercicios, proyectos, lecturas y videos. Estamos hablando de casi mil contenidos que van a estar al alcance de todos.
 
