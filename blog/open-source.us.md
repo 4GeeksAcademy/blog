@@ -14,15 +14,33 @@ To ensure our promise of turning you into a professional who quickly finds a job
 
 ## 🚨 All our content for free and open-source
 
-We announce the open-source and free publication of all our interactive tutorials, exercises, projects, readings, and videos. We are talking about almost a thousand contents that will be available to everyone.
+We announce the open-source and free publication of all our interactive tutorials, exercises, projects, readings, and videos. We are talking about almost a thousand contents available to everyone.
 
-### How is the content divided?
+### How is the content organized?
 
-**Tutorials:** The crown jewel are the [interactive tutorials](https://4geeks.com/es/interactive-exercises), all built using [LearnPack](https://4geeks.com/learnpack), which allows them to be integrated within VSCode, be interactive, have an artificial intelligence tutor that reads your code and helps you solve the tutorials. They also have instant auto-correction, video solutions, and model solution codes.
+To facilitate access, we have created a content catalog with two ways of grouping: By technology or by content type.
 
-**Projects:** We are also publishing a [database of more than a hundred projects](https://4geeks.com/interactive-coding-tutorials) to solve, similar to those that occur within companies and workplaces. They also feature video solutions, clear instructions, and templates to get started on them without needing to install or configure anything on your computer.
+#### Access content by technology
 
-**Readings:** Finally, we have also decided to publish all the [readings](https://4geeks.com/es/lessons) and [how-to's](https://4geeks.com/es/how-to) used in our courses, many of which include many videos, executable codes, and other teaching resources.
+Here you can find direct access to the most important technologies such as [Python](https://4geeks.com/es/technology/python), [Javascript](https://4geeks.com/es/technology/javascript), [Machine Learning](https://4geeks.com/es/technology/machine-learning), [Data Science](https://4geeks.com/technology/datas-science), [Python Flask](https://4geeks.com/technology/flask), etc.
+
+![4Geeks Read lessons by technology](https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source-4geeks-en.png?raw=true)
+
+Within each reading, project, or tutorial, you will find a link to access more content on the same technology.
+
+#### Access content by type
+
+The contents are organized into 4 major groups:
+
+1. **Tutorials:** The crown jewel is the [interactive tutorials](https://4geeks.com/es/interactive-exercises), all built using [LearnPack](https://4geeks.com/learnpack), which allows them to be integrated within VSCode, be interactive, have an artificial intelligence tutor that reads your code and helps you solve the tutorials. They also have instant auto-correction, video solutions, and model solution codes.
+
+2. **Projects:** We are also publishing a [database of more than a hundred projects](https://4geeks.com/interactive-coding-tutorials) to solve, similar to those that occur within companies and workplaces. They also feature video solutions, clear instructions, and templates to get started on them without needing to install or configure anything on your computer.
+
+3. **Readings:** Finally, we have also decided to publish all the [readings](https://4geeks.com/es/lessons) and [how-to's](https://4geeks.com/es/how-to) used in our courses, many of which include many videos, executable codes, and other teaching resources.
+
+4. **Exams**: We usually present students with different quizzes that serve as self-assessment tools, allowing them to understand the level of their progress before moving forward. The publication of the exams is still in progress, but a draft can be found at [the following link](https://assessment.4geeks.com/).
+
+![](https://github.com/4GeeksAcademy/blog/blob/main/blog_images/acces-tutorials.gif?raw=true)
 
 ### Open Source
 
