@@ -4,7 +4,7 @@ excerpt: "4Geeks commits to its mission and announces the publication of all its
 template: "landing_post"
 title: "We announce the publication of all our content for free and open source"
 image: "https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source.png?raw=true"
-image_alt: "4Geeks becomes opensource"
+image_alt: "4Geeks becomes open-source"
 
 ---
 
@@ -18,7 +18,7 @@ We announce the open-source and free publication of all our interactive tutorial
 
 ### How is the content divided?
 
-**Tutorials:** The crown jewel are the [interactive tutorials](https://4geeks.com/es/interactive-exercises), all built using LearnPack, which allows them to be integrated within VSCode, be interactive, have an artificial intelligence tutor that reads your code and helps you solve the tutorials. They also have instant auto-correction, video solutions, and model solution codes.
+**Tutorials:** The crown jewel are the [interactive tutorials](https://4geeks.com/es/interactive-exercises), all built using [LearnPack](https://4geeks.com/learnpack), which allows them to be integrated within VSCode, be interactive, have an artificial intelligence tutor that reads your code and helps you solve the tutorials. They also have instant auto-correction, video solutions, and model solution codes.
 
 **Projects:** We are also publishing a [database of more than a hundred projects](https://4geeks.com/interactive-coding-tutorials) to solve, similar to those that occur within companies and workplaces. They also feature video solutions, clear instructions, and templates to get started on them without needing to install or configure anything on your computer.
 
