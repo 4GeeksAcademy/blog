@@ -18,7 +18,7 @@ Anunciamos la publicación open source y gratuita de todos nuestros tutoriales i
 
 ### ¿Cómo están divididos los contenidos?
 
-**Tutoriales:** La joya de la corona son los [tutoriales interactivos](https://4geeks.com/es/interactive-exercises), todos ellos vienen construidos usando [LearnPack](https://4geeks.com/es/learnpack) lo que les permite estar integrados dentro de VSCode, ser interactivos, tener un tutor de inteligencia artificial que lee tu código y te ayuda a resolver los tutoriales. También tienen auto-corrección instantánea, video soluciones, códigos de modelo de solución.
+**Tutoriales:** La joya de la corona son los [tutoriales interactivos](https://4geeks.com/es/interactive-exercises), todos ellos vienen construidos usando [LearnPack](https://4geeks.com/learnpack-es) lo que les permite estar integrados dentro de VSCode, ser interactivos, tener un tutor de inteligencia artificial que lee tu código y te ayuda a resolver los tutoriales. También tienen auto-corrección instantánea, video soluciones, códigos de modelo de solución.
 
 **Proyectos:** También estamos publicando una [base de datos de más de cien proyectos](https://4geeks.com/es/interactive-coding-tutorials) para resolver, son similares a los que ocurren dentro de las empresas y lugares de trabajo. También cuentan con video soluciones, instrucciones claras y plantillas (templates) para empezar a trabajar en ellos sin necesidad de instalar o configurar nada en tu ordenador.
 
