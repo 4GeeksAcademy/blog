@@ -18,7 +18,7 @@ Conversacional y Accesible: Conectar con el lector de manera natural y fluida.
 Recursos Adicionales:
 
 Objetivo:
-Informar: Brindar una visión completa del panorama actual de la IA, destacando sus aplicaciones prácticas en diversos sectores.
+Informar: Mostrar el contenido de un curso de intelgencia artificial, que tipo de destresas y outcomes deberia generar al que lo haga, cuales son los cursos mas imrpotantes de Ai que hay hoy en dia, los mas baratos, los mas famosos, etc.
 Persuadir: Convencer al lector de la importancia de adquirir habilidades en IA para el éxito profesional y personal en el futuro.
 Motivar: Incentivar al lector a inscribirse en el curso de IA para profesionales de 4Geeks Academy y convertirse en un experto en esta tecnología transformadora.
 
@@ -29,16 +29,9 @@ https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial
 Y de esta otra landing puedes conseguir información para inspirarte sobre el curso, pero, esta está enfocada en chile así que no la menciones dentro del articulo a no ser que el contexto sea el apropiado.
 https://4geeksacademy.com/es/landing/bootcamp-applied-ia-for-professionals-santiago
 
-Recuerda:
-El objetivo principal es informar, persuadir y motivar al lector.
-Mantén un tono entusiasta y apasionado sobre el tema de la IA.
-Enfatiza los beneficios tangibles y las oportunidades que ofrece el curso de 4Geeks Academy.
-Utiliza un lenguaje claro, conciso y atractivo para el público objetivo.
-Estructura del articulo 
-
 
 introducción:
-Capturar la atención del lector con una frase impactante sobre el poder de la IA y su impacto en el mundo actual.
+Capturar la atención del lector con una frase impactante sobre el poder de la IA y su impacto en el mundo actual, si es posible muestra resultados cuantitativos y/o estadisticos que reflejen el aumento de la productividad al usar herramientas con IA.
 Presentar brevemente el curso de IA para profesionales de 4Geeks Academy, destacando sus beneficios para trabajadores, gerentes, empresas y organizaciones.
 
 Aplicaciones Prácticas de la IA:
