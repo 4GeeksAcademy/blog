@@ -10,7 +10,7 @@ image_alt: "Machine learning course syllabus"
 
 With a proven track record boasting over 3500 graduated students, the **[Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) Syllabus** provided by 4Geeks Academy exemplifies years of dedicated research and meticulous crafting. Our unwavering commitment to excellence ensures each syllabus component is designed to deliver maximum impact and value, focusing on practical skills and real-world applications. This approach prepares students for the dynamic challenges and opportunities they will encounter in their careers.
 
-## Machine learning course, The Pre-work: Basic Python
+## Machine Learning Course Syllabus: Basic Python
 The foundation of our [machine learning bootcamp](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) begins with pre-work in basic Python, laying the groundwork for students to build their programming proficiency. Python, known for its simplicity and versatility, is the backbone of data science and machine learning. Through this pre-work, students gain fluency in Python programming, enabling them to tackle more advanced concepts with confidence.
 
 ## Foundations of Machine Learning
