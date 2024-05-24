@@ -10,25 +10,25 @@ image_alt: "Machine learning course syllabus"
 
 With a proven track record boasting over 3500 graduated students, the **[Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) Syllabus** provided by 4Geeks Academy exemplifies years of dedicated research and meticulous crafting. Our unwavering commitment to excellence ensures each syllabus component is designed to deliver maximum impact and value, focusing on practical skills and real-world applications. This approach prepares students for the dynamic challenges and opportunities they will encounter in their careers.
 
-#### Pre-work: Basic Python
+## Machine learning course, The Pre-work: Basic Python
 The foundation of our [machine learning bootcamp](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) begins with pre-work in basic Python, laying the groundwork for students to build their programming proficiency. Python, known for its simplicity and versatility, is the backbone of data science and machine learning. Through this pre-work, students gain fluency in Python programming, enabling them to tackle more advanced concepts with confidence.
 
-#### Foundations of Machine Learning
+## Foundations of Machine Learning
 The course syllabus delves into foundational topics such as data collection, storage, and manipulation. These fundamental skills are essential for any aspiring data scientist or machine learning practitioner. Students learn how to gather data from various sources, organize it efficiently, and perform essential manipulations to prepare it for analysis. This hands-on experience with real-world datasets provides practical insights into the challenges and nuances of working with data in a professional setting.
 
-#### Core Python Libraries
+### Core Python Libraries
 Python's rich ecosystem of libraries is a key feature of our machine learning course syllabus. Libraries such as Pandas, NumPy, and Matplotlib make data manipulation and visualization easy. Pandas helps organize and analyze data, NumPy simplifies numerical computations, and Matplotlib enables the creation of various types of charts for data visualization. By mastering these libraries, students gain valuable skills directly applicable to real-world data science projects.
 
-#### Mathematical Fundamentals
+### Mathematical Fundamentals
 Understanding basic math concepts is crucial in data science. Concepts such as linear algebra, probability theory, and calculus are essential for understanding the underlying principles of machine learning algorithms. Students develop a solid understanding of these mathematical concepts, enabling them to tackle more advanced machine learning topics with confidence. Key concepts covered include matrices, vectors, and relationships between variables, applied using Python for practical exercises.
 
-#### Data Acquisition and Storage
+### Data Acquisition and Storage
 Data acquisition and storage are crucial elements of the applied machine learning workflow. Our syllabus equips students with the necessary tools and techniques to manage data in diverse formats and from various origins. Students learn the process of extracting, transforming, and loading data into their pipelines using Python, particularly in handling databases like SQL and manipulating common file types such as CSV and JSON. Techniques like web scraping for efficient data gathering from websites are also covered.
 
-#### Machine Learning and Deep Learning
+### Machine Learning and Deep Learning
 Our machine learning bootcamp covers both supervised and unsupervised learning, each with its own set of techniques and algorithms. Supervised learning involves teaching with labeled data, while unsupervised learning finds patterns in unlabeled data. The syllabus includes algorithms such as linear regression, decision trees, random forests, and neural networks, all implemented using Python. Advanced neural networks for tasks like image recognition and language understanding are also explored.
 
-#### Real-World Project
+### Real-World Project
 The capstone project serves as the culmination of the machine learning bootcamp. Students apply their skills to a real-world problem, gathering and analyzing data, and developing and evaluating machine learning models. This project-based approach provides valuable experience in all aspects of the applied machine learning workflow, from data collection and preprocessing to model selection and evaluation.
 
 ### Recognitions and Future Prospects
