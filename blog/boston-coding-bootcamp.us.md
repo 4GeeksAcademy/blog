@@ -63,9 +63,5 @@ Boston's tech ecosystem presents many opportunities for individuals with the rig
 
 Take the next step towards your tech career aspirations by considering 4Geeks Academy as your launchpad to a successful future in the dynamic world of technology. **Apply now and boost your career in Boston's vibrant tech ecosystem with 4Geeks Academy!**
 
-<call-to-action button_text="Apply now" button_link="https://4geeksacademy.com/us/coding-bootcamps/web-development" background="rgba(0, 151, 205, 0.15)" title="Boost Your Career in Boston" text="Join 4Geeks Academy's Coding Bootcamp and become part of Boston's dynamic tech scene."></call-to-action>
 ---
-
----
-
 <call-to-action button_text="Apply now" button_link="https://4geeksacademy.com/us/coding-bootcamps/web-development" background="rgba(0, 151, 205, 0.15)" title="Boost Your Career in Boston" text="Join 4Geeks Academy's Coding Bootcamp and become part of Boston's dynamic tech scene."></call-to-action>
