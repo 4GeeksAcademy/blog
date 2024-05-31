@@ -51,7 +51,7 @@ Here’s what you can expect to earn in Boston after completing a coding bootcam
 
 ### How 4Geeks Academy Can Launch Your Tech Career
 
-4Geeks Academy's coding bootcamp program is designed to equip aspiring software developers with the skills and knowledge most sought after by employers in Boston's tech job market. The hands-on, industry-oriented approach of the program ensures that students are well-prepared to meet the demands of the industry.
+4Geeks Academy's [coding bootcamp program](https://4geeksacademy.com/us/coding-bootcamp) is designed to equip aspiring software developers with the skills and knowledge most sought after by employers in Boston's tech job market. The hands-on, industry-oriented approach of the program ensures that students are well-prepared to meet the demands of the industry.
 
 Furthermore, 4Geeks Academy provides continuous professional support to its students, including unlimited mentorship, access to a network of alumni and professionals, and job search assistance. The success stories of 4Geeks Academy alumni who have secured rewarding tech positions in Boston and beyond are a testament to the program's effectiveness.
 
@@ -66,4 +66,4 @@ Boston's tech ecosystem presents many opportunities for individuals with the rig
 Take the next step towards your tech career aspirations by considering 4Geeks Academy as your launchpad to a successful future in the dynamic world of technology. **Apply now and boost your career in Boston's vibrant tech ecosystem with 4Geeks Academy!**
 
 ---
-<call-to-action button_text="Apply now" button_link="https://4geeksacademy.com/us/coding-bootcamps/web-development" background="rgba(0, 151, 205, 0.15)" title="Boost Your Career in Boston" text="Join 4Geeks Academy's Coding Bootcamp and become part of Boston's dynamic tech scene."></call-to-action>
+<call-to-action button_text="Apply now" button_link="https://4geeksacademy.com/us/coding-bootcamp" background="rgba(0, 151, 205, 0.15)" title="Boost Your Career in Boston" text="Join 4Geeks Academy's Coding Bootcamp and become part of Boston's dynamic tech scene."></call-to-action>
