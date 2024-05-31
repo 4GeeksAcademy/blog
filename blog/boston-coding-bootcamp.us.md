@@ -14,6 +14,8 @@ Boston's tech ecosystem is a thriving hub of innovation and opportunity, with a 
 
 Boston is not just a city; it's a vibrant ecosystem that blends rich history with cutting-edge technology. Home to prestigious universities like MIT and Harvard, Boston fosters an environment of innovation and intellectual rigor. The city's neighborhoods, from the tech-heavy Kendall Square to the historic charm of Beacon Hill, offer a dynamic backdrop for aspiring tech professionals.
 
+![Boston Coding Bootcamp](https://breathecode.herokuapp.com/v1/media/file/boston-coding-bootcamp-port-jpg?width=600 "Boston Coding Bootcamp")
+
 ### The Heart of Tech and Innovation
 
 The tech industry in Boston is booming, with sectors ranging from software development to biotechnology and fintech. This growth is fueled by the city's strategic location, world-class educational institutions, and a strong network of industry leaders and startups.
