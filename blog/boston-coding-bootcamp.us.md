@@ -55,9 +55,11 @@ Here’s what you can expect to earn in Boston after completing a coding bootcam
 
 Furthermore, 4Geeks Academy provides continuous professional support to its students, including unlimited mentorship, access to a network of alumni and professionals, and job search assistance. The success stories of 4Geeks Academy alumni who have secured rewarding tech positions in Boston and beyond are a testament to the program's effectiveness.
 
-### Boston Coding Bootcamp 4Geeks Academy vs Others
+## Boston Coding Bootcamp 4Geeks Academy vs Others
 
 When comparing 4Geeks Academy with other bootcamps in Boston, it stands out for its industry-oriented approach, continuous professional support, and success stories of alumni securing tech positions. The hands-on training and mentorship provided by 4Geeks Academy set it apart as a top choice for launching a tech career in Boston.
+
+Probably at this point, you're wondering how [much a coding bootcamp is](https://4geeksacademy.com/us/coding-bootcamp/how-much-is-a-coding-bootcamp), here you can find more information about that. 
 
 ### Take Action and Transform Your Tech Future with 4Geeks Academy
 
