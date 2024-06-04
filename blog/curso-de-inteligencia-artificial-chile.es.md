@@ -26,7 +26,7 @@ Narra cómo la adopción de la IA está creciendo en Chile y el impacto positivo
 Menciona empresas y sectores en Chile que están aplicando IA con resultados concretos, incluyendo estadísticas y porcentajes de mejora.
 
 3. Contenido del Curso de Inteligencia Artificial de 4Geeks Academy:
-Detalla el contenido del [curso de Applied AI de 4Geeks Academy](https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial).
+Detalla el contenido y herramientas del [curso de Applied AI de 4Geeks Academy](https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial).
 Usa un tono narrativo para describir cómo cada módulo del curso guía al estudiante desde los conceptos básicos hasta convertirse en un especialista en prompts.
 
 
@@ -34,3 +34,4 @@ Usa un tono narrativo para describir cómo cada módulo del curso guía al estud
 Resumir los puntos principales del artículo, recordando al lector el potencial transformador de la IA.
 Ofrecer una visión inspiradora del futuro de la IA en Chile y en el mundo, animando al lector a ser parte de esta revolución tecnológica.
 Enfatizar las excelentes oportunidades de empleo y el potencial de ingresos que ofrece esta carrera, y cómo un curso como el de 4Geeks Academy puede ser el primer paso hacia un futuro brillante.
+y agregar un Cta "La IA no te reemplazará, te reemplazara la persona que la sepa usar" 
