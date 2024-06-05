@@ -61,7 +61,7 @@ Nuestro talento se extiende por toda América Latina, abarcando una amplia gama 
 
 ---
 
-Nuestro compromiso es claro: facilitar el proceso de contratación para empresas y proporcionar oportunidades laborales significativas para nuestros graduados. Con un pool de talento diverso y altamente capacitado que abarca toda América Latina.
+Nuestro compromiso es claro: facilitar el proceso de contratación para empresas y proporcionar las herramientas para [aprender a programar](https://4geeksacademy.com/es/landing/aprende-a-programar) y ofrecer  oportunidades laborales significativas para nuestros graduados. Con un pool de talento diverso y altamente capacitado que abarca toda América Latina.
 
-¡No esperes más para aprovechar nuestras soluciones de contratación! Ponte en contacto con nosotros hoy mismo a través de [vancieta@4geeksacademy.com](mailto:vancieta@4geeksacademy.com) y descubre cómo podemos ayudarte a encontrar el talento que necesitas.
+¡No esperes más para aprovechar nuestras soluciones de contratación! Ponte en contacto con nosotros hoy mismo a través de vancieta@4geeksacademy.com y descubre cómo podemos ayudarte a encontrar el talento que necesitas.
 
