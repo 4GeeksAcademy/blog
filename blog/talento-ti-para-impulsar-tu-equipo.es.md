@@ -24,7 +24,7 @@ Facilitar el proceso de contratación es una de nuestras prioridades, y ofrecemo
 
 Estas son algunas de las formas en las que trabajamos en colaboración con empresas y reclutadores para simplificar y agilizar el proceso de contratación.
 
-![Talent Pipeline](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-4-jpg?width=400)
+![Talent Pipeline](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-4-jpg?)
 
 ## ¿Cuál es el valor añadido de nuestro servicio y cuál es el costo asociado?
 
@@ -42,7 +42,7 @@ En nuestro pool de talento, nos enorgullece contar con una variedad de perfiles 
 
 Todos nuestros talentos son formados en un entorno de aprendizaje práctico, donde **se enfrentan a proyectos reales que los preparan para las labores del mundo laboral desde el primer día**.
 
-![Estudiantes destacados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-3-jpg?width=400)
+![Estudiantes destacados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-3-jpg?)
 
 ## ¿Qué habilidades y competencias destacan en nuestros perfiles?
 
@@ -50,7 +50,7 @@ Nuestros perfiles tienen un dominio sólido de las tecnologías y lenguajes de p
 
 En cuanto a nuestros profesionales en análisis de datos y machine learning, destacan en el manejo de herramientas esenciales como **Numpy, Pandas y SQL**, así como en la manipulación de formatos de datos como **JSON**. Su experiencia abarca desde la limpieza y exploración de datos hasta la implementación de algoritmos de machine learning para obtener insights valiosos a partir de conjuntos de datos complejos.
 
-![Perfiles especializados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-3-jpg?width=400)
+![Perfiles especializados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-2-jpg)
 
 ## ¿En qué países se encuentra nuestro talento?
 
