@@ -65,3 +65,5 @@ Nuestro compromiso es claro: facilitar el proceso de contratación para empresas
 
 ¡No esperes más para aprovechar nuestras soluciones de contratación! Ponte en contacto con nosotros hoy mismo a través de vancieta@4geeksacademy.com y descubre cómo podemos ayudarte a encontrar el talento que necesitas.
 
+Si deseas conocer más sobre otros de nuestros articulos puedes hacer click [aqui](https://4geeksacademy.com/blogposts). 
+
