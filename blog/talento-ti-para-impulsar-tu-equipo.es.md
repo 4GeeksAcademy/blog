@@ -13,9 +13,6 @@ En un mercado laboral cada vez más competitivo y dinámico, encontrar y retener
 
 Nos enorgullece ofrecer una solución para las necesidades de contratación, conectando a empresas con algunos de los mejores profesionales de la tecnología en América Latina certificados por [4Geeks Academy Latam](https://www.linkedin.com/school/4geeks-academy-latino/).
 
----
-
-![IT Talent for your company -  Talento para tu compañia](https://breathecode.herokuapp.com/v1/media/file/this-is-the-sing-youre-looking-for-jpg?width=400 "Talento para tu compañia")
 
 ## ¿Cómo trabajamos en colaboración con empresas y reclutadores para facilitar el proceso de contratación?
 
