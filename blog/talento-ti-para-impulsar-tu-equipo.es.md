@@ -24,7 +24,7 @@ Facilitar el proceso de contratación es una de nuestras prioridades, y ofrecemo
 
 Estas son algunas de las formas en las que trabajamos en colaboración con empresas y reclutadores para simplificar y agilizar el proceso de contratación.
 
-![Talent Pipeline](https://media.licdn.com/dms/image/D4E12AQHK5tLkru4IJg/article-inline_image-shrink_1500_2232/0/1715816170677?e=1722470400&v=beta&t=pWnYWdScOTfQkVZlM0eYEAzIFwjHt8OxC7KKnWFuIGg)
+![Talent Pipeline](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-4-jpg?width=400)
 
 ## ¿Cuál es el valor añadido de nuestro servicio y cuál es el costo asociado?
 
@@ -42,7 +42,7 @@ En nuestro pool de talento, nos enorgullece contar con una variedad de perfiles 
 
 Todos nuestros talentos son formados en un entorno de aprendizaje práctico, donde **se enfrentan a proyectos reales que los preparan para las labores del mundo laboral desde el primer día**.
 
-![Estudiantes destacados](https://media.licdn.com/dms/image/D4E12AQFrzqWloocvJQ/article-inline_image-shrink_1500_2232/0/1715815788750?e=1722470400&v=beta&t=P_9j0wK7gpD3wx61VqZQUNg-Nvw4qBGLmE7ikuafnYo)
+![Estudiantes destacados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-3-jpg?width=400)
 
 ## ¿Qué habilidades y competencias destacan en nuestros perfiles?
 
@@ -50,13 +50,13 @@ Nuestros perfiles tienen un dominio sólido de las tecnologías y lenguajes de p
 
 En cuanto a nuestros profesionales en análisis de datos y machine learning, destacan en el manejo de herramientas esenciales como **Numpy, Pandas y SQL**, así como en la manipulación de formatos de datos como **JSON**. Su experiencia abarca desde la limpieza y exploración de datos hasta la implementación de algoritmos de machine learning para obtener insights valiosos a partir de conjuntos de datos complejos.
 
-![Perfiles especializados](https://media.licdn.com/dms/image/D4E12AQE3ysJsPif69A/article-inline_image-shrink_1500_2232/0/1715814295448?e=1722470400&v=beta&t=NvZzctVyaVBegzGkGGmtWf0-Th_d8O36ndvh8n_-fUE)
+![Perfiles especializados](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-3-jpg?width=400)
 
 ## ¿En qué países se encuentra nuestro talento?
 
 Nuestro talento se extiende por toda América Latina, abarcando una amplia gama de países. Entre ellos se encuentran **México, Colombia, Panamá, Argentina, Costa Rica, Uruguay, Perú, Ecuador, Bolivia y Venezuela**. Contamos con profesionales listos para contribuir al éxito de empresas en toda la región.
 
-![Profesionales por país](https://media.licdn.com/dms/image/D4E12AQGiPLgbREUrPQ/article-inline_image-shrink_1000_1488/0/1715813964428?e=1722470400&v=beta&t=pxywQInS-5ozgPj8gK4gheP6wzyR13p4ke7B-ySw5PQ)
+![Profesionales por país](https://breathecode.herokuapp.com/v1/media/file/talent-pipeline-1-jpg)
 
 ---
 
