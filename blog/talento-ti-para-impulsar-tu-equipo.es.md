@@ -15,6 +15,8 @@ Nos enorgullece ofrecer una solución para las necesidades de contratación, con
 
 ---
 
+![IT Talent for your company -  Talento para tu compañia](https://breathecode.herokuapp.com/v1/media/file/this-is-the-sing-youre-looking-for-jpg?width=400 "Talento para tu compañia")
+
 ## ¿Cómo trabajamos en colaboración con empresas y reclutadores para facilitar el proceso de contratación?
 
 Facilitar el proceso de contratación es una de nuestras prioridades, y ofrecemos varias opciones para hacerlo de manera eficiente y efectiva:
