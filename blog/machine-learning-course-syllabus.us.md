@@ -12,8 +12,8 @@ With a proven track record boasting over 3500 graduated students, the **[Machine
 
 ![Machine learning course Syllabus](https://breathecode.herokuapp.com/v1/media/file/machine-learning-course-syllabus-ii-jpg?width=600 "Machine Learning Course Syllabus")
 
-## Machine Learning Course Syllabus: Basic Python
-The foundation of our [machine learning bootcamp](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering) begins with pre-work in basic Python, laying the groundwork for students to build their programming proficiency. Python, known for its simplicity and versatility, is the backbone of data science and machine learning. Through this pre-work, students gain fluency in Python programming, enabling them to tackle more advanced concepts with confidence.
+## Basic Python: The Essential Pre-Work
+Before the [machine learning bootcamp](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering)begins, students complete a self-paced pre-work section focused on mastering basic Python. Python is known for its simplicity and versatility and is the preferred coding language for data science and machine learning. Through the pre-work, students gain fluency in Python programming, enabling them to tackle the more advanced concepts of the bootcamp with confidence.
 
 ## Foundations of Machine Learning
 The course syllabus delves into foundational topics such as data collection, storage, and manipulation. These fundamental skills are essential for any aspiring data scientist or machine learning practitioner. Students learn how to gather data from various sources, organize it efficiently, and perform essential manipulations to prepare it for analysis. This hands-on experience with real-world datasets provides practical insights into the challenges and nuances of working with data in a professional setting.
