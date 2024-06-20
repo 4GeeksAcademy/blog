@@ -16,3 +16,4 @@ To further their joint mission of empowering Florida’s tech scene, 4Geeks Acad
 To kick off this partnership, on **November 8th**, Kaseya will host a private tour and information session exclusively for 4Geeks Academy students and alumni. This is a truly unique opportunity to gain insights into Kaseya's culture, operations, and the exciting career prospects they have to offer.
 
 The partnership between Kaseya and 4Geeks Academy positions Miami to become an even more vibrant tech hub by bolstering the city's pool of tech talent and facilitating the transition from education to employment.
+

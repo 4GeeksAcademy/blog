@@ -1,6 +1,6 @@
 ---
 author: "MRiciglianoC"
-excerpt: "We actually do not understand why only a few coding schools are teaching JS and Python combined into just one program."
+excerpt: "Explore the pivotal roles of JavaScript and Python in modern coding. Discover their significance for web development and backend systems in this informative overview from 4Geeks Academy."
 template: "post" # post or landing_post
 title: "JavaScript and Python: A-must for any coder"
 image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg"
@@ -8,25 +8,32 @@ image_alt: ""
 featured: false
 
 ---
-
-# **JavaScript and Python: A-must for any coder**
-
-
+  <style>
+    .styled-img {
+      display: block;
+      margin: 0 auto;
+      width: 50%; /* Set the width to 50% of the container */
+      height: auto; /* Allow the height to adjust based on aspect ratio */
+      object-fit: cover; /* Maintain aspect ratio */
+    }
+</style>
 Within the coding ecosystem, new languages appear constantly to cover all the demands of the tech world. Python and JavaScript ensure that everything works effectively so the user feels completely satisfied with the information, services, etc. If you’re starting in the code world aiming to be a Full-Stack programmer, you may wonder which languages you should be able to manage completely. Well, let us help you with that! [Every beginning is overwhelming and stressful](/us/learn-to-code/feelings-learning-coding) but at 4Geeks Academy, you can feel safe knowing that you’ll have wonderful mentors to be by your side, and teaching you everything you need to adapt to the real world.
 
 JavaScript and Python are meant to work together for web applications, and more.  We actually do not understand why not everyone is teaching JS and Python. Although if that happens, then another technology will be even more popular (that’s the way we -humans- are meant to be :) ). 
 
-![](https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg)
+<img src="https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg" alt="A-must for any coder" class="styled-img">
 
-
-
+---
 
 ## **How relevant is JavaScript for modern Web Developers?**
 
 
 If you ask any programmer about JavaScript, probably he would tell you that it is unimaginable being a software developer without knowing JavaScript. JavaScript is to websites what meatballs are for Swedish. According to some [reports](https://medium.com/javascript-scene/how-popular-is-javascript-in-2019-823712f7c4b1), “There are over 1.6 billion websites in the world, and JavaScript is used on 95% of them (1.52 billion websites with JavaScript)”. However, if you are a newbie, you may wonder, what is JavaScript? It’s a front-end programming language that takes care of the interaction, dynamic experience of the user, anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page.
 
-![](https://storage.googleapis.com/breathecode-asset-images/fdfadfd2b23de93aa3fbf43d461ffa16b9729453d932ee1086cf31307b1cfee1.jpg)
+
+  <img src="https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/js2-300x153.jpg" alt="" class="styled-img"><br><br>
+
+---
 
 For any coding student, launching your coding experience with JavaScript is the way to go. Simplicity, popularity, speed, interoperability, versatility, rich interfaces, popular frameworks, among many others, are only a few of the benefits of managing this programming language. JavaScript works perfectly in different platforms and devices; you can be able to create your idea and design astonishing visual effects, interactions, games, and much more. 
 
@@ -40,7 +47,7 @@ Are you looking to become a[ Front-End Developer](https://www.techopedia.com/def
 
 Another of its greatest advantages is the readability of the code, unlike other programming languages ​​that are more complex to read. Among its strengths, we also have that it's multiplatform, it is used to program any type of web applications, pages, and services. Big brands like Google, Facebook, Netflix, and YouTube are using this programming language.
 
-![](https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/js22-300x153.jpg)
+  <img src="https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/js22-300x153.jpg" alt="" class="styled-img">
 
 In 4Geeks, we teach Python as a backend language given that we consider it to be one of the most readable and clean programming languages at the present, making it easier for programmers to work with. For us, there is no doubt that [teaching Python is vital](/us/coding-bootcamps/why-we-teach-python-4geeks) for the students in order to be fully prepared and triumph at the first job position that will guide them to continue achieving their goals. 
 

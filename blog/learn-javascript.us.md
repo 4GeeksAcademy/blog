@@ -12,7 +12,7 @@ image_alt: "Learn JavaScript"
 If you're contemplating a career in web development, starting with a solid grasp of JavaScript is **crucial**. The language is employed in **95% of websites worldwide** and can be considered the cornerstone of modern interactive user experiences. In this article we'll clarify core concepts such as **variables, functions, loops, and equality comparisons and more** to help you gain a clearer understanding of JavaScript fundamentals and pave the way for your journey toward becoming a proficient [full-stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer).
 
 
-![roadmap-javascript](https://breathecode.herokuapp.com/v1/media/file/learn-javascript-routemap-roadmap-sh-png)
+<img src="https://breathecode.herokuapp.com/v1/media/file/learn-javascript-routemap-roadmap-sh-png" alt="learn-javascript /Us/Learn-Javascript/Learn-Javascript" style="margin:0 auto; width: 70%;">
 
 
 ## Let's start with variables.
@@ -42,7 +42,7 @@ const PI = 3.14159
 ```
 
 ## Now, let’s move on to functions.
-In JavaScript, a function is a **reusable block of code** that performs a **specific task or calculates a specific value**. Functions are fundamental in programming because they allow you to define logic—meaning, you outline the precise steps or instructions—that you can then use or execute in multiple places in your program without having to repeat the same code over and over again.
+In JavaScript, a function is a **reusable block of code** that performs a **specific task or calculates a specific value**. Functions are fundamental in programming because they allow you to define logic—meaning, you outline the precise steps or instructions—that you can then use or execute in multiple places in your program without having to repeat the same code over and over again.learn how to [work with functions in here](https://4geeks.com/lesson/working-with-functions)
 **Example 1:**
 
 ```javascript
@@ -183,7 +183,7 @@ let result = (a !== b)
 "However, in this case, a and b have the same value and the same data type (both are numbers). As a result, the comparison a !== b returns **false**, since a and b are equal in both value and data type.
 
 ## Arrays: The Versatile Organizers in JavaScript
-An array in JavaScript is like a specialized container that allows us to arrange a set of items in a specific order. These items can include **numbers, words, or even other containers with different types of information**. Arrays in JavaScript can be compared to Swiss Army knives in real life—efficiently organized tools designed to handle a wide variety of tasks. They prove incredibly useful for a multitude of programming tasks. Learning how to use arrays is a crucial step in mastering JavaScript, enabling you to manage information in a flexible and efficient manner.
+An array in JavaScript is like a specialized container that allows us to arrange a set of items in a specific order. These items can include **numbers, words, or even other containers with different types of information**. Arrays in JavaScript can be compared to Swiss Army knives in real life—efficiently organized tools designed to handle a wide variety of tasks. They prove incredibly useful for a multitude of programming tasks. [Learning how to use arrays](https://4geeks.com/lesson/what-is-an-array-define-array) is a crucial step in mastering JavaScript, enabling you to manage information in a flexible and efficient manner.
 
 **Example 1**:
 ```javascript
@@ -247,7 +247,7 @@ for (let number of numbers) {
 //Number: 5 
 
 ```
-⬆ This example uses a **"for-of" loop** in JavaScript. It defines an array numbers containing the **values 1 to 5**. The loop iterates through each element of the numbers array, assigning it to the variable number. In each iteration, it prints a message to the console showing the current value of the number. 
+⬆ This example uses a **"for-of" loop** in JavaScript. It defines an array numbers containing the **values 1 to 5**. The loop iterates through each element of the numbers array, assigning it to the variable number. In each iteration, it prints a message to the console showing the current value of the number. see more about loops  in [here](https://4geeks.com/interactive-exercise/javascript-array-loops-exercises) 
 In summary, Example 1 counts from 0 to 4, while Example 2 prints out the numbers 1 to 5. The key difference lies in the type of loop used and the data structure being operated on (a variable in Example 1 and an array in Example 2).
 
 
