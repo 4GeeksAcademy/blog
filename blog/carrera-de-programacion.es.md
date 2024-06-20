@@ -119,7 +119,7 @@ Hay múltiples vías para convertirse en programador, desde las tradicionales qu
     
 No es la acumulación de conocimientos lo que te llevará al éxito sino la capacidad de desaprender y aprender: nuevas herramientas, lenguajes, librerías, frameworks. La experiencia educativa que te hace humilde para entenderlo también te hará un desarrollador resiliente, flexible, preparado para los cambios. 
     
-Generalmente, y por nuestra experiencia formando a [programadores desde cero](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es), la universidad no se traduce en desarrolladores más resilientes. Por otra lado, la vía autodidacta no es la que más rápido forma a programadores exitosos.
+Generalmente, y por nuestra experiencia formando a [programadores desde cero](https://4geeksacademy.com/es/curso-de-programacion-desde-cero), la universidad no se traduce en desarrolladores más resilientes. Por otra lado, la vía autodidacta no es la que más rápido forma a programadores exitosos.
     
 > 👨🏻‍💻 Creemos firmemente que la filosofía de los coding bootcamps es la más eficiente. Es la que, desde el inicio se enfoca en “aprender a aprender” como motto de vida.
     
@@ -145,7 +145,7 @@ No nos engañemos, programar no es fácil. Las continuas innovaciones simplifica
     
 ![personas-mirando-una-computadora-en-una-carrera-de-programacion.png](https://storage.googleapis.com/media-breathecode/2dda7ac9e4df370c0311d3d226eebefdaf9e8a055cc2e8352bc893d43b45f2b2)
     
-No importa si estudias un [curso de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/?lang=es) o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
+No importa si estudias un [curso de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero) o si ya tienes varios años de experiencia trabajando como desarrollador…  ***En la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código***. 
     
 Cuando aprendes a programar es inevitable usar los recursos disponibles en las comunidades de desarrolladores. Por eso lo ideal es que seas parte activa de la comunidad, no solamente con el aprendizaje sino a través de la colaboración. Comparte tu conocimiento y experiencias con otros, siempre será útil ¡sin importar el tiempo de experiencia que tengas en el área!
     

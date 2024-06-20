@@ -68,7 +68,7 @@ Guensie provides great tips about networking (we added the last one):
 
 
  	
-  * **Participate in hackathons**: a lot of [people](/us/coding-bootcamps/choosing-coding-bootcamp) at the beginning of their coding journey are afraid to do a hackathon, but I really encourage you to dare. Once you know a little of HTML, CSS, and JavaScript, try to join a hackathon. Not only you're going to meet potential employers, but also you're going to meet your peers, other people that are in the industry that are trying to learn as well. You never know what kind of connections you can make.
+  * **Participate in hackathons**: a lot of [people](/us/trends-and-tech/choosing-coding-bootcamp) at the beginning of their coding journey are afraid to do a hackathon, but I really encourage you to dare. Once you know a little of HTML, CSS, and JavaScript, try to join a hackathon. Not only you're going to meet potential employers, but also you're going to meet your peers, other people that are in the industry that are trying to learn as well. You never know what kind of connections you can make.
 
  	
   * **Attend meetups:** you get to meet people with all different levels of experience at meetups. They are also a good option to find career opportunities, there are people who have got jobs from someone they've met at a meetup.

@@ -18,7 +18,7 @@ featured: false
 
 Learning to code requires a lot of focus, patience, practice, and self-confidence. You need to learn to deal with your frustration, ask for help and let us do our Job.  4Geeks Academy is all about giving you the mentorship, the exercises, the coaching, the projects and the tools to process easier, faster and better. Offering coding classes that not only provide the necessary information but also, skills that will help anyone to improve their life.
 
-A large part of these techniques aims to read less, but learn better and more efficiently. For example, in our part-time [coding Bootcamps](/us/coding-bootcamps/choosing-coding-bootcamp), the key is to manage time. Apart from the knowledge, the key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient.
+A large part of these techniques aims to read less, but learn better and more efficiently. For example, in our part-time [coding Bootcamps](/us/trends-and-tech/choosing-coding-bootcamp), the key is to manage time. Apart from the knowledge, the key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient.
 
 
 ## **The Pomodoro Technique**

@@ -15,7 +15,7 @@ Los bootcamps de programación surgieron, justamente, para atender esta realidad
 
 ## El secreto de la metodología de los bootcamps de programación
 
-Algo que han demostrado estos [coding bootcamps](https://4geeksacademy.com/us/coding-bootcamp/), es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
+Algo que han demostrado estos [coding bootcamps](https://4geeksacademy.com/us/coding-bootcamp), es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
 
 Incluso, si estás trabajando, pero quieres buscar otras opciones y en un futuro cercano dedicarte a la programación, soltando ese trabajo que te ata y no te hace feliz; los bootcamps son perfectos porque te permitirán estudiar medio tiempo sin dejar tu trabajo actual.
 
@@ -40,7 +40,7 @@ Aún cuando pareciera que el mundo ha comprendido que la digitalización es una 
 
 Las principales suelen ser tiempo, dinero, oportunidades de emplearse, edad.
 
-Formarse como un [desarrollador full stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/) amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
+Formarse como un [desarrollador full stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
 
 Ahora queremos contarte por qué el tiempo, el dinero y las oportunidades de empleo, son favorables para tomar la decisión de ingresar a un bootcamp de programación.
 
@@ -70,4 +70,4 @@ En 2021, la BBC compartió un [estudio](https://www.bbc.com/mundo/noticias-56247
 
 Si llegaste hasta aquí es porque realmente ya lo tienes claro. Es momento de actuar y embarcarte en una oportunidad que supondrá para ti un mayor retorno de inversión, abriéndote a un mundo de mayores posibilidades profesionales.
 
-Nuestro [bootcamp](https://4geeksacademy.com/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **[ingeniero de Data Science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning/?lang=es)** y **experto en Blockchain y web 3**.
+Nuestro [bootcamp](https://4geeksacademy.com/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **[ingeniero de Data Science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning)** y **experto en Blockchain y web 3**.

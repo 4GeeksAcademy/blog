@@ -61,7 +61,8 @@ No es tarea sencilla, pero tampoco imposible, en principio lo primero que debe h
 10. Sal con tus amigos y familia, no pierdas conexión con ellos, una salida los viernes y/o fines de semana te reconfortará.
 11. Realizar pausas saludables en tu lugar de trabajo y en la rutina diaria. Párate de la mesa, aléjate de la PC, estírate, camina, conversa con alguien y verás como te sientes más aliviado.
 12. Reforzar la autoestima con algo que desees, comprarte algo que necesites, cómete ese plato que tanto deseas ¡No todo es pagar cuentas!
-13. No dejes que el [Síndrome del Impostor](https://4geeksacademy.com/es/desarrollo-profesional/sindrome-del-impostor) te abrume, recuerda las capacidades que tienes como programador y como persona ¡Tú puedes!
+13. No dejes que el [Síndrome del Impostor](https://4geeksacademy.com/es/tendencias-y-tecnologia/sindrome-del-impostor
+) te abrume, recuerda las capacidades que tienes como programador y como persona ¡Tú puedes!
 
 También es importante resaltar que, según las estadísticas los profesionales que más sufren del Síndrome de Burnout son los programadores, así que, además de lo dicho anteriormente, también queremos dejarte unos consejos especiales para ti.
 

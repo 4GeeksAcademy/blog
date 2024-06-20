@@ -40,7 +40,7 @@ Because we are living in a digital native era, where most businesses and industr
 
 Regardless of the market you want to work in, sports, health, education, entertainment, food, etc, it is very likely they need software developers. 
 
-This scenario is expected to grow in the coming years, so becoming a software developer might be the most sustainable job of our generation among others inside the tech industry. To get to know more about the market growth stats [click here](https://4geeksacademy.com/us/coding-bootcamps/internships-bootcamps-2021).
+This scenario is expected to grow in the coming years, so becoming a software developer might be the most sustainable job of our generation among others inside the tech industry. To get to know more about the market growth stats [click here](https://4geeksacademy.com/us/full-stack-developer/internships-bootcamps-2021).
 
 Another perk about this career is the location flexibility, you may find yourself working for a company, and living in another state or even country, travel plans are not a work limitation anymore, as long as you deliver your projects and stick to your deadlines, it will work.
 

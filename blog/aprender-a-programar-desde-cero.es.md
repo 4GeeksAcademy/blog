@@ -132,7 +132,7 @@ Además de ser parte del kit de inicio en el mundo de la programación, también
 
 - Conocer JavaScript da versatilidad profesional. Puedes programar para el lado del cliente (frontend), y para el lado del servidor (backend). Junto con otras herramientas como React pudieras desarrollar en web, móvil y apps. Conocer JavaScript permite incursionar no solo en desarrollo web, sino en desarrollo de juegos, seguridad informática, machine learning, inteligencia artificial, etc. JS también se usa en el internet de las cosas (IoT), y aplicaciones nativas de iOS y Android.
 - Si aspiras a especializarte en el frontend, este lenguaje será indispensable para tu trabajo ya que, entre otras funcionalidades, JS sirve para darle interactividad y dinamismo a los websites. JavaScript es el único lenguaje nativo para los navegadores web, es decir, es el lenguaje que interpretan y leen los navegadores por defecto.
-- Si te interesa una carrera como [desarrollador fullstack](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time/), JavaScript junto con Node.JS te permitirá ejecutar acciones en el lado del servidor como: crear, abrir, leer, escribir y borrar archivos, así como obtener datos para guardarlos en una base de datos. De hecho, Node.JS también se usa para desarrollar aplicaciones basadas en la nube, sector que se encuentra aún en crecimiento.
+- Si te interesa una carrera como [desarrollador fullstack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack), JavaScript junto con Node.JS te permitirá ejecutar acciones en el lado del servidor como: crear, abrir, leer, escribir y borrar archivos, así como obtener datos para guardarlos en una base de datos. De hecho, Node.JS también se usa para desarrollar aplicaciones basadas en la nube, sector que se encuentra aún en crecimiento.
 - Debido a su popularidad, hay numerosos recursos y comunidades disponibles en línea para los programadores especializados en JavaScript: En GitHub, hay más de 580k repositorios desarrollados en JavaScript, en Reddit la comunidad de Javascript tiene ¡Más 1,6 millones de usuarios! A su vez, en Stackoverflow hay más de 1,6 millones de preguntas con respuestas hechas por la comunidad sobre JavaScript.
 - Los profesionales en JavaScript, así como los de Python, están en alta demanda. Según la encuesta anual de Stackoverflow, en 2021 JavaScript cumplió el noveno año consecutivo como el lenguaje de programación más utilizado. Al hacer la búsqueda “desarrollador en JavaScript” en Ziprecruiter, se encuentran casi 210.000 vacantes publicadas.
 - Los profesionales en JavaScript son bien pagados. Según [Indeed](https://www.indeed.com/career/javascript-developer/salaries?from=top_sb), en Estados Unidos el sueldo promedio de un desarrollador de Javascript es de **$108.821** al año. Además, de acuerdo a Ziprecruiter:
@@ -270,10 +270,10 @@ En un coding bootcamp o bootcamp de programación aprenderás los fundamentos de
 - Trabajo en equipo y colaborativo
 - Empuje para que finalices un app que te apasiones
 - Asesoría para mejorar la presencia online en comunidades de desarrolladores y de empleadores de tecnología
-- [Asesoría para encontrar empleo](https://4geeksacademy.com/es/geekforce/)
+- [Asesoría para encontrar empleo](https://4geeksacademy.com/es/geekforce)
 
 Algunos coding bootcamps son asíncronos, es decir, no ofrecen clases en vivo. Pero, si decidiste aprender programación desde cero, lo ideal es que cuentes con clases y asistencia en vivo. De esta manera aprovecharás al máximo la experiencia.
 
-En cuanto a los cursos, las apps, y las páginas especializadas para aprender a programar ¡No los deseches!. Sácales el mayor provecho posible al graduarte de un [fullstack coding bootcamp](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time/).
+En cuanto a los cursos, las apps, y las páginas especializadas para aprender a programar ¡No los deseches!. Sácales el mayor provecho posible al graduarte de un [fullstack coding bootcamp](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack).
 
 ![curso de fullstack](http://breathecode.herokuapp.com/v1/media/file/curso-de-fullstack-png.png)

@@ -18,7 +18,7 @@ Coderhouse: Con sedes en Santiago y Buenos Aires, Coderhouse ofrece una variedad
 Sección 2: Beneficios de asistir a un Bootcamp de programación
 Si todavía está indeciso acerca de asistir a un bootcamp de codificación, considere estos beneficios clave:
 
-1. Aprendizaje acelerado: los [bootcamps de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero/) están diseñados para que esté listo para el trabajo en cuestión de meses, no de años. El plan de estudios intensivo y enfocado significa que aprenderá nuevas habilidades y construirá proyectos desde el primer día.
+1. Aprendizaje acelerado: los [bootcamps de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero) están diseñados para que esté listo para el trabajo en cuestión de meses, no de años. El plan de estudios intensivo y enfocado significa que aprenderá nuevas habilidades y construirá proyectos desde el primer día.
 
 2. Habilidades prácticas: los bootcamps tienen que ver con el aprendizaje práctico, por lo que se graduará con una cartera de proyectos del mundo real para mostrar a los posibles empleadores.
 

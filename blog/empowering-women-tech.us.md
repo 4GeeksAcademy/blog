@@ -29,4 +29,4 @@ We acknowledge the importance of closing gender gaps.  In fact, our own team (4
 
 ![](https://storage.googleapis.com/4geeks-academy-website/blog/2018/04/Screen-Shot-2018-04-11-at-9.35.27-PM.png)
 
-In the meantime, we are still working together with Bridges Unite not just to improve the numbers but also towards making this a regular trend.  If you want to get involved and even participate for a full sponsorship of your coding education, please [click here](https://www.bridgesunite.com/contact) and start the process.  You could become a part of it in our upcoming [programs](/wp-content/uploads/2017/09/4GEEKS-ACADEMY-SYLLABUS.pdf).  
+In the meantime, we are still working together with Bridges Unite not just to improve the numbers but also towards making this a regular trend.  If you want to get involved and even participate for a full sponsorship of your coding education, please [click here](https://www.bridgesunite.com/contact) and start the process.  You could become a part of it in our upcoming [programs](https://4geeksacademy.com/us/index#choose-program).  
