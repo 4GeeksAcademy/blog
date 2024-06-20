@@ -86,7 +86,7 @@ La pandemia tuvo mayor impacto en trabajos con salarios bajos. Casi todo el crec
 
 > 📈 La lista de Indeed de los **25 empleos con el salario más alto sin necesidad de experiencia previa**, **incluye seis empleos que involucran la programación**: desarrollador web, analista de negocios, administrador de base de datos, informático, ingeniero de software, científico de datos.
     
-> 📌 Ahora, si se trata de un fullstack developer, el escenario es aún mejor. ***Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año.*** Al cursar un [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp/), es posible aprender a programar y convertirse en fullstack developer. Así das el primer paso a a la empleabilidad en el sector de tecnología.
+> 📌 Ahora, si se trata de un fullstack developer, el escenario es aún mejor. ***Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año.*** Al cursar un [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp), es posible aprender a programar y convertirse en fullstack developer. Así das el primer paso a a la empleabilidad en el sector de tecnología.
     
 Si bien hay empresas con outsourcing de desarrolladores en Latinoamérica (con salarios menores que en Europa y Estados Unidos), el repunte del trabajo remoto es una oportunidad para que las empresas consideren talento latinoamericano para posiciones fijas dentro de sus equipos de tecnología. ***Algunos de los factores que favorecen que las empresas consideren programadores latinoamericano para posiciones fijas:***
     
@@ -195,7 +195,7 @@ Trabajar como freelance en programación no es excluyente de tener un empleo fij
 
 ### Mentorías para conseguir empleo
 
-Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un [coding bootcamp](https://4geeksacademy.com/) el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
+Tener una estrategia para conseguir empleo como programador Jr., es casi tan importante como saber programar. El inicio de la carrera de un programador puede ser un poco abrumador. Este proceso se aligera si se tiene acompañamiento. Por eso, para un full-stack developer que cursa un [coding bootcamp](https://4geeksacademy.com/es/inicio) el reto es más llevadero. Algunos coding bootcamps online y presenciales sostienen un plan de apoyo al estudiante para lanzar su carrera profesional como programador.
 
 Un **plan ideal de acompañamiento profesional** incluye, pero no see limita, a lo siguiente:
 

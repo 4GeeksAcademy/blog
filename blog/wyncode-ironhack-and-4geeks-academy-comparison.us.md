@@ -55,6 +55,6 @@ Part-time is only possible as a consequence of our own methodology: Flipped Clas
 
 If you want to get more into detail, you can read our [comparison between 4Geeks Academy and other industry coding bootcamps.](/us/geeks-vs-others)
 
-Finally, we want to remain not just the most affordable academy between the three (by far), but we also want to be the most accessible one. This is why we have opened our pre-work free for everybody.  If you want to sign-up, [click here](/course/web-development-parttime).
+Finally, we want to remain not just the most affordable academy between the three (by far), but we also want to be the most accessible one. This is why we have opened our pre-work free for everybody.  If you want to sign-up, [click here](/us/coding-bootcamps/part-time-full-stack-developer).
 
 Contact: info@4geeksacademy.com

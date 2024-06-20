@@ -73,4 +73,4 @@ Uno de nuestros egresados, Alejandro Delgado investigó sobre cuánto gana un pr
 
  En nuestras plataformas podrás encontrar workshops gratuitos, eventos con partners y mucho más ¡Ya lo sabes! El tener el conocimiento de saber cuánto gana un programador en Colombia te da la ventaja de aprovechar formarte en esta profesión del futuro.
 
- Si deseas saber más sobre cómo aplicar te invitamos a ingresar en [www.4geeksacademy.com](https://4geeksacademy.com/) y aprende esta increíble profesión del presente y futuro.  
+ Si deseas saber más sobre cómo aplicar te invitamos a ingresar en [www.4geeksacademy.com](https://4geeksacademy.com/es/inicio) y aprende esta increíble profesión del presente y futuro.  

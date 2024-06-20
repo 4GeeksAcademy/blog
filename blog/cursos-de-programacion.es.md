@@ -31,7 +31,7 @@ En el contexto de un curso de programación, la palabra “Bootcamp” se refier
 
 ![image3](https://storage.googleapis.com/breathecode-asset-images/dded5a20f2d37960517eb1a02bdfbb8f66fa7417649305ae8c24763ce1aadd58.png)
 
-[4Geeks Academy](https://4geeksacademy.com/) es una academia online y presencial que ofrece bootcamps para estudiantes que quieran ser desarrolladores de software. Tiene sedes en Estados Unidos, Latinoaméria y Europa, pero todos los bootcamps pueden ser efectuados de forma online en modalidades intensivas o a tiempo parcial. 4Geeks ofrece cursos para aprender [Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [ingeniería de software](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) y [aprendizaje de IA](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering). 
+[4Geeks Academy](https://4geeksacademy.com/es/inicio) es una academia online y presencial que ofrece bootcamps para estudiantes que quieran ser desarrolladores de software. Tiene sedes en Estados Unidos, Latinoaméria y Europa, pero todos los bootcamps pueden ser efectuados de forma online en modalidades intensivas o a tiempo parcial. 4Geeks ofrece cursos para aprender [Full Stack](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [ingeniería de software](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) y [aprendizaje de IA](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering). 
 
 ## Cursos de certificación
 

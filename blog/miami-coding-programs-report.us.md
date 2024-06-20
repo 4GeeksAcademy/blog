@@ -19,7 +19,7 @@ According to a [recent report](https://www.payscale.com/research/US/Job=Web_Deve
 
 ![](/wp-content/uploads/2018/11/avg-salary.jpg)
 
-We understand how important the conversation is about Return of Investment. [Here](/us/coding-bootcamps/choosing-coding-bootcamp) is a ROI report where we address the pros and cons of joining (financially speaking) a Coding Bootcamp. 
+We understand how important the conversation is about Return of Investment. [Here](/us/trends-and-tech/choosing-coding-bootcamp) is a ROI report where we address the pros and cons of joining (financially speaking) a Coding Bootcamp. 
 
 **LET'S TALK ABOUT BOOTCAMPS**
 

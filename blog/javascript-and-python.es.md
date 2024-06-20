@@ -45,7 +45,7 @@ En 4Geeks, enseñamos Python como lenguaje backend dado que lo consideramos uno 
 
 Instagram, una de las redes sociales más importantes, se desarrolla con este framework de Python y Pinterest también. Plataformas que ofrecen un backend sencillo y fácil para cualquier usuario, además de manejar grandes cantidades de bases de datos.
 
-Si estás pensando en [aprender tu primer lenguaje de programación](/us/coding-bootcamps/coding-bootcamp-syllabus-matters), debes estar motivado para estar completamente preparado y no elegir solo un lenguaje de programación ¡puedes ser excelente en varios! sin embargo, para empezar, puede comenzar con el que te sientas más cómodo trabajando, el que te hace sentir bien y el que cumpla con tus expectativas.
+Si estás pensando en [aprender tu primer lenguaje de programación](/us/trends-and-tech/coding-bootcamp-syllabus-matters), debes estar motivado para estar completamente preparado y no elegir solo un lenguaje de programación ¡puedes ser excelente en varios! sin embargo, para empezar, puede comenzar con el que te sientas más cómodo trabajando, el que te hace sentir bien y el que cumpla con tus expectativas.
 
 Nuestro cofundador y director del Departamento Académico, Alejandro Sánchez, cree que a medida que la tecnología continúa evolucionando, los estudiantes deben evitar quedarse en su zona de confort. Para ser un programador exitoso, debes tener ansias de conocimiento y estar dispuesto a estar a la vanguardia de nuevos caminos, tecnologías, lenguajes y más.
 

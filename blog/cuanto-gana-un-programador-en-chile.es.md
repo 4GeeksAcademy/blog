@@ -44,7 +44,7 @@ No podemos olvidar que la inversión extranjera que Chile está atrayendo se est
 
 Si aún no estás dentro de la industria de la tecnología, este es el momento para tomar las riendas y formar parte. Busca las herramientas necesarias para brillar, aprende a programar y desarrolla tu potencial para que puedas mejorar tus ingresos y tu nivel académico. 
 
-Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](https://4geeksacademy.com/), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece [cursos de desarrollo full-stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
+Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](https://4geeksacademy.com/es/inicio), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece [cursos de desarrollo full-stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
 
 Si, en cambio, ya eres programador y deseas devengar un mayor sueldo o te gustaría un giro en tu vida laboral, te recomendamos los siguientes portales de empleo:
 
