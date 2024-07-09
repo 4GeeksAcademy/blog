@@ -14,7 +14,7 @@ cluster: "full-stack"
 
 En nuestra publicación anterior hablábamos sobre lo [que significa ser programador o programadora *full-stack*](/es/tendencias-y-tecnologia/que-es-full-stack) (te recomiendo que le des un vistazo porque es muy interesante). Por resumir: un perfil *full-stack* básicamente es esa persona que trabaja tanto del lado del cliente (*frontend*) como del lado del servidor (*backend*), y es capaz de ofrecer soluciones en cualquier parte de la aplicación. Es un rol muy versátil dentro de los equipos tecnológicos y puede asumir diferentes responsabilidades en los proyectos.
 
-Pero hoy la pregunta, o mejor dicho las preguntas son... **¿cuáles son las habilidades que debería tener una persona “todo terreno”, que trabaja o quiere trabajar en el rol de *Full-Stack*?** ¿Debe tener conocimientos en todas las tecnologías y lenguajes? ¿Bastaría con conocer solo un lenguaje en el *front* y uno en el *back*? ¿En qué tecnologías debería enfocarse? ¿React, Vue o Angular?, ¿Python, PHP o NodeJS? **[¿Cuáles son las principales habilidades de un Full-Stack developer?](/ck/habilidades-desarrollador-full-stack)** 
+Pero hoy la pregunta, o mejor dicho las preguntas son... **¿cuáles son las habilidades que debería tener una persona “todo terreno”, que trabaja o quiere trabajar en el rol de *Full-Stack*?** ¿Debe tener conocimientos en todas las tecnologías y lenguajes? ¿Bastaría con conocer solo un lenguaje en el *front* y uno en el *back*? ¿En qué tecnologías debería enfocarse? ¿React, Vue o Angular?, ¿Python, PHP o NodeJS? **[¿Cuáles son las principales habilidades de un Full-Stack developer?](/es/desarrollador-full-stack/habilidades-desarrollador-full-stack)** 
 Acompáñame a descubrir juntos las respuestas.
 
 ![habilidades de desarrollador full stack](https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-02.png?raw=true)
@@ -81,7 +81,7 @@ Por último, pero no menos importante, toda persona que quiera ser **[full-stack
 
 ## ¿Y las *soft skills? 🖖*
 
-Seguramente estés pensando.. ¿acaso una persona que quiere dedicarse a la programación *full-stack*, solo debe tener habilidades técnicas? La respuesta es clara y rotundamente negativa. Las competencias técnicas son importantes, sí, pero para ser un gran [programador *full-stack*](/time-full-stack-developer), es importantísimo que tengas otras habilidades. Las llamadas habilidades blandas o *soft skills*.
+Seguramente estés pensando.. ¿acaso una persona que quiere dedicarse a la programación *full-stack*, solo debe tener habilidades técnicas? La respuesta es clara y rotundamente negativa. Las competencias técnicas son importantes, sí, pero para ser un gran [programador *full-stack*](/us/coding-bootcamps/full-time-full-stack-developer), es importantísimo que tengas otras habilidades. Las llamadas habilidades blandas o *soft skills*.
 
 **Curiosidad:** qué importante es para un programador la curiosidad, la tecnología avanza muy rápido y si no somos personas curiosas nos quedaremos atrás. Además, la curiosidad nos hace indagar mucho más, buscar otras alternativas para resolver el mismo inconveniente. Si quieres las habilidades que te convierten en un gran full-stack, definitivamente la curiosidad tiene que ser parte de ti.
 
@@ -97,6 +97,6 @@ Pero lo más importante de absolutamente todo siempre será **tu actitud**, con 
 
 ## ¿Tienes alguna otra skill para la lista? 🦾
 
-¿Tú qué opinas acerca de las habilidades técnicas que considero debe tener todo desarrollador o desarrolladora full-stack? ¿Recomendarías algún otro lenguaje en el *back* o en el *front*? ¿Qué otras habilidades suaves, o *soft skills*, consideras necesarias u obligatorias?¿[Sabias que el desarrollo de software en America Latina está en auge](/ck/desarrollo-de-software-en-latam)?
+¿Tú qué opinas acerca de las habilidades técnicas que considero debe tener todo desarrollador o desarrolladora full-stack? ¿Recomendarías algún otro lenguaje en el *back* o en el *front*? ¿Qué otras habilidades suaves, o *soft skills*, consideras necesarias u obligatorias?¿[Sabias que el desarrollo de software en America Latina está en auge](/es/desarrollador-full-stack/desarrollo-de-software-en-latam)?
 
 No olvides dejar tus comentarios, ya que como decía antes, cada quien tendrá su opinión y mientras más opciones conozcamos, más cerca estaremos de describir las habilidades de un desarrollador **full-stack**.

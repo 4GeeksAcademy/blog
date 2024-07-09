@@ -8,7 +8,7 @@ image_alt: "fullstack prework"
 
 ---
 
-¿Quieres convertirte en [full stack developer](/
+¿Quieres convertirte en [full stack developer](/es/coding-bootcamps/desarrollador-full-stack)
 **Tienes tres opciones**: inscribirte en la universidad, un bootcamp o aprender por tu cuenta. Pero, **¿cómo decidir cuál camino elegir**? Tal vez no estés seguro si podrás llegar a ser un buen desarrollador, o si la programación es lo adecuado para ti. Es justo que te demos la oportunidad de probarlo primero.
 
 ![Full stack Dev, software developer](https://breathecode.herokuapp.com/v1/media/file/lautaro-andreani-jpg)
@@ -25,4 +25,4 @@ Nuestro trabajo previo es remoto y en línea, lo que te permite tomar las leccio
 
 #### ¿Qué tal aprovechar esta gran oportunidad y ser un full stack developer con mejores oportunidades laborales?
 
-<call-to-action button_text="Haz clic ahora" button_link="/ 0.15)" title="¡Descubre tu potencial como desarrollador full-stack!" text="En 4Geeks Academy, te ofrecemos la llave para desbloquear un mundo de oportunidades en la programación. "></call-to-action>
+<call-to-action button_text="Haz clic ahora" button_link="/es/coding-bootcamps/desarrollador-full-stack" background="rgba(0, 151, 205, 0.15)" title="¡Descubre tu potencial como desarrollador full-stack!" text="En 4Geeks Academy, te ofrecemos la llave para desbloquear un mundo de oportunidades en la programación. "></call-to-action>

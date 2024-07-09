@@ -15,18 +15,18 @@ featured: true
 ## HOW TO PAY FOR A CODING BOOTCAMP
 
 
-Pricing and the options to pay for a quality program such as 4Geeks (whether a [full-stack developer course](/) or [machine learning](/us/coding-bootcamps/data/or the [data science](/u/ence-machine-learning?/fundamental importance. Not just the actual state/), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle. 
+Pricing and the options to pay for a quality program such as 4Geeks (whether a [full-stack developer course](/us/coding-bootcamps/part-time-full-stack-developer) or [machine learning](/us/coding-bootcamps/datascience-machine-learning) or the [data science](/us/coding-bootcamps/datascience-machine-learning)), it’s just of a fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable and how to make it a reality instead of an obstacle.
 
 
 In general terms, pricing is an obstacle for top quality education. Every now and then I realize how important is to talk about how are we capable of offering the program at such a spectacular tuition fee. To be honest, we just can, and we just keep getting better at it. Not only our program gets better, more awarded, and increases credibility over the years, but also we are capable of improving access to education for our students. 
 
 
-Recently, we posted some news regarding a new [scholarship at 4Geeks Academy](/aid, and someone on social media said: “That’s impossible, it has to be a Scam”. I couldn’t believe it. We are achieving a level of support that’s almost unbelievable for some.  I do understand why it creates that feeling in someone that is not aware of the things we are doing to improve their chances to get the best coding education possible for a fraction of the cost of a regular program in the US (or worldwide).
+Recently, we posted some news regarding a new [scholarship at 4Geeks Academy](/us/financials), and someone on social media said: “That’s impossible, it has to be a Scam”. I couldn’t believe it. We are achieving a level of support that’s almost unbelievable for some.  I do understand why it creates that feeling in someone that is not aware of the things we are doing to improve their chances to get the best coding education possible for a fraction of the cost of a regular program in the US (or worldwide).
 
 Now I just remembered how important it is to share, in detail, every option or scholarship or payment plan available for those who are looking to change their life with coding and 4Geeks. 
 
 
-The main question remains the same: how to enroll/get admitted into a premium quality [coding bootcamp](/ent and future? In this case, how to pay for a worldwide awarded coding program?
+The main question remains the same: how to enroll/get admitted into a premium quality [coding bootcamp](/us/coding-bootcamps/part-time-full-stack-developer) and future? In this case, how to pay for a worldwide awarded coding program?
 
 ## How to apply if you are Unemployed or Underemployed 
 
