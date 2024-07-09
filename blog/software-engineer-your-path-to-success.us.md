@@ -10,7 +10,7 @@ image_alt: "software engineer your path to success"
 
 ## What Does a Software Engineer Do?
 
-A software engineer is essentially a [full-stack developer](/time-full-stack-developer). This role plays a crucial part in **designing, developing, and maintaining software applications and systems**, which includes coding, problem-solving, and ensuring the smooth operation of applications. Software engineers work on a wide range of projects, from mobile applications to database management systems. Their daily responsibilities vary, but they generally involve writing coding, troubleshooting, collaborating with other team members, and updating existing applications. Full-stack developers master both frontend development (what users see) and backend development (the internal functioning of an application).
+A software engineer is essentially a [full-stack developer](/us/coding-bootcamps/part-time-full-stack-developer). This role plays a crucial part in **designing, developing, and maintaining software applications and systems**, which includes coding, problem-solving, and ensuring the smooth operation of applications. Software engineers work on a wide range of projects, from mobile applications to database management systems. Their daily responsibilities vary, but they generally involve writing coding, troubleshooting, collaborating with other team members, and updating existing applications. Full-stack developers master both frontend development (what users see) and backend development (the internal functioning of an application).
 
 
 ## The Basics: Getting Started with Software Engineering
