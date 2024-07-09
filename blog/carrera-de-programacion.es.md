@@ -5,7 +5,7 @@ excerpt: "La carrera de programación es una de las más demandadas y mejor paga
 template: "landing_post"
 title: "De qué trata la Carrera de Programación"
 description: "La carrera de programación es una de las más demandadas y mejor pagadas actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador."
-image: "/images/4geeks-main.jpg"
+image: "https://4geeksacademy.com/images/4geeks-main.jpg"
 image_alt: ""
 status: "published"
 featured: true
