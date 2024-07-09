@@ -27,7 +27,7 @@ Empezaré por el **front**, y luego pasaremos al **back**, pero también hablare
 
 ### HTML y CSS
 
-Tenemos que empezar claramente por **HTML y CSS**, tecnologías imprescindibles si quieres trabajar como **[Full-Stack](/developer)**. Estas dos tecnologías son para el **front-end**, HTML se usa para añadir contenido a tus aplicaciones web y CSS para aplicar estilos a este contenido, con estas dos tecnologías puedes maquetar tus páginas y hacer la mejor, y más bonita interfaz. Un buen [programador full-stack](/es/coding-bootcamps/full/envolverse con soltura en HTML y CSS.
+Tenemos que empezar claramente por **HTML y CSS**, tecnologías imprescindibles si quieres trabajar como **[Full-Stack](/es/coding-bootcamps/desarrollador-full-stack)**. Estas dos tecnologías son para el **front-end**, HTML se usa para añadir contenido a tus aplicaciones web y CSS para aplicar estilos a este contenido, con estas dos tecnologías puedes maquetar tus páginas y hacer la mejor, y más bonita interfaz. Un buen [programador full-stack](/es/coding-bootcamps/full-stack-part-time) debe desenvolverse con soltura en HTML y CSS.
 
 ### JavaScript
 
