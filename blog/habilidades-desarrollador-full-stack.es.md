@@ -75,7 +75,7 @@ Una vez escuché a un alumno de la academia que decía, “si sabes programació
 
 ## Herramientas importantes para las potenciar las habilidades de un desarrollador Full Stack 🔧⛏
 
-Por último, pero no menos importante, toda persona que quiera ser **[full-stack developer](/developer)** tiene saber utilizar **Git, GitHub** (o cualquier otro servicio de repositorios de código en la nube) y la terminal.
+Por último, pero no menos importante, toda persona que quiera ser **[full-stack developer](/es/desarrollador-full-stack/desarrollador-full-stack-developer)** tiene saber utilizar **Git, GitHub** (o cualquier otro servicio de repositorios de código en la nube) y la terminal.
 
 [Git](https://git-scm.com/) es un sistema de control de versiones, con el que podrás administrar todos aquellos cambios que realices en tus aplicaciones, códigos, *software*, documentación, etc. Gracias a Git los equipos de programación pueden trabajar en equipo, y para ello utilizan GitHub, un portal en el que puedes alojar todos tus desarrollos, si controlas las versiones usando Git. Por supuesto, para poder utilizar Git y otras tecnologías, es necesario que sepas utilizar la **línea de comandos** (o terminal, o consola) que, además, te permite ejecutar acciones dentro del servidor, como instalar paquetes, configurar el entorno, o gestionar estructuras de archivos y directorios, entre otras.
 
