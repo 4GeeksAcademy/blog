@@ -15,7 +15,7 @@ Los bootcamps de programación surgieron, justamente, para atender esta realidad
 
 ## El secreto de la metodología de los bootcamps de programación
 
-Algo que han demostrado estos [coding bootcamps](https://4geeksacademy.com/us/coding-bootcamp), es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
+Algo que han demostrado estos [coding bootcamps](/us/coding-bootcamp), es que el proceso de aprendizaje, enfocado en la práctica y bajo un esquema de juego, resulta más eficiente y rápido, brindando a los estudiantes la oportunidad de reducir el tiempo de estudio mientras se enfrentan a problemas cotidianos, siendo guiados por un líder o mentor, que les orienta para encontrar soluciones de manera lógica.
 
 Incluso, si estás trabajando, pero quieres buscar otras opciones y en un futuro cercano dedicarte a la programación, soltando ese trabajo que te ata y no te hace feliz; los bootcamps son perfectos porque te permitirán estudiar medio tiempo sin dejar tu trabajo actual.
 
@@ -30,7 +30,7 @@ El hecho de que los bootcamps de programación trabajen de la mano con empresas 
 
 Otra de las razones destacadas es que, para ingresar a una bootcamp de programación, la edad no es un factor determinante. Las oportunidades se abren para personas que normalmente ya no son elegibles en otros campos, porque superan el rango de los 35-40 años de edad.
 
-Que alguien consiga a sus 45 años [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero), desarrollando nuevas habilidades tecnológicas, ampliando el espectro laboral, toda vez que se suman experiencia y habilidades blandas con las nuevas adquiridas, ofreciendo al talento más posibilidades de obtener un trabajo; y al empleador, contar con un personal preparado y cualificado que le resuelven sus problemas tecnológicos.
+Que alguien consiga a sus 45 años [aprender a programar](/es/aprender-a-programar/aprender-a-programar-desde-cero), desarrollando nuevas habilidades tecnológicas, ampliando el espectro laboral, toda vez que se suman experiencia y habilidades blandas con las nuevas adquiridas, ofreciendo al talento más posibilidades de obtener un trabajo; y al empleador, contar con un personal preparado y cualificado que le resuelven sus problemas tecnológicos.
 
 ## ¿Vale la pena estudiar en un bootcamp de programación?
 
@@ -40,7 +40,7 @@ Aún cuando pareciera que el mundo ha comprendido que la digitalización es una 
 
 Las principales suelen ser tiempo, dinero, oportunidades de emplearse, edad.
 
-Formarse como un [desarrollador full stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
+Formarse como un [desarrollador full stack](/es/coding-bootcamps/desarrollador-full-stack) amplía las posibilidades para las personas que en carreras tradicionales, ven cómo la brecha se cierra en cuanto a oportunidades de empleo de acuerdo a la edad. La edad no es, ni por poca, ni por mucho, una limitante que impida el proceso de aprendizaje en programación. 
 
 Ahora queremos contarte por qué el tiempo, el dinero y las oportunidades de empleo, son favorables para tomar la decisión de ingresar a un bootcamp de programación.
 
@@ -55,7 +55,7 @@ Mientras que un estudiante universitario de CS invierte 4 años para graduarse, 
 
 Cabe destacar que bajo la metodología de bootcamp, el estudiante comienza a practicar y manejar casos prácticamente desde que comienza. De hecho, es la promesa base: aprender desde la práctica y aprender jugando.
 
-Y si nos vamos al tiempo que se toma graduarse en una carrera más los costos, los números hablan por sí solos: el salario inicial para un graduado de un coding bootcamp es de aproximadamente $18k en países como Colombia, Argentina, Uruguay, entre otros, el [salario de un desarrollador full-stack en Chile](https://4geeksacademy.com/es/desarrollador-full-stack/cuanto-gana-un-desarrollador-full-stack) es de aproximadamente $30K,  $50k es el [salario de un software engineer en Florida](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary-florida), y la expectativa salarial de un graduado de CS es básicamente la misma. Depende más de la capacidad desarrollada y dedicación que del título. Además, ¿cuánto cuesta? Cuota de matrícula universitaria + 4 años de costo de vida = Demasiado. Bootcamp de programación: 18 semanas y $ 10k (en promedio).
+Y si nos vamos al tiempo que se toma graduarse en una carrera más los costos, los números hablan por sí solos: el salario inicial para un graduado de un coding bootcamp es de aproximadamente $18k en países como Colombia, Argentina, Uruguay, entre otros, el [salario de un desarrollador full-stack en Chile](/es/desarrollador-full-stack/cuanto-gana-un-desarrollador-full-stack) es de aproximadamente $30K,  $50k es el [salario de un software engineer en Florida](/us/software-engineer-salary/software-engineer-salary-florida), y la expectativa salarial de un graduado de CS es básicamente la misma. Depende más de la capacidad desarrollada y dedicación que del título. Además, ¿cuánto cuesta? Cuota de matrícula universitaria + 4 años de costo de vida = Demasiado. Bootcamp de programación: 18 semanas y $ 10k (en promedio).
 
 
 ## Oportunidades Laborales como Programador
@@ -70,4 +70,4 @@ En 2021, la BBC compartió un [estudio](https://www.bbc.com/mundo/noticias-56247
 
 Si llegaste hasta aquí es porque realmente ya lo tienes claro. Es momento de actuar y embarcarte en una oportunidad que supondrá para ti un mayor retorno de inversión, abriéndote a un mundo de mayores posibilidades profesionales.
 
-Nuestro [bootcamp](https://4geeksacademy.com/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **[ingeniero de Data Science](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning)** y **experto en Blockchain y web 3**.
+Nuestro [bootcamp](/es/inicio) ofrece diferentes opciones de pagos y tres programas con carreras líderes: **desarrollador full stack development**, **[ingeniero de Data Science](/es/coding-bootcamps/curso-datascience-machine-learning)** y **experto en Blockchain y web 3**.

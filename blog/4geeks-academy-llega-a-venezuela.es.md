@@ -74,7 +74,7 @@ La sede de El Nacional, en Caracas, será el lugar donde se impartirán las clas
 **Para más información y registro:**
 
 **Correo**: [venezuela@4geeksacademy.com](mailto:venezuela@4geeks.co). 
-**Web**: [4Geeks Acedemy - Venezuela](https://4geeksacademy.com/us/coding-campus/coding-bootcamp-caracas). 
+**Web**: [4Geeks Acedemy - Venezuela](/us/coding-campus/coding-bootcamp-caracas). 
 **Facebook**: [/4geeksacademy](https://www.facebook.com/4geeksacademy). 
 **Twitter e Instagram**: @4GeeksAcademy. 
 

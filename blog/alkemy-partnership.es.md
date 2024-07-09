@@ -6,7 +6,7 @@ title:  "Certifica tus habilidades con Alkemy"
 
 ---
 
-[4Geeks Academy](https://4geeksacademy.com/es/inicio) se complace en anunciar su partnership con Alkemy, una plataforma donde los profesionales de la tecnología pueden realizar certificaciones de habilidades de forma gratuita y conectarse con oportunidades laborales. Esta colaboración permitirá a los graduados de 4Geeks Academy determinar su nivel de habilidad de acuerdo con las necesidades del mercado actual y ayudarles a encontrar trabajo a través de la red de más de 1000 empresas partners de Alkemy en toda América Latina.
+[4Geeks Academy](/es/inicio) se complace en anunciar su partnership con Alkemy, una plataforma donde los profesionales de la tecnología pueden realizar certificaciones de habilidades de forma gratuita y conectarse con oportunidades laborales. Esta colaboración permitirá a los graduados de 4Geeks Academy determinar su nivel de habilidad de acuerdo con las necesidades del mercado actual y ayudarles a encontrar trabajo a través de la red de más de 1000 empresas partners de Alkemy en toda América Latina.
 
 En 4Geeks Academy estamos comprometidos con el éxito de nuestros estudiantes, es por eso que elegimos Alkemy, una plataforma con una tasa de placements del 85%, para ayudar a llevar las habilidades de nuestros estudiantes al siguiente nivel después de su tiempo en 4Geeks. Alkemy ofrece más de 200 certificaciones de lenguajes de programación. Al evaluar sus habilidades con estos test en demanda, nuestros estudiantes tendrán una mejor visión de cómo pueden posicionarse más efectivamente para los trabajos en el mercado actual.
 

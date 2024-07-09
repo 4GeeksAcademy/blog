@@ -22,7 +22,7 @@ Y como la  experiencia es un factor importante y ayuda a determinar el sueldo a 
 
 ## 5 áreas de programación mejor pagadas en Chile
 
-Entre todas las áreas que aglomeran la [carrera de programación](https://4geeksacademy.com/es/carrera-de-programacion/carrera-de-programacion-es), estas son las mejores pagadas en Chile: 
+Entre todas las áreas que aglomeran la [carrera de programación](/es/carrera-de-programacion/carrera-de-programacion-es), estas son las mejores pagadas en Chile: 
 
 1. Ingeniería de Software: es el área tradicionalmente mejor pagada. Abarca habilidades como full stack y calidad de código. Los sueldos van desde 2000$ hasta 5000$. 
 2. Big Data o Inteligencia artificial: esta área es bastante demandada y bien paga. Los sueldos varían entre 2500$ para roles junior y 5000$ para senior.
@@ -34,7 +34,7 @@ Como indicamos anteriormente, recuerda que el sueldo bruto devengado por un prog
 
 ## ¿Seguirá en crecimiento el mercado laboral para programadores en Chile?
 
-La respuesta es un rotundo sí, no solo porque el área abarca mucho el futuro tecnológico, sino que el gobierno chileno está impulsando y promoviendo el crecimiento de la industria para los grandes avances del país, cada día son más las personas que deciden [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) en un [bootcamp de programación en Chile](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago). 
+La respuesta es un rotundo sí, no solo porque el área abarca mucho el futuro tecnológico, sino que el gobierno chileno está impulsando y promoviendo el crecimiento de la industria para los grandes avances del país, cada día son más las personas que deciden [aprender a programar](/es/aprender-a-programar/aprender-a-programar-desde-cero) en un [bootcamp de programación en Chile](/es/coding-campus/bootcamp-programacion-santiago). 
 
 El crecimiento del área va de la mano con la transformación digital de las empresas que requieren más tecnología para ser más competitivas; también con la innovación de las nuevas tecnologías que requieren de talentos para desarrollarlas y perfeccionarlas. 
 
@@ -44,7 +44,7 @@ No podemos olvidar que la inversión extranjera que Chile está atrayendo se est
 
 Si aún no estás dentro de la industria de la tecnología, este es el momento para tomar las riendas y formar parte. Busca las herramientas necesarias para brillar, aprende a programar y desarrolla tu potencial para que puedas mejorar tus ingresos y tu nivel académico. 
 
-Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](https://4geeksacademy.com/es/inicio), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece [cursos de desarrollo full-stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
+Si no sabes por donde comenzar, busca cursos, [bootcamps sobre programación](/es/inicio), entre otros programas para desarrolladores. **4Geeks Academy** te ofrece [cursos de desarrollo full-stack](/es/coding-bootcamps/desarrollador-full-stack) y certificaciones desde cero si deseas comenzar en el mundo del desarrollo y especializarte. 
 
 Si, en cambio, ya eres programador y deseas devengar un mayor sueldo o te gustaría un giro en tu vida laboral, te recomendamos los siguientes portales de empleo:
 

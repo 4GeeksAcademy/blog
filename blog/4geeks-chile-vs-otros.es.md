@@ -8,7 +8,7 @@ Cuando 4Geeks llegó a Chile en 2018 solo estaba Desafío Latam en el mercado. A
 También hay que destacar que recientemente se dio el boom de los cursos cortos de programación con ocasión del [Programa Talento Digital impulsado por el Gobierno Chileno](https://fch.cl/noticias/talento-digital-para-chile-cumple-cuatro-anos-con-mas-de-14-mil-becas-de-reconversion-y-especializacion-digital/#:~:text=Talento%20Digital%20para%20Chile%20es,acceder%20a%20empleos%20de%20calidad.). Las empresas seleccionadas y la forma en que se seleccionaron, las formas del proceso, los costos e inversión, los resultados y la experiencia de la abrumadora mayoría de las personas, no permiten validar que un proyecto que pretendía ser muy  
 
 Sección 1: Los mejores bootcamps de codificación en Chile
-Cuando se trata de [bootcamps de programación, Chile](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago/) definitivamente tiene mucho que ofrecer. Estos son algunos de los mejores bootcamps de codificación en Chile:
+Cuando se trata de [bootcamps de programación, Chile](/es/coding-campus/bootcamp-programacion-santiago/) definitivamente tiene mucho que ofrecer. Estos son algunos de los mejores bootcamps de codificación en Chile:
 
 4Geeks Academy: Si quieres cambiar tu carrera, obtener un mejor empleo como desarrollador y pertenecer a una comunidad global, la mejor opción es 4Geeks Academy. Sedes en USA, Canadá, España, Portugal, Colombia, Venezuela, Uruguay y Chile, con más de 4000 graduados, certificados por el Departamento de Educación de Estados Unidos, y galardonado por syllabus, outcomes y el performance de sus programas y graduados. 
 Desafío Latam: Con campus en Santiago, Concepción y Lima, Desafío Latam ofrece cursos de tiempo completo y medio tiempo en desarrollo web, ciencia de datos y diseño UX/UI. Su plan de estudios está diseñado para desarrollar sus habilidades desde cero y prepararlo para una carrera exitosa en tecnología.
@@ -18,7 +18,7 @@ Coderhouse: Con sedes en Santiago y Buenos Aires, Coderhouse ofrece una variedad
 Sección 2: Beneficios de asistir a un Bootcamp de programación
 Si todavía está indeciso acerca de asistir a un bootcamp de codificación, considere estos beneficios clave:
 
-1. Aprendizaje acelerado: los [bootcamps de programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero) están diseñados para que esté listo para el trabajo en cuestión de meses, no de años. El plan de estudios intensivo y enfocado significa que aprenderá nuevas habilidades y construirá proyectos desde el primer día.
+1. Aprendizaje acelerado: los [bootcamps de programación](/es/curso-de-programacion-desde-cero) están diseñados para que esté listo para el trabajo en cuestión de meses, no de años. El plan de estudios intensivo y enfocado significa que aprenderá nuevas habilidades y construirá proyectos desde el primer día.
 
 2. Habilidades prácticas: los bootcamps tienen que ver con el aprendizaje práctico, por lo que se graduará con una cartera de proyectos del mundo real para mostrar a los posibles empleadores.
 
@@ -28,7 +28,7 @@ Si todavía está indeciso acerca de asistir a un bootcamp de codificación, con
 
 Sección 3: Consejos para elegir el Bootcamp de programación adecuado
 
-Con tantos excelentes [bootcamps de programación en Chile](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago) para elegir, ¿cómo saber cuál es el adecuado para usted? Aquí hay algunos consejos para ayudarlo a tomar la mejor decisión:
+Con tantos excelentes [bootcamps de programación en Chile](/es/coding-campus/bootcamp-programacion-santiago) para elegir, ¿cómo saber cuál es el adecuado para usted? Aquí hay algunos consejos para ayudarlo a tomar la mejor decisión:
 
 1. Conozca sus objetivos: Antes de comenzar a investigar bootcamps, tómese un tiempo para pensar en sus objetivos. ¿Está buscando aprender un lenguaje de programación específico o enfocarse en un área particular de la tecnología? Saber lo que quiere lograr le ayudará a reducir sus opciones.
 

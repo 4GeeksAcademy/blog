@@ -5,7 +5,7 @@ excerpt: "A straightforward analysis of your main Coding Bootcamps options in Mi
 slug: "wyncode-ironhack-and-4geeks-academy-comparison"
 template: "post" # post or landing_post
 title: "Wyncode, Ironhack and 4Geeks Academy comparison"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2016/01/wyncode4geeksironhack.jpeg"
+image: "/wp-content/uploads/2016/01/wyncode4geeksironhack.jpeg"
 image_alt: ""
 cluster: "coding-bootcamps"
 status: "published"

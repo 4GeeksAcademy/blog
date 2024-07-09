@@ -40,7 +40,7 @@ Because we are living in a digital native era, where most businesses and industr
 
 Regardless of the market you want to work in, sports, health, education, entertainment, food, etc, it is very likely they need software developers. 
 
-This scenario is expected to grow in the coming years, so becoming a software developer might be the most sustainable job of our generation among others inside the tech industry. To get to know more about the market growth stats [click here](https://4geeksacademy.com/us/full-stack-developer/internships-bootcamps-2021).
+This scenario is expected to grow in the coming years, so becoming a software developer might be the most sustainable job of our generation among others inside the tech industry. To get to know more about the market growth stats [click here](/us/full-stack-developer/internships-bootcamps-2021).
 
 Another perk about this career is the location flexibility, you may find yourself working for a company, and living in another state or even country, travel plans are not a work limitation anymore, as long as you deliver your projects and stick to your deadlines, it will work.
 
@@ -53,7 +53,7 @@ Last but not least, the position as a software developer pays well, according to
 Most job applications require a level of certification to validate your skills, here we pinpoint a few things you must keep in mind while looking for a great program certification:
 
 - The importance of figuring out what industry you'd like to work in, sports, health, development, etc.
-- What role looks appealing to you? Frontend developer? Backend developer? [Full-stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer)?  
+- What role looks appealing to you? Frontend developer? Backend developer? [Full-stack developer](/us/full-stack-developer/full-stack-developer)?  
 - Once you have that clear, find out what skills the role demands
 - How much time are you willing to dedicate to your learning path?
 - Finally, look for the certification that fulfills your expectations: time-based, skills knowledge you are looking for that particular position and drives you to practice a lot and build a strong portfolio so at the end of your program you have a solid foundation to apply to your dream job, most popular online portfolios include: GitHub, Behance, and LinkedIn Pages.

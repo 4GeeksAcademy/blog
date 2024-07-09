@@ -71,4 +71,4 @@ Nuestro programa AI/ML es el primer bootcamp de su tipo que se centra en las hab
 
 Si estásestas considerando sumergirte en el mundo de la I.A. / ML, haz clic aquí para conocer más sobre nuestros programas.
 
-[Subscribete a nuestra newsletter](https://4geeksacademy.com/es/inicio) para obtener más información sobre nuestros programas, comunidad de alumnos, eventos, partners y reconocimientos especiales. 🤓 🖥
+[Subscribete a nuestra newsletter](/es/inicio) para obtener más información sobre nuestros programas, comunidad de alumnos, eventos, partners y reconocimientos especiales. 🤓 🖥
