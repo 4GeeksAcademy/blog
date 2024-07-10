@@ -39,7 +39,7 @@ But I believe that the reason that they are relentless to change is because - as
   3. You have to test and measure how those changes may impact the performance of your students.
 
 
-The truth is that, in the last 12 years, the web has evolved into a lot more than just web applications.  Now, coding languages have bigger purposes and they are seeking to enter into new paths (AI, VR, Machine learning, etc.).  Being aware of that, we decided to implement [this syllabus.](/wp-content/uploads/2017/09/4GEEKS-ACADEMY-FULL.pdf)
+The truth is that, in the last 12 years, the web has evolved into a lot more than just web applications.  Now, coding languages have bigger purposes and they are seeking to enter into new paths (AI, VR, Machine learning, etc.).  Being aware of that, we decided to implement [this syllabus.](https://storage.googleapis.com/4geeks-academy-website/blog/2017/09/4GEEKS-ACADEMY-FULL.pdf)
 
 **For example, let's talk about functionality:**
 
@@ -89,4 +89,4 @@ I can keep going all day, but I hope you get the idea.  I agree that syntax doe
 
 **4Geeks Academy Syllabus:**
 
-We encourage our team to rethink our syllabus every month, adding or removing whatever is needed to have the best product possible. We think having an up-to-date syllabus will increase our student's success and put us ahead of the competition at the same time. [We invite you to read everything about our syllabus in this pdf.](/wp-content/uploads/2017/09/4GEEKS-ACADEMY-FULL.pdf)
+We encourage our team to rethink our syllabus every month, adding or removing whatever is needed to have the best product possible. We think having an up-to-date syllabus will increase our student's success and put us ahead of the competition at the same time. [We invite you to read everything about our syllabus in this pdf.](https://storage.googleapis.com/4geeks-academy-website/blog/2017/09/4GEEKS-ACADEMY-FULL.pdf)

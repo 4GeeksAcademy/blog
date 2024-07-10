@@ -40,7 +40,7 @@ Debido a que vivimos en la era de las aldeas digitales, donde la mayoría de las
 
 Independientemente del mercado en el que quieras trabajar, deportes, salud, educación, entretenimiento, alimentación, etc. Lo más probable es que necesiten desarrolladores de software.
 
-Se espera que este escenario crezca en los próximos años, por lo que convertirse en desarrollador de software podría ser el trabajo más sostenible de nuestra generación entre otros dentro de la industria tecnológica. Para conocer más sobre las estadísticas de crecimiento del mercado haz [click aquí](https://4geeksacademy.com/us/coding-bootcamps/internships-bootcamps-2021)
+Se espera que este escenario crezca en los próximos años, por lo que convertirse en desarrollador de software podría ser el trabajo más sostenible de nuestra generación entre otros dentro de la industria tecnológica. Para conocer más sobre las estadísticas de crecimiento del mercado haz [click aquí](/us/full-stack-developer/internships-bootcamps-2021)
 
 Otra ventaja de esta carrera es la flexibilidad de la ubicación, es posible que trabajes para una empresa y vivas en otro estado o incluso en otro país, los planes de viaje ya no son una limitación laboral, siempre que entregues tus proyectos y cumplas con los plazos establecidos, funcionará.
 

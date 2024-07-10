@@ -39,7 +39,7 @@ That’s why we don’t really need to market the importance of coding, we don�
 
 We have news for you: College is not about learning a specific skill but rather an experience. Traditional education is about a career path design in which the students decide their own subject, what they think they can excel at.  In college, you will learn a lot about the processes and solutions engineers need to think about. In a coding camp, you learn exactly what to do to solve those problems. 
 
-Coding Bootcamps are a whole new era of learning, [as we've stated before.](/us/learn-to-code/turnaround-education-traditions-4geeks-academy) Coding is not to be learned by contemplation, but rather by practice. Part-Time programs let you digest the information with enough time to think about the processes and/or solutions for a project. A bootcamp methodology, like the one we offer in 4Geeks Academy, provides a hands-on experience with the great advantage of having students and mentors around you to help you learn teamwork—a valuable skill in tech jobs around the world.
+Coding Bootcamps are a whole new era of learning, [as we've stated before.](/us/trends-and-tech/turnaround-education-traditions-4geeks-academy) Coding is not to be learned by contemplation, but rather by practice. Part-Time programs let you digest the information with enough time to think about the processes and/or solutions for a project. A bootcamp methodology, like the one we offer in 4Geeks Academy, provides a hands-on experience with the great advantage of having students and mentors around you to help you learn teamwork—a valuable skill in tech jobs around the world.
 
 
 # 4Geeks speaks from experience

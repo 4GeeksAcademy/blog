@@ -48,4 +48,4 @@ Aquí te dejamos nuestro top 5 de juegos gratis en los que puedes practicar tus 
 
 ![coding.png](https://storage.googleapis.com/media-breathecode/cdbe245edb2c76ec241f1426a39fa7d454850e4e44f17d6a6be9d0d3f9e043f6)
 
-Esperamos que disfrutes estos juegos tanto como nosotros, y te ayuden a fortalecer tus habilidades de programación. Si estás buscando iniciar una carrera como Full-Stack Software Developer o Machine Learning Engineer, nuestro Coding Bootcamp te ayudará a despegar en estos y otros lenguajes de programación, para conocer más sobre nuestros programas [haz click aquí.](https://4geeksacademy.com/)
+Esperamos que disfrutes estos juegos tanto como nosotros, y te ayuden a fortalecer tus habilidades de programación. Si estás buscando iniciar una carrera como Full-Stack Software Developer o Machine Learning Engineer, nuestro Coding Bootcamp te ayudará a despegar en estos y otros lenguajes de programación, para conocer más sobre nuestros programas [haz click aquí.](/es/inicio)

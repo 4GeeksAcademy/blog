@@ -26,7 +26,7 @@ La transformación digital no solamente favorecerá las carreras y ocupaciones r
 
 ![Aprender a Programar.png](http://breathecode.herokuapp.com/v1/media/file/aprender-a-programar-png.png)
 
-Esto llevará a que muchos necesiten hacer un cambio de carrera rápidamente. Habrá trabajo disponible, pero para acceder a él hay que formarse en otras áreas. La programación es una opción para **seguir vigente en el mercado laboral** **y para obtener empleo.** A través de alternativas educativas con formato intensivo y con un componente de práctica importante, no es necesario tener experiencia en tecnología ni conocimientos de matemáticas avanzados para [aprender a programar desde cero](https://4geeksacademy.com/es/curso-de-programacion-desde-cero), y así mejorar las posibilidades de tener un mejor futuro.
+Esto llevará a que muchos necesiten hacer un cambio de carrera rápidamente. Habrá trabajo disponible, pero para acceder a él hay que formarse en otras áreas. La programación es una opción para **seguir vigente en el mercado laboral** **y para obtener empleo.** A través de alternativas educativas con formato intensivo y con un componente de práctica importante, no es necesario tener experiencia en tecnología ni conocimientos de matemáticas avanzados para [aprender a programar desde cero](/es/curso-de-programacion-desde-cero), y así mejorar las posibilidades de tener un mejor futuro.
 
 Para 2025 son múltiples las tecnologías que adoptarán las empresas para ser competitivas, y los programadores serán parte de que estas tecnologías se implementen y se incorporen en el día a día, desde Cloud Computing, pasando por análisis de Big Data, IoT o el internet de las cosas, encriptamiento y ciberseguridad, inteligencia artificial, procesamiento de texto, imágenes y voz, comercio electrónico, etc.
 
@@ -38,7 +38,7 @@ La pandemia tuvo mayor impacto en trabajos con salarios bajos, casi todo el crec
 
 La lista de Indeed de los **25 empleos con el salario más alto sin necesidad de experiencia previa**, **incluye seis empleos que involucran la programación**: desarrollador web, analista de negocios, administrador de base de datos, informático, ingeniero de software, científico de datos. Aunque esta recopila información de Estados Unidos, veremos más adelante de este blogpost que aprender programación y desarrollar una carrera en el área también da la oportunidad de tener trabajos remotos. Así que tomemos esta referencia para confirmar que aprender a programar brinda una gran oportunidad de obtener mayores ingresos.
 
-Ahora, si se trata de un [fullstack developer](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), el escenario es aún mejor. Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año. Al cursar un coding bootcamp, es posible aprender a programar y convertirse en fullstack developer y así abrir la puerta de entrada a la empleabilidad en el sector de tecnología.
+Ahora, si se trata de un [fullstack developer](/us/coding-bootcamps/part-time-full-stack-developer), el escenario es aún mejor. Según Indeed, un desarrollador fullstack con menos de un año de experiencia laboral puede ganar hasta $87k al año. Al cursar un coding bootcamp, es posible aprender a programar y convertirse en fullstack developer y así abrir la puerta de entrada a la empleabilidad en el sector de tecnología.
 
 Si bien hay empresas extranjeras que hacen outsourcing de desarrolladores en Latinoamérica con salarios menores a los ofrecidos en Europa y Estados Unidos, también es cierto que el repunte del trabajo remoto es una oportunidad para que las empresas consideren talento latinoamericano para posiciones fijas dentro de sus equipos de tecnología.
 
@@ -60,7 +60,7 @@ Los motivos para aprender programación no están relacionados solamente al áre
 
 No vamos a caer en el lugar común de argumentar lo rápido que cambia la tecnología pues todos somos testigos de ello. Lo que sí podemos rescatar son las implicaciones de aprendizaje que trae el dinamismo de la tecnología.
 
-Hay múltiples vías para convertirse en programador, desde las tradicionales que involucran ir a la universidad, hasta las alternativas costo-eficientes de cursar un [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp). No importa cuál sea la vía a elegir, aprender a programar y ser exitoso en ello implica aprender a aprender. Cualquiera sea la forma en la que se aprende a programar desde cero, la que asegura que podrás sostenerte como desarrollador será aquella que te permita derrumbar tus propios paradigmas.
+Hay múltiples vías para convertirse en programador, desde las tradicionales que involucran ir a la universidad, hasta las alternativas costo-eficientes de cursar un [coding bootcamp](/us/coding-bootcamp). No importa cuál sea la vía a elegir, aprender a programar y ser exitoso en ello implica aprender a aprender. Cualquiera sea la forma en la que se aprende a programar desde cero, la que asegura que podrás sostenerte como desarrollador será aquella que te permita derrumbar tus propios paradigmas.
 
 La experiencia educativa que te permite ser humilde para entender que no es la acumulación de conocimientos lo que te llevará al éxito sino la capacidad de desaprender y aprender (nuevas herramientas, lenguajes, librerías, frameworks), es la que te formará como un desarrollador resiliente, flexible y preparado para los cambios. Generalmente, y por nuestra experiencia formando a programadores desde cero, la universidad no es la vía que resulta en desarrolladores más resilientes, y la autodidáctica no es la que más rápido forma a programadores exitosos.
 
@@ -84,7 +84,7 @@ No nos engañemos, programar no es fácil. Las continuas innovaciones simplifica
 
 ¡Vaya que hay grandes comunidades en línea para videojuegos, esports, anime, trading, criptomonedas! Pero la comunidad de programadores es particularmente interesante porque probablemente es de las pocas en la que solucionas de forma colaborativa con extraños problemas que tienes en tu propio trabajo.
 
-No importa si estudias un [curso de programación](https://4geeksacademy.com/es/curso-programacion/cursos-de-programacion) o si ya tienes varios años de experiencia trabajando como desarrollador, en la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código. Cuando aprendes a programar es inevitable usar los recursos disponibles gracias a las comunidades de desarrolladores, y lo ideal es que seas parte activa de la comunidad, no solamente a través del aprendizaje sino también a través de la colaboración, de compartir tu conocimiento y experiencias con otros, ¡sin importar el tiempo de experiencia que tengas en el área!
+No importa si estudias un [curso de programación](/es/curso-programacion/cursos-de-programacion) o si ya tienes varios años de experiencia trabajando como desarrollador, en la comunidad de desarrolladores encontrarás tanto recursos como oportunidades de interacción para resolver dudas y problemas con tu código. Cuando aprendes a programar es inevitable usar los recursos disponibles gracias a las comunidades de desarrolladores, y lo ideal es que seas parte activa de la comunidad, no solamente a través del aprendizaje sino también a través de la colaboración, de compartir tu conocimiento y experiencias con otros, ¡sin importar el tiempo de experiencia que tengas en el área!
 
 <call-to-action button_text="Ver programa" button_link="/es/curso-de-programacion-desde-cero" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, gracias a la programación" text="Te invitamos a impulsar tu carrera, aprendiendo a programar con nuestro Programa Full-Stack Developer."></call-to-action>
 
@@ -132,7 +132,7 @@ Además de ser parte del kit de inicio en el mundo de la programación, también
 
 - Conocer JavaScript da versatilidad profesional. Puedes programar para el lado del cliente (frontend), y para el lado del servidor (backend). Junto con otras herramientas como React pudieras desarrollar en web, móvil y apps. Conocer JavaScript permite incursionar no solo en desarrollo web, sino en desarrollo de juegos, seguridad informática, machine learning, inteligencia artificial, etc. JS también se usa en el internet de las cosas (IoT), y aplicaciones nativas de iOS y Android.
 - Si aspiras a especializarte en el frontend, este lenguaje será indispensable para tu trabajo ya que, entre otras funcionalidades, JS sirve para darle interactividad y dinamismo a los websites. JavaScript es el único lenguaje nativo para los navegadores web, es decir, es el lenguaje que interpretan y leen los navegadores por defecto.
-- Si te interesa una carrera como [desarrollador fullstack](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time/), JavaScript junto con Node.JS te permitirá ejecutar acciones en el lado del servidor como: crear, abrir, leer, escribir y borrar archivos, así como obtener datos para guardarlos en una base de datos. De hecho, Node.JS también se usa para desarrollar aplicaciones basadas en la nube, sector que se encuentra aún en crecimiento.
+- Si te interesa una carrera como [desarrollador fullstack](/es/coding-bootcamps/desarrollador-full-stack), JavaScript junto con Node.JS te permitirá ejecutar acciones en el lado del servidor como: crear, abrir, leer, escribir y borrar archivos, así como obtener datos para guardarlos en una base de datos. De hecho, Node.JS también se usa para desarrollar aplicaciones basadas en la nube, sector que se encuentra aún en crecimiento.
 - Debido a su popularidad, hay numerosos recursos y comunidades disponibles en línea para los programadores especializados en JavaScript: En GitHub, hay más de 580k repositorios desarrollados en JavaScript, en Reddit la comunidad de Javascript tiene ¡Más 1,6 millones de usuarios! A su vez, en Stackoverflow hay más de 1,6 millones de preguntas con respuestas hechas por la comunidad sobre JavaScript.
 - Los profesionales en JavaScript, así como los de Python, están en alta demanda. Según la encuesta anual de Stackoverflow, en 2021 JavaScript cumplió el noveno año consecutivo como el lenguaje de programación más utilizado. Al hacer la búsqueda “desarrollador en JavaScript” en Ziprecruiter, se encuentran casi 210.000 vacantes publicadas.
 - Los profesionales en JavaScript son bien pagados. Según [Indeed](https://www.indeed.com/career/javascript-developer/salaries?from=top_sb), en Estados Unidos el sueldo promedio de un desarrollador de Javascript es de **$108.821** al año. Además, de acuerdo a Ziprecruiter:
@@ -145,7 +145,7 @@ Además de ser parte del kit de inicio en el mundo de la programación, también
 
 ## ¿Qué significa convertirse en un fullstack developer?
 
-Si ya te has convencido sobre lo importante y poderoso que es aprender a programar, ahora demos un vistazo a qué significa ser un [desarrollador full stack](https://4geeksacademy.com/es/full-stack-developer/desarrollador-full-stack).
+Si ya te has convencido sobre lo importante y poderoso que es aprender a programar, ahora demos un vistazo a qué significa ser un [desarrollador full stack](/es/full-stack-developer/desarrollador-full-stack).
 
 La programación es un campo muy amplio en el que hay varias formas de especialización. Si lo deseas, puedes especializarte en algún lenguaje, pero hay caminos profesionales muy diversos en la programación, y acá te mencionamos algunos de ellos:
 
@@ -264,16 +264,16 @@ En un coding bootcamp o bootcamp de programación aprenderás los fundamentos de
 
 - Contenido relevante y ajustado al momento y a las demandas laborales del mercado
 - Instructores disponibles para consultas por diferentes canales de contacto
-- [Mentorías en vivo](https://4geeksacademy.com/es/geekpal)
+- [Mentorías en vivo](/es/geekpal)
 - Comunidades de instructores y egresados que han pasado exactamente por lo mismo
 - Ejercicios para practicar
 - Trabajo en equipo y colaborativo
 - Empuje para que finalices un app que te apasiones
 - Asesoría para mejorar la presencia online en comunidades de desarrolladores y de empleadores de tecnología
-- [Asesoría para encontrar empleo](https://4geeksacademy.com/es/geekforce/)
+- [Asesoría para encontrar empleo](/es/geekforce)
 
 Algunos coding bootcamps son asíncronos, es decir, no ofrecen clases en vivo. Pero, si decidiste aprender programación desde cero, lo ideal es que cuentes con clases y asistencia en vivo. De esta manera aprovecharás al máximo la experiencia.
 
-En cuanto a los cursos, las apps, y las páginas especializadas para aprender a programar ¡No los deseches!. Sácales el mayor provecho posible al graduarte de un [fullstack coding bootcamp](https://4geeksacademy.com/es/coding-bootcamps/full-stack-part-time/).
+En cuanto a los cursos, las apps, y las páginas especializadas para aprender a programar ¡No los deseches!. Sácales el mayor provecho posible al graduarte de un [fullstack coding bootcamp](/es/coding-bootcamps/desarrollador-full-stack).
 
 ![curso de fullstack](http://breathecode.herokuapp.com/v1/media/file/curso-de-fullstack-png.png)

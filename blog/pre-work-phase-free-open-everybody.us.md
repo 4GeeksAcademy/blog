@@ -37,5 +37,4 @@ In pre-work you will learn: HTML5, CSS and some Javascript. There will be some w
 
 All that said, if you're interested in coding, we really encourage you to take the 2 weeks of free pre-work. We only ask for a very small (US $160) deposit to seal your commitment. You'll have it back if you finish the pre-work and don't want to continue to the next phase.
 
-
-[Sign up for the free 2 weeks pre-work](/course/web-development-parttime)
+[Sign up for the free 2 weeks pre-work](/us/coding-bootcamps/part-time-full-stack-developer)

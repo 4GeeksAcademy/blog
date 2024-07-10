@@ -90,7 +90,7 @@ Y estas son las industrias con la mayor demanda de programadores Python:
 6. Media y comunicaciones - 2.92%
 7. Salud - 2%
 
-Bastante increíble, ¿verdad? Si estás interesado en aprender Python y comenzar una carrera como desarrollador de software o profesional de machine learning, te invitamos a consultar nuestros [programas de Bootcamp](https://4geeksacademy.com/) en nuestro sitio web y [talleres gratuitos](https://www.youtube.com/watch?v=L4gAI6EqD7c) en nuestro canal de YouTube.
+Bastante increíble, ¿verdad? Si estás interesado en aprender Python y comenzar una carrera como desarrollador de software o profesional de machine learning, te invitamos a consultar nuestros [programas de Bootcamp](/es/inicio) en nuestro sitio web y [talleres gratuitos](https://www.youtube.com/watch?v=L4gAI6EqD7c) en nuestro canal de YouTube.
 
 **4Geeks Academy, TIME TO CODE!**
 
