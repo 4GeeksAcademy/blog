@@ -12,7 +12,7 @@ Cuando una persona está en búsqueda de la opción perfecta que se adecue a sus
 
 Querer saber [cuánto gana un programador](/es/cuanto-gana-un-programador/cuanto-gana-un-programador) te hace darte cuenta de que es una de las profesiones mejor pagadas en varias regiones de LATAM.
 
-## Mira cuánto gana un programador junior en Colombia 
+## Mira cuánto gana un programador Jr. en colombia
 
 Al vivir en Latinoamérica, es altamente probable que el salario de un Programador sea superior al promedio en la mayoría de las profesiones.
 
@@ -45,7 +45,7 @@ Siguiendo con la idea principal de conocer **cuánto gana un programador en Colo
 
 También, si te interesa conocer más sobre otros mercados en la región, puedes explorar [cuánto gana un programador en Perú](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-peru) o conocer más sobre el mercado laboral y ahodar en [cúanto gana un programador en Argentina](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-argentina).
 
-## Mira cuánto gana un programador experimentado en Colombia
+## Mira cuánto gana un programador Sr. en Colombia
 
 Saber [cuánto gana un programador en Colombia](/es/cuanto-gana-un-programador/cuanto-gana-un-programador) dependerá de diversos factores como **la experiencia, la empresa y el tipo de puesto disponible**, ya sea trabajo remoto o presencial. Sin embargo, al conocer el sueldo de un programador experimentado, podrás ver que este puede ganar mensualmente un promedio entre **7.500.000 COP según Co.talent hasta 10.800.000 COP según Glassdoor**.
 
