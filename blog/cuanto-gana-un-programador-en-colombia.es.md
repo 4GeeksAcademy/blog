@@ -19,7 +19,7 @@ Al vivir en Latinoamérica, es altamente probable que el salario de un Programad
 
 Según los datos más recientes de **Glassdoor para 2024**, el pago total estimado para un Developer es de **COP 5,480,000 por mes** en el área de Colombia, **con un sueldo promedio de COP 4,500,000 por mes**. Este número representa la mediana, que es el punto medio de los rangos de su modelo. La estimación del pago adicional es de COP 980,000 al mes, lo cual podría incluir bonos en efectivo, comisiones, propinas y reparto de utilidades. Este monto equivale a **1.200 dólares aproximadamente** para un Desarrollador Junior. 🤑
 
-Además, en otros países como México, puedes conocer **[cuánto gana un programador en México](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-mexico)**, donde los sueldos también varían dependiendo de la región y la experiencia.
+Además, en otros países como México, puedes conocer **[cuánto gana un programador en México](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-mexico)**, donde los sueldos también varían dependiendo de la región y la experiencia.
 
 ### ¿Cuál es el porcentaje de programadores en Colombia actualmente?
 
@@ -43,7 +43,7 @@ Siguiendo con la idea principal de conocer **cuánto gana un programador en Colo
 - 
 > Datos proporcionados por glassdoor. 
 
-También, si te interesa conocer más sobre otros mercados en la región, puedes explorar [cuánto gana un programador en Perú](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-peru) o conocer más sobre el mercado laboral y ahodar en [cúanto gana un programador en Argentina](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-argentina).
+También, si te interesa conocer más sobre otros mercados en la región, puedes explorar [cuánto gana un programador en Perú](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-peru) o conocer más sobre el mercado laboral y ahodar en [cúanto gana un programador en Argentina](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-argentina).
 
 ## Mira cuánto gana un programador Sr. en Colombia
 
@@ -53,7 +53,7 @@ Cabe mencionar que los expertos en [programas de inteligencia artificial](/es/co
 
 Es importante considerar que quienes prefieren trabajar desde casa pueden optar por empleos remotos internacionales. La ventaja de estos es que casi siempre el salario está por encima de la moneda local. Generalmente, trabajar para compañías internacionales se traduce en remuneraciones mucho más altas cuando se comparan con trabajos locales.
 
-Conocer otros países de la región, sus mercados, empleos, etc. puede darnos una noción más amplia de a cuanto aspirar puedes saber más  de [cúanto gana un programador en Chile](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-chile) y conocer más sobre como ha crecido el mercado TI en [Uruguay y cúanto gana un programador en Montevideo](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-uruguay),ya que en estos países los salarios también pueden ser competitivos, aunque varían según la demanda y la economía local.
+Conocer otros países de la región, sus mercados, empleos, etc. puede darnos una noción más amplia de a cuanto aspirar puedes saber más  de [cúanto gana un programador en Chile](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-chile) y conocer más sobre como ha crecido el mercado TI en [Uruguay y cúanto gana un programador en Montevideo](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-uruguay),ya que en estos países los salarios también pueden ser competitivos, aunque varían según la demanda y la economía local.
 
 ## ¿Cuáles son las principales empresas de tecnología para una oportunidad?
 
@@ -77,7 +77,7 @@ Muchos de nuestros egresados han sido contratados en empresas internacionales, o
 
 Uno de nuestros egresados, Alejandro Delgado, investigó sobre **cuánto gana un programador en Colombia**, vio la oportunidad y actualmente es Full Stack Developer Python en WOM. Él también buscó la manera de saber cuánto gana un programador, alcanzó la meta y consiguió empleo. Puedes conocer la opinión de otros de [nuestros egresados y sus testimonios](/es/testimonios) ⬅️ haciendo clic en el enlace.
 
-Es importante destacar que, aunque **Colombia es un país muy cercano a Venezuela**, el panorama laboral para el país vecino es muy diferente. Puedes conocer más sobre **[cuánto gana un programador en Venezuela](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-Venezuela)**.
+Es importante destacar que, aunque **Colombia es un país muy cercano a Venezuela**, el panorama laboral para el país vecino es muy diferente. Puedes conocer más sobre **[cuánto gana un programador en Venezuela](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-venezuela)**.
 
 En nuestras plataformas podrás encontrar workshops gratuitos, eventos con partners y mucho más. ¡Ya lo sabes! El conocer **cuánto gana un programador en Colombia** te da la ventaja de formarte en esta profesión del futuro.
 
