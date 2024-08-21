@@ -40,7 +40,7 @@ Siguiendo con la idea principal de conocer **cuánto gana un programador en Colo
 
 - 3. DevOps cuenta con un salario de **9.000.000 COP**.
 - 4. Por último, el arquitecto de software **8.300.000 COP**.
-- 
+
 > Datos proporcionados por glassdoor. 
 
 También, si te interesa conocer más sobre otros mercados en la región, puedes explorar [cuánto gana un programador en Perú](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-peru) o conocer más sobre el mercado laboral y ahodar en [cúanto gana un programador en Argentina](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-argentina).
@@ -65,7 +65,7 @@ Cabe destacar que de acuerdo con el Ministerio de Tecnologías de la Informació
 
 ![Se necesita 112.000 desarrolladores en el 2025](https://breathecode.herokuapp.com/v1/media/file/esp-carreras-tecnologicas-pag9-1-jpg)
 
-## ¿Cómo haces para ganar un sueldo de programador en Colombia?
+## ¿Cómo hacer para ganar un sueldo de programador en Colombia?
 
 Ahora que ya sabes **cuánto gana un programador en Colombia** y deseas tener un sueldo acorde a esta profesión, lo principal es **formarte, estudiar y aprovechar los conocimientos de los expertos**. 
 
