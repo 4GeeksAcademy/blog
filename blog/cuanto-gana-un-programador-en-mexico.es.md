@@ -1,8 +1,9 @@
 ---
 author: "alesanchezr"
-excerpt: "Un programador junior en México gana un salario promedio de $300.292 anuales; y un desarrollador de alto nivel  gana un salario promedio de $650.068 por año"
+excerpt: "Descubre cuánto gana un programador en México, desde juniors hasta seniors. Conoce los salarios, las oportunidades laborales y cómo avanzar en tu carrera con 4Geeks Academy. 📈💻"
 template: "post" 
 title: "Conoce cuánto gana un programador en México"
+image_alt: "Cuánto gana un programdor en México"
 
 ---
 
@@ -20,6 +21,7 @@ El sueldo promedio de un Programador es **$21,807 por mes en México**. Además,
 Depende de a qué área de la programación se especialice, el salario puede variar. Por ejemplo, en promedio, saber [cuánto gana un programador](https://4geeksacademy.com/es/cuanto-gana-un-programador) puede llegar a unos **30 mil pesos**. Un programador front-end gana alrededor de 28,151 pesos, un programador mobile 40,000 pesos, uno Back-end 29,000 pesos, o un Full-stack a partir de 46,337 pesos.
 
 ![Cuanto gana un programador en méxico](https://breathecode.herokuapp.com/v1/media/file/plaza-mexico-cuanto-gana-un-programador-jpg)
+
 ## Cuanto gana un programador senior en México
 
 El sueldo promedio de un Desarrollador De Software Senior es **$45,825 por mes en México**. Además, la remuneración promedio de efectivo adicional para un Desarrollador De Software Senior en México es de **$5,825**, con un rango de entre $1,635 y $13,083.
