@@ -22,7 +22,7 @@ Depende de a qué área de la programación se especialice, el salario puede var
 
 ![Cuanto gana un programador en méxico](https://breathecode.herokuapp.com/v1/media/file/plaza-mexico-cuanto-gana-un-programador-jpg)
 
-## Cuanto gana un programador senior en México
+## Cuánto gana un programador senior en México
 
 El sueldo promedio de un Desarrollador De Software Senior es **$45,825 por mes en México**. Además, la remuneración promedio de efectivo adicional para un Desarrollador De Software Senior en México es de **$5,825**, con un rango de entre $1,635 y $13,083.
 
