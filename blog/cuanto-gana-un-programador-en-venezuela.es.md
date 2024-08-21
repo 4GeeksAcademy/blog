@@ -51,7 +51,7 @@ El salario promedio de un programador en Venezuela puede llegar hasta los **$100
 >Rangos salariales para las distintas tecnologías en el mercado venezolano, puede variar mucho dependiendo de la experiencia, ubicación, tipo de contrato, etc. 
 
 
-Aunque Venezuela y Colombia son países vecinos, existen diferencias significativas en el panorama laboral para los programadores. Si bien en Venezuela el salario de un programador puede variar considerablemente, en Colombia se presentan otras dinámicas salariales y oportunidades. Si te interesa explorar más sobre las oportunidades en el país vecino, te invitamos a conocer **[cuánto gana un programador en Colombia](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-Colombia)** y cómo se compara con el mercado venezolano.
+Aunque Venezuela y Colombia son países vecinos, existen diferencias significativas en el panorama laboral para los programadores. Si bien en Venezuela el salario de un programador puede variar considerablemente, en Colombia se presentan otras dinámicas salariales y oportunidades. Si te interesa explorar más sobre las oportunidades en el país vecino, te invitamos a conocer **[cuánto gana un programador en Colombia](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-colombia)** y cómo se compara con el mercado venezolano.
 
 ---
 
