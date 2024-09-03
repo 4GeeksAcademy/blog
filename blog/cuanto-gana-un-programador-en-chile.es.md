@@ -5,7 +5,7 @@ excerpt: "Descubre cuánto gana un Desarrollador Full-Stack en Chile. Conoce las
 slug: "cuanto-gana-un-desarrollador-full-stack"
 template: "post" 
 title: "¿Cuánto gana un Desarrollador Web Full-Stack en Chile?"
-image_alt: "cuanto gana un desarrollador full stack"
+image_alt: "cuanto gana un programador en chile"
 
 ---
 
@@ -59,7 +59,7 @@ Para los recién graduados entre **25 y 35 años** que ingresan a puestos "entry
 
 ### Empresas que han contratado a nuestros egresados:
 
-![companies-that-work-with-us-png](https://storage.googleapis.com/media-breathecode/bfc8ae0bc7ac6a7099b9540bb4a1b0f14284c9d5b2a6f3d2b0e136f20d10dc60)
+![cuanto gana un programador en Chile](https://storage.googleapis.com/media-breathecode/bfc8ae0bc7ac6a7099b9540bb4a1b0f14284c9d5b2a6f3d2b0e136f20d10dc60)
 
 Uno de nuestros egresados, **Ignacio Codina**, nos comparte su experiencia trabajando en **Boosmap Chile**. Puedes conocer más historias en [**nuestro apartado de testimonios**](https://4geeksacademy.com/es/testimonios).
 
