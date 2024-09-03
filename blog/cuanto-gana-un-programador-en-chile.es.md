@@ -23,7 +23,7 @@ Para ser un [**Desarrollador Full-Stack**](https://4geeksacademy.com/es/desarrol
 
 ## ¿Cuánto gana un **Desarrollador Full-Stack** en **Chile**? 💰
 
-Para determinar [**cuánto gana un Desarrollador Full-Stack**](/es/cuanto-gana-un-programador/cuanto-gana-un-programador), es importante considerar que los salarios en 2024 oscilan entre **$700 y $1,400 dólares al mes**, con un promedio de **$1,000 dólares mensuales**, lo que equivale aproximadamente a **919,150 pesos chilenos**.
+Para determinar [cuánto gana un programador](/es/cuanto-gana-un-programador/cuanto-gana-un-programador), es importante considerar que los salarios en 2024 oscilan entre **$700 y $1,400 dólares al mes**, con un promedio de **$1,000 dólares mensuales**, lo que equivale aproximadamente a **919,150 pesos chilenos**.
 
 En comparación, la guía salarial de **Robert Half 2024** indica que los salarios de un **Desarrollador Full-Stack** en Chile pueden variar entre **$2.300.000 y $3.600.000 pesos chilenos**. Según **Benjamín Toselli**, presidente ejecutivo de **IT Hunter**, el salario promedio para un profesional senior con manejo del inglés es de **$2.800.000 pesos chilenos**.
 
