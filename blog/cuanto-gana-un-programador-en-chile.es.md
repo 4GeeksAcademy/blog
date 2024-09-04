@@ -66,4 +66,4 @@ Como menciona **Ignacio**, la disciplina y la perseverancia son clave para alcan
 
 Si estás interesado en dar el siguiente paso y convertirte en un **Full-Stack Developer** de alto nivel, aprovecha la oportunidad y fórmate con los mejores, si quieres saber más sobre los salarios en la región te recomendamos [¿Cuánto gana un desarrollador en venezuela?](/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-venezuela) uno de nuestros ultimos articulos actualizados en nuestro Blog. 
 
-<call-to-action button_text="¡Postúlate Ahora!" button_link="/es/coding-bootcamps/desarrollador-full-stack"  background="rgba(0, 151, 205, 0.15)" title="Become a Full-Stack Developer" text="Únete a nuestro bootcamp de Full-Stack Developer y conviértete en uno de los profesionales más demandados del mercado."></call-to-action>
+<call-to-action button_text="¡Postúlate Ahora!" button_link="/es/coding-bootcamps/desarrollador-full-stack"  background="rgba(0, 151, 205, 0.15)" title="Conviértete hoy en Full-Stack Developer" text="Únete a nuestro bootcamp de Full-Stack Developer y conviértete en uno de los profesionales más demandados del mercado."></call-to-action>
