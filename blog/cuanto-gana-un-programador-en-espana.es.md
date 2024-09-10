@@ -33,11 +33,11 @@ Para los programadores semi-senior con **2 a 4 años de experiencia**, los rango
 
 ### Proyecciones salariales para 2024 📆
 
-| Experiencia   | Promedio de salario bruto anual | Proyección para 2024 |
-|---------------|---------------------------------|-----------------------|
-| Junior        | 24.000 €                        | 25.000 €              |
-| Semi senior   | 34.000 €                        | 36.000 €              |
-| Senior        | 49.000 €                        | 52.000 €              |
+| Experiencia  | Promedio de salario bruto anual | Proyección para 2024 |
+|----------|----------|----------|
+| Junior        | 24.000 €  | 25.000 € |
+| Semi senior   | 34.000 € | 36.000 € |
+| Senior        | 49.000 € | 52.000 € |
 
 Tomando en cuenta todo lo dicho hasta ahora, en **4Geeks Academy** siempre aconsejamos a nuestros egresados y aquellos que [estudiaron en un bootcamp de programación](https://4geeksacademy.com/es/bootcamp-de-programacion/estudiar-en-un-bootcamp-de-programacion), que no se cierren a la posibilidad de adquirir experiencia en startups, empresas pequeñas o nuevas 🚀. Es en estos entornos donde pueden comenzar a aplicar todo lo aprendido y a crecer profesionalmente en este rubro. Por lo tanto, es importante para nosotros que consideren todas las opciones del mercado y no tengan temor de enfrentarse a algo nuevo 💡.
 
