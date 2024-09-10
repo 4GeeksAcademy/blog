@@ -31,6 +31,7 @@ A continuación, se presenta una tabla actualizada con los rangos salariales en 
 | Senior (5 años+) | 500.000 | 350.000 - 600.000 |
 
 Es importante tener en cuenta que **los salarios pueden variar según la ubicación geográfica en Argentina**. Por ejemplo, en la Ciudad Autónoma de Buenos Aires (CABA), los salarios tienden a ser más altos debido al costo de vida más elevado en comparación con otras provincias del país. Sin embargo, ciudades como Córdoba, Rosario y Mendoza también ofrecen oportunidades laborales significativas para programadores, con un costo de vida ligeramente más bajo.
+Ya sea que te encuentres en cordoba o en la patagonia tenemos un [curso de programación](/es/coding-campus/bootcamp-programacion-argentina-buenos-aires) par ti. 
 
 ### Tabla Comparativa por Ciudades en Argentina 🌍
 
