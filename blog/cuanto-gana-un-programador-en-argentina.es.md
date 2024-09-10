@@ -72,7 +72,7 @@ A lo largo de los años, los salarios de los programadores en Argentina han most
 
 Hoy en día, los puestos de **Tecnologías de la Información (IT)** tienen salarios pretendidos un **28% más altos** que el promedio de salarios en general, oscilando entre **91.719** y **315.612 pesos por mes**. Además, se ha observado que **el 58% de los empleados realiza teletrabajo**, lo que aumenta la flexibilidad y posibilidades laborales en el sector.
 
-> Esta tendencia no solo se ve en Argentina, sino también en otros países. Si estás interesado, puedes comparar los salarios de [programadores en Uruguay](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-uruguay) o [cuánto gana un programador en Chile](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-chile), donde la industria tecnológica sigue creciendo de manera notable.
+Esta tendencia no solo se ve en Argentina, sino también en otros países. Si estás interesado, puedes comparar los salarios de [programadores en Uruguay](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-uruguay) o [cuánto gana un programador en Chile](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-chile), donde la industria tecnológica sigue creciendo de manera notable.
 
 ## Impacto de la Experiencia y Certificaciones 🎓
 
