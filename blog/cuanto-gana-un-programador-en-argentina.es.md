@@ -13,7 +13,7 @@ En la era digital, la programación se ha convertido en una de las profesiones m
 
 ![cuanto-gana-un-programador-en-argentina](https://breathecode.herokuapp.com/v1/media/file/argentina-background-post-jpg?width=400 "cuanto-gana-un-programador-en-argentina")
 
-## Cuanto gana un programador en Argentina por Experiencia y Nivel 📊
+## cuanto-gana-un-programador-en-argentina 📊
 
 El Ministerio de Desarrollo Económico y Producción de la Ciudad de Buenos Aires realizó junto a Bumerán un informe que revela las pretensiones laborales de los perfiles IT como desarrolladores y programadores. Según el informe:
 
