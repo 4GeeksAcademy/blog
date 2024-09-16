@@ -3,7 +3,7 @@ author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
 excerpt: "Los programadores en Uruguay desempeñan diversas funciones para contribuir al logro de objetivos empresariales. Esto incluye el diseño, desarrollo y mantenimiento de software, así como la creación de aplicaciones web y móviles"
 template: "post"
-title: "cuanto-gana-un-programador-en-uruguay"
+title: "¿Cuánto Gana un Programador en Uruguay?"
 image_alt: "Cuanto gana un programador en Uruguay"
 
 ---
@@ -21,7 +21,7 @@ Los programadores en Uruguay desempeñan funciones esenciales que incluyen el di
 
 El sector de tecnologías de la información en Uruguay ha crecido significativamente, representando el **4,6% del PIB**. Las empresas tecnológicas han visto un aumento del **46% en sus ingresos**, creando **3,000 nuevos empleos** en el último año. Esto, sumado al apoyo de la **Cámara Uruguaya de Tecnologías de la Información (CUTI)**, refuerza el crecimiento del sector y la demanda de programadores. Si deseas conocer más sobre cómo la programación se ha convertido en una de las profesiones más demandadas, te invito a leer este artículo sobre [ser programador en profesiones con mayor demanda](https://4geeksacademy.com/es/cuanto-gana-un-programador/ser-programador-entre-las-profesiones-con-mayor-demanda).
 
-## cuanto-gana-un-programador-en-uruguay
+## ¿Cuánto Gana un Programador en Uruguay?
 
 ![cuanto gana un programador en uruguay](https://breathecode.herokuapp.com/v1/media/file/comparacion-de-rango-salariales-jpg)
 
