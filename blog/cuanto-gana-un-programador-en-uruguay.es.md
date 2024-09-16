@@ -3,7 +3,7 @@ author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
 excerpt: "Los programadores en Uruguay desempeñan diversas funciones para contribuir al logro de objetivos empresariales. Esto incluye el diseño, desarrollo y mantenimiento de software, así como la creación de aplicaciones web y móviles"
 template: "post"
-title: "¿Cuánto Gana un Programador en Uruguay?"
+title: "cuanto-gana-un-programador-en-uruguay"
 image_alt: "Cuanto gana un programador en Uruguay"
 
 ---
