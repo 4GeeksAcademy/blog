@@ -20,7 +20,12 @@ Los programadores en Uruguay desempeñan funciones esenciales que incluyen el di
 ## Crecimiento del Sector Tecnológico en Uruguay 📈
 
 El sector de tecnologías de la información en Uruguay ha crecido significativamente, representando el **4,6% del PIB**. Las empresas tecnológicas han visto un aumento del **46% en sus ingresos**, creando **3,000 nuevos empleos** en el último año. Esto, sumado al apoyo de la **Cámara Uruguaya de Tecnologías de la Información (CUTI)**, refuerza el crecimiento del sector y la demanda de programadores. Si deseas conocer más sobre cómo la programación se ha convertido en una de las profesiones más demandadas, te invito a leer este artículo sobre [ser programador en profesiones con mayor demanda](https://4geeksacademy.com/es/cuanto-gana-un-programador/ser-programador-entre-las-profesiones-con-mayor-demanda).
-## Rangos Salariales y Comparación con el Salario Medio 📊
+
+## cuanto-gana-un-programador-en-uruguay
+
+![cuanto gana un programador en uruguay](https://breathecode.herokuapp.com/v1/media/file/comparacion-de-rango-salariales-jpg)
+
+### Rangos Salariales y Comparación con el Salario Medio 📊
 
 El salario de los programadores en Uruguay varía según la experiencia. A continuación, se muestra una tabla con los salarios actualizados a 2024 en pesos uruguayos:
 
@@ -30,7 +35,6 @@ El salario de los programadores en Uruguay varía según la experiencia. A conti
 | Intermedio | 7,560.00 UYU | 10,962.00 UYU | 14,364.00 UYU |
 | Senior | 9,828.00 UYU | 14,235.60 UYU | 18,643.20 UYU |
 
-![cuanto gana un programador en uruguay](https://breathecode.herokuapp.com/v1/media/file/comparacion-de-rango-salariales-jpg)
 
 Según **Glassdoor**, el sueldo promedio de un **Software Developer en Montevideo** es de **66,667 UYU** al mes, con una remuneración adicional de **6,667 UYU**.
 
