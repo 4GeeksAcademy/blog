@@ -4,7 +4,7 @@ excerpt: "Descubre cuánto gana un programador en 2024, las especializaciones m�
 template: "landing_post"
 image: "https://storage.googleapis.com/media-breathecode/4dff8e8ae1a0936fe65e94542387ac565903941f6456492f898cd7a5ad903bd6"
 image_alt: "cuanto gana un programador alrededor del mundo"
-title: "Conoce Cuánto gana un programador? 💻💰"
+title: "Conoce Cuánto gana un programador 💻💰"
 
 ---
 
