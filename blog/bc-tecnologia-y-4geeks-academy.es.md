@@ -11,12 +11,12 @@ image_alt: "BC Tecnología y 4Geeks Academy"
 
 En un entorno laboral cada vez más competitivo, contar con una red de contactos sólida y una formación de calidad es fundamental para destacar. En 4Geeks Academy, además de brindarte las herramientas y conocimientos necesarios para desarrollar una carrera exitosa en el mundo de la programación y el desarrollo web, estamos constantemente buscando nuevas formas de conectar a nuestros estudiantes con las mejores oportunidades laborales. 
 
-Es por eso que nos emociona presentarte a nuestro aliado estratégico, **BC Tecnología**. Esta reconocida consultora de servicios IT no sólo comparte nuestra pasión por la innovación, sino que también se ha convertido en un puente clave para que nuestros egresados den el salto al mundo laboral. En este artículo te contaremos todo sobre esta alianza, sus beneficios y cómo contribuirá al desarrollo del sector tecnológico en la región.
+Es por eso que nos emociona presentarte a nuestro aliado estratégico, [BC Tecnología](https://bctecnologia.com/). Esta reconocida consultora de servicios IT no sólo comparte nuestra pasión por la innovación, sino que también se ha convertido en un puente clave para que nuestros egresados den el salto al mundo laboral. En este artículo te contaremos todo sobre esta alianza, sus beneficios y cómo contribuirá al desarrollo del sector tecnológico en la región.
 
 
 ## BC Tecnología: Líder en el Sector IT
 
-BC Tecnología es una empresa líder en el sector IT, con una amplia experiencia en la gestión de proyectos tecnológicos, el desarrollo de soluciones a medida y el *staffing* de profesionales altamente cualificados. Su equipo de expertos trabaja en estrecha colaboración con empresas de diversos sectores para desarrollar soluciones tecnológicas a medida.
+[BC Tecnología](https://bctecnologia.com/) es una empresa líder en el sector IT, con una amplia experiencia en la gestión de proyectos tecnológicos, el desarrollo de soluciones a medida y el *staffing* de profesionales altamente cualificados. Su equipo de expertos trabaja en estrecha colaboración con empresas de diversos rubros para desarrollar soluciones tecnológicas a medida.
 
 
 ## ¿Por qué elegir BC Tecnología?
@@ -42,7 +42,7 @@ Nuestra alianza con BC Tecnología nos permite:
   Trabajamos en conjunto con BC Tecnología para desarrollar programas de preparación para entrevistas y talleres de *soft skills*, que complementan la formación técnica de nuestros estudiantes.
 
 - **Establecer relaciones estratégicas con empresas líderes**  
-  Nuestra alianza con BC Tecnología nos permite establecer vínculos con empresas de diversos sectores, lo que amplía nuestra red de contactos y nos permite ofrecer a nuestros estudiantes una visión más completa del mercado laboral.
+  Nuestra alianza con [BC Tecnología](https://bctecnologia.com/) nos permite establecer vínculos con empresas de diversos sectores, lo que amplía nuestra red de contactos y nos permite ofrecer a nuestros estudiantes una visión más completa del mercado laboral.
 
 
 Esta sinergia única combina la experiencia de BC Tecnología en **Estrategia & Gestión de proyectos** y **Staffing & Outsourcing IT** con la formación especializada de 4Geeks Academy en las tecnologías más demandadas del momento.
@@ -61,7 +61,7 @@ Si eres un egresado de 4Geeks Academy, esta alianza te brinda la oportunidad de:
 - **Formar parte de una comunidad de profesionales**  
   Conectar con otros egresados de 4Geeks Academy y profesionales de BC Tecnología, y ampliar tu red de contactos.
 
-En un mundo laboral cada vez más digitalizado, contar con las habilidades técnicas adecuadas es fundamental para alcanzar el éxito profesional. La alianza entre 4Geeks Academy y BC Tecnología te brinda la oportunidad de adquirir esas habilidades y dar el salto a una carrera apasionante en el sector tecnológico.
+En un mundo laboral cada vez más digitalizado, contar con las habilidades técnicas adecuadas es fundamental para alcanzar el éxito profesional. La alianza entre 4Geeks Academy y [BC Tecnología](https://bctecnologia.com/) te brinda la oportunidad de adquirir esas habilidades y dar el salto a una carrera apasionante en el sector tecnológico.
 
 ¿Por qué esta alianza es tan especial? Porque combina lo mejor de dos mundos: la **formación de alta calidad** de 4Geeks Academy y la **experiencia en el mundo empresarial** de BC Tecnología. Al unir fuerzas, ambas empresas te ofrecen un camino claro y estructurado para alcanzar tus objetivos profesionales.
 
