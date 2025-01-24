@@ -4,7 +4,7 @@ date: "2025-01-22T20:44:51+00:00"
 excerpt: "Descubre cómo la alianza entre 4Geeks Academy y BC Tecnología potencia tu desarrollo profesional en el sector tecnológico."
 slug: "4geeks-bctecnologia-transformacion-digital"
 template: "post"
-title: "Impulsando la Transformación Digital: Cómo BC Tecnología y 4Geeks Academy Colaboran para tu Éxito"
+title: "¿Cómo BC Tecnología y 4Geeks Academy Colaboran para tu Éxito?"
 image_alt: "BC Tecnología y 4Geeks Academy"
 
 ---
