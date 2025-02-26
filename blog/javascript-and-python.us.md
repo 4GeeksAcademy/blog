@@ -17,7 +17,7 @@ featured: false
       object-fit: cover; /* Maintain aspect ratio */
     }
 </style>
-Within the coding ecosystem, new languages appear constantly to cover all the demands of the tech world. Python and JavaScript ensure that everything works effectively so the user feels completely satisfied with the information, services, etc. If you’re starting in the code world aiming to be a Full-Stack programmer, you may wonder which languages you should be able to manage completely. Well, let us help you with that! [Every beginning is overwhelming and stressful](/us/learn-to-code/feelings-learning-coding) but at 4Geeks Academy, you can feel safe knowing that you’ll have wonderful mentors to be by your side, and teaching you everything you need to adapt to the real world.
+Within the coding ecosystem, new languages appear constantly to cover all the demands of the tech world. Python and JavaScript ensure that everything works effectively so the user feels completely satisfied with the information, services, etc. If you’re starting in the code world aiming to be a Full-Stack programmer, you may wonder which languages you should be able to manage completely. Well, let us help you with that! [Every beginning is overwhelming and stressful](/us/trends-and-tech/feelings-learning-coding) but at 4Geeks Academy, you can feel safe knowing that you’ll have wonderful mentors to be by your side, and teaching you everything you need to adapt to the real world.
 
 JavaScript and Python are meant to work together for web applications, and more.  We actually do not understand why not everyone is teaching JS and Python. Although if that happens, then another technology will be even more popular (that’s the way we -humans- are meant to be :) ). 
 
