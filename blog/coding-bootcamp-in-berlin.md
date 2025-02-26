@@ -53,7 +53,7 @@ One of the things that make boot-camps such a great opportunity for everyone is 
 
 ### Recommended Skills to Develop
 
-When a person [becomes a developer](https://4geeksacademy.com/us/landing/learn-to-code), the least part of their time is spent writing code, and most of their time is spent reading code and looking for information. The ability to **searching information in Google** for the necessary solutions for a certain task is essential for the training of any developer, understanding that generally someone has already gone through that problem in the past and has remained in a blog to help those of the future. The most used blogs to search for information are **stackoverflow.com** and **developer.mozilla.org**.
+When a person [becomes a developer](https://4geeksacademy.com/us/index), the least part of their time is spent writing code, and most of their time is spent reading code and looking for information. The ability to **searching information in Google** for the necessary solutions for a certain task is essential for the training of any developer, understanding that generally someone has already gone through that problem in the past and has remained in a blog to help those of the future. The most used blogs to search for information are **stackoverflow.com** and **developer.mozilla.org**.
 
 Another skill that needs to be developed to be successful as a developer is **resilience**, as there will be many hours of trying different methods to achieve a result that often will not work. Codes are extremely perfectionist and a misspelled letter can break the code and bring down a tower of commands even if it is very well built.
 
