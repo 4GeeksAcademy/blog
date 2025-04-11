@@ -44,9 +44,6 @@ To thrive as an AI engineer, you’ll need a blend of technical and soft skills.
 - Being able to **communicate AI-driven insights** clearly and effectively to non-technical stakeholders is a critical skill.
 
 
-Looking for a strong starting point? The [AI Engineering Program at 4Geeks Academy](https://4geeksacademy.com/) provides expert mentorship and project-based learning that prepares you to launch your AI career with confidence.
-
-
 ---
 ## Career Paths for AI Engineers
 
