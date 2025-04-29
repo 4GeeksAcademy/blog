@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-02-28T20:41:26+00:00"
-excerpt: "4Geeks Academy has partnered with Skills Fund to remove all barriers to enrolling in our transformative skills training program."
+excerpt: "4Geeks Academy partners with Skills Fund to offer financing for your coding education. Pay for bootcamp tuition through flexible, low-interest plans."
 slug: "skillsfund-4geeksacademy"
 template: "post" # post or landing_post
 title: "Skills Fund & 4Geeks Academy finally together"
@@ -16,7 +16,7 @@ featured: false
 ## Great news! Skills Fund & 4Geeks Academy are finally together
 
 
-Our work has one main goal: to give you the opportunity to become a skillful Software Developer.  4Geeks Academy has partnered with Skills Fund to remove all barriers to enrolling in our transformative skills training program.  Together with Skills Fund, we’re proud to offer a simple, transparent financing solution that allows you to focus on what matters: gaining skills and getting hired.
+Our work has one main goal: to give you the opportunity to become a skillful Software Developer.  4Geeks Academy partners with Skills Fund to offer financing for your coding education. Pay for bootcamp tuition through flexible, low-interest plans.  Together with Skills Fund, we’re proud to offer a simple, transparent financing solution that allows you to focus on what matters: gaining skills and getting hired.
 
 
 ### Knowing a little more about Skills Fund

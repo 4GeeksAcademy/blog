@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-02-03T05:34:01+00:00"
-excerpt: "Is it possible to be a software developer working in Miami? That would be like going to heaven without having to die."
+excerpt: "Start learning to code in Miami with 4Geeks Academy. Gain hands-on coding experience and enter the growing tech industry in Miami’s vibrant scene."
 slug: "becoming-a-web-developer-in-miami"
 template: "post" # post or landing_post
 title: "Learning to code in Miami"

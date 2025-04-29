@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Learn about the latest Junior Software Engineer salary trends and how to negotiate your pay. Read our comprehensive guide for insights and tips."
+excerpt: "Discover the average Junior Software Engineer salary with 4Geeks Academy. Learn what you can expect to earn as a beginner in the tech industry."
 template: "post"
 title: "Junior Software Engineer Salary"
 

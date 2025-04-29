@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-04-10T17:57:47+00:00"
-excerpt: "How the ISA works at 4Geeks. Tips for anyone looking to enroll in our Full-time programs."
+excerpt: '4Geeks Academy offers "Pay Once You Get a Job" financing. Start your coding bootcamp with no upfront cost and pay only when you land a job.'
 slug: "pay-once-get-job-isa"
 template: "post" # post or landing_post
 title: "Pay once you get a Job"

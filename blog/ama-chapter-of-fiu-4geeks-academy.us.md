@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-02-11T15:28:28+00:00"
-excerpt: "Getting Students Closer To A Coding Education"
+excerpt: "The AMA Chapter of FIU and 4Geeks Academy work together to bring coding education closer to students, empowering them for successful tech careers."
 slug: "ama-chapter-of-fiu-4geeks-academy"
 template: "post" # post or landing_post
 title: "AMA Chapter of FIU + 4Geeks Academy - Getting Students Closer To A Coding Education"

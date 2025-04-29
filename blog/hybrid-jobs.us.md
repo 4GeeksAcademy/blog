@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-10-15T20:53:47+00:00"
-excerpt: "The key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient."
+excerpt: "Explore the rise of hybrid jobs in tech with 4Geeks Academy. Learn how flexible work models are reshaping the future of tech careers."
 slug: "hybrid-jobs"
 template: "post" # post or landing_post
 title: "Hybrid Jobs: An Unstoppable Movement"

@@ -1,6 +1,7 @@
 ---
 author: "alesanchezr"
-excerpt: "A Software Engineer Portfolio is a webpage where you can show all (or some) of the skills mentioned in your resume. Let's learn how to create it!"
+excerpt: "Build a standout Software Engineer portfolio with 4Geeks Academy. Showcase your skills, projects, and experience to attract top tech employers.
+"
 template: "post" 
 title: "Software Engineer Portfolio"
 

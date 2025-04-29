@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Discover the truth about the difficulty of software engineering. Explore the challenges, skills, and strategies to thrive in this dynamic field."
+excerpt: "Wondering if Software Engineering is hard? 4Geeks Academy explores the challenges and rewards of this dynamic, rewarding career path in tech."
 template: "post"
 title: "Is Software Engineering Hard? Challenges and Rewards of a Dynamic Career Path"
 

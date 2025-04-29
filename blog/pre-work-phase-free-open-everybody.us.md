@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2016-01-10T09:21:18+00:00"
-excerpt: "Do you want to become a developer? You have 3 choices: College, bootcamps or learn by yourself. Is only fair that we let you test it out first."
+excerpt: "4Geeks Academy offers a free and open pre-work phase to help everyone get started with coding. Begin learning without any barriers to entry."
 slug: "pre-work-phase-free-open-everybody"
 template: "post" # post or landing_post
 title: "Why our pre-work phase is free and open for everybody"

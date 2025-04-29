@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "This article is about: What is AI? how much is growing? Market Opportunities"
+excerpt: "Learn all about Artificial Intelligence with 4Geeks Academy. Explore key concepts and get the skills you need to enter the AI-driven future."
 title: "All you need to know about Artificial Intelligence"
 image: "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
 image_alt: ""

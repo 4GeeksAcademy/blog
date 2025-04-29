@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-05-29T18:16:20+00:00"
-excerpt: "Python, Ruby on Rails or PHP? Let's take a look at what's the best option for you."
+excerpt: "Discover the most used back-end programming languages in Miami with 4Geeks Academy. Learn the in-demand skills for a thriving tech career."
 slug: "used-backend-programming-language-miami"
 template: "post" # post or landing_post
 title: "What is the most used back-end programming language in Miami?"

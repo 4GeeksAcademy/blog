@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2022-10-25T20:44:51+00:00"
-excerpt: "*Is it a good choice to become a soft dev? *What does a Software Dev do? do? *earnings *2022 market demand."
+excerpt: "Learn why becoming a Software Developer is a great career choice with 4Geeks Academy. Explore the benefits of coding, job stability, and growth."
 slug: "why-is-it-a-good-choice-to-become-a-software-developer"
 title: "Why is it a good choice to become a Software Developer?"
 image: "https://breathecode.herokuapp.com/v1/media/file/blog-preview-png?"

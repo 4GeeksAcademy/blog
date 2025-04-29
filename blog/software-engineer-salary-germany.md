@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "A person working as a developer/programmer in Germany usually earns around 3,480 EUR per month. A Software Engineer Salary in Germany ranges from 1,600 EUR (lowest) to 5,530 EUR (highest)."
+excerpt: "Explore the Software Engineer salary in Germany with 4Geeks Academy. Learn how the German tech market offers great pay and opportunities for growth."
 template: "post" 
 title: "How much is the Software engineer salary in Germany"
 

@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-10-04T15:33:22+00:00"
-excerpt: "There are many options to choose from but Part-Time is best for whoever wants to learn to code"
+excerpt: "A part-time coding bootcamp at 4Geeks Academy offers flexibility for busy students. Learn coding at your own pace and boost your career."
 slug: "part-time-bootcamps"
 template: "post" # post or landing_post
 title: "Why is a Part-Time Coding Bootcamp  Best for You"

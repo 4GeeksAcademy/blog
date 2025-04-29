@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2017-05-08T21:08:07+00:00"
-excerpt: "A Full Stack Miami Dade College Web Development program. Only 14 week’s and for just $3405. No other fees are charged to the student."
+excerpt: "Learn to code at Miami Dade College with 4Geeks Academy. Gain hands-on coding experience and start your career in Miami’s tech scene."
 slug: "full-stack-web-development-at-miami-dade-college"
 template: "post" # post or landing_post
 title: "Learn to Code at Miami Dade College"

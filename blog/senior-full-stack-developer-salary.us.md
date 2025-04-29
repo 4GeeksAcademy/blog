@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Check out huge salaries of Senior Full Stack Developers in the world. | Skills needed and how to become one."
+excerpt: "Explore the salary trends for Senior Full Stack Developers with 4Geeks Academy. Learn the earning potential and career growth in this role."
 title: "senior Full Stack Developer Salary"
 template: "post"
 

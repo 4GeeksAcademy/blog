@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Discover how much do full stack developers earn in different countries and let's talk about the portfolio, features and how to build an exceptional one."
+excerpt: "Learn how to build your first portfolio as a Full Stack Developer with 4Geeks Academy. Showcase your skills and start your tech career."
 template: "post"
 title: "Full Stack Developers | Salaries around the world and how to build your first portfolio."
 

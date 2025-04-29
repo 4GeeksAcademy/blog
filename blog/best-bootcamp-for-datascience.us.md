@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Choosing the right data science bootcamp is crucial to ensure an effective and successful learning experience. Firstly, it is essential to evaluate the program's quality by reviewing the Syllabus"
+excerpt: "Choosing the best data science bootcamp? 4Geeks Academy offers expert-led training and real-world projects to jumpstart your career."
 template: "post"
 title:  "Choosing the Best Data Science Bootcamp"
 

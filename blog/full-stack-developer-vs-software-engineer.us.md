@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Discover the key differences between Full Stack Developers and Software Engineers. Learn about their roles, responsibilities, and skill sets to help you choose the right career path."
+excerpt: "Wondering about the difference between Full Stack Developer and Software Engineer? 4Geeks Academy explains the key roles and skills for each career."
 template: "post" 
 title: "Full Stack Developer vs Software Engineer"
 

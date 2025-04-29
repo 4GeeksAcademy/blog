@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: "According to Payscale, a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period."
+excerpt: "Explore Bootcamp graduates’ salaries in 2019 with 4Geeks Academy. See how bootcamp training helps launch successful tech careers with competitive pay."
 slug: "2019-developers-salaries-report"
 template: "post" # post or landing_post
 title: "BOOTCAMP GRADUATES SALARIES 2019 EDITION"

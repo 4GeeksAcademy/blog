@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-09-18T23:16:33+00:00"
-excerpt: "The key to being a great coder is having the disposition to improve every day and apply strategies that will make you more productive and efficient."
+excerpt: "Learn to code smarter with 4Geeks Academy’s hacks. Read less and focus on the most effective strategies to learn coding faster and better."
 slug: "hacks-learn-to-code"
 template: "post" # post or landing_post
 title: "Hacks for learning to code: Read Less and Learn Better"

@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Getting a job as a software engineer in the current industry can be seen as a daunting task at first, but knowing how to better your chances of having a high-paying job is more simple than you think."
+excerpt: "Discover the average Software Engineer salary in Florida with 4Geeks Academy. Learn how coding can lead to competitive earnings in the tech industry."
 template: "post" 
 title: "How much is the Software Engineer Salary in Florida"
 

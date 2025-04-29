@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Unlock your potential with our data science bootcamp. Gain hands-on experience and master the skills you need to succeed in this exciting field. Enroll now!"
+excerpt: "Looking for the best data science bootcamp? 4Geeks Academy offers expert-led training and real-world projects to kickstart your career in data science."
 template: "post"
 title: "Best Data Science Bootcamps"
 

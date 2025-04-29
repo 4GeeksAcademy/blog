@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
-excerpt: "Discover why the final months of the year are perfect for tech enthusiasts to land their dream jobs. The September Surge and October's hiring spree saw a 43% increase from last year. With reduced competition, networking opportunities, and global possibilities, November and December offer a unique window of opportunity in the tech job market. Don't miss your chance to shine and unlock your tech career potential."
+excerpt: "Unlock your tech career with 4Geeks Academy. Seize the end-of-year hiring surge and land your dream job with our coding bootcamp training."
 template: "post"
 title: "Unlocking Your Tech Career Seizing the End-of-Year Hiring Surge"
 image_alt: "Unlocking Your Tech Career"

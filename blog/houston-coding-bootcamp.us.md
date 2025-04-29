@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "If you have doubts about what coding bootcamp in houston to enroll in, we are here to give you all the options available to you!"
+excerpt: "Looking for the best coding bootcamp in Houston? Here’s how to choose 4Geeks Academy to reach your career goals and learn coding with expert mentors."
 template: "post"
 title: "How to Choose the best coding camp in Houston?"
 

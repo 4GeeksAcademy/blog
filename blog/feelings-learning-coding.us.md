@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-06-22T03:51:55+00:00"
-excerpt: "Feelings when learning and working as a developer."
+excerpt: "Discover the emotions you’ll experience when learning to code with 4Geeks Academy. Overcome challenges and celebrate your coding victories."
 slug: "feelings-learning-coding"
 template: "post" # post or landing_post
 title: "The feelings when Learning to Code"

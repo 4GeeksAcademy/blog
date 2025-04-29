@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2017-09-25T18:07:08+00:00"
-excerpt: "4Geeks decided to leave nodejs out from the Full-Stack Development program, click here to learn why."
+excerpt: "Learn why 4Geeks Academy doesn’t teach NodeJS in our Full-Stack program. We focus on the best tools and frameworks for modern development."
 slug: "dont-teach-nodejs-full-stack-development-program"
 template: "post" # post or landing_post
 title: "Why we don't teach NodeJS in our Full-Stack Development program"

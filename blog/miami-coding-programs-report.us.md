@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-11-06T20:24:41+00:00"
-excerpt: "Everything you need to know about Miami Coding Programs"
+excerpt: "Explore the 2018 Miami Coding Bootcamps report from 4Geeks Academy. Learn how our bootcamp can help you launch a tech career in Miami."
 slug: "miami-coding-programs-report"
 template: "post" # post or landing_post
 title: "Miami Coding Bootcamps | 2018 Report"

@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-11-20T22:48:11+00:00"
-excerpt: "No logramos comprender por qué solo algunas escuelas de programación enseñan un combinación de JS y Python en un solo programa"
+excerpt: "Learn JavaScript and Python with 4Geeks Academy. These essential languages will empower you to build web apps, software, and excel as a coder."
 slug: "javascript-and-python"
 template: "post" # post or landing_post
 title: "JavaScript y Python: Imprescindibles para cualquier programador"

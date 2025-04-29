@@ -1,7 +1,8 @@
 ---
 author: "alesanchezr"
 date: "2020-04-29T05:31:23+00:00"
-excerpt: "More information about the Geekpal system of 4Geeks Academy"
+excerpt: "At 4Geeks Academy, you’ll never code alone. Join our community of learners and mentors who will support you throughout your coding journey.
+"
 slug: "geekpal"
 template: "post" # post or landing_post
 title: "Never Code Alone Again"

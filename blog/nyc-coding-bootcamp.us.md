@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Are you considering a coding bootcamp in NYC? Take a look at the best options you have available to choose to start your coding career!"
+excerpt: "Looking for the best New York Coding Bootcamp? Join 4Geeks Academy to gain coding skills with expert training and a Job Guarantee."
 template: "post"
 title: "Best New York Coding Bootcamp"
 

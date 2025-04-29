@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
-excerpt: "software engineer your path to success"
+excerpt: "Start your journey to becoming a Software Engineer with 4Geeks Academy. Gain the skills and experience needed to succeed in this in-demand field."
 template: "post"
 title: "How to Become a Software Engineer Your Path to Coding Success"
 image_alt: "software engineer your path to success"

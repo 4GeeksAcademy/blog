@@ -1,6 +1,6 @@
 ---
 author: "4Geeks Academy"
-excerpt: "The first thing you should know is that a data science bootcamp is an intensive course of study focused on acquiring practical and specific knowledge related to software development, fundamentals, and tools of data science"
+excerpt: "Wondering if a Data Science Bootcamp is worth it? 4Geeks Academy shows how our bootcamp can help you land a career in this fast-growing field."
 template: "post" 
 title: "Are Data Science Bootcamps Worth It?"
 

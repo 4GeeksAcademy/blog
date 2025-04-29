@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-01-08T11:14:46+00:00"
-excerpt: "A straightforward analysis of your main Coding Bootcamps options in Miami."
+excerpt: "Compare Wyncode, Ironhack, and 4Geeks Academy. See how our bootcamp stands out with flexible schedules, expert mentorship, and strong job support."
 slug: "wyncode-ironhack-and-4geeks-academy-comparison"
 template: "post" # post or landing_post
 title: "Wyncode, Ironhack and 4Geeks Academy comparison"

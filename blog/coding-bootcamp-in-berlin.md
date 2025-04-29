@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Transform your career with 4Geeks Academy's Coding Bootcamp in Berlin. Enhance your skills and join the tech industry."
+excerpt: "Join 4Geeks Academy’s dynamic Coding Bootcamp in Berlin. Master coding skills and launch your career in Germany’s vibrant tech scene."
 title: "Coding Bootcamp in Berlin"
 template: "post"
 

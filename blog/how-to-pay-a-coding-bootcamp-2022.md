@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2022-12-06T05:29:14+00:00"
-excerpt: "Are you wondering how to pay for a coding bootcamp? Don't let cost hold you back from pursuing your career goals. Check out our article to learn more"
+excerpt: "Wondering how to pay for coding bootcamp in 2023? 4Geeks Academy offers financing options and flexible plans to make your coding journey affordable."
 template: "post" # post or landing_post
 title: "How to Pay for a Coding Bootcamp"
 image: "https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png"

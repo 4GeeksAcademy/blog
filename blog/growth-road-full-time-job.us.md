@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2019-08-27T14:37:28+00:00"
-excerpt: "Working Full-Time During a Part-Time Bootcamp might be hard, but we have many students telling you that it's totally possible."
+excerpt: "Explore the growth road at 4Geeks Academy. Learn how our bootcamp helps students build skills, grow their careers, and succeed in the tech industry."
 slug: "growth-road-full-time-job"
 template: "post" # post or landing_post
 title: "The Growth Road"

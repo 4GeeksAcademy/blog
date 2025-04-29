@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-07-25T18:52:57+00:00"
-excerpt: "The ideal instructor, know the attributes and skills of a good teacher when you are learning to code"
+excerpt: "Discover what makes the ideal instructor at 4Geeks Academy. Learn how our expert educators help students succeed with personalized support and guidance."
 slug: "the-ideal-instructor"
 template: "post" # post or landing_post
 title: "THE IDEAL INSTRUCTOR"

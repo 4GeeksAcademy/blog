@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2016-01-18T15:02:43+00:00"
-excerpt: "Rails framework gave us a lot, it changed the way web products were made, but now Ruby is behind the rest. Is not even in the top 10 already."
+excerpt: "4Geeks Academy reflects on Ruby on Rails’ legacy. While it’s fading, it’s been a vital tool in web development. We appreciate its impact on the industry."
 slug: "rip-ruby-on-rails"
 template: "post" # post or landing_post
 title: "R.I.P. Ruby on Rails. Thanks for everything!"

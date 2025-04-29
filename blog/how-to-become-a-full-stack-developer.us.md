@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Learn how can you become a full stack developer and which technologies you should learn if you want to highlight your career in tech."
+excerpt: "Learn how to become a Full Stack Developer with 4Geeks Academy. Get hands-on training, mentorship, and career support to launch your tech career."
 template: "post"
 title: "How to Become a Full Stack Developer?"
 

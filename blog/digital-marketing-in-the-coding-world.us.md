@@ -1,7 +1,7 @@
 ---
 author: "vsegnini"
 date: "2020-01-20T21:09:10+00:00"
-excerpt: "We actually do not understand why only a few coding schools are teaching JS and Python combined into just one program."
+excerpt: "Explore digital marketing in the coding world with 4Geeks Academy. Learn how coding and marketing combine to boost your career in tech."
 slug: "digital-marketing-in-the-coding-world"
 template: "post" # post or landing_post
 title: "Digital Marketing in the Coding World"
