@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-21T11:32:02+00:00"
-excerpt: "Learn Javscript : Understanding the Basics"
+excerpt: "Master JavaScript with 4Geeks Academy’s comprehensive guide. Learn everything from fundamentals to advanced concepts with expert mentorship."
 template: "post"
 title: "A Comprehensive Guide to Learn JavaScript"
 image_alt: "Learn JavaScript"

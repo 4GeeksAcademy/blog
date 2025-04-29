@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Considering a coding bootcamp in Miami? Our guide covers the top programs, costs, and reviews to help you make the right decision. Start your coding career today!"
+excerpt: "Looking for a coding bootcamp in Miami? 4Geeks Academy offers expert-led programs to help you launch your tech career in the vibrant Miami market."
 template: "post"
 title: "A Guide to Coding Bootcamps in Miami"
 

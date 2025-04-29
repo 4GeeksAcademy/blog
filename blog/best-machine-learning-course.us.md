@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Master machine learning with our in-depth course. From beginner to advanced, sharpen your skills and stay ahead of the curve. Enroll today!"
+excerpt: "Discover the top-rated Machine Learning courses with 4Geeks Academy. Learn AI, data science, and more to boost your tech career opportunities."
 template: "post"
 title: "Top Machine Learning Courses you can take"
 

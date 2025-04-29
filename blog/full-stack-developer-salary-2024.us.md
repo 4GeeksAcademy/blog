@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Discover the latest trends in Full Stack Development and learn about the projected 23% growth in this sector by 2030, according to the Bureau of Labor"
+excerpt: "Explore Full Stack Developer salary trends for 2024 with 4Geeks Academy. Understand the earning potential and career growth in this in-demand field."
 template: "post"
 title: "Full Stack Developer Salary Trends for 2024"
 

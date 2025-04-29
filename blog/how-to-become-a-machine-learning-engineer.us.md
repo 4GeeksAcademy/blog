@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Unlock the secrets to become a machine learning engineer with our step-by-step guide. Discover the skills and knowledge you need to successful today!"
+excerpt: "Learn how to become a Machine Learning Engineer with 4Geeks Academy. Get hands-on training in AI and data science to land your dream job."
 template: "post" 
 title: "How to Become a Machine Learning Engineer"
 

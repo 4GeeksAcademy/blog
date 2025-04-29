@@ -2,7 +2,7 @@
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
 title: "Give Your Learning Curve a Boost with SkillReactor: 4Geeks Academy's Newest Partner!"
-excerpt: "According to Payscale, a Web Developer in Miami earns an average of $64k per year, and an entry-level developer earns an average of $51k in the same period."
+excerpt: "Boost your learning curve with SkillReactor, 4Geeks Academy’s newest partner. Enhance your skills and fast-track your journey to a tech career."
 template: "post" 
 image_alt: ""
 

@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Preparing for a full stack developer interview? Make sure you're ready with our list of full stack developer interview questions to help you land your dream job."
+excerpt: "Prepare for Full Stack Developer interviews with 4Geeks Academy. Get key tips and top questions to ace your interview and land your dream job."
 template: "post" 
 image_alt: "Full Stack Developer Interview"
 

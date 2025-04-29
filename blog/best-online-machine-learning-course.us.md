@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Discover the top-rated online machine learning course to master AI and data science skills. Start your journey to becoming a machine learning expert today!"
+excerpt: "Master AI and data science with 4Geeks Academy’s top online Machine Learning course. Learn from experts and start your tech career today."
 template: "post"
 title:  "The Best Online Machine Learning Course: Master AI and Data Science Skills"
 

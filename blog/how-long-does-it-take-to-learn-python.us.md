@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "Discover the answer to the burning question: How long does it take to learn Python? Explore the different factors that can affect your learning journey."
+excerpt: "Wondering how long it takes to learn Python? 4Geeks Academy offers a structured bootcamp to help you master Python in a flexible and fast-paced environment."
 template: "post"
 title: "How Long Does it Take to Learn Python?"
 
