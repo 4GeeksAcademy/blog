@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Explore Coding Bootcamps, Accelerate Your Skills, and Unveil the True Cost of Shaping Your Future in Tech! Discover Now. 💡💻💰"
+excerpt: "Curious about the cost of a coding bootcamp? Learn how much you can expect to pay at 4Geeks Academy and explore affordable options to start your tech career."
 template: "post" 
 title: "How much is a Coding Bootcamp"
 
