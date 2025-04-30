@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2015-12-23T05:31:23+00:00"
-excerpt: "Know in depth the history of 4Geeks Academy"
+excerpt: "Discover the 4Geeks Academy story. Learn how we’ve helped thousands of students launch successful careers in tech through our hands-on bootcamps."
 template: "post"
 title: "4Geeks Academy Story"
 image: "/images/why2.jpg"

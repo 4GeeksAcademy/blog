@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "If you are thinking on becoming a Full Stack Developer this is the Full Stack Developer Job Description for you to learn what they do and why."
+excerpt: "Learn about the Full Stack Developer job description at 4Geeks Academy. Understand the skills and responsibilities needed to succeed in this role."
 template: "post" 
 title: "Full Stack Developer Job Description"
 

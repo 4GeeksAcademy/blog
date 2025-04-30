@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-03-19T22:36:42+00:00"
-excerpt: "It’s time to update our numbers. The annual average salary in the US has grown up 1% in February 2018."
+excerpt: "Learn about the 2018 salary trends for bootcamp graduates with 4Geeks Academy. See how bootcamp training can lead to competitive tech salaries."
 slug: "wages-report-2018-1"
 template: "post" # post or landing_post
 title: "Bootcamp Graduates Salary 2018"

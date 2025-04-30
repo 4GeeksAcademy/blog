@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2017-12-12T21:22:15+00:00"
-excerpt: "We are so pleased to announce that we have partnered with the startup technology and marketing studio: Launch Potato"
+excerpt: "4Geeks Academy announces new hiring partners for the year, including Launch Potato. Join our bootcamp and get connected to top tech job opportunities."
 slug: "new-year-new-hiring-partners-launch-potato-us"
 template: "post" # post or landing_post
 title: "New year, New Hiring Partners: Launch Potato & Us"

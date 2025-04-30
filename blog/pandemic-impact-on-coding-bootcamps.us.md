@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2021-02-24T05:29:14+00:00"
-excerpt: "Pandemic changes in coding. In the midst of Covid-19, 4Geeks has found its way to grow."
+excerpt: "Explore the pandemic’s impact on coding bootcamps. 4Geeks Academy discusses how bootcamps adapted and continued to deliver quality tech education."
 slug: "pandemic-impact-on-coding-bootcamp"
 template: "post" # post or landing_post
 title: "PANDEMIC IMPACT ON CODING BOOTCAMPS"

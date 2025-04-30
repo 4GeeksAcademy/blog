@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2022-12-06T05:29:14+00:00"
-excerpt: "Payment options to join a coding programHow to pay for a Coging Bootcamp"
+excerpt: "Wondering how to pay for a coding bootcamp in 2022? 4Geeks Academy explores financing options, scholarships, and flexible payment plans."
 slug: "hot-to-pay-a-coding-bootcamp"
 template: "post" # post or landing_post
 title: "How to Pay for a Coding Bootcamp"

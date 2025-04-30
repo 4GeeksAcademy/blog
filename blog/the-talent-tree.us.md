@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2017-10-11T20:30:18+00:00"
-excerpt: "Have you ever played The Sims or League of Legends? If you have, you familiar with the concept of “earning skills”"
+excerpt: "The Talent Tree at 4Geeks Academy connects students with top tech companies. Grow your career and expand your network with industry-leading partners."
 slug: "the-talent-tree"
 template: "post" # post or landing_post
 title: "The Talent Tree"

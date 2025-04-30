@@ -2,7 +2,7 @@
 title: "Are Coding Bootcamps Worth It? Exploring the Pros and Cons"
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: "Discover if coding bootcamps are the right choice for you. With 80% of graduates finding jobs within six months, learn the pros and cons to make an informed decision. Explore the value and..."
+excerpt: "Wondering if coding bootcamps are worth it? 4Geeks Academy explores the pros and cons to help you make an informed decision about your tech career."
 template: "post" 
 image_alt: ""
 

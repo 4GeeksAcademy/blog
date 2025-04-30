@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "4Geeks offers a 180-day job guarantee, one way they show their commitment to student success. This guarantee shows their confidence in the effectiveness of their part-time data science program. 4Geeks Academy is committed to helping students find jobs after finishing the program.  The part-time data science boot camp has achieved remarkable results."
+excerpt: "4Geeks Academy’s part-time Data Science Bootcamp offers flexibility. Learn data science skills at your own pace while balancing work or studies."
 template: "post"
 title: "Part Time Data Science Bootcamp"
 

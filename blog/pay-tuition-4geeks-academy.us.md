@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2017-01-21T00:38:45+00:00"
-excerpt: "The Miami Dade College tuition fee for the Full Stack program is already a bargain: $3,405!!"
+excerpt: "Learn how to pay your tuition for the Miami Dade College Coding Program with 4Geeks Academy. Explore flexible financing options and scholarships."
 slug: "pay-tuition-4geeks-academy"
 template: "post" # post or landing_post
 title: "Miami Dade College Coding Program: How To Pay Your Tuition?"

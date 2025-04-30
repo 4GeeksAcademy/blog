@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Looking for the best online coding bootcamp? Our top-rated program offers expert instruction and personalized support to help you launch your career in tech. Enroll today!"
+excerpt: "Join 4Geeks Academy’s Best Online Coding Bootcamp. Learn coding at your own pace with flexible schedules and expert mentorship to advance your career."
 template: "post"
 title: "Best Online Coding Bootcamp"
 

@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2023-09-06T02:58:12+00:00"
-excerpt: "Exciting partnership between Kaseya and 4Geeks Academy strengthens Miami's tech scene. Trainees can become skilled software developers and machine learning engineers, with opportunities to join Kaseya's tech sales and IT support teams. Join the private tour on November 8th to learn more."
+excerpt: "Exciting partnership between Kaseya and 4Geeks Academy strengthens Miami's tech scene. Trainees can become skilled software developers and machine learning engineers, with opportunities to join Kaseya	Kaseya and 4Geeks Academy partner to fuel Miami’s tech talent pipeline. Together, we’re training the next generation of tech professionals."
 template: "post"
 title: "Kaseya and 4Geeks Academy Join Forces to Fuel Miami's Tech Talent Pipeline"
 image_alt: "Kaseya and 4Geeks Academy"

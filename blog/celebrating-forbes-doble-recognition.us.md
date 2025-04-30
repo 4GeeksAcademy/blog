@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2019-03-20T05:29:14+00:00"
-excerpt: "list of the 5 Best Data Science Bootcamps Online in 2024, our program is praised for offering an exceptional learning experience at a very affordable price. With our Data Science and Machine Learning Course, priced at..."
+excerpt: "4Geeks Academy earns double recognition from Forbes as the best bootcamp for students on a budget, excelling in Full-Stack and Data Science."
 template: "post"
 title: "4Geeks Academy Earns Double Recognition: Named Best Bootcamp for Students on a Budget by Forbes for Full-Stack Development and Data Science"
 image_alt: "4Geeks Academy Earns Double Recognition by Forbes"

@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "4GeeksAcademy partners with Co.Lab and now graduates can get a guaranteed spot in Co.Lab’s program"
+excerpt: "4Geeks Academy partners with Co.Lab to empower students. Together, we’re helping you gain the skills and network to succeed in tech."
 template: "post"
 title:  "4GeeksAcademy partners with Co.Lab"
 

@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2015-12-09T20:18:46+00:00"
-excerpt: "Day by day companies are adapting to the increasingly digital world we live in. This is why web developers are becoming increasingly needed […]"
+excerpt: "Become a web developer with 4Geeks Academy and earn the salary you deserve. Learn key skills and land high-paying tech jobs in the growing industry."
 slug: "web-developer-earn-the-salary-you-deserve"
 template: "post" # post or landing_post
 title: "Web Developer: Earn the Salary You Deserve"

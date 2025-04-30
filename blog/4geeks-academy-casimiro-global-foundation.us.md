@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-02-08T17:18:12+00:00"
-excerpt: "Organization leader among the Miami community of young entrepreneurs: Casimiro Global Foundation."
+excerpt: "4Geeks Academy partners with Casimiro Global Foundation to provide coding education and career opportunities for aspiring tech professionals."
 template: "post"
 title: "4Geeks Academy + Casimiro Global Foundation"
 image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/02/CGF-INFOGRAPHIC.jpg"

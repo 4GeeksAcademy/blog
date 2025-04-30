@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "f you are new to the world of programming, you may actually have an advantage learning JavaScript because you will not have to unlearn any habits from studying other coding languages"
+excerpt: "Wondering how long it takes to learn JavaScript? 4Geeks Academy’s bootcamp helps you master JavaScript in a structured, fast-paced learning environment."
 template: "post"
 title: "How long does it take to learn JavaScript?"
 

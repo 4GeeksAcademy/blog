@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-03-18T00:00:00+00:00"
-excerpt: "Companies are looking for people with coding skills. Because they need people capable of understanding how a tech-related company works"
+excerpt: "Explore the types of jobs 4Geeks Academy bootcamp graduates find after completing training. Start your career in web development, data science, and more."
 slug: "what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2"
 template: "post" # post or landing_post
 title: "What kinds of jobs do coding bootcamp graduates find?"

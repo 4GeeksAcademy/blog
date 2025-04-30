@@ -1,7 +1,7 @@
 ---
 author: "anzolagi"
 date: "2022-05-05T05:29:14+00:00"
-excerpt: "Here is our top 5 games you can play to practice your programming skills."
+excerpt: "Practice programming with 4Geeks Academy’s list of free games. Improve your coding skills while having fun with interactive challenges."
 slug: "free-games-to-practice-your-programming-skills"
 template: "post" # post or landing_post
 title: "Free games to practice your programming skills"

@@ -1,6 +1,6 @@
 ---
 author: "alesanchezr"
-excerpt: "Ready to kickstart your career in tech? Join our machine learning bootcamp and master the skills you need to succeed. Enroll now for expert guidance!"
+excerpt: "Not sure which Machine Learning Bootcamp to choose? 4Geeks Academy helps you pick the best option to launch your career in AI and data science."
 template: "post" 
 title: "Machine Learning Bootcamp: Which one to choose?"
 

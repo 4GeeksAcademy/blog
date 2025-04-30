@@ -1,6 +1,6 @@
 ---
 author: "VictorManuelG"
-excerpt: “Software Engineer Berlin is the most searched term by the people who want to change careers for good or better salaries"
+excerpt: Learn how to become a Software Engineer in Berlin with 4Geeks Academy. Gain the skills needed to succeed in Germany's thriving tech industry.
 template: "post" 
 title: "How to Become a Software Engineer in Berlin"
 

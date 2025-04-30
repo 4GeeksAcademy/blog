@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2017-04-07T17:34:13+00:00"
-excerpt: "Education needs a change. There are more than 500.000 computer science open jobs nationwide. And it will increase up to 1.4 million by 2020."
+excerpt: "Explore the turnaround on education traditions with 4Geeks Academy in Part I. See how modern bootcamps are transforming learning for the future."
 slug: "turnaround-education-traditions-4geeks-academy"
 template: "post" # post or landing_post
 title: "Turnaround on Education Traditions | Part I"

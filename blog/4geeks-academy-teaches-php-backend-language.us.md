@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2016-01-11T03:15:12+00:00"
-excerpt: "This post is not about what programming language is better (it's impossible to answer that), this post is about choosing the best language to learn how to code."
+excerpt: "Learn why 4Geeks Academy teaches PHP as a backend language. Master PHP and become proficient in building dynamic, data-driven web applications."
 slug: "4geeks-academy-teaches-php-backend-language"
 template: "post"
 title: "Why 4Geeks Academy teaches PHP as Backend Language"

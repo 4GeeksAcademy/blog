@@ -1,5 +1,5 @@
 ---
-author: "alesanchez"
+author: "alesanchezr"
 excerpt: "Un curso puede ser realizado por cualquiera, pero pocos tenemos la noción de saber cual nos conviene, cual nos sirve y cual necesitamos"
 template: "post" 
 title: "Curso programación"

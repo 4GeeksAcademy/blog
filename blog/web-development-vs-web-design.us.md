@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2016-03-11T04:00:00+00:00"
-excerpt: "Web designers and software developers respond to different skills. The requirements of education are different and so are the opportunities they offer."
+excerpt: "Explore the differences between web development and web design with 4Geeks Academy. Learn which career path suits your skills and interests."
 slug: "web-development-versus-web-design"
 template: "post" # post or landing_post
 title: "Web Development Vs. Web Design"

@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2017-12-11T23:15:20+00:00"
-excerpt: "Students shall start to ask: Do you need me all day every day? Or can I actually have a life and also become a developer?"
+excerpt: "Discover the truth behind 4Geeks Academy’s part-time education. Learn coding flexibly while balancing work and personal commitments."
 slug: "truth-behind-part-time-education"
 template: "post" # post or landing_post
 title: "The truth behind our Part-time education"

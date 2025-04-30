@@ -1,7 +1,7 @@
 ---
 author: "anzolagi"
 date: "2021-02-24T05:29:14+00:00"
-excerpt: "Find the key opportunities that internships and bootcamps are have to prepare your company for challenging market demands in a post-pandemic world"
+excerpt: "Discover how internships and bootcamps, like 4Geeks Academy, help tech companies meet 2021 demands by preparing skilled developers and professionals."
 slug: "internships-bootcamps-2021"
 template: "post" # post or landing_post
 title: "Internships and bootcamps: the keys to prepare tech companies for 2021 demands"

@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2021-02-24T05:29:14+00:00"
-excerpt: "Should I learn to Code? Benefits of learning to code."
+excerpt: "Wondering if you should learn to code? 4Geeks Academy shows how coding can transform your career and open doors to tech opportunities."
 slug: "should-i-learn-code"
 template: "post" # post or landing_post
 title: "Should I learn to Code?"

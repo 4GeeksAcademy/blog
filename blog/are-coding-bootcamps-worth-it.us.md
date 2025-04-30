@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2021-04-09T05:29:14+00:00"
-excerpt: "Short analysis about leads and interviews to know if coding bootcamps are worth it"
+excerpt: "I interviewed over 3,000 leads to explore if coding bootcamps are worth it. Read my insights from 4Geeks Academy on making the right choice for your future."
 slug: "are-coding-bootcamp-worth-it"
 template: "post" # post or landing_post
 title: "Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads"

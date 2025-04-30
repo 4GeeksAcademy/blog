@@ -1,7 +1,7 @@
 ---
 author: "MRiciglianoC"
 date: "2018-11-05T22:22:21+00:00"
-excerpt: "We want to share our student’s stories, motivations and reasons."
+excerpt: "Learn to code at 4Geeks Academy and join a community where your voice matters. Gain skills and enter the tech industry with confidence."
 slug: "student-testimonials"
 template: "post" # post or landing_post
 title: "Learn to code at 4Geeks| Voices to be heard"
@@ -27,7 +27,7 @@ Some of our students. Faces that we will remember and active members of our comm
 
 Jonathan Ferragut (alumni from our very first cohort at Downtown Miami), once mentioned that he was trying to improve his coding skills (by enrolling 4Geeks Full Stack program) “_because software development is an industry that will grow so much that is impossible to not become part of it_”.  That’s why so many people are getting enrolled in Coding Bootcamps: they are finding a job, a career and a new path with their coding skills.
 
-At 4Geeks we’ve talked endlessly about the benefits of coding. We want to share our student’s stories, motivations and reasons. We’ve gathered a list of testimonials by our own line-up of excellent go-getters to help you see coding in a different light while taking a look at our Academy.
+At 4Geeks we’ve talked endlessly about the benefits of coding. Learn to code at 4Geeks Academy and join a community where your voice matters. Gain skills and enter the tech industry with confidence. We’ve gathered a list of testimonials by our own line-up of excellent go-getters to help you see coding in a different light while taking a look at our Academy.
 
 
 ## **Take a look inside our students' lineup**

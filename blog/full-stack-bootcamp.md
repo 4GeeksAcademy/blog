@@ -1,6 +1,6 @@
 ---
 author: "jrdelrio"
-excerpt: "Learn what a full-stack bootcamp is, its varieties its different modalities, payment opportunities, different approaches and some tips to find the one that best suits your situation, based on the benefits and disadvantages of each type."
+excerpt: "Join 4Geeks Academy’s Full Stack Bootcamp. Learn both front-end and back-end development and gain the skills to build complete web applications."
 template: "post"
 title: "Full Stack Bootcamps, opportunities, varieties and tips for choosing your best one"
 

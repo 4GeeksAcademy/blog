@@ -4,6 +4,7 @@ date: "2023-10-23T12:58:12+00:00"
 template: "post"
 title: "Should I Learn Python or Java? A Comprehensive Guide to Navigating the Crossroad"
 image_alt: "Should I Learn Python or Java"
+excerpt: "Confused about whether to learn Python or Java? 4Geeks Academy’s guide helps you navigate the crossroads and choose the best language for your career."
 
 ---
  

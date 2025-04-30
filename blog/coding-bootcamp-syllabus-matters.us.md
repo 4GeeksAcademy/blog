@@ -1,7 +1,7 @@
 ---
 author: "alesanchezr"
 date: "2017-11-04T00:33:50+00:00"
-excerpt: "The stack of technologies included in a Syllabus actually matters. It does, sorry. We all know that."
+excerpt: "Discover why the coding bootcamp syllabus matters at 4Geeks Academy. Ensure you get hands-on training and relevant skills for today’s tech industry."
 slug: "coding-bootcamp-syllabus-matters"
 template: "post" # post or landing_post
 title: "The coding bootcamp syllabus matters"

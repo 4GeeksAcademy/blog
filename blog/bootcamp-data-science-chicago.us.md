@@ -1,6 +1,6 @@
 ---
 author: "4GeeksAcademy"
-excerpt: "🚀 Uncover the top Chicago data science bootcamps! Dive into 4Geeks Academy's tech-powered program for a comprehensive learning experience in weeks, not months. 🌟 Your fast track to a booming career in data science!"
+excerpt: "Start your data science career with 4Geeks Academy’s Chicago Bootcamp. Learn essential skills and gain the experience needed to succeed."
 template: "post"
 title: "Best Bootcamp Data Science Chicago"
 

@@ -1,7 +1,7 @@
 ---
 author: "4GeeksAcademy"
 date: "2022-04-07T12:00:12+00:00"
-excerpt: "In this blog post we'll be talking about Python, why it is so popular, its libraries and use, and top jobs that include Python in their toolbox."
+excerpt: "Learn Python, one of the most in-demand programming languages, with 4Geeks Academy. Start your coding journey and boost your career in tech."
 slug: "python-one-of-the-most-in-demand-programming-languages"
 template: "post"
 title: "Python: one of the most in-demand programming languages"
