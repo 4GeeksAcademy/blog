@@ -1,4 +1,4 @@
-Requirements : AI For Business Course at 4Geeks Academy
+Requirements: AI For Business Course at 4Geeks Academy
 Word Count: 1000-1500
 Title: Unlocking Business Potential: The Imperative of AI For Business Course at 4Geeks Academy
 
