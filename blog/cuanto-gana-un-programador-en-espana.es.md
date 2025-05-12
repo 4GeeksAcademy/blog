@@ -2,7 +2,7 @@
 author: "4GeeksAcademy"
 excerpt: "Descubre cuánto gana un programador en España. ¡Las asombrosas cifras revelan el potencial de esta profesión en el mercado laboral actual"
 template: "post"
-title: "¿Cuánto gana un programador en España? 💻"
+title: "¿Cuánto gana un programador en España?"
 
 ---
 
