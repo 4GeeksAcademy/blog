@@ -16,9 +16,11 @@ In order to add a new post to the website, you have to follow the next steps:
 
     + If you want to publish a post in other language, add the language abreviation at the end of the name, right before the file extension. i.e.: This a post in spanish `bienvenido-a-4geeks.es.md`.
 
-2. Add your changes to your repository (`git add .`, `git commit -m "A message describing your contribution"` and `git push`).
+3. Execute `python3 update_posts.py`so the posts get updated in the API    
 
-3. Create a pull request in GitHub.
+4. Add your changes to your repository (`git add .`, `git commit -m "A message describing your contribution"` and `git push`).
+
+5. Create a pull request in GitHub.
 
 That's it! Then we'll review your changes and hopefully accept it soon!
 
