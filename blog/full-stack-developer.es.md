@@ -2,11 +2,11 @@
 author: "jrdelrio"
 excerpt: "Conoce que es un desarrollador full-stack y a que se dedica, cuanto dinero gana, y como puedes convertirte en un desarrollador."
 template: "landing_post"
-title: "¿Qué es un desarrollador full stack?"
+title: "¿Qué es un desarrollador full stack o full stack developer?"
 
 ---
 
-## Qué es un desarrollador Full Stack?
+## ¿Qué es un desarrollador Full Stack?
 
 Un desarrollador full stack es el responsable de construir, testear, mantener y manejar una plataforma web en todos los aspectos, esto significa que ambos tanto Front End and Back End. Front End es todo el contenido que puede ser visualizado desde la pantalla, eso es, textos, fotos, formulios, videos, colores y todo lo que tiene interacción directa con el usuario, por el otro lado, el Back End es parte de la plataforma que está detrás, eso es, el manejo de la base de datos que esta página almacena, sistema de auntentificación, manejo de contraseñas, ahorro de datos, etc.
 
