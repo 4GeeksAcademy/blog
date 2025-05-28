@@ -1,15 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-08-30T12:00:12+00:00"
-excerpt: "Vamos a conocer los 5 frameworks fundamentales que todo frontend developer necesita saber"
-slug: "los-5-frameworks-fundamentales-para-frontend"
-template: "post"
-title: "Los 5 Frameworks Fundamentales para Frontend"
-image: "https://storage.googleapis.com/media-breathecode/34118b5efe1e8d3311da5afaaa2d8ed0d7f6a4882639eef8e3115dccea260720"
-image_alt: "Frameworks para frontend"
-cluster: "aprender-a-programar"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2022-08-30T12:00:12+00:00'
+excerpt: Vamos a conocer los 5 frameworks fundamentales que todo frontend developer
+  necesita saber
+image: https://storage.googleapis.com/media-breathecode/34118b5efe1e8d3311da5afaaa2d8ed0d7f6a4882639eef8e3115dccea260720
+image_alt: Frameworks para frontend
+slug: los-5-frameworks-fundamentales-para-frontend
+status: published
+template: landing_post
+title: Los 5 Frameworks Fundamentales Para Frontend
 ---
 JavaScript sigue siendo el lenguaje más usado por programadores a nivel global. Es imperativo poner especial atención al frontend cuando se desarrolla una aplicación web; la interacción satisfactoria del usuario con la programación de un producto final depende de cómo se trabajan los códigos para este tipo de desarrollo.
 

@@ -1,18 +1,17 @@
 ---
-author: "Pattynouel"
-date: "2022-09-13"
-excerpt: "NodeJs, el framework que impulsa a los programadores backend hacia el éxito, conócelo"
-slug: "nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end"
-template: "post" # post or landing_post
-title: "Node.JS: El camino hacia el éxito de la programación Back-end"
-image: "https://breathecode.herokuapp.com/v1/media/file/nodejs-png?"
-image_alt: "Nodejs backend"
-cluster: "full-stack"
-status: "published"
+author: Pattynouel
+cluster: full-stack
+date: '2022-09-13'
+excerpt: NodeJs, el framework que impulsa a los programadores backend hacia el éxito,
+  conócelo
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/nodejs-png?
+image_alt: Nodejs backend
+slug: nodejs-el-camino-hacia-el-exito-de-la-programacion-back-end
+status: published
+template: landing_post
+title: 'Node.Js: El Camino Hacia El Éxito De La Programación Back...'
 ---
-
 NodeJS ha sido muy popular durante el 2022, empresas de escala global como Amazon, Netflix, PayPal, Intel, eBay, Groupon entre otras han priorizado contratar a programadores expertos en Node.JS,  sin embargo, muchos se preguntarán:
 
 ## ¿Qué es Node.JS?

@@ -1,17 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-06-24T20:44:51+00:00"
-excerpt: "Follow these 7 tips from 4Geeks Academy to land a job as a Software Developer ASAP. Boost your skills and jumpstart your tech career today."
-slug: "7-hacks-to-land-a-job"
-title: "7 tips to land a job as a Software Developer ASAP"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/06/GUENSE-01-1024x513.jpg"
-image_alt: "7 tips to land a job as a Software Developer ASAP"
-cluster: "career-growth"
-status: "published"
+author: MRiciglianoC
+cluster: career-growth
+date: '2019-06-24T20:44:51+00:00'
+excerpt: Follow these 7 tips from 4Geeks Academy to land a job as a Software Developer
+  ASAP. Boost your skills and jumpstart your tech career today.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/06/GUENSE-01-1024x513.jpg
+image_alt: 7 tips to land a job as a Software Developer ASAP
+slug: 7-hacks-to-land-a-job
+status: published
+template: landing_post
+title: 7 Tips To Land A Job As A Software Developer Asap
 ---
-
 # 7 tips to land a job as a Software Developer ASAP
 
 

@@ -1,14 +1,14 @@
 ---
-author: "MRiciglianoC"
-date: "2021-02-24T05:29:14+00:00"
-excerpt: "Descubre cuánto gana un Desarrollador Full-Stack en Chile. Conoce las ganancias de este profesional altamente demandado en el mercado laboral actual."
-slug: "cuanto-gana-un-desarrollador-full-stack"
-template: "post" 
-title: "¿Cuánto gana un programador en chile?"
-image_alt: "cuanto gana un programador en chile"
-
+author: MRiciglianoC
+date: '2021-02-24T05:29:14+00:00'
+excerpt: Descubre cuánto gana un Desarrollador Full-Stack en Chile. Conoce las ganancias
+  de este profesional altamente demandado en el mercado laboral actual.
+image_alt: cuanto gana un programador en chile
+slug: cuanto-gana-un-desarrollador-full-stack
+status: published
+template: landing_post
+title: ¿Cuánto Gana Un Programador En Chile?
 ---
-
 En las últimas dos décadas, hemos presenciado una **aceleración tecnológica** sin precedentes, especialmente en el ámbito computacional. Sin embargo, fue en **2020** cuando esta carrera se disparó gracias a la **emergencia sanitaria global**, que llevó a miles de empresas y emprendedores a moverse hacia lo **digital** 🌐.
 
 Según un estudio reciente de **IT Hunter**, el perfil de [**Desarrollador Web Full-Stack**](/es/cuanto-gana-un-programador/ser-programador-entre-las-profesiones-con-mayor-demanda) no solo es uno de los más solicitados, sino también un pilar clave en la **transformación digital** que vivimos hoy en día. Si este perfil te apasiona, sigue leyendo para descubrir **cuánto puedes ganar** en **Chile en 2024**.

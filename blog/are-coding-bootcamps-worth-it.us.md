@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2021-04-09T05:29:14+00:00"
-excerpt: "I interviewed over 3,000 leads to explore if coding bootcamps are worth it. Read my insights from 4Geeks Academy on making the right choice for your future."
-slug: "are-coding-bootcamp-worth-it"
-template: "post" # post or landing_post
-title: "Are Coding Bootcamps worth it? My take after interviewing more than +3000 leads"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/coding-in-bootcamp.jpg?raw=true"
-image_alt: "students learning code in a bootcamp"
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2021-04-09T05:29:14+00:00'
+excerpt: I interviewed over 3,000 leads to explore if coding bootcamps are worth it.
+  Read my insights from 4Geeks Academy on making the right choice for your future.
 featured: true
-
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/coding-in-bootcamp.jpg?raw=true
+image_alt: students learning code in a bootcamp
+slug: are-coding-bootcamp-worth-it
+status: published
+template: landing_post
+title: Are Coding Bootcamps Worth It? My Take After Interviewing...
 ---
-
 Since we started 4Geeks, I have always been in charge of admissions in the US and elsewhere. I have interviewed or met -at least - more than 3400 people right in the moment where they are about to decide whether joining a coding bootcamp is the right choice for learning to code. 
 
 But the decision is not about whether joining 4Geeks or not. Not even, although it happens occasionally, about the Bootcamp industry itself. Normally someone that comes to an interview at 4Geeks is already aware that this is a great option. We are reliable, trustful and dedicated. We also have built a sense of family and care about each other. The decision is about the bigger question. Should I really learn to code? Am I going to learn? Am I good enough for this? Am I actually getting a job afterwards?
@@ -56,6 +55,3 @@ If you are in your twenties or thirties, if you are thinking about getting a bet
 But also, if you are thinking about launching a tech startup or if you hold a position where every day more coding tasks are required, then joining a Bootcamp is also your best option. 
 
 Recently we have also seen more and more computer science students and graduates asking for info and joining our Bootcamp because they know and they need the hard skills provided at a school like 4Geeks.
-
-
-

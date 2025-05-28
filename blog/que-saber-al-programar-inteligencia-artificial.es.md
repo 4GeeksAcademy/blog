@@ -1,13 +1,12 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "que saber al programar una IA"
-template: "post"
-title: "¿Quieres aprender a Programar tu propia Inteligencia Artificial?"
-image_alt: "Programar tu propia Inteligencia Artificial"
-
+author: 4GeeksAcademy
+date: '2023-09-06T02:58:12+00:00'
+excerpt: que saber al programar una IA
+image_alt: Programar tu propia Inteligencia Artificial
+status: published
+template: landing_post
+title: ¿Quieres Aprender A Programar Tu Propia Inteligencia Arti...
 ---
-
 La inteligencia artificial o IA está revolucionando todas las áreas, no importa qué carrera ejerzas vas a utilizar o necesitar de la inteligencia artificial para escalar al próximo panorama mundial. La IA es un campo que se enfoca en crear sistemas que sean capaces de realizar tareas que normalmente necesitan o requieren de la inteligencia humana por lo que [arender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) se ha convertido en una prioridad. 
 
 

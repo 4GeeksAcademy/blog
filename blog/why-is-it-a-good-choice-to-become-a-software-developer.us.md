@@ -1,15 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-10-25T20:44:51+00:00"
-excerpt: "Learn why becoming a Software Developer is a great career choice with 4Geeks Academy. Explore the benefits of coding, job stability, and growth."
-slug: "why-is-it-a-good-choice-to-become-a-software-developer"
-title: "Why is it a good choice to become a Software Developer?"
-image: "https://breathecode.herokuapp.com/v1/media/file/blog-preview-png?"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: 4GeeksAcademy
+cluster: learn-to-code
+date: '2022-10-25T20:44:51+00:00'
+excerpt: Learn why becoming a Software Developer is a great career choice with 4Geeks
+  Academy. Explore the benefits of coding, job stability, and growth.
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/blog-preview-png?
+image_alt: ''
+slug: why-is-it-a-good-choice-to-become-a-software-developer
+status: published
+template: landing_post
+title: Why Is It A Good Choice To Become A Software Developer?
 ---
 Is it a good choice to become a Software Developer? In case you were wondering about it, we are here to cover the most important aspects you may want to consider to see if it's the right fit for you, keep reading below.
 
@@ -88,4 +89,4 @@ Source: LinkedIn
 
 So I have two questions for you, are you a passionate problem solver, logical thinker, and fan of technology? Are you looking for a fresh start or an upgrade to your current career?
 
-If so, [click here](https://4geeksacademy.com) and check out our programs and certifications (: 
+If so, [click here](https://4geeksacademy.com) and check out our programs and certifications (:

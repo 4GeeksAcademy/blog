@@ -1,13 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "4Geeks Academy is expanding with new locations in Atlanta, GA, and Houston, TX! Join our coding bootcamp to start your tech career in these cities."
-template: "post" 
-title: "Expanding Horizons: 4Geeks Academy Opens Two New Locations in Atlanta, GA, and Houston, TX!"
-image_alt: "4Geeks Academy Opens Two New Locations in Atlanta, GA, and Houston, TX"
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: 4Geeks Academy is expanding with new locations in Atlanta, GA, and Houston,
+  TX! Join our coding bootcamp to start your tech career in these cities.
+image_alt: 4Geeks Academy Opens Two New Locations in Atlanta, GA, and Houston, TX
+status: published
+template: landing_post
+title: 'Expanding Horizons: 4Geeks Academy Opens Two New Location...'
 ---
-
 We’re beyond excited to share the news of our latest expansion as **4Geeks Academy** opens its doors to two new physical locations, one nestled in Atlanta, GA, and the other in Houston, TX!
 
 For the local tech enthusiasts and students alike, this marks a significant milestone. While our online classes offer great convenience and flexibility, there's something truly invaluable about the opportunity to connect with peers and mentors face-to-face. That's why we're thrilled to bring the possibility of in-person mentorship sessions, talks, and meet-ups to the Atlantan and Houstonian community of geeks!

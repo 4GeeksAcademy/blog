@@ -1,17 +1,15 @@
 ---
-author: "4GeeksAcademyES"
-date: "2021-03-08T05:31:23+00:00"
-excerpt: "Conoce el nuevo partnership con Ticjob"
-slug: "ticjob-se-une-a-nuestros-partners"
-template: "post" # post or landing_post
-title: "Ticjob se une a nuestros partners"
-image: "/images/blog/Blog_post.png"
-image_alt: ""
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademyES
+cluster: tendencias-y-tecnologia
+date: '2021-03-08T05:31:23+00:00'
+excerpt: Conoce el nuevo partnership con Ticjob
+image: /images/blog/Blog_post.png
+image_alt: ''
+slug: ticjob-se-une-a-nuestros-partners
+status: published
+template: landing_post
+title: Ticjob Se Une A Nuestros Partners
 ---
-
 # Ticjob se uno a nuestros partners
 
 Qué mejor manera de continuar el mes de Marzo que presentando a nuestro nuevo partner, !Ticjob!

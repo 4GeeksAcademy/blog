@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2017-09-25T18:07:08+00:00"
-excerpt: "Learn why 4Geeks Academy doesn’t teach NodeJS in our Full-Stack program. We focus on the best tools and frameworks for modern development."
-slug: "dont-teach-nodejs-full-stack-development-program"
-template: "post" # post or landing_post
-title: "Why we don't teach NodeJS in our Full-Stack Development program"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/09/Screen-Shot-2017-09-25-at-10.54.52-PM.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: alesanchezr
+cluster: trends-and-tech
+date: '2017-09-25T18:07:08+00:00'
+excerpt: Learn why 4Geeks Academy doesn’t teach NodeJS in our Full-Stack program.
+  We focus on the best tools and frameworks for modern development.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/09/Screen-Shot-2017-09-25-at-10.54.52-PM.png
+image_alt: ''
+slug: dont-teach-nodejs-full-stack-development-program
+status: published
+template: landing_post
+title: Why We Don'T Teach Nodejs In Our Full-Stack Development P...
 ---
-
 We love NodeJS.  We even work with it in some of our 4Geeks experiments.  Node challenges the way the web is made - making it super fast and unifying it into a single language (which is amazing for the community because developers are able to specialize).  Node is super hot in the software development world and it was growing so much last year (2016) that it seemed unstoppable.  All that said, I’m sure you are asking yourself, why is it that 4Geeks decided to leave it out from its Full-Stack Development program?
 
 As the geeks we are, the decision was hard to make at the beginning, but once we started listening to the teacher inside of us, everything became clear.  Our full-stack development program is not meant to teach “what is cool,” it is meant to teach “whatever makes you the most prepared developer for both current and future market needs.”
@@ -69,5 +68,3 @@ Node grew like crazy in 2015-2016, but if you keep reading about Node you will s
 
 
 We love Node!  It deserves a spot in [some of our Workshops](/us/next-dates), but it's not the moment to include it as part of our main Full-Stack Development program.
-
-

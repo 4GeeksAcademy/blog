@@ -1,10 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Essential cybersecurity tips to protect your digital life, from strong passwords to secure browsing habits and data protection strategies."
-template: "post"
-title: "Cybersecurity Tips Everyone Should Follow"
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Essential cybersecurity tips to protect your digital life, from strong passwords
+  to secure browsing habits and data protection strategies.
+status: published
+template: landing_post
+title: Cybersecurity Tips Everyone Should Follow
 ---
-
 # Cybersecurity Tips Everyone Should Follow
 
 Our world is becoming more digital every day. From shopping online to handling finances, most of our activities take place on the internet. With all this personal data floating around, cybersecurity has never been more important.

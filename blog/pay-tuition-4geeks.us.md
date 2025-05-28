@@ -1,15 +1,15 @@
 ---
-author: "MRiciglianoC"
-date: "2017-10-24T16:29:31+00:00"
-excerpt: "Wondering how to pay for a coding bootcamp? 4Geeks Academy offers financing, scholarships, and flexible plans to help make coding education affordable."
-slug: "pay-tuition-4geeks"
-template: "post" # post or landing_post
-title: "How to Pay your tuition at 4Geeks"
-image_alt: "How to Pay your tuition at 4Geeks"
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2017-10-24T16:29:31+00:00'
+excerpt: Wondering how to pay for a coding bootcamp? 4Geeks Academy offers financing,
+  scholarships, and flexible plans to help make coding education affordable.
 featured: false
-
+image_alt: How to Pay your tuition at 4Geeks
+slug: pay-tuition-4geeks
+status: published
+template: landing_post
+title: How To Pay Your Tuition At 4Geeks
 ---
 Pricing and the options to pay for a quality program such as the 4Geeks (whether full-stack machine learning or data science), are just of fundamental importance. Not just the actual statement (defining the pricing), but most importantly how to make it possible, how to make it achievable, and how to make it a reality instead of an obstacle. 
 
@@ -105,5 +105,4 @@ Payment Plans require a $500 initial deposit.
 The standard term is 24 months, with a possible extension to 36 months in certain cases.
 
 ---
-¹ People without a permanent full-time job or people with an employment that is not equivalent to the level of skills or education or wage that should be applied to them. 
-
+¹ People without a permanent full-time job or people with an employment that is not equivalent to the level of skills or education or wage that should be applied to them.

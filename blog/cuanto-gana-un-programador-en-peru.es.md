@@ -1,15 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Descubre las claves sobre salarios y perspectivas laborales para programadores en Perú 🚀. ¡Potencia tu carrera en un mercado en pleno crecimiento tecnológico! 💼💻"
-slug: "cuanto-gana-un-programador-en-peru"
-template: "post" 
-title: "¿Cuánto gana un programador en Perú?"
-image: "https://breathecode.herokuapp.com/v1/media/file/lima-peru-background-jpg"
-image_alt: "Cuanto Gana un programador en Peru"
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Descubre las claves sobre salarios y perspectivas laborales para programadores
+  en Perú 🚀. ¡Potencia tu carrera en un mercado en pleno crecimiento tecnológico!
+  💼💻
+image: https://breathecode.herokuapp.com/v1/media/file/lima-peru-background-jpg
+image_alt: Cuanto Gana un programador en Peru
+slug: cuanto-gana-un-programador-en-peru
+status: published
+template: landing_post
+title: ¿Cuánto Gana Un Programador En Perú?
 ---
-
 El mercado laboral para programadores en el Perú está experimentando un crecimiento sostenido, impulsado por la creciente digitalización de diversas industrias, y la constante demanda de profesionales en tecnologías de la información, 📈 Esto incluye el mercado laboral, [salarios de los programadores](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador), diferencias por área, educación, especialidades, cambios con el tiempo, historias de trabajadores, perspectivas laborales y cosas como experiencia y certificaciones 🤑.
 
 

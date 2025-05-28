@@ -1,11 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Explore the Software Engineer salary in Germany with 4Geeks Academy. Learn how the German tech market offers great pay and opportunities for growth."
-template: "post" 
-title: "How much is the Software engineer salary in Germany"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Explore the Software Engineer salary in Germany with 4Geeks Academy. Learn
+  how the German tech market offers great pay and opportunities for growth.
+status: published
+template: landing_post
+title: How Much Is The Software Engineer Salary In Germany
 ---
-
 The [salary of a software engineer](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary) in Germany can vary significantly depending on a number of factors, including the engineer's level of experience, the size and type of company they work for, and the location of the company. According to data from the German Federal Employment Agency, the median gross salary for a software developer in Germany is around €55,000 per year. 
 
 However, salaries for more experienced software engineers can be significantly higher, with some reaching six figures. It's also important to note that salaries in Germany are typically higher in the western part of the country, compared to the eastern part. Additionally, salaries in larger cities like Berlin and Munich tend to be higher than in smaller cities or rural areas. To know more about the salary of a [Software Engineer in Germany](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) I invite you to read the next blog post.

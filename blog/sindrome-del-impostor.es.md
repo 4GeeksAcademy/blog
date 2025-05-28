@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-04-04T12:00:12+00:00"
-excerpt: "El síndrome del impostor es un fenómeno psicológico que nos afecta a todos, en especial a los programadores, aprende con nosotros como reconocerlo y afrontarlo."
-slug: "sindrome-del-impostor"
-template: "post"
-title: "Síndrome del Impostor: El peor enemigo de todo programador junior"
-image: "https://breathecode.herokuapp.com/v1/media/file/sindrome-del-impostor-2-jpg?"
-image_alt: "Síndrome del Impostor: El peor enemigo de todo programador junior"
-cluster: "desarrollo-profesional"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: desarrollo-profesional
+date: '2022-04-04T12:00:12+00:00'
+excerpt: El síndrome del impostor es un fenómeno psicológico que nos afecta a todos,
+  en especial a los programadores, aprende con nosotros como reconocerlo y afrontarlo.
+image: https://breathecode.herokuapp.com/v1/media/file/sindrome-del-impostor-2-jpg?
+image_alt: 'Síndrome del Impostor: El peor enemigo de todo programador junior'
+slug: sindrome-del-impostor
+status: published
+template: landing_post
+title: 'Síndrome Del Impostor: El Peor Enemigo De Todo Programado...'
 ---
-
 Todos nos venden la carrera de programación como algo difícil y que conlleva arduo trabajo, e inclusive dicen que requiere de mucha inteligencia. Cuando nos hacen este tipo de comentarios es donde aparece el síndrome del impostor, pero ¿qué es eso?
 
 El síndrome del impostor no es más que un fenómeno psicológico en el que la persona que lo está experimentando se siente incapaz e insuficiente y se le dificulta internalizar sus logros y capacidades y por lo general, sufre un miedo constante a ser “descubierto/a” como un fraude. Básicamente nos hace sentir incompetentes.

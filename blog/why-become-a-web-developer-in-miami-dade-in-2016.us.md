@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2016-01-18T00:38:18+00:00"
-excerpt: "Learn why becoming a web developer in Miami Dade was a great choice in 2016. 4Geeks Academy highlights the opportunities in the region's tech scene."
-slug: "why-become-a-web-developer-in-miami-dade-in-2016"
-template: "post" # post or landing_post
-title: "Why Become A Web Developer In Miami Dade In 2016"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/Martes-1.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: alesanchezr
+cluster: trends-and-tech
+date: '2016-01-18T00:38:18+00:00'
+excerpt: Learn why becoming a web developer in Miami Dade was a great choice in 2016.
+  4Geeks Academy highlights the opportunities in the region's tech scene.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/Martes-1.png
+image_alt: ''
+slug: why-become-a-web-developer-in-miami-dade-in-2016
+status: published
+template: landing_post
+title: Why Become A Web Developer In Miami Dade In 2016
 ---
-
 ## **Why Become A Web Developer In Miami Dade?**
 
 
@@ -93,5 +92,3 @@ Now, beyond the financial aspect of it all and the high demand for this particul
 Tech companies offer the highest quality of life to their employees, and according to an article in Fortune magazine, one of the top companies to work for in Florida is an IT firm.
 
 In any case, if you’re living in the **city of Miami Dade** and you’re thinking about becoming a web developer but you don’t have the necessary tools yet, the doors at 4GeeksAcademy are open for you!  We’re ready to offer the best training in the area and make all these numbers mentioned before real to you!
-
-

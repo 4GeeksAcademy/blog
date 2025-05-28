@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2017-11-04T00:33:50+00:00"
-excerpt: "Discover why the coding bootcamp syllabus matters at 4Geeks Academy. Ensure you get hands-on training and relevant skills for today’s tech industry."
-slug: "coding-bootcamp-syllabus-matters"
-template: "post" # post or landing_post
-title: "The coding bootcamp syllabus matters"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/11/POST-TECNOLOGIA-01.jpg"
-image_alt: ""
-status: "published"
+author: alesanchezr
+cluster: coding-bootcamps
+date: '2017-11-04T00:33:50+00:00'
+excerpt: Discover why the coding bootcamp syllabus matters at 4Geeks Academy. Ensure
+  you get hands-on training and relevant skills for today’s tech industry.
 featured: false
-cluster: "coding-bootcamps"
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/11/POST-TECNOLOGIA-01.jpg
+image_alt: ''
+slug: coding-bootcamp-syllabus-matters
+status: published
+template: landing_post
+title: The Coding Bootcamp Syllabus Matters
 ---
-
 If you look at the Full-Stack Web Development Bootcamp industry, you rapidly realize that they have been teaching the same programming languages since the beginning.  When potential students ask about that, the academies quickly start undermining the role of the language by saying that it does not really matter - that you can switch fast from one to the other.
 
 As a coding Bootcamp co-founder and head of the Academic and Technologies Department, this was also one of my first questions; I was creating our syllabus, but, as an experienced developer, that answer didn’t convince me.  Knowing how much technology evolves every 6 months, it’s IMPOSSIBLE that, after years of training, most of them haven’t significantly changed their syllabus.

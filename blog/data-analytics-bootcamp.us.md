@@ -1,10 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Launch your data career with our Data Analytics Bootcamp featuring hands-on projects, job guarantee, and flexible online learning."
-template: "post"
-title: "Data Analytics Bootcamp with Job Guarantee"
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Launch your data career with our Data Analytics Bootcamp featuring hands-on
+  projects, job guarantee, and flexible online learning.
+status: published
+template: landing_post
+title: Data Analytics Bootcamp With Job Guarantee
 ---
-
 Our data analytics bootcamp is designed for those who want to dive into the world of data. It is perfect for individuals looking to switch careers, advance their skills, or simply start a fresh journey in the data field. With our hands-on curriculum and career support, we aim to make sure you have the skills and knowledge to succeed.
 
 ## About Our Data Analytics Bootcamp with Job Guarantee  
@@ -32,4 +34,4 @@ We offer unlimited mentorship, career coaching, and access to our tech-driven co
 
 Our curriculum is award-winning and highly praised for its practical, real-world approach to learning. We have partnered with top organizations, including Miami Dade College and Miami Tech Works, to offer the best training.  
 
-[Contact us](https://4geeksacademy.com/us/contact) to find out more about our coding programs. Embark on your tech career journey with us today!  
+[Contact us](https://4geeksacademy.com/us/contact) to find out more about our coding programs. Embark on your tech career journey with us today!

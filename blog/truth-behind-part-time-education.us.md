@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2017-12-11T23:15:20+00:00"
-excerpt: "Discover the truth behind 4Geeks Academy’s part-time education. Learn coding flexibly while balancing work and personal commitments."
-slug: "truth-behind-part-time-education"
-template: "post" # post or landing_post
-title: "The truth behind our Part-time education"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/12/The-Truth-02-768x384.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2017-12-11T23:15:20+00:00'
+excerpt: Discover the truth behind 4Geeks Academy’s part-time education. Learn coding
+  flexibly while balancing work and personal commitments.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/12/The-Truth-02-768x384.jpg
+image_alt: ''
+slug: truth-behind-part-time-education
+status: published
+template: landing_post
+title: The Truth Behind Our Part-Time Education
 ---
-
 At 4Geeks we take very seriously the whole deal about how to become a software developer.  There are plenty of options, I know, and there are plenty of opinions, I know. But we have found a lack of argument when talking about the schedule and the methodology brought by the coding program.
 
 Having a coding program that is either part-time or full time, or even online, is not an easy discussion.  The whole product is built around that decision.  It is not – at least it should not be - a marketing approach, but a career approach.   We do not choose Part-time because we know most people have work/things to do; we choose Part-time because we are sure that we are able to build software developers out of our students if we took care of the methodology.
@@ -175,5 +174,3 @@ In order to become a developer, you need to commit to - at least - 300 hours of 
 While I write this post, I realize that the conversation shall not be addressed as Part-time vs. Full time programs (Online programs by the way, could be either part-time or full-time as well).  The conversation needs to stop there.  Students should start to ask: Do you need me all day every day?  Or can I actually have a life and also become a developer?  Only after you answer that question, you can choose if you want to have an online program or an in-person program.
 
 [1] [https://lighthouselabs.ca/blog/full-time-versus-part-time-which-program-is-for-me](https://lighthouselabs.ca/blog/full-time-versus-part-time-which-program-is-for-me)
-
-

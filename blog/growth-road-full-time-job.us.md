@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-08-27T14:37:28+00:00"
-excerpt: "Explore the growth road at 4Geeks Academy. Learn how our bootcamp helps students build skills, grow their careers, and succeed in the tech industry."
-slug: "growth-road-full-time-job"
-template: "post" # post or landing_post
-title: "The Growth Road"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/08/BLOG-01.jpg"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2019-08-27T14:37:28+00:00'
+excerpt: Explore the growth road at 4Geeks Academy. Learn how our bootcamp helps students
+  build skills, grow their careers, and succeed in the tech industry.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/08/BLOG-01.jpg
+image_alt: ''
+slug: growth-road-full-time-job
+status: published
+template: landing_post
+title: The Growth Road
 ---
-
 # **The Growth Road**
 
 

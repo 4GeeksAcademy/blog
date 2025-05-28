@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2017-10-27T23:10:20+00:00"
-excerpt: "Check out the 2017 edition of Bootcamp Graduates’ salaries with 4Geeks Academy. Learn how bootcamp graduates are succeeding in tech careers."
-slug: "bootcamp-salaries-2-0"
-template: "post" # post or landing_post
-title: "Bootcamp Graduates Salary 2017: 2.0 edition"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/10/portada-bootcamp-02-1-1024x674.jpg"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2017-10-27T23:10:20+00:00'
+excerpt: Check out the 2017 edition of Bootcamp Graduates’ salaries with 4Geeks Academy.
+  Learn how bootcamp graduates are succeeding in tech careers.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/10/portada-bootcamp-02-1-1024x674.jpg
+image_alt: ''
+slug: bootcamp-salaries-2-0
+status: published
+template: landing_post
+title: 'Bootcamp Graduates Salary 2017: 2.0 Edition'
 ---
-
 When someone takes the decision to enroll into a Coding Bootcamp, they are doing it because of three – among others - main reasons: (1) higher income; (2) more job opportunities than other careers; (3) launching a Startup.  We have the commitment of analyzing - based on current data - these reasons twice a year.  Here is the recent outcome.
 
 

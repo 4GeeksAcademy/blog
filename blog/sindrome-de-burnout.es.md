@@ -1,15 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-05-03T12:00:12+00:00"
-excerpt: "El Síndrome de Burnout es una realidad y afecta mucho a los profesionales, sobretodo a los programadores, lee este blog y verás cómo identificarlo y combatirlo."
-slug: "sindrome-del-burnout"
-template: "post"
-title: "Síndrome de Burnout en programadores ¿Cómo afecta y cómo afrontarlo?"
-image: "https://factorcapitalhumano.com/wp-content/uploads/2019/05/Burnout-laboral-e1558985212623.jpg"
-image_alt: "Síndrome de Burnout en programadores ¿Cómo afecta y cómo afrontarlo?"
-cluster: "desarrollo-profesional"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: desarrollo-profesional
+date: '2022-05-03T12:00:12+00:00'
+excerpt: El Síndrome de Burnout es una realidad y afecta mucho a los profesionales,
+  sobretodo a los programadores, lee este blog y verás cómo identificarlo y combatirlo.
+image: https://factorcapitalhumano.com/wp-content/uploads/2019/05/Burnout-laboral-e1558985212623.jpg
+image_alt: Síndrome de Burnout en programadores ¿Cómo afecta y cómo afrontarlo?
+slug: sindrome-del-burnout
+status: published
+template: landing_post
+title: Síndrome De Burnout En Programadores ¿Cómo Afecta Y Cómo ...
 ---
 ¿Te ha sucedido que comienzas la semana y ya deseas terminarla? O peor aún, ¿te ha pasado que cada código que te piden programar te parece una tortura? Si esto te ha pasado, seguramente te has preguntado ¿Qué me pasa y por qué ya no amo programar tanto como antes?
 

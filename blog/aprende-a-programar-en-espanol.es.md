@@ -1,14 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "Aprender a programar se ha convertido en una habilidad invaluable. Aquí vamos a explorar por qué hacerte programador en Estados Unidos ha sido tan limitado y tan restringido, y por qué nos tardó tanto darnos cuenta. Además hablaremos de si es verdaderamente posible, de sus costos y de sus expectativa laborales al concluir."
-template: "post"
-title: "Aprender a Programar en Español en Estados Unidos"
-image_alt: "Aprender a Programar en Español en Estados Unidos"
-
+author: 4GeeksAcademy
+date: '2023-09-06T02:58:12+00:00'
+excerpt: Aprender a programar se ha convertido en una habilidad invaluable. Aquí vamos
+  a explorar por qué hacerte programador en Estados Unidos ha sido tan limitado y
+  tan restringido, y por qué nos tardó tanto darnos cuenta. Además hablaremos de si
+  es verdaderamente posible, de sus costos y de sus expectativa laborales al concluir.
+image_alt: Aprender a Programar en Español en Estados Unidos
+status: published
+template: landing_post
+title: Aprender A Programar En Español En Estados Unidos
 ---
-
-
 Aprender a programar se ha convertido en una habilidad invaluable. Aquí vamos a explorar por qué hacerte programador en Estados Unidos ha sido tan limitado y tan restringido, y por qué nos tardó tanto darnos cuenta. Además hablaremos de si es verdaderamente posible, de sus costos y de sus expectativa laborales al concluir. 
 
 ## Aprender a programar en Español

@@ -1,19 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2020-04-29T05:31:23+00:00"
-excerpt: "At 4Geeks Academy, you’ll never code alone. Join our community of learners and mentors who will support you throughout your coding journey.
-"
-slug: "geekpal"
-template: "post" # post or landing_post
-title: "Never Code Alone Again"
-image: "/images/why2.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: alesanchezr
+cluster: trends-and-tech
+date: '2020-04-29T05:31:23+00:00'
+excerpt: 'At 4Geeks Academy, you’ll never code alone. Join our community of learners
+  and mentors who will support you throughout your coding journey. '
 featured: true
-
+image: /images/why2.jpg
+image_alt: ''
+slug: geekpal
+status: published
+template: landing_post
+title: Never Code Alone Again
 ---
-
 Today I'm very happy to announce GeekPAL.
 
 ## What is GeekPAL

@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Learn how to build your first portfolio as a Full Stack Developer with 4Geeks Academy. Showcase your skills and start your tech career."
-template: "post"
-title: "Full Stack Developers | Salaries around the world and how to build your first portfolio."
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Learn how to build your first portfolio as a Full Stack Developer with 4Geeks
+  Academy. Showcase your skills and start your tech career.
+status: published
+template: landing_post
+title: Full Stack Developers | Salaries Around The World And How...
 ---
-
 A portfolio is a self built tool designed to showcase your completed projects. It is not focused on educational titles, jobs, or previous experience but on providing evidence of what you can do as a developer.
 
 Do not confuse the portfolio with the resume: The [full stack developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) resume (or CV) is the place to list academic achievements, certifications and diplomas that prove your qualifications, experience in previous companies, etc.

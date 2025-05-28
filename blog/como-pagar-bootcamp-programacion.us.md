@@ -1,16 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2022-10-10T05:29:14+00:00"
-excerpt: "Opciones que puedes encontrar para que puedas realmente hacerte desarrollador de software"
-slug: "como-pagar-bootcamp-programacion"
-template: "post" # post or landing_post
-title: "BOOTCAMP GRADUATES SALARIES 2019 EDITION"
-image: "https://breathecode.herokuapp.com/v1/media/file/bootcamp-pagar-png?"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
-featured: "true"
-
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2022-10-10T05:29:14+00:00'
+excerpt: Opciones que puedes encontrar para que puedas realmente hacerte desarrollador
+  de software
+featured: 'true'
+image: https://breathecode.herokuapp.com/v1/media/file/bootcamp-pagar-png?
+image_alt: ''
+slug: como-pagar-bootcamp-programacion
+status: published
+template: landing_post
+title: Bootcamp Graduates Salaries 2019 Edition
 ---
 # CÓMO PAGAR UN BOOTCAMP DE PROGRAMACIÓN
 

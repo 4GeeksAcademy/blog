@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Descubre los perfiles más buscados por las empresas en 2024 según Ninja Talent. ¡Prepárate para destacar en el sector tecnológico! #profesionalesdemandados"
-template: "post"
-title: "Los perfiles más demandados en IT para 2024"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 'Descubre los perfiles más buscados por las empresas en 2024 según Ninja
+  Talent. ¡Prepárate para destacar en el sector tecnológico! #profesionalesdemandados'
+status: published
+template: landing_post
+title: Los Perfiles Más Demandados En It Para 2024
 ---
-
 Quedan solo unos días para despedir el 2023, un año en el que el sector tecnológico ha tenido un gran protagonismo. Cada vez son más los profesionales que deciden dar el salto a este mundo o a especializarse aún más. Pero, ¿cuáles son los perfiles más demandados por las empresas en estos momentos? En este artículo, [Ninja Talent](https://ninjatalent.net/), certificadora de talento IT y headhunting, nos da algunas pistas sobre los profesionales que más se van a cotizar en el próximo 2024. 
 
 
@@ -40,4 +41,3 @@ Dentro del mundo de las finanzas, la tendencia tecnológica del año ha sido el 
 **Ninja Talent: probando tu valía en el sector tecnológico**
 
 Como ves, el sector de la tecnología está en auge. La gran demanda de desarrolladores y otros perfiles tecnológicos en 2024 trae consigo una mayor necesidad de profesionalidad, y es aquí donde cobra sentido la alianza entre **Ninja Talent** y **4Geeks**. Gracias a esta colaboración, los alumnos de 4Geeks podrán certificarse en la tecnología que elijan con el Code Challenge de **Ninja Talent**. Luego, el [equipo recruiter](https://ninjarecruiter.net) ayudará a estos alumnos a encontrar la oferta de trabajo que mejor encaje con su perfil. [¡Acepta el reto Ninja!](https://app.codechallenge.ninja/formulario-ninja)
-

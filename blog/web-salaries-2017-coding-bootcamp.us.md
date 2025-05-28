@@ -1,19 +1,19 @@
 ---
-author: "MRiciglianoC"
-date: "2017-07-18T20:20:19+00:00"
-excerpt: "Discover the salary outcomes for web development bootcamp graduates in 2017. See how 4Geeks Academy’s bootcamp helped launch tech careers."
-slug: "web-salaries-2017-coding-bootcamp"
-template: "post" # post or landing_post
-title: "Web development Bootcamp graduates salary: 2017 edition"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2017/08/PORTADA-Salary.jpg"
-image_alt: ""
-cluster: "coding-bootcamps"
-post_translations: ["pll_5703862f49f64"]
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2017-07-18T20:20:19+00:00'
+excerpt: Discover the salary outcomes for web development bootcamp graduates in 2017.
+  See how 4Geeks Academy’s bootcamp helped launch tech careers.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2017/08/PORTADA-Salary.jpg
+image_alt: ''
+post_translations:
+- pll_5703862f49f64
+slug: web-salaries-2017-coding-bootcamp
+status: published
+template: landing_post
+title: 'Web Development Bootcamp Graduates Salary: 2017 Edition'
 ---
-
 ## **Real data addressing real questions.**
 
 
@@ -102,5 +102,3 @@ Now, let’s talk about experience… as the experience of a web developer incre
 Before leaving you with the decision, consider this: imagine yourself in 3 years...
 
 Then, hold both options: In one hand; Studying in a college to get a computer science degree, which could take 2-3 years to complete.  In the other hand, you have the 4-month training at a Coding Bootcamp.  What we can say is, for sure, that during those additional 3.5 years, you can do more than just go to college for a traditional education.
-
-

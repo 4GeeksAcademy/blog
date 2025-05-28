@@ -1,17 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Explore Bootcamp graduates’ salaries in 2019 with 4Geeks Academy. See how bootcamp training helps launch successful tech careers with competitive pay."
-slug: "2019-developers-salaries-report"
-template: "post" # post or landing_post
-title: "BOOTCAMP GRADUATES SALARIES 2019 EDITION"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/MAIN-BLOG-1024x270.jpg"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
-
+author: MRiciglianoC
+cluster: career-growth
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Explore Bootcamp graduates’ salaries in 2019 with 4Geeks Academy. See how
+  bootcamp training helps launch successful tech careers with competitive pay.
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/MAIN-BLOG-1024x270.jpg
+image_alt: ''
+slug: 2019-developers-salaries-report
+status: published
+template: landing_post
+title: Bootcamp Graduates Salaries 2019 Edition
 ---
-
 # BOOTCAMP GRADUATES SALARIES 2019 EDITION
 
 
@@ -139,5 +138,3 @@ It’s easily the strongest career path for new developers and professionals tha
 Technologies, languages, and frameworks remain almost the same, with few changes, but the working conditions are the ones experiencing less change. Developer’s incomes have stabilized, with no dramatic changes. Web development is still -and will remain that way for a long time- a very lucrative career where you can grow and make others grow. 
 
 You can land a job like this if you enroll in a coding Bootcamp. In less time than you can imagine, you’ll be fluent in coding languages that let you program the world around you. Enroll in one of our programs and start a career in the tech field. It’s not only about the money, but it’s also about what you are capable to build.
-
-

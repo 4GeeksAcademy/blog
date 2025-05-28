@@ -1,13 +1,12 @@
 ---
-author: "Valentina Botana & 4Geeks Academy"
-excerpt: "Practical strategies to land a tech job in 2025: personal branding, alternative job search methods, creative experience-building, and intentional networking."
-template: "post"
-title: "HOW TO GET A JOB IN TECH RIGHT NOW"
-status: "published"
-date: "2025-05-14T14:32:02+00:00"
-
+author: Valentina Botana & 4Geeks Academy
+date: '2025-05-14T14:32:02+00:00'
+excerpt: 'Practical strategies to land a tech job in 2025: personal branding, alternative
+  job search methods, creative experience-building, and intentional networking.'
+status: published
+template: landing_post
+title: How To Get A Job In Tech Right Now
 ---
-
 Here's what's happening in the market, and more importantly, how you can thrive in it.
 
 Let's be honest: the road to your first (or next) tech job in 2025 isn't going to be easy. There's a lot of competition, the market is evolving quickly, and not every opportunity is what it seems. But here's the good news:
@@ -76,4 +75,3 @@ The skills you develop today, the people you connect with, and the confidence yo
 Your future in tech isn't just possible, it's waiting for you.
 
 ---
-

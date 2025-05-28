@@ -1,19 +1,19 @@
 ---
-author: "MRiciglianoC"
-date: "2017-04-07T17:34:13+00:00"
-excerpt: "Explore the turnaround on education traditions with 4Geeks Academy in Part I. See how modern bootcamps are transforming learning for the future."
-slug: "turnaround-education-traditions-4geeks-academy"
-template: "post" # post or landing_post
-title: "Turnaround on Education Traditions | Part I"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/04/ISA-Blog-Cover.png"
-image_alt: ""
-cluster: "learn-to-code"
-post_translations: ["pll_5703862f49f64"]
-status: "published"
+author: MRiciglianoC
+cluster: learn-to-code
+date: '2017-04-07T17:34:13+00:00'
+excerpt: Explore the turnaround on education traditions with 4Geeks Academy in Part
+  I. See how modern bootcamps are transforming learning for the future.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/04/ISA-Blog-Cover.png
+image_alt: ''
+post_translations:
+- pll_5703862f49f64
+slug: turnaround-education-traditions-4geeks-academy
+status: published
+template: landing_post
+title: Turnaround On Education Traditions | Part I
 ---
-
 Education needs a change. It’s been changing, but probably not enough. Why? There are, in STEM at least, more open jobs than postulations. Either the Economy is saying that working as an employee is bad, or the education methods and standards are way behind the real needs. Let’s just focus on the educational problem and forget -for a bit- about the economic trend of becoming an entrepreneur.
 
 There are more than 500.000 computer science open jobs nationwide in the US.[1] By 2020, the Bureau of Labor Statistics projects an increase of that number to 1.4 million computer science available positions, and only 400.000 graduates within that area.[2] Only in Florida, in 2015, the number was approximately 23.000 open jobs. There are not enough graduates per year to fulfill that demand. Innovation and evolution are stopped by this lack of talent, and the current educational approach is allowing this number to increase.
@@ -55,5 +55,3 @@ For those who say that Education is not important, and support that theory, we b
 [2] [https://econdataus.com/claim400k.htm](https://econdataus.com/claim400k.htm)
 
 [3] Just to point out a few articles: [https://edtechreview.in/data-statistics/2457-flipped-learning-classroom-statistics](https://edtechreview.in/data-statistics/2457-flipped-learning-classroom-statistics)  - [https://www.learndash.com/interesting-flipped-classroom-statistics/](https://www.learndash.com/interesting-flipped-classroom-statistics/)  - [https://www.asee.org/file_server/papers/attachment/file/0003/3259/6219.pdf](https://www.asee.org/file_server/papers/attachment/file/0003/3259/6219.pdf)  - [https://www.ascd.org/publications/educational-leadership/mar13/vol70/num06/Evidence-on-Flipped-Classrooms-Is-Still-Coming-In.aspx](https://www.ascd.org/publications/educational-leadership/mar13/vol70/num06/Evidence-on-Flipped-Classrooms-Is-Still-Coming-In.aspx)
-
-

@@ -1,17 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2022-12-06T05:29:14+00:00"
-excerpt: "Wondering how to pay for coding bootcamp in 2023? 4Geeks Academy offers financing options and flexible plans to make your coding journey affordable."
-template: "post" # post or landing_post
-title: "How to Pay for a Coding Bootcamp"
-image: "https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png"
-image_alt: "how-to-pay-for-a-coding-bootcamp"
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2022-12-06T05:29:14+00:00'
+excerpt: Wondering how to pay for coding bootcamp in 2023? 4Geeks Academy offers financing
+  options and flexible plans to make your coding journey affordable.
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png
+image_alt: how-to-pay-for-a-coding-bootcamp
+status: published
+template: landing_post
+title: How To Pay For A Coding Bootcamp
 ---
-
 ## HOW TO PAY FOR A CODING BOOTCAMP
 
 
@@ -133,5 +132,4 @@ For the full balance pending upon your final tuition with us, you can always go 
 
 *  Quotanda: monthly payment starting at $200 a month. No need to have a good credit score. Only provide a co-signer and a small deposit.  Apply here.
 
-On the other hand, if you want to pay on your own and save some money, but at the same time you do not qualify for any of the options herein referred, then you can opt to go with the Upfront payment option, which allows you to pay in up to 3 parts and get a 10% discount out of the tuition fee. 
- 
+On the other hand, if you want to pay on your own and save some money, but at the same time you do not qualify for any of the options herein referred, then you can opt to go with the Upfront payment option, which allows you to pay in up to 3 parts and get a 10% discount out of the tuition fee.

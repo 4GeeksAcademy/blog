@@ -1,13 +1,13 @@
 ---
-author: "Valentina Botana & 4Geeks Academy"
-excerpt: "Estrategias prácticas para conseguir un trabajo tecnológico en 2025: marca personal, métodos alternativos de búsqueda de empleo, creación de experiencias creativas y networking intencional."
-template: "post"
-title: "CÓMO CONSEGUIR UN TRABAJO EN TECH AHORA MISMO"
-status: "published"
-date: "2025-05-14T14:32:02+00:00"
-
+author: Valentina Botana & 4Geeks Academy
+date: '2025-05-14T14:32:02+00:00'
+excerpt: 'Estrategias prácticas para conseguir un trabajo tecnológico en 2025: marca
+  personal, métodos alternativos de búsqueda de empleo, creación de experiencias creativas
+  y networking intencional.'
+status: published
+template: landing_post
+title: Cómo Conseguir Un Trabajo En Tech Ahora Mismo
 ---
-
 Esto es lo que está pasando en el mercado y lo más importante, cómo puedes prosperar en él.
 
 Seamos sinceros: el camino hacia tu primer (o próximo) trabajo en tecnología en 2025 no siempre es fácil. Hay mucha competencia, el mercado evoluciona rápidamente y no todas las oportunidades son lo que parecen. Pero aquí está la buena noticia:  

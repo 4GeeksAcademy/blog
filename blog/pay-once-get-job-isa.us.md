@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-04-10T17:57:47+00:00"
-excerpt: '4Geeks Academy offers "Pay Once You Get a Job" financing. Start your coding bootcamp with no upfront cost and pay only when you land a job.'
-slug: "pay-once-get-job-isa"
-template: "post" # post or landing_post
-title: "Pay once you get a Job"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/04/ISA-Blog-Cover.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2019-04-10T17:57:47+00:00'
+excerpt: 4Geeks Academy offers "Pay Once You Get a Job" financing. Start your coding
+  bootcamp with no upfront cost and pay only when you land a job.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/04/ISA-Blog-Cover.png
+image_alt: ''
+slug: pay-once-get-job-isa
+status: published
+template: landing_post
+title: Pay Once You Get A Job
 ---
-
 # **Pay once you get a Job**
 
 
@@ -56,5 +55,3 @@ The higher droput rate that we have ever had was always students enrolled throug
 [admission@4geeksacademy.com](mailto:admission@4geeksacademy.com)
 
 +1 786 808 5655
-
-

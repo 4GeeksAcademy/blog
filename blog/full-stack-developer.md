@@ -1,10 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Wondering what a Full Stack Developer is? 4Geeks Academy explains the role and the skills needed to succeed as a versatile tech professional."
-template: "landing_post"
-title: "What is a Full Stack Developer?"
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Wondering what a Full Stack Developer is? 4Geeks Academy explains the role
+  and the skills needed to succeed as a versatile tech professional.
+status: published
+template: landing_post
+title: What Is A Full Stack Developer?
 ---
-
 ## What is a Full Stack Developer?
 
 A full-stack developer is responsible for building, testing, maintaining, and managing a web platform in all aspects, meaning both the **Front End** and **Back End**. The **Front End** includes everything visible on the screen—text, images, forms, videos, colors, and anything that interacts directly with the user. On the other hand, the **Back End** is the hidden part of the platform, handling the database, authentication systems, password management, data storage, and more.

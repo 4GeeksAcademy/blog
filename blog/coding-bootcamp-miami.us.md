@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Looking for a coding bootcamp in Miami? 4Geeks Academy offers expert-led programs to help you launch your tech career in the vibrant Miami market."
-template: "post"
-title: "A Guide to Coding Bootcamps in Miami"
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Looking for a coding bootcamp in Miami? 4Geeks Academy offers expert-led
+  programs to help you launch your tech career in the vibrant Miami market.
+status: published
+template: landing_post
+title: A Guide To Coding Bootcamps In Miami
 ---
-
 If you are struggling to start your career in tech industry and do not have a computer science degree, a coding bootcamp is a perfect solution for anyone facing this issue. The coding bootcamps provide intensive training in almost all tech fields popular now days, like full-stack development, data science, and machine learning. The time required to complete a coding bootcamp and consistently learn to code is much lower than the time that will require to achieve the same on a University, this is one of the reasons why they have become so popular in the last years along with the pricing options they offer.
 
 ## Miami Coding Bootcamp Options
