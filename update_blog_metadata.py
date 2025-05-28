@@ -5,18 +5,7 @@ import re
 import yaml
 import datetime
 from pathlib import Path
-import logging
 import glob
-
-# Set up logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('metadata_update.log'),
-        logging.StreamHandler()
-    ]
-)
 
 class BlogMetadataUpdater:
     def __init__(self, blog_dir):
@@ -34,10 +23,9 @@ class BlogMetadataUpdater:
         for bak_file in self.blog_dir.rglob('*.bak'):
             try:
                 bak_file.unlink()
-                logging.info(f'Deleted backup file {bak_file}')
                 self.stats['backups_deleted'] += 1
             except Exception as e:
-                logging.error(f'Error deleting backup file {bak_file}: {str(e)}')
+                print(f'Error deleting backup file {bak_file}: {str(e)}')
                 
         # Find and delete backup directories
         for backup_dir in self.blog_dir.glob('**/backup'):
@@ -46,10 +34,9 @@ class BlogMetadataUpdater:
                     for file in backup_dir.glob('*'):
                         file.unlink()
                     backup_dir.rmdir()
-                    logging.info(f'Deleted backup directory {backup_dir}')
                     self.stats['backups_deleted'] += 1
                 except Exception as e:
-                    logging.error(f'Error deleting backup directory {backup_dir}: {str(e)}')
+                    print(f'Error deleting backup directory {backup_dir}: {str(e)}')
                     
     def extract_metadata(self, content):
         """Extract YAML frontmatter from markdown content"""
@@ -66,7 +53,7 @@ class BlogMetadataUpdater:
             content = parts[2].strip()
             return metadata, content
         except yaml.YAMLError:
-            logging.error('Invalid YAML frontmatter')
+            print('Invalid YAML frontmatter')
             return None, content
             
     def generate_excerpt(self, content, max_chars=500):
@@ -166,12 +153,12 @@ class BlogMetadataUpdater:
             with open(file_path, 'w', encoding='utf-8') as f:
                 f.write(new_content)
                 
-            logging.info(f'Updated metadata for {file_path}')
+            print(f'Updated metadata for {file_path}')
             self.stats['updated'] += 1
             self.stats['updated_files'].append(str(file_path))
             
         except Exception as e:
-            logging.error(f'Error processing {file_path}: {str(e)}')
+            print(f'Error processing {file_path}: {str(e)}')
             
     def process_all_files(self):
         """Process all .md files in the blog directory"""
@@ -202,7 +189,7 @@ class BlogMetadataUpdater:
                 for file in self.stats['updated_files']:
                     report += f"- {file}\n"
                     
-        logging.info(report)
+        print(report)
         
 def main():
     blog_dir = '/home/omar-hidalgo/Documentos/Repositorios/blog/blog'
