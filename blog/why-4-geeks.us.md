@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Discover why 4Geeks Academy stands out among coding bootcamps with its job guarantee, unlimited mentorship, and proven student outcomes."
-template: "post"
-title: "Why 4Geeks"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Discover why 4Geeks Academy stands out among coding bootcamps with its job
+  guarantee, unlimited mentorship, and proven student outcomes.
+status: published
+template: landing_post
+title: Why 4Geeks
 ---
-
 4Geeks Academy is a coding bootcamp dedicated to helping students build a successful career in tech.  
 We offer programs in Full-Stack Development, Data Science, Cybersecurity, and Applied AI. Our mission is simple: help people learn valuable coding skills in a short amount of time and land a job they love.
 

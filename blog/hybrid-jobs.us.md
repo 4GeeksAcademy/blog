@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-10-15T20:53:47+00:00"
-excerpt: "Explore the rise of hybrid jobs in tech with 4Geeks Academy. Learn how flexible work models are reshaping the future of tech careers."
-slug: "hybrid-jobs"
-template: "post" # post or landing_post
-title: "Hybrid Jobs: An Unstoppable Movement"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/10/BLOG-HYBRID-1-1024x524.jpg"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
+author: MRiciglianoC
+cluster: career-growth
+date: '2019-10-15T20:53:47+00:00'
+excerpt: Explore the rise of hybrid jobs in tech with 4Geeks Academy. Learn how flexible
+  work models are reshaping the future of tech careers.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/10/BLOG-HYBRID-1-1024x524.jpg
+image_alt: ''
+slug: hybrid-jobs
+status: published
+template: landing_post
+title: 'Hybrid Jobs: An Unstoppable Movement'
 ---
-
 # **Hybrid Jobs: An Unstoppable Movement**
 
 

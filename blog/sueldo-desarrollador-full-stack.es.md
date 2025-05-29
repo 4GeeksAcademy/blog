@@ -1,3 +1,17 @@
+---
+author: 4Geeks Academy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 'Requerimientos: ¿Cuánto es el sueldo de un desarrollador full stack para
+  el 2024?
+
+  Acepto proposiciones de un mejor título siempre y cuando incluya la palabra clave
+  “Sueldo desarrollador Full stack”'
+status: published
+template: landing_post
+---
+
+
+
 Requerimientos: ¿Cuánto es el sueldo de un desarrollador full stack para el 2024?
 Acepto proposiciones de un mejor título siempre y cuando incluya la palabra clave “Sueldo desarrollador Full stack”
 

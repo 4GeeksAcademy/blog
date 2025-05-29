@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2015-12-09T20:18:46+00:00"
-excerpt: "Become a web developer with 4Geeks Academy and earn the salary you deserve. Learn key skills and land high-paying tech jobs in the growing industry."
-slug: "web-developer-earn-the-salary-you-deserve"
-template: "post" # post or landing_post
-title: "Web Developer: Earn the Salary You Deserve"
-image: "https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/web-developer.jpeg?raw=true"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
+author: 4GeeksAcademy
+cluster: career-growth
+date: '2015-12-09T20:18:46+00:00'
+excerpt: Become a web developer with 4Geeks Academy and earn the salary you deserve.
+  Learn key skills and land high-paying tech jobs in the growing industry.
 featured: false
-
+image: https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/web-developer.jpeg?raw=true
+image_alt: ''
+slug: web-developer-earn-the-salary-you-deserve
+status: published
+template: landing_post
+title: 'Web Developer: Earn The Salary You Deserve'
 ---
-
 ### Web Developer: Earn the Salary You Deserve
 
 

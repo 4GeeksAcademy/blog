@@ -1,14 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Descubre cuánto gana un programador en Argentina, con salarios promedio de 660.000 ARS y un crecimiento constante en el sector tecnológico. Conoce las tendencias y oportunidades en el mercado laboral de programación."
-template: "post" 
-title: "¿Cuánto gana un programador en Argentina?"
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Descubre cuánto gana un programador en Argentina, con salarios promedio de
+  660.000 ARS y un crecimiento constante en el sector tecnológico. Conoce las tendencias
+  y oportunidades en el mercado laboral de programación.
+image: https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-programador-jpg
 image_alt: cuanto-gana-un-programador-en-argentina"
-image: "https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-programador-jpg"
-
+status: published
+template: landing_post
+title: ¿Cuánto Gana Un Programador En Argentina?
 ---
-
 En la era digital, la programación se ha convertido en una de las profesiones más demandadas en todo el mundo. En Argentina, el panorama no es diferente, con un crecimiento constante del sector tecnológico y una creciente necesidad de talento en programación. Pero, [¿Cuánto gana un programador?](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) y ¿qué tanto varían sus salarios en Argentina? ¿Es posible vivir bien con este trabajo en el país? En este artículo, explicaremos detalladamente los salarios de los programadores en Argentina, brindando información actualizada y realista sobre las oportunidades y tendencias en el mercado laboral.
 
 ![cuanto-gana-un-programador-en-argentina](https://breathecode.herokuapp.com/v1/media/file/argentina-background-post-jpg?width=400 "cuanto-gana-un-programador-en-argentina")

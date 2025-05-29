@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2017-10-11T20:30:18+00:00"
-excerpt: "The Talent Tree at 4Geeks Academy connects students with top tech companies. Grow your career and expand your network with industry-leading partners."
-slug: "the-talent-tree"
-template: "post" # post or landing_post
-title: "The Talent Tree"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/10/Talents_for_Paladins.jpg"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: alesanchezr
+cluster: coding-bootcamps
+date: '2017-10-11T20:30:18+00:00'
+excerpt: The Talent Tree at 4Geeks Academy connects students with top tech companies.
+  Grow your career and expand your network with industry-leading partners.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/10/Talents_for_Paladins.jpg
+image_alt: ''
+slug: the-talent-tree
+status: published
+template: landing_post
+title: The Talent Tree
 ---
-
 Have you ever played Sims, League Of Legends, Zelda or Civilization?  If you have, you are very familiar with the concept of “earning skills.”  The** Talent Tree ®** is one of the things that makes us very proud – it is the foundation on which the entire academic experience is built on.  Here is why:
 
 

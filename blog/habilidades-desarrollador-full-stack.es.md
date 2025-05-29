@@ -1,17 +1,15 @@
 ---
-author: "VictorManuelG"
-date: "2021-04-26T20:44:51+00:00"
-excerpt: "Conoce aquí las habilidades a desarrollar para un desarrollador full stack"
-slug: "habilidades-desarrollador-full-stack"
-template: "post" # post or landing_post
-title: "Habilidades de un Desarrollador Full-Stack"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-01.png?raw=true"
-image_alt: "sketch de un joven aprendiendo código"
-status: "published"
-cluster: "full-stack"
-
+author: VictorManuelG
+cluster: full-stack
+date: '2021-04-26T20:44:51+00:00'
+excerpt: Conoce aquí las habilidades a desarrollar para un desarrollador full stack
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/hfl-01.png?raw=true
+image_alt: sketch de un joven aprendiendo código
+slug: habilidades-desarrollador-full-stack
+status: published
+template: landing_post
+title: Habilidades De Un Desarrollador Full-Stack
 ---
-
 En nuestra publicación anterior hablábamos sobre lo [que significa ser programador o programadora *full-stack*](/es/tendencias-y-tecnologia/que-es-full-stack) (te recomiendo que le des un vistazo porque es muy interesante). Por resumir: un perfil *full-stack* básicamente es esa persona que trabaja tanto del lado del cliente (*frontend*) como del lado del servidor (*backend*), y es capaz de ofrecer soluciones en cualquier parte de la aplicación. Es un rol muy versátil dentro de los equipos tecnológicos y puede asumir diferentes responsabilidades en los proyectos.
 
 Pero hoy la pregunta, o mejor dicho las preguntas son... **¿cuáles son las habilidades que debería tener una persona “todo terreno”, que trabaja o quiere trabajar en el rol de *Full-Stack*?** ¿Debe tener conocimientos en todas las tecnologías y lenguajes? ¿Bastaría con conocer solo un lenguaje en el *front* y uno en el *back*? ¿En qué tecnologías debería enfocarse? ¿React, Vue o Angular?, ¿Python, PHP o NodeJS? **[¿Cuáles son las principales habilidades de un Full-Stack developer?](/es/desarrollador-full-stack/habilidades-desarrollador-full-stack)** 

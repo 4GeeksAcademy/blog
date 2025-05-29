@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-03-04T04:48:24+00:00"
-excerpt: "Prepare for your job interview with 4Geeks Academy. Get tips and advice to ace your coding interview and land your dream tech role."
-slug: "how-to-prepare-for-a-typical-interview-for-web-development-position"
-template: "post" # post or landing_post
-title: "My Job Interview"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/03/jobinterview.jpeg"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
+author: 4GeeksAcademy
+cluster: career-growth
+date: '2016-03-04T04:48:24+00:00'
+excerpt: Prepare for your job interview with 4Geeks Academy. Get tips and advice to
+  ace your coding interview and land your dream tech role.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/03/jobinterview.jpeg
+image_alt: ''
+slug: how-to-prepare-for-a-typical-interview-for-web-development-position
+status: published
+template: landing_post
+title: My Job Interview
 ---
-
 Prepare for your job interview with 4Geeks Academy. Get tips and advice to ace your coding interview and land your dream tech role.
 
 

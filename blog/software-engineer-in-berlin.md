@@ -1,11 +1,12 @@
 ---
-author: "VictorManuelG"
-excerpt: Learn how to become a Software Engineer in Berlin with 4Geeks Academy. Gain the skills needed to succeed in Germany's thriving tech industry.
-template: "post" 
-title: "How to Become a Software Engineer in Berlin"
-
+author: VictorManuelG
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Learn how to become a Software Engineer in Berlin with 4Geeks Academy. Gain
+  the skills needed to succeed in Germany's thriving tech industry.
+status: published
+template: landing_post
+title: How To Become A Software Engineer In Berlin
 ---
-
 Berlin is a paradise for the IT and engineering sector. Software engineers in Berlin are a protected species, and the market produces many positions that cannot be filled due to lack of qualified labor.
 
 The number of female [software engineers in Berlin](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) is 2,501, being the seventh on the list after London, Paris, Madrid, Stockholm, Barcelona and Amsterdam with the largest number of female software engineers. Since this is a small number, we can then assume that most software engineers in Berlin are men.

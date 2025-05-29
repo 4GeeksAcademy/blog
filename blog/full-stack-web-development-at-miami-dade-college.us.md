@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2017-05-08T21:08:07+00:00"
-excerpt: "Learn to code at Miami Dade College with 4Geeks Academy. Gain hands-on coding experience and start your career in Miami’s tech scene."
-slug: "full-stack-web-development-at-miami-dade-college"
-template: "post" # post or landing_post
-title: "Learn to Code at Miami Dade College"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2017/08/Miami-Dade.jpg"
-image_alt: ""
-cluster: "full-stack-developer"
-status: "published"
+author: MRiciglianoC
+cluster: full-stack-developer
+date: '2017-05-08T21:08:07+00:00'
+excerpt: Learn to code at Miami Dade College with 4Geeks Academy. Gain hands-on coding
+  experience and start your career in Miami’s tech scene.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2017/08/Miami-Dade.jpg
+image_alt: ''
+slug: full-stack-web-development-at-miami-dade-college
+status: published
+template: landing_post
+title: Learn To Code At Miami Dade College
 ---
-
 ### **What to believe when speaking about coding programs in Miami.**
 
 

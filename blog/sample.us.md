@@ -1,22 +1,22 @@
 ---
-slug: "sample"
-template: "post" # post or landing_post
-date: "2018-11-19T00:00:00+00:00"
-title: "the coding bootcamp syllabus matters"
-author: "alesanchezr"
-image: "/images/why2.jpg"
-image_alt: ""
-excerpt: "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis lacus vel augue laoreet."
-intro: "Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.Aenean lacinia bibendum nulla sed consectetur. Donec sed odio dui."
-status: "published"
+author: alesanchezr
+cluster: learn-to-code
+date: '2018-11-19T00:00:00+00:00'
+excerpt: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis
+  lacus vel augue laoreet.
 featured: true
-visibility: "unlisted"
-cluster: "learn-to-code" # topic clusters, each of them has a landing page
-redirects: [
-    #"/some/blog/path"
-]
+image: /images/why2.jpg
+image_alt: ''
+intro: Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vivamus sagittis
+  lacus vel augue laoreet rutrum faucibus dolor auctor.Aenean lacinia bibendum nulla
+  sed consectetur. Donec sed odio dui.
+redirects: []
+slug: sample
+status: published
+template: landing_post
+title: The Coding Bootcamp Syllabus Matters
+visibility: unlisted
 ---
-
 Some example text here.
 <!--
     call-to-action receives: background, title, text, button_text, button_link 

@@ -1,3 +1,13 @@
+---
+author: 4Geeks Academy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 'Coding Bootcamps Chile: desbloqueando nuevas oportunidades '
+status: published
+template: landing_post
+---
+
+
+
 Coding Bootcamps Chile: desbloqueando nuevas oportunidades 
 
 La industria de la tecnología en chile no para de crecer. Startups que levantan capital, cada vez más amigos desarrolladores, más aplicaciones al alcance de todos, y, evidentemente, existe una necesidad constante de desarrolladores, programadores e ingenieros capacitados. 

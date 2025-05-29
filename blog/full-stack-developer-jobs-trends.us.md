@@ -1,3 +1,20 @@
+---
+author: 4Geeks Academy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 'Title: "Jr. Full Stack Developer Jobs in 2024"
+
+  Article Length: approx. 1000-1500 words
+
+  Aim to create an informative, engaging article that keeps a clear focus.
+
+  Ensure that each section is adequately detailed and well-explained and that they
+  are logically connected.'
+status: published
+template: landing_post
+---
+
+
+
 Title: "Jr. Full Stack Developer Jobs in 2024"
 Article Length: approx. 1000-1500 words
 Aim to create an informative, engaging article that keeps a clear focus.

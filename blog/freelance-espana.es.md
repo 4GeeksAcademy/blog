@@ -1,17 +1,15 @@
 ---
-author: "4GeeksAcademyES"
-date: "2021-05-19T20:44:51+00:00"
-excerpt: "Conoce aquí cómo encontrar trabajo freelance desde España o el mundo"
-slug: "freelance-espana"
-template: "post" # post or landing_post
-title: "Plataformas para encontrar trabajo Freelance"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/fe-0.png?raw=true"
-image_alt: "imagen con el texto: Freelance España"
-status: "published"
-cluster: "desarrollo-profesional"
-
+author: 4GeeksAcademyES
+cluster: desarrollo-profesional
+date: '2021-05-19T20:44:51+00:00'
+excerpt: Conoce aquí cómo encontrar trabajo freelance desde España o el mundo
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/fe-0.png?raw=true
+image_alt: 'imagen con el texto: Freelance España'
+slug: freelance-espana
+status: published
+template: landing_post
+title: Plataformas Para Encontrar Trabajo Freelance
 ---
-
 Entre los muchos cambios que están ocurriendo últimamente, el concepto y la forma de trabajar también están dando un giro de casi 360º.
 
 Según un estudio de Malt, en España hay 1.9 millones de autónomos reales de los cuales 700.000 son trabajadores independientes, también llamados freelance. En la última década esta fuerza laboral ha crecido un 40%.

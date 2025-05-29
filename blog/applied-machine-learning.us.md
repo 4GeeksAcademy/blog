@@ -1,12 +1,18 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-10-23T12:58:12+00:00"
-template: "post"
-title: " Applied Machine Learning"
-image_alt: "Applied Machine Learning"
-
+author: 4GeeksAcademy
+date: '2023-10-23T12:58:12+00:00'
+excerpt: "\n \nIn the expansive world of programming, beginners often stand at a crossroads,\
+  \ contemplating which language will be their gateway to this exciting world. Python\
+  \ and Java usually emerge as two popular choices, each with its distinct strengths\
+  \ and applications. This extensive exploration aims to provide a guide, empowering\
+  \ beginners to make informed decisions based on their unique needs and aspirations.\n\
+  \ \n Ease of learning: Python's Simplicity vs. Java's Structure\n \nPython's Gentle\
+  \ Learning Curv..."
+image_alt: Applied Machine Learning
+status: published
+template: landing_post
+title: Applied Machine Learning
 ---
- 
 In the expansive world of programming, beginners often stand at a crossroads, contemplating which language will be their gateway to this exciting world. Python and Java usually emerge as two popular choices, each with its distinct strengths and applications. This extensive exploration aims to provide a guide, empowering beginners to make informed decisions based on their unique needs and aspirations.
  
 ## Ease of learning: Python's Simplicity vs. Java's Structure

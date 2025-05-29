@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-11-20T22:48:11+00:00"
-excerpt: "Learn JavaScript and Python with 4Geeks Academy. These essential languages will empower you to build web apps, software, and excel as a coder."
-slug: "javascript-and-python"
-template: "post" # post or landing_post
-title: "JavaScript y Python: Imprescindibles para cualquier programador"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg"
-image_alt: ""
-cluster: "aprender-a-programar"
-status: "published"
+author: MRiciglianoC
+cluster: aprender-a-programar
+date: '2019-11-20T22:48:11+00:00'
+excerpt: Learn JavaScript and Python with 4Geeks Academy. These essential languages
+  will empower you to build web apps, software, and excel as a coder.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg
+image_alt: ''
+slug: javascript-and-python
+status: published
+template: landing_post
+title: 'Javascript Y Python: Imprescindibles Para Cualquier Progr...'
 ---
-
 # **JavaScript y Python: Imprescindibles para cualquier programador**
 
 Dentro del ecosistema de la programación, aparecen constantemente nuevos lenguajes para cubrir todas las demandas del mundo tecnológico. Python y JavaScript garantizan que todo funcione de manera efectiva para que el usuario se sienta completamente satisfecho con la información, los servicios, etc. Si estás recién comenzando en el mundo del código con el objetivo de ser un programador Full-Stack, es posible que te preguntes qué lenguajes debieses manejar a la perfección. Bueno, ¡déjanos ayudarte con eso! [Cada comienzo es abrumador y estresante](/us/trends-and-tech/feelings-learning-coding) pero en 4Geeks Academy, puedes sentirte seguro sabiendo que tendrás mentores maravillosos apoyándote y enseñándote todo lo que necesitas para adaptarte a la mundo real.
@@ -54,4 +53,3 @@ Nuestro cofundador y director del Departamento Académico, Alejandro Sánchez, c
 
 
 Empieza ahora e inscríbete en [nuestro próximo coding Bootcamp](/apply).
-

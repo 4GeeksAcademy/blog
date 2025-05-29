@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-03-01T12:00:12+00:00"
-excerpt: "En los últimos años, en el mundo tech, las nubes han reemplazado a los dispositivos USB de almacenamiento y te preguntarás ¿por qué?"
-slug: "almacenamiento-en-la-nube"
-template: "post"
-title: "Almacenamiento en la nube, un avance tecnológico increíble"
-image: "https://lh6.googleusercontent.com/dKx5GKrOX73JZcrmvlNy1gemVpTtQhYRcAzhEPpNOuK4fnnIsOjjz39P9f47qCNNwPsouAdWqRx-sor7SojTyEqOrn3J0w1-_HwaQ3XMvw9ez4cKojGa8a_W7O2sqvIBBYheswdy"
-image_alt: "Almacenamiento en la nube, un avance tecnológico increíble"
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2022-03-01T12:00:12+00:00'
+excerpt: En los últimos años, en el mundo tech, las nubes han reemplazado a los dispositivos
+  USB de almacenamiento y te preguntarás ¿por qué?
+image: https://lh6.googleusercontent.com/dKx5GKrOX73JZcrmvlNy1gemVpTtQhYRcAzhEPpNOuK4fnnIsOjjz39P9f47qCNNwPsouAdWqRx-sor7SojTyEqOrn3J0w1-_HwaQ3XMvw9ez4cKojGa8a_W7O2sqvIBBYheswdy
+image_alt: Almacenamiento en la nube, un avance tecnológico increíble
+slug: almacenamiento-en-la-nube
+status: published
+template: landing_post
+title: Almacenamiento En La Nube, Un Avance Tecnológico Increíble
 ---
-
 En los últimos años, debes haber notado que en las empresas y en general, en el mundo tech, las nubes han reemplazado a los dispositivos USB de almacenamiento y te preguntarás ¿por qué? O mejor dicho ¿Qué son estás nubes?
 
 Una nube de almacenamiento no es más que un espacio digital en el cual puedes guardar archivos y acceder a ellos desde cualquier otro dispositivo y en cualquier momento que lo necesites, inclusive, permite compartir estos archivos con otras personas, siempre y cuando estas tengan el acceso.
@@ -61,5 +60,3 @@ También existen otras nubes como: pCloud, Mega, Tresorit, Internxt, Media Fire,
 Luego de leer este artículo, no te quedará duda de que lo mejor que puedes hacer es comenzar a trabajar en la nube ¿Verdad que sí?
 
 Particularmente, nosotros en 4Geeks Academy utilizamos la nube como plataforma de trabajo, ya que, nos brinda la oportunidad de tener mayor organización y seguridad para nuestro team e inclusive, para nuestros estudiantes. ¿Quisieras ver cómo lo utilizamos nosotros?
-
-

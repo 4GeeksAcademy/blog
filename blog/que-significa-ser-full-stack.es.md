@@ -1,17 +1,16 @@
 ---
-author: "jimena_y_yo"
-date: "2021-04-14T20:44:51+00:00"
-excerpt: "¿Qué es full stack? Te explicamos que significa ser full stack en el siguiente artículo de 4geeks Academy"
-slug: "que-es-full-stack"
-template: "post" # post or landing_post
-title: "¿Qué significa ser Full Stack?"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/learn-to-code.jpg?raw=true"
-image_alt: "dos estudiantes aprendiendo que es full stack"
-status: "published"
-cluster: "full-stack"
-
+author: jimena_y_yo
+cluster: full-stack
+date: '2021-04-14T20:44:51+00:00'
+excerpt: ¿Qué es full stack? Te explicamos que significa ser full stack en el siguiente
+  artículo de 4geeks Academy
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/learn-to-code.jpg?raw=true
+image_alt: dos estudiantes aprendiendo que es full stack
+slug: que-es-full-stack
+status: published
+template: landing_post
+title: ¿Qué Significa Ser Full Stack?
 ---
-
 Si nos paramos un segundo a pensar en la traducción de Full Stack sería algo así como “Todas las agrupaciones de tecnologías”, es decir, que ser Full Stack implicaría conocer todas las agrupaciones de tecnologías ¿Es esto posible?
 
 Una respuesta corta sería que no.

@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2020-11-23T22:32:53+00:00"
-excerpt: "Learn why 4Geeks Academy teaches Python as a backend language. Master the fundamentals and become a skilled backend developer with hands-on training."
-slug: "why-we-teach-python-4geeks"
-template: "post" # post or landing_post
-title: "Why 4Geeks Academy teaches Python as Backend Language?"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/Screen-Shot-2019-03-28-at-6.25.55-PM.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2020-11-23T22:32:53+00:00'
+excerpt: Learn why 4Geeks Academy teaches Python as a backend language. Master the
+  fundamentals and become a skilled backend developer with hands-on training.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/Screen-Shot-2019-03-28-at-6.25.55-PM.png
+image_alt: ''
+slug: why-we-teach-python-4geeks
+status: published
+template: landing_post
+title: Why 4Geeks Academy Teaches Python As Backend Language?
 ---
-
 # **Why 4Geeks Academy teaches Python as Backend Language?**
 
 

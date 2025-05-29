@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Explore Bootcamp graduates’ salaries in 2019 with 4Geeks Academy. See how bootcamp training helps launch successful tech careers with competitive pay."
-slug: "2019-developers-salaries-report"
-template: "post" # post or landing_post
-title: "BOOTCAMP GRADUATES SALARIES 2019 EDITION"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/MAIN-BLOG-1024x270.jpg"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
+author: MRiciglianoC
+cluster: career-growth
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Explore Bootcamp graduates’ salaries in 2019 with 4Geeks Academy. See how
+  bootcamp training helps launch successful tech careers with competitive pay.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/MAIN-BLOG-1024x270.jpg
+image_alt: ''
+slug: 2019-developers-salaries-report
+status: published
+template: landing_post
+title: Bootcamp Graduates Salaries 2019 Edition
 ---
-
 # BOOTCAMP GRADUATES SALARIES 2019 EDITION
 
 

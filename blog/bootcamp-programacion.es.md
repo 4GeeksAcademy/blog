@@ -1,11 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Conoce los detalles de por qué vale la pena ingresar a un bootcamp de programación y las oportunidades laborales que tendrás al graduarte de programador"
-template: "landing_post" 
-title: "Bootcamps de Programacion: Aceleradores de Habilidades"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Conoce los detalles de por qué vale la pena ingresar a un bootcamp de programación
+  y las oportunidades laborales que tendrás al graduarte de programador
+status: published
+template: landing_post
+title: 'Bootcamps De Programacion: Aceleradores De Habilidades'
 ---
-
 _Una opción ante la escasez de capital humano con las habilidades requeridas para impulsar la digitalización de las organizaciones y avanzar en innovaciones tecnológicas._
 
 En los últimos 10 años, ha existido una realidad latente en el mercado para contratar programadores, y si bien esto no es una novedad, lo que sigue llamando la atención es que aún cuando las carreras de ingeniería en sistemas y computación tuvieron un auge, siguen siendo pocos los talentos al alcance de las organizaciones. Y es que las Universidades demoran mucho en graduar talento con habilidades, además del costo-tiempo que representan.

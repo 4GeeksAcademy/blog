@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2021-02-24T05:29:14+00:00"
-excerpt: "Explore the pandemic’s impact on coding bootcamps. 4Geeks Academy discusses how bootcamps adapted and continued to deliver quality tech education."
-slug: "pandemic-impact-on-coding-bootcamp"
-template: "post" # post or landing_post
-title: "PANDEMIC IMPACT ON CODING BOOTCAMPS"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/student-coding.jpg?raw=true"
-image_alt: "student typing how the pandemic has changed the coding industry"
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2021-02-24T05:29:14+00:00'
+excerpt: Explore the pandemic’s impact on coding bootcamps. 4Geeks Academy discusses
+  how bootcamps adapted and continued to deliver quality tech education.
 featured: true
-
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/student-coding.jpg?raw=true
+image_alt: student typing how the pandemic has changed the coding industry
+slug: pandemic-impact-on-coding-bootcamp
+status: published
+template: landing_post
+title: Pandemic Impact On Coding Bootcamps
 ---
-
 In the midst of Covid-19, 4Geeks has found its way to grow. We have always mentioned that everything that we have done has been bootstrapping our efforts, talent, investment, and capabilities. 
 
 The last 12 months have been the same. Putting blocks together and taking advantage of every single opportunity we have found. At the beginning of the pandemic, when we were facing a crucial change of business model (we were 100% in person), I remember the conversations and the thought behind every action: are we going to be able to surf around? We did it, and now we are bigger than ever.
@@ -33,4 +32,4 @@ We have secured a total of 2millions (USD) in new programs sponsored by third pa
 
 We have decided to bring two new products: Software engineering, and AI/Data Science programs, and one new location: Orlando, Florida. 
 
-We won’t stop until we make sure that every effort was worth it and every student trusting in us is having a better career. 
+We won’t stop until we make sure that every effort was worth it and every student trusting in us is having a better career.

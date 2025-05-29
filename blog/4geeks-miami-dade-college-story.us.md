@@ -1,17 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2018-11-14T03:22:14+00:00"
-excerpt: "4Geeks Academy partners with Miami Dade College for success. Together, we empower students to launch tech careers through coding bootcamp programs."
-slug: "4geeks-miami-dade-college-story"
-template: "post"
-title: "4Geeks Academy & Miami Dade College |  A Story of Success"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2018/11/Massive-Cyber-Monday-Sale-1.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
-
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2018-11-14T03:22:14+00:00'
+excerpt: 4Geeks Academy partners with Miami Dade College for success. Together, we
+  empower students to launch tech careers through coding bootcamp programs.
+image: https://4GeeksAcademy.com/wp-content/uploads/2018/11/Massive-Cyber-Monday-Sale-1.png
+image_alt: ''
+slug: 4geeks-miami-dade-college-story
+status: published
+template: landing_post
+title: 4Geeks Academy & Miami Dade College | A Story Of Success
 ---
-
 Long are the days since we had to enroll in higher education just to have the chance to get access to the best job positions in the market. Coding and the activities around it are in dire need of talent. Miami Dade College has always looked further and offered students the best choices in career paths, that’s why MDC and 4Geeks Academy have been working together for more than 2 years already, in order to take students on a coding journey that won’t make them break the bank and will take them to excellent jobs.
 
 
@@ -46,4 +45,4 @@ We have now graduated more than 100 students and launched 7 Full Stack cohorts a
 
 The deciding factor for many can be the affordability of the program. We made it possible, and everyone is now entitled to take a step forward in their careers. for students to access the training and knowledge put together for them at a very low cost. We can say with certainty that this program is the cheapest part-time course in Miami, the only one offering as many things. Martin Taylor, another of our graduate students, also manifested loving how affordable the course was, making it easier for him to get into the course while maintaining a job and his family life. 
 
-For everyone involved (students, teachers, employers) the work that Miami Dade College and 4Geeks Academy are doing is just a win-win. One more person that learns to code is a victory for knowledge and human progress, and at$geeks we strive for that. Learn more about Miami Dade College’s coding program [here](https://mdc.4geeksacademy.com/). Learn coding skills that change your life, and change the world. 
+For everyone involved (students, teachers, employers) the work that Miami Dade College and 4Geeks Academy are doing is just a win-win. One more person that learns to code is a victory for knowledge and human progress, and at$geeks we strive for that. Learn more about Miami Dade College’s coding program [here](https://mdc.4geeksacademy.com/). Learn coding skills that change your life, and change the world.

@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2017-12-12T21:22:15+00:00"
-excerpt: "4Geeks Academy announces new hiring partners for the year, including Launch Potato. Join our bootcamp and get connected to top tech job opportunities."
-slug: "new-year-new-hiring-partners-launch-potato-us"
-template: "post" # post or landing_post
-title: "New year, New Hiring Partners: Launch Potato & Us"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2017/12/POTATO-ADS-02.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2017-12-12T21:22:15+00:00'
+excerpt: 4Geeks Academy announces new hiring partners for the year, including Launch
+  Potato. Join our bootcamp and get connected to top tech job opportunities.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2017/12/POTATO-ADS-02.jpg
+image_alt: ''
+slug: new-year-new-hiring-partners-launch-potato-us
+status: published
+template: landing_post
+title: 'New Year, New Hiring Partners: Launch Potato & Us'
 ---
-
 At 4Geeks Academy we have two main goals with our students:
 
 First, train them by providing a premium coding education: enable our students to become software developers with a strong professional profile.

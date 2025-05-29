@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademyES"
-date: "2021-07-07T00:00:00+00:00"
-excerpt: "Conoce estos 5 tips para encontrar trabajo en programación y aterriza el trabajo que buscas"
-slug: "tips-para-encontrar-trabajo"
-template: "post" # post or landing_post
-title: "5 tips para encontrar tu próximo empleo en programación"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/tptpe_1.jpg?raw=true"
-image_alt: "imagen con tips para encontrar trabajo en programación"
-cluster: "desarrollo-profesional"
-status: "published"
-
+author: 4GeeksAcademyES
+cluster: desarrollo-profesional
+date: '2021-07-07T00:00:00+00:00'
+excerpt: Conoce estos 5 tips para encontrar trabajo en programación y aterriza el
+  trabajo que buscas
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/tptpe_1.jpg?raw=true
+image_alt: imagen con tips para encontrar trabajo en programación
+slug: tips-para-encontrar-trabajo
+status: published
+template: landing_post
+title: 5 Tips Para Encontrar Tu Próximo Empleo En Programación
 ---
-
 ¿Cuántas veces ya has enviado tu CV? Si son más veces de las que puedes recordar, quédate porque esta entrada es para ti. Según una estadística de [Glassdoor](https://zety.com/blog/hr-statistics), una oferta laboral atrae 250 aplicantes, solo cuatro o seis candidatos serán llamados y solo uno obtendrá el empleo.
 
 En una entrevista de la [BBC](https://www.bbc.com/mundo/noticias-56247281), Ramiro Luz, director de Soluciones de Talento para LinkedIn Hispanoamérica, señaló que uno de los empleos más demandados en las economías más grandes de América Latina es justamente el de Developer Web Front-End y Back-End, así como el de Programador Informático.

@@ -1,17 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2021-10-28T20:44:51+00:00"
-excerpt: "¿Qué es la I.A.? ¿Cuáles son las grandes inversiones en el mercado? ¿Cuánto es la demanda de trabajo para el puesto? Salario promedio anual, el futuro."
-slug: "todo-lo-que-necesitas-saber-sobre-inteligencia-artificial"
-title: "Todo lo que necesitas saber sobre Inteligencia Artificial"
-image: "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
-image_alt: ""
-cluster: "aprender-a-programar"
-status: "published"
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2021-10-28T20:44:51+00:00'
+excerpt: ¿Qué es la I.A.? ¿Cuáles son las grandes inversiones en el mercado? ¿Cuánto
+  es la demanda de trabajo para el puesto? Salario promedio anual, el futuro.
 featured: true
-
+image: https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80
+image_alt: ''
+slug: todo-lo-que-necesitas-saber-sobre-inteligencia-artificial
+status: published
+template: landing_post
+title: Todo Lo Que Necesitas Saber Sobre Inteligencia Artificial
 ---
-
 Desde 2019, el crecimiento del mercado en Inteligencia Artificial ha aumentado en una tendencia ascendente del 39% hasta hoy, ¡y sigue creciendo! Si no sabes qué es la I.A., te lo vamos a explicar con palabras muy sencillas, A.I. significa Inteligencia Artificial y su objetivo principal es permitir que las máquinas realicen actividades y análisis cercanos (o incluso mejores) a la inteligencia humana.
 
 ![andy-kelly-0E_vhMVqL9g-unsplash.jpg](https://images.unsplash.com/photo-1626410730192-13fc5041ff15?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=871&q=80)

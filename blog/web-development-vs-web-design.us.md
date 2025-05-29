@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-03-11T04:00:00+00:00"
-excerpt: "Explore the differences between web development and web design with 4Geeks Academy. Learn which career path suits your skills and interests."
-slug: "web-development-versus-web-design"
-template: "post" # post or landing_post
-title: "Web Development Vs. Web Design"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/03/development-vs-design-1024x622.png"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: 4GeeksAcademy
+cluster: learn-to-code
+date: '2016-03-11T04:00:00+00:00'
+excerpt: Explore the differences between web development and web design with 4Geeks
+  Academy. Learn which career path suits your skills and interests.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/03/development-vs-design-1024x622.png
+image_alt: ''
+slug: web-development-versus-web-design
+status: published
+template: landing_post
+title: Web Development Vs. Web Design
 ---
-
 It has been said that designers work on front-end (what users interact with) and developers with back-end (writing code to make the site function).  While this is a known approach, we think this is not that simple.  Both of them need to be familiar with languages and code.  The point relies on what the purpose of programming is and what would be the final result.
 
 **Web Designers**
@@ -55,5 +54,3 @@ Some of the current challenges are:
 
  	
   * The need of continuous updates: Covering information demand and customer expectations increase the frequency of updating web contents or improving functionality.  Developers have to be agile in making changes to update a website.
-
-

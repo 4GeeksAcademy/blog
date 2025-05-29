@@ -1,17 +1,16 @@
 ---
-author: "anzolagi"
-date: "2022-05-05T05:29:14+00:00"
-excerpt: "Aquí te dejamos nuestro top 5 de juegos gratis en los que puedes practicar tus habilidades de programación."
-slug: "juegos-gratis-para-practicar-tus-habilidades-de-programacion"
-template: "post" # post or landing_post
-title: "Juegos gratis para practicar tus habilidades de programación"
-image: "https://raw.githubusercontent.com/4GeeksAcademy/website-v2/master/static/images/blog/coding-games.jpg"
-image_alt: "coding-games"
-cluster: "aprender-a-programar"
-status: "published"
-
+author: anzolagi
+cluster: aprender-a-programar
+date: '2022-05-05T05:29:14+00:00'
+excerpt: Aquí te dejamos nuestro top 5 de juegos gratis en los que puedes practicar
+  tus habilidades de programación.
+image: https://raw.githubusercontent.com/4GeeksAcademy/website-v2/master/static/images/blog/coding-games.jpg
+image_alt: coding-games
+slug: juegos-gratis-para-practicar-tus-habilidades-de-programacion
+status: published
+template: landing_post
+title: Juegos Gratis Para Practicar Tus Habilidades De Programación
 ---
-
 # Juegos gratis para practicar tus habilidades de programación
 
 ![coding-games.jpg](https://storage.googleapis.com/media-breathecode/55c33dacdfdae9a3ffebd370ed87f865fe9ab15e80d25232bc88486eaebe582a)

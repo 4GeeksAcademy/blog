@@ -1,14 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "Acelera tu Carrera: Aprender Programación"
-template: "post"
-title: "Acelera tu Carrera: Aprender Programación"
-image_alt: "la clave del éxito para los programadores"
-cluster: "aprender-programacion"
-
+author: 4GeeksAcademy
+cluster: aprender-programacion
+date: '2023-09-06T02:58:12+00:00'
+excerpt: 'Acelera tu Carrera: Aprender Programación'
+image_alt: la clave del éxito para los programadores
+status: published
+template: landing_post
+title: 'Acelera Tu Carrera: Aprender Programación'
 ---
-
 ##  Innovación, desafíos y mucho código: la clave del éxito para los programadores 🎉
 
 En un mundo donde la tecnología avanza a pasos agigantados, **aprender programación** puede desbloquea puertas hacia el futuro. En este panorama, organizaciones como AngelHack emergen como faros de inspiración y posibilidad para aquellos que ansían conocer más sobre el mundo de los programadores. 
@@ -24,4 +23,4 @@ Estas interacciones no solo les permiten mejorar sus habilidades técnicas, sino
 no es solo un evento o una comunidad; es un catalizador que exhorta a los usuarios a aprender programación y a los programadores hacia un futuro tecnológico más brillante. Con cada hackathon, cada desafío y cada conexión, esta organización inspira a los programadores a explorar, aprender y crecer profesionalmente. Se convierte en un recordatorio constante de que en el mundo de la tecnología, las posibilidades son infinitas y que las mentes apasionadas pueden desencadenar la innovación que transforma vidas y redefine industrias. 
 
 #### ¿Quieres ser parte de esta emocionante industria?
-Descubre las oportunidades que te esperan al realizar un curso en **[4Geeks](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago)**. ¡Únete a nosotros y **comienza tu viaje en el mundo tech hoy mismo, aprender programación nunca fue tan facíl.**! 
+Descubre las oportunidades que te esperan al realizar un curso en **[4Geeks](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-santiago)**. ¡Únete a nosotros y **comienza tu viaje en el mundo tech hoy mismo, aprender programación nunca fue tan facíl.**!

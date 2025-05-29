@@ -1,15 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-25-10T20:44:51+00:00"
-excerpt: "¿Es una buena opción convertirse en un desarrollador  de software? promedio salarial *Demanda del mercado en 2022 *"
-slug: "por-que-es-una-buena-decision-convertirse-en-desarrollador-de-software"
-title: "¿Por qué es una buena decisión convertirse en Desarrollador de Software?"
-image: "https://breathecode.herokuapp.com/v1/media/file/blog-preview-png?"
-image_alt: ""
-cluster: "aprender-a-programar"
-status: "published"
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2022-25-10T20:44:51+00:00'
+excerpt: ¿Es una buena opción convertirse en un desarrollador  de software? promedio
+  salarial *Demanda del mercado en 2022 *
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/blog-preview-png?
+image_alt: ''
+slug: por-que-es-una-buena-decision-convertirse-en-desarrollador-de-software
+status: published
+template: landing_post
+title: ¿Por Qué Es Una Buena Decisión Convertirse En Desarrollad...
 ---
 ¿Es una buena opción convertirse en desarrollador de software? estamos aquí para cubrir los aspectos más importantes a considerar sobre esta carrera tecnológica para cualquiera que se encuentre considerando iniciarla, continua leyendo abajo.
 

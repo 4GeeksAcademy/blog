@@ -1,9 +1,16 @@
 ---
-author: "4Geeks Academy"
-excerpt: "Join 4Geeks Academy’s Data Science Bootcamp in Toronto. Learn essential data science skills and start your career in this high-demand field."
-template: "landing_post"
-title: "What is a Full Stack Developer?"
+author: 4Geeks Academy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Join 4Geeks Academy’s Data Science Bootcamp in Toronto. Learn essential data
+  science skills and start your career in this high-demand field.
+status: published
+template: landing_post
+title: What Is A Full Stack Developer?
 ---
+
+
+
+
 
 
 Are you looking for an exceptional opportunity to excel in data science? Do you want to enhance your skill set to analyze and interpret data to make thoughtful decisions? If so, a data science boot camp in Toronto is all you need to jumpstart your career! 

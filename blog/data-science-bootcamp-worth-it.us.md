@@ -1,10 +1,16 @@
 ---
-author: "4Geeks Academy"
-excerpt: "Wondering if a Data Science Bootcamp is worth it? 4Geeks Academy shows how our bootcamp can help you land a career in this fast-growing field."
-template: "post" 
-title: "Are Data Science Bootcamps Worth It?"
-
+author: 4Geeks Academy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Wondering if a Data Science Bootcamp is worth it? 4Geeks Academy shows how
+  our bootcamp can help you land a career in this fast-growing field.
+status: published
+template: landing_post
+title: Are Data Science Bootcamps Worth It?
 ---
+
+
+
+
 
 In simple terms, data science is worth the investment because it opens doors to a world of opportunities in today's data-driven era. With data science skills, individuals gain the power to interpret and make sense of massive amounts of information, providing valuable insights for businesses, organizations, and society at large.
 

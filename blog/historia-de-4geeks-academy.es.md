@@ -1,18 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-04-13T20:36:02+00:00"
-excerpt: "Conoce la historia en profundidad de 4Geeks Academy"
-slug: "historia-de-4geeks-academy"
-template: "post" # post or landing_post
-title: "Historia de 4Geeks Academy"
-image: ""
-image_alt: ""
-cluster: "tendencias-y-tecnologia"
-status: "published"
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2016-04-13T20:36:02+00:00'
+excerpt: Conoce la historia en profundidad de 4Geeks Academy
 featured: false
-
+image: ''
+image_alt: ''
+slug: historia-de-4geeks-academy
+status: published
+template: landing_post
+title: Historia De 4Geeks Academy
 ---
-
 En el año 2009, junto con dos amigos, comenzamos una pequeña empresa de desarrollo de Software con grandes ambiciones. Como cualquier otra StartUp, no teníamos dinero y nuestra oficina era la casa de Gustavo.
 
 Luego de muchas noches sin dormir y de echar líneas de código, comenzamos a generar ingresos hasta que logramos reunir lo suficiente para comenzar a contratar a nuestros ¡primeros empleados! Un desarrollador de Software -Santiago Pérez- y dos programadores: Ignacio Córdoba y Alex Milano.

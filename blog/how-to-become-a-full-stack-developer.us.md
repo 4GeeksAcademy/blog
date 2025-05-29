@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Learn how to become a Full Stack Developer with 4Geeks Academy. Get hands-on training, mentorship, and career support to launch your tech career."
-template: "post"
-title: "How to Become a Full Stack Developer?"
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Learn how to become a Full Stack Developer with 4Geeks Academy. Get hands-on
+  training, mentorship, and career support to launch your tech career.
+status: published
+template: landing_post
+title: How To Become A Full Stack Developer?
 ---
-
 Becoming a full stack developer involves learning both front-end and back-end technologies, as well as developing skills in database management and server configuration. One way to become a full stack developer is to enroll in a [full stack developer course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer) at a reputable bootcamp like 4Geeks Academy.
 
 The Full Stack Developer course at [4Geeks Academy](https://4geeksacademy.com/) provides hands-on training in popular front-end technologies like HTML, CSS, and JavaScript, as well as back-end technologies like Node.js and databases like MongoDB. Students will also learn how to configure servers, manage APIs, and deploy web applications.

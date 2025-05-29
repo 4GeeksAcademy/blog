@@ -1,13 +1,13 @@
 ---
-title: "Are Coding Bootcamps Worth It? Exploring the Pros and Cons"
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Wondering if coding bootcamps are worth it? 4Geeks Academy explores the pros and cons to help you make an informed decision about your tech career."
-template: "post" 
-image_alt: ""
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Wondering if coding bootcamps are worth it? 4Geeks Academy explores the pros
+  and cons to help you make an informed decision about your tech career.
+image_alt: ''
+status: published
+template: landing_post
+title: Are Coding Bootcamps Worth It? Exploring The Pros And Cons
 ---
-
 Imagine Aaron's journey from being a sergeant in the U.S. Army Ranger regiment to working as a carpenter after returning to civilian life. Despite enjoying carpentry, he realized that **$15 an hour wasn't where he wanted to settle for a career**. Feeling unsatisfied, Aaron made a bold decision to leave his job and [enroll in a coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp). Recognizing the importance of networking, he utilized resources provided by the bootcamp to enhance his LinkedIn profile and portfolio. His efforts paid off when he secured a developer position at Allata just three months after graduating, completely changing his life! However, the question remains: **Are coding bootcamps worth it?** Let's delve into the pros and cons to help you make an informed decision.
 
 **What is a coding bootcamp?** A coding bootcamp is a short-term, intensive software development training program designed to build job-ready skills. Coding bootcamps can offer you a fast-track path into software development, help you build a network and place a job sooner. It’s important to consider all aspects, however, *such as career aspirations and your budget before making a decision.*

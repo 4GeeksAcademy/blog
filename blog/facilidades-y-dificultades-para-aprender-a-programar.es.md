@@ -1,17 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2021-10-18T17:18:12+00:00"
-excerpt: "Hoy te contamos algunas facilidades y dificultades cuando aprendemos a programar"
-slug: "facilidades-y-dificultades-para-aprender-a-programar"
-template: "post"
-title: "Facilidades y dificultades para aprender a programar"
-image: "https://i.imgur.com/TNhhi1j.jpg"
-image_alt: "Facilidades y dificultades para aprender a programar"
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2021-10-18T17:18:12+00:00'
+excerpt: Hoy te contamos algunas facilidades y dificultades cuando aprendemos a programar
+image: https://i.imgur.com/TNhhi1j.jpg
+image_alt: Facilidades y dificultades para aprender a programar
+slug: facilidades-y-dificultades-para-aprender-a-programar
+status: published
+template: landing_post
+title: Facilidades Y Dificultades Para Aprender A Programar
 ---
-
 Por lo general, escuchamos que muchos recomiendan aprender a programar porque es la carrera del futuro, y lo primero que pensamos es: “Eso debe ser súper difícil” “¿Yo seré capaz de aprender eso tan complicado?” y no nos atrevemos ni siquiera a intentarlo. Siempre comenzar un camino nuevo va  a ser difícil, más, no imposible ¡Todo depende de ti!
 
 Luego de conversaciones exhaustivas con nuestros egresados y programadores que aprendieron de forma autodidacta, pudimos recopilar información sobre los aspectos sencillos de la programación, los cuales lo leeremos a continuación:

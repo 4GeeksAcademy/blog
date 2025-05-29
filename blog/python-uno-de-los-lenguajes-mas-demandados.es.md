@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-04-07T12:00:12+00:00"
-excerpt: "En esta publicación hablaremos sobre Python, por qué es tan popular, sus bibliotecas, y los principales trabajos que incluyen Python en su caja de herramientas."
-slug: "python-uno-de-los-lenguajes-de-programacion-mas-demandados"
-template: "post"
-title: "Python: uno de los lenguajes de programación más demandados"
-image: "https://images.unsplash.com/photo-1580894908361-967195033215?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-image_alt: "Python: uno de los lenguajes de programación más demandados"
-cluster: "aprender-a-programar"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2022-04-07T12:00:12+00:00'
+excerpt: En esta publicación hablaremos sobre Python, por qué es tan popular, sus
+  bibliotecas, y los principales trabajos que incluyen Python en su caja de herramientas.
+image: https://images.unsplash.com/photo-1580894908361-967195033215?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+image_alt: 'Python: uno de los lenguajes de programación más demandados'
+slug: python-uno-de-los-lenguajes-de-programacion-mas-demandados
+status: published
+template: landing_post
+title: 'Python: Uno De Los Lenguajes De Programación Más Demandados'
 ---
-
 No es ningún secreto para ningún entusiasta de software que Python es uno de los lenguajes de programación más demandados, pero ¿por qué? Estamos aquí para explicarte todos los beneficios que trae el dominio de Python y por qué si estás buscando empezar una carrera en tecnología, lo más probable es que tengas que aprender este lenguaje.
 
 Python es una lenguaje de programación muy intuitivo y fácil de aprender, esta es una de las razones por la cual se hizo tan popular, pero también por ser un lenguaje de programación muy versátil.

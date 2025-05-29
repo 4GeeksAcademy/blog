@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-07-25T18:52:57+00:00"
-excerpt: "Discover what makes the ideal instructor at 4Geeks Academy. Learn how our expert educators help students succeed with personalized support and guidance."
-slug: "the-ideal-instructor"
-template: "post" # post or landing_post
-title: "THE IDEAL INSTRUCTOR"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/07/admin-ajax-1.jpeg"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: 4GeeksAcademy
+cluster: learn-to-code
+date: '2016-07-25T18:52:57+00:00'
+excerpt: Discover what makes the ideal instructor at 4Geeks Academy. Learn how our
+  expert educators help students succeed with personalized support and guidance.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/07/admin-ajax-1.jpeg
+image_alt: ''
+slug: the-ideal-instructor
+status: published
+template: landing_post
+title: The Ideal Instructor
 ---
-
 I recall that when I was about to start a new course, I asked myself if the new instructor would be an easy-going person or a conversely one; If s/he would be able to teach all the information that is required to become a good professional.  It makes me think about how important the person is whom can transform clay into a beautiful sculpture.
 
 The truth is that a good instructor not only provides information, but gets involved with the student to ensure that they can transform information into knowledge applicable to the needs of the organizational environment.  The instructor is the person who motivates their students to continue learning and keep searching for new paths in a journey to continually improve.

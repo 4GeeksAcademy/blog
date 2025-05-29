@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-04-07T12:00:12+00:00"
-excerpt: "Learn Python, one of the most in-demand programming languages, with 4Geeks Academy. Start your coding journey and boost your career in tech."
-slug: "python-one-of-the-most-in-demand-programming-languages"
-template: "post"
-title: "Python: one of the most in-demand programming languages"
-image: "https://images.unsplash.com/photo-1602992708529-c9fdb12905c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
-image_alt: "Python: one of the most in-demand programming languages."
-cluster: "learn-to-code"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: learn-to-code
+date: '2022-04-07T12:00:12+00:00'
+excerpt: Learn Python, one of the most in-demand programming languages, with 4Geeks
+  Academy. Start your coding journey and boost your career in tech.
+image: https://images.unsplash.com/photo-1602992708529-c9fdb12905c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+image_alt: 'Python: one of the most in-demand programming languages.'
+slug: python-one-of-the-most-in-demand-programming-languages
+status: published
+template: landing_post
+title: 'Python: One Of The Most In-Demand Programming Languages'
 ---
-
 Hi Geek! Welcome again, on this blog post we'll be talking about Python, why it is so popular, its libraries and use, top jobs that include Python in their toolbox, the industries and companies with the highest demand for Python programmers, and more! Hope you enjoy it.
 
 Is no secret to any software enthusiast that Python is one of the most in-demand programming languages, but why? We are here to explain all the benefits that mastering Python comes with, and why if you are pursuing a career in technology, you'll most likely have to learn this language.

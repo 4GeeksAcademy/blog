@@ -1,19 +1,18 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-07-25T16:19:57+00:00"
-excerpt: "El instructor ideal, conoce los atributos y habilidades de un buen profesor cuándo estás aprendiendo a programar"
-published: "false"
-slug: "el-instructor-ideal"
-template: "post" # post or landing_post
-title: "EL INSTRUCTOR IDEAL..."
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/07/admin-ajax-1.jpeg"
-image_alt: ""
-cluster: "aprender-a-programar"
-status: "published"
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2016-07-25T16:19:57+00:00'
+excerpt: El instructor ideal, conoce los atributos y habilidades de un buen profesor
+  cuándo estás aprendiendo a programar
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/07/admin-ajax-1.jpeg
+image_alt: ''
+published: 'false'
+slug: el-instructor-ideal
+status: published
+template: landing_post
+title: El Instructor Ideal...
 ---
-
 __Recuerdo que cuando estaba por comenzar algún curso, siempre cruzaba por mi mente ¿qué tipo de facilitador voy a tener?, si sería una persona accesible o por el contrario, una persona difícil, ya sea por trato o porque no fuese capaz de trasmitir la información. Esto me lleva a pensar cuán importante es esa persona que va a estar a cargo de transformar un molde en una escultura apreciada.
 
 La realidad es que hoy en día, un facilitador más allá de ser una persona que da instrucciones, es alguien que se involucra con el estudiante asegurándose de que él mismo transforme la información en un conocimiento aplicable a las necesidades del entorno organizacional.

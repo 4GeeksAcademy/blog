@@ -1,11 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Prepare for Full Stack Developer interviews with 4Geeks Academy. Get key tips and top questions to ace your interview and land your dream job."
-template: "post" 
-image_alt: "Full Stack Developer Interview"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Prepare for Full Stack Developer interviews with 4Geeks Academy. Get key
+  tips and top questions to ace your interview and land your dream job.
+image_alt: Full Stack Developer Interview
+status: published
+template: landing_post
 ---
-
 If you’ve learned to code and are now applying to positions as a Full Stack Developer, this article is for you! We'll share a series of tips, sample interview questions, and advice on how to approach them to help you prepare and ace your interviews.
 
 ## Start by understanding the job description

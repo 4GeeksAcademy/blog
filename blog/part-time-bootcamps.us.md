@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-10-04T15:33:22+00:00"
-excerpt: "A part-time coding bootcamp at 4Geeks Academy offers flexibility for busy students. Learn coding at your own pace and boost your career."
-slug: "part-time-bootcamps"
-template: "post" # post or landing_post
-title: "Why is a Part-Time Coding Bootcamp  Best for You"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2018/10/Part-time-coding-bootcamp-1.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2018-10-04T15:33:22+00:00'
+excerpt: A part-time coding bootcamp at 4Geeks Academy offers flexibility for busy
+  students. Learn coding at your own pace and boost your career.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2018/10/Part-time-coding-bootcamp-1.png
+image_alt: ''
+slug: part-time-bootcamps
+status: published
+template: landing_post
+title: Why Is A Part-Time Coding Bootcamp Best For You
 ---
-
 As we’ve stated before, at 4Geeks Academy we offer Part-Time coding programs. If you’re thinking about enrolling in a coding Bootcamp, there are many options you need to consider.
 
 [In our blog we said](/us/trends-and-tech/truth-behind-part-time-education) that “_We choose Part-time because we are sure that we are able to make software developers out of our students if we took care of the methodology._”

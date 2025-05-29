@@ -1,14 +1,17 @@
 ---
-author: "MRiciglianoC"
-excerpt: "Explore the pivotal roles of JavaScript and Python in modern coding. Discover their significance for web development and backend systems in this informative overview from 4Geeks Academy."
-template: "post" # post or landing_post
-title: "JavaScript and Python: A-must for any coder"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg"
-image_alt: ""
+author: MRiciglianoC
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Explore the pivotal roles of JavaScript and Python in modern coding. Discover
+  their significance for web development and backend systems in this informative overview
+  from 4Geeks Academy.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg
+image_alt: ''
+status: published
+template: landing_post
+title: 'Javascript And Python: A-Must For Any Coder'
 ---
-  <style>
+<style>
     .styled-img {
       display: block;
       margin: 0 auto;

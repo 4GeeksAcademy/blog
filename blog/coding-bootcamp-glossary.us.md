@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Key terms you'll encounter in coding bootcamps and the tech industry. Learn about full-stack development, JavaScript, Python, APIs, and more."
-template: "post"
-title: "Coding Bootcamp Glossary"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Key terms you'll encounter in coding bootcamps and the tech industry. Learn
+  about full-stack development, JavaScript, Python, APIs, and more.
+status: published
+template: landing_post
+title: Coding Bootcamp Glossary
 ---
-
 If you are considering enrolling in a coding bootcamp, you may encounter unfamiliar terms. Understanding these key terms will help you navigate your learning journey and maximize your bootcamp experience. This glossary includes common terms used in coding bootcamps and the tech industry to help you get started.
 
 ### Coding Bootcamp

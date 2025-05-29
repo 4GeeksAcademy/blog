@@ -1,13 +1,14 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "Discover our Machine Learning Course Syllabus at 4Geeks Academy! Learn Python, data manipulation, and advanced algorithms. Prepare for a successful career in data science and AI."
-template: "landing_post" # post or landing_post
-title: "Machine Learning Course Syllabus by 4Geeks Academy"
-image_alt: "Machine learning course syllabus"
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Discover our Machine Learning Course Syllabus at 4Geeks Academy! Learn Python,
+  data manipulation, and advanced algorithms. Prepare for a successful career in data
+  science and AI.
+image_alt: Machine learning course syllabus
+status: published
+template: landing_post
+title: Machine Learning Course Syllabus By 4Geeks Academy
 ---
-
 With a proven track record boasting over 3500 graduated students, the **[Machine Learning Course](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering)** at 4Geeks Academy embodies years of dedicated research and expertise. Each component of the machine learning syllabus is designed for maximum impact and learning efficiency, focusing on equipping students with practical skills for real-world applications. Our bootcamps aim to prepare students for the challenges and opportunities they will encounter in their actual future careers.
 
 ![Machine learning course Syllabus](https://breathecode.herokuapp.com/v1/media/file/machine-learning-course-syllabus-ii-jpg?width=600 "Machine Learning Course Syllabus")

@@ -1,18 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-05-11T14:52:45+00:00"
-excerpt: "Conoce porque la programación esta entre las profesiones con mayor demanda"
-slug: "ser-programador-entre-las-profesiones-con-mayor-demanda"
-template: "post" # post or landing_post
-title: "Ser Programador… Entre las profesiones con mayor demanda"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/05/1-1.jpg"
-image_alt: ""
-cluster: "desarrollo-profesional"
-status: "published"
+author: 4GeeksAcademy
+cluster: desarrollo-profesional
+date: '2016-05-11T14:52:45+00:00'
+excerpt: Conoce porque la programación esta entre las profesiones con mayor demanda
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/05/1-1.jpg
+image_alt: ''
+slug: ser-programador-entre-las-profesiones-con-mayor-demanda
+status: published
+template: landing_post
+title: Ser Programador… Entre Las Profesiones Con Mayor Demanda
 ---
-
 No hay una sola manera de definir a los **desarrolladores**. Podríamos decir a modo general, que son personas que aplican la lógica de programación y, por medio de lenguajes y códigos, crean sitios o aplicaciones web.
 
 Para desarrollar _software_ así como proyectos de cierta complejidad, páginas, aplicaciones y plataformas digitales, se necesitan programadores que puedan hacer realidad los mismos, con los conocimientos que permitan poner a funcionar los diferentes procesos.
@@ -113,9 +111,3 @@ En Venezuela, Alejandro Sánchez, CEO de 4Geeks, comentó que según los último
 Siendo la carrera del programador de las más demandas actualmente, que se perfila entre las profesiones con mayor auge en los próximos años, y considerando que se presta para trabajar de manera remota; lo ideal sería prepararse con los mejores y en el menor tiempo posible.
 
 De esta premisa es que surgen los _bootcamps_ como [4Geeks Academy](/es), donde en tan solo 14 semanas, te puedes formar con los mejores instructores, garantizando que en un promedio de 3 meses puedas recuperar la inversión realizada, ya que las probabilidades de ser contratado es superior a otras profesiones.
-
-
-
-
-
-

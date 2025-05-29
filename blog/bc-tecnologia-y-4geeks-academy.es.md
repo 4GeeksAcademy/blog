@@ -1,14 +1,14 @@
 ---
-author: "4GeeksAcademyES"
-date: "2025-01-22T20:44:51+00:00"
-excerpt: "Descubre cómo la alianza entre 4Geeks Academy y BC Tecnología potencia tu desarrollo profesional en el sector tecnológico."
-slug: "4geeks-bctecnologia-transformacion-digital"
-template: "post"
-title: "¿Cómo BC Tecnología y 4Geeks Academy Colaboran para tu Éxito?"
-image_alt: "BC Tecnología y 4Geeks Academy"
-
+author: 4GeeksAcademyES
+date: '2025-01-22T20:44:51+00:00'
+excerpt: Descubre cómo la alianza entre 4Geeks Academy y BC Tecnología potencia tu
+  desarrollo profesional en el sector tecnológico.
+image_alt: BC Tecnología y 4Geeks Academy
+slug: 4geeks-bctecnologia-transformacion-digital
+status: published
+template: landing_post
+title: ¿Cómo Bc Tecnología Y 4Geeks Academy Colaboran Para Tu Éx...
 ---
-
 En un entorno laboral cada vez más competitivo, contar con una red de contactos sólida y una formación de calidad es fundamental para destacar. En 4Geeks Academy, además de brindarte las herramientas y conocimientos necesarios para desarrollar una carrera exitosa en el mundo de la programación y el desarrollo web, estamos constantemente buscando nuevas formas de conectar a nuestros estudiantes con las mejores oportunidades laborales. 
 
 Es por eso que nos emociona presentarte a nuestro aliado estratégico, [BC Tecnología](https://bctecnologia.com/). Esta reconocida consultora de servicios IT no sólo comparte nuestra pasión por la innovación, sino que también se ha convertido en un puente clave para que nuestros egresados den el salto al mundo laboral. En este artículo te contaremos todo sobre esta alianza, sus beneficios y cómo contribuirá al desarrollo del sector tecnológico en la región.
@@ -84,4 +84,4 @@ En 4Geeks Academy, creemos que la educación debe ir más allá del aula. Es por
 
 ## ¿Estás listo para dar el siguiente paso?
 
-¡No dejes pasar esta oportunidad de crecimiento y desarrollo profesional! 
+¡No dejes pasar esta oportunidad de crecimiento y desarrollo profesional!

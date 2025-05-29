@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2016-01-08T12:00:40+00:00"
-excerpt: "4Geeks Academy believes part-time education is the future. Learn coding flexibly with our part-time bootcamps while balancing work or life commitments."
-slug: "part-time-future-education"
-template: "post" # post or landing_post
-title: "Part-time is the future of education"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2016/01/part-timevsfull-1.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: alesanchezr
+cluster: trends-and-tech
+date: '2016-01-08T12:00:40+00:00'
+excerpt: 4Geeks Academy believes part-time education is the future. Learn coding flexibly
+  with our part-time bootcamps while balancing work or life commitments.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2016/01/part-timevsfull-1.png
+image_alt: ''
+slug: part-time-future-education
+status: published
+template: landing_post
+title: Part-Time Is The Future Of Education
 ---
-
 ### Yes! We are a Miami Dade part-time web development bootcamp
 
 

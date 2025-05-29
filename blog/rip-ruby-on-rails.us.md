@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2016-01-18T15:02:43+00:00"
-excerpt: "4Geeks Academy reflects on Ruby on Rails’ legacy. While it’s fading, it’s been a vital tool in web development. We appreciate its impact on the industry."
-slug: "rip-ruby-on-rails"
-template: "post" # post or landing_post
-title: "R.I.P. Ruby on Rails. Thanks for everything!"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/ruby.png"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: alesanchezr
+cluster: learn-to-code
+date: '2016-01-18T15:02:43+00:00'
+excerpt: 4Geeks Academy reflects on Ruby on Rails’ legacy. While it’s fading, it’s
+  been a vital tool in web development. We appreciate its impact on the industry.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/ruby.png
+image_alt: ''
+slug: rip-ruby-on-rails
+status: published
+template: landing_post
+title: R.I.P. Ruby On Rails. Thanks For Everything!
 ---
-
 I’ve been a developer since I was 13 years old.  I’ve used almost every web framework out there, from PHP 3.1 to Node.js, React, etc.  People around me know that I’m not one of those people that starts endless fights like: Mac vs PC, Metallica vs Megadeth, etc.
 
 I don’t mean to troll Ruby fans, but let’s be objective here: Rails framework gave us a lot, it changed the way web products were made, but now the most used languages have copycats, so who needs Ruby?  Ruby is so 2007...

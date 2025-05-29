@@ -1,13 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2024-05-28T05:29:14+00:00"
-excerpt: "Boost your career in Boston’s thriving tech scene with a coding bootcamp from 4Geeks Academy. Learn coding and secure your first tech job in Boston."
-template: "post" # post or landing_post
-title: "Boost Your Career in Boston's Vibrant Tech Ecosystem with a Coding Bootcamp from 4Geeks Academy"
-image_alt: "Boston Coding Bootcamp"
-
+author: 4GeeksAcademy
+date: '2024-05-28T05:29:14+00:00'
+excerpt: Boost your career in Boston’s thriving tech scene with a coding bootcamp
+  from 4Geeks Academy. Learn coding and secure your first tech job in Boston.
+image_alt: Boston Coding Bootcamp
+status: published
+template: landing_post
+title: Boost Your Career In Boston'S Vibrant Tech Ecosystem With...
 ---
-
 Boston's tech ecosystem is a thriving hub of innovation and opportunity, with a diverse range of leading companies making their mark in the software, biotechnology, finance, and education sectors. Prominent tech giants like Google, Amazon, Microsoft, IBM, and Salesforce have established a strong presence in the city, contributing to its reputation as a tech powerhouse.
 
 ## Boston: A City of Innovation and Opportunity

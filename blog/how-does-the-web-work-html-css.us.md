@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2015-12-28T15:53:55+00:00"
-excerpt: "Learn HTML and CSS with 4Geeks Academy. Understand the fundamentals of how the web works and start building websites from scratch."
-slug: "how-does-the-web-work-html-css"
-template: "post" # post or landing_post
-title: "HTML + CSS - Understanding How The Web Works"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2015/12/htmlcss.png"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: alesanchezr
+cluster: learn-to-code
+date: '2015-12-28T15:53:55+00:00'
+excerpt: Learn HTML and CSS with 4Geeks Academy. Understand the fundamentals of how
+  the web works and start building websites from scratch.
 featured: true
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2015/12/htmlcss.png
+image_alt: ''
+slug: how-does-the-web-work-html-css
+status: published
+template: landing_post
+title: Html + Css - Understanding How The Web Works
 ---
-
 The #IntroToCoding Workshop Level 2 sponsored by Facilcloud and lead by our instructor Jose Cirigliano was held on December 17th at WeWork Lincoln Road.
 
 [![4Geeks Academy IntroToCoding Workshop](https://storage.googleapis.com/4geeks-academy-website/blog/2015/12/4Geeks-Academy-IntroToCoding-Workshop-1-1.jpg)](https://storage.googleapis.com/4geeks-academy-website/blog/2015/12/4Geeks-Academy-IntroToCoding-Workshop-1-1.jpg)
@@ -52,5 +51,3 @@ Remember that one of the most common mistakes a web developer makes is to forget
 You can access codepen.io at any time to continue sharpening those coding skills and feel free to contact us if you have any questions.
 
 See you at our [next event](/us/next-dates).
-
-

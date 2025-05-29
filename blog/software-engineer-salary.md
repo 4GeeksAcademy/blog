@@ -1,13 +1,14 @@
 ---
-author: "alesanchezr"
-excerpt: "The world is becoming increasingly competitive, as well as the software engineer salary. For newcomers, this is the key to start with the right foot."
-image: "https://storage.googleapis.com/media-breathecode/dd42a6171e36282608d5f8f151880d02d1ebc892800f35996cebdd7dcbcdf5e2"
-image_alt: "One-line drawing of software engineer earning its first salary"
-template: "landing_post" 
-title: "What is the salary of a Software Engineer"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: The world is becoming increasingly competitive, as well as the software engineer
+  salary. For newcomers, this is the key to start with the right foot.
+image: https://storage.googleapis.com/media-breathecode/dd42a6171e36282608d5f8f151880d02d1ebc892800f35996cebdd7dcbcdf5e2
+image_alt: One-line drawing of software engineer earning its first salary
+status: published
+template: landing_post
+title: What Is The Salary Of A Software Engineer
 ---
-
 Engineering can be defined as the application of knowledge, aimed at finding solutions to problems. This is applicable in a variety of subjects, each having a respective field of engineering dedicated to its studying. In the case of software engineering, its main concern is in the resolution of problems in the development of computer programs. 
 
 This is a relatively new profession in comparison to other disciplines of engineering. Pair this with the technological boom that has defined the beginning of the 21st century, and you have an exciting career with plenty of job opportunities and an amazing growth forecast.
@@ -51,4 +52,3 @@ By this point, you should have a pretty good idea of the challenges ahead, if yo
 [4Geeks](https://4geeksacademy.com/) offers the opportunity to participate in a bootcamp designed to teach everything you need to [become a software engineer](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp). 4Geeks Academy has won various accolades for their coding bootcamps and study programs, earning the trust of many organizations as a good source of potential hires. 
 
 4Geeks has campuses all over the world, facilitating access to its resources in different languages and levels of expertise. The only requirement for applying to this [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp) is having at least 1 year of experience as a software developer. If you are interested in being a software engineer, this is a perfect way to achieve your goal and have a successful career, in a field with high demand and high pay.
-

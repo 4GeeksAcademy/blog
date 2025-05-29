@@ -1,12 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Build a standout Software Engineer portfolio with 4Geeks Academy. Showcase your skills, projects, and experience to attract top tech employers.
-"
-template: "post" 
-title: "Software Engineer Portfolio"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 'Build a standout Software Engineer portfolio with 4Geeks Academy. Showcase
+  your skills, projects, and experience to attract top tech employers. '
+status: published
+template: landing_post
+title: Software Engineer Portfolio
 ---
-
 ## What is a Software Engineer Portfolio
 
 A software engineer portfolio is a collection of projects, work samples, and other relevant information that demonstrates a software engineer's skills, experience, and qualifications. It can include information about the engineer's education, work experience, and technical skills, as well as links to projects they have worked on, code samples, and other relevant materials. A portfolio can be used to showcase a software engineer's capabilities to potential employers, clients, or collaborators and is crucial to achieve better positions and better [salaries as a Software Engineer](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary).
@@ -63,5 +63,3 @@ If you lack the material to make a robust portfolio, then the best course of act
 - You can use tools like [WordPress](https://wordpress.org/) to host and ease the building of your website.
 - Update your portfolio whenever you need to or when you have made a new project that you are proud of that can better show your current skill.
 - Use links to pages that are active and updated.
-
-

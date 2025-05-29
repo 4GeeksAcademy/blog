@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Conoce que es un desarrollador full-stack y a que se dedica, cuanto dinero gana, y como puedes convertirte en un desarrollador."
-template: "landing_post"
-title: "¿Qué es un desarrollador full stack o full stack developer?"
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Conoce que es un desarrollador full-stack y a que se dedica, cuanto dinero
+  gana, y como puedes convertirte en un desarrollador.
+status: published
+template: landing_post
+title: ¿Qué Es Un Desarrollador Full Stack O Full Stack Developer?
 ---
-
 ## ¿Qué es un desarrollador Full Stack?
 
 Un desarrollador full stack es el responsable de construir, testear, mantener y manejar una plataforma web en todos los aspectos, esto significa que ambos tanto Front End and Back End. Front End es todo el contenido que puede ser visualizado desde la pantalla, eso es, textos, fotos, formulios, videos, colores y todo lo que tiene interacción directa con el usuario, por el otro lado, el Back End es parte de la plataforma que está detrás, eso es, el manejo de la base de datos que esta página almacena, sistema de auntentificación, manejo de contraseñas, ahorro de datos, etc.
@@ -187,4 +188,3 @@ Ten siempre presente que este es un mundo cambiante y complejo, que está siempr
 Así que **qué estás esperando??** Ya sabes todo lo que tienes que hacer, las oportunidades delante de ti, salarios, oportunidades de crecimiento, flexibilidad y la oportunidad de entrar en este mundo revolucionario que no teníamos unos pocos años atrás; y actualmente está disponible a cualquiera que se comprometa a estudiar 6 intensos meses e ingrese a esta gigantesca industria que permea prácticamente todo tipo de personas y lugares de hoy.
 
 <call-to-action button_text="Regístrate Ahora" button_link="/us/coding-bootcamps/part-time-full-stack-developer" background="rgba(0, 151, 205, 0.15)" title="Impulsa tu carrera, aprende a programar!" text="Únete a un curso de Desarrollador Full Stack e impulsa tu carrera."></call-to-action>
-

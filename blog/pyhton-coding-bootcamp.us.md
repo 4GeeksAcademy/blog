@@ -1,10 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Launch your tech career with our Python Coding Bootcamp featuring hands-on projects, job guarantee, and flexible learning options."
-template: "post"
-title: "Python Coding Bootcamp with Job Guarantee"
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Launch your tech career with our Python Coding Bootcamp featuring hands-on
+  projects, job guarantee, and flexible learning options.
+status: published
+template: landing_post
+title: Python Coding Bootcamp With Job Guarantee
 ---
-
 Are you looking to learn Python and start a career in tech? Our Python coding bootcamp is here to help you gain practical skills and get hired. This program is perfect for people who want to dive into coding without years of schooling.
 
 We focus on delivering the right mix of Python knowledge and hands-on experience to get you ready for real-world challenges. The best part? We offer a job guarantee—if you do not land a job within six months of graduation, we will work with you until you do.
@@ -34,4 +36,4 @@ We help you develop real-world projects which can make your resume stand out. Yo
 
 We have a dedicated team of mentors and instructors who are always available to help you with any questions or challenges you may face.  
 
-[Contact us](https://4geeksacademy.com/us/contact) to find out more about our coding programs. Embark on your tech career journey with us today!  
+[Contact us](https://4geeksacademy.com/us/contact) to find out more about our coding programs. Embark on your tech career journey with us today!

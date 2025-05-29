@@ -1,17 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-02-10T20:44:51+00:00"
-excerpt: "Meet 5 women making a huge impact in the STEM industry. 4Geeks Academy celebrates their contributions and encourages diversity in tech."
-slug: "5-women-impacting-the-stem-industry"
-title: "5 Women impacting the STEM industry!"
-image: "https://breathecode.herokuapp.com/v1/media/file/diana-ma-png?"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: 4GeeksAcademy
+cluster: trends-and-tech
+date: '2022-02-10T20:44:51+00:00'
+excerpt: Meet 5 women making a huge impact in the STEM industry. 4Geeks Academy celebrates
+  their contributions and encourages diversity in tech.
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/diana-ma-png?
+image_alt: ''
+slug: 5-women-impacting-the-stem-industry
+status: published
+template: landing_post
+title: 5 Women Impacting The Stem Industry!
 ---
-
 "In a global analysis of 2,400 companies conducted by Credit Suisse, organizations with at least one female board member yielded higher return on equity and higher net income growth than those that did not have any women on the board." Harvard Business Review.
 
 Today we celebrate the **International Day of Woman and Girls in Science**, and we want you to meet 5 amazing women that are reshaping the STEM community by breaking standards, designing new possibilities, and working to change the world through science! 

@@ -1,17 +1,16 @@
 ---
-author: "anzolagi"
-date: "2021-02-24T05:29:14+00:00"
-excerpt: "Discover how internships and bootcamps, like 4Geeks Academy, help tech companies meet 2021 demands by preparing skilled developers and professionals."
-slug: "internships-bootcamps-2021"
-template: "post" # post or landing_post
-title: "Internships and bootcamps: the keys to prepare tech companies for 2021 demands"
-image: "https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/internship.jpg?raw=true"
-image_alt: "estudiantes aprendiendo código en un bootcamp"
-cluster: "coding-bootcamps"
-status: "published"
-
+author: anzolagi
+cluster: coding-bootcamps
+date: '2021-02-24T05:29:14+00:00'
+excerpt: Discover how internships and bootcamps, like 4Geeks Academy, help tech companies
+  meet 2021 demands by preparing skilled developers and professionals.
+image: https://github.com/marcelovaldebenito/website-v2/blob/master/static/images/blog/internship.jpg?raw=true
+image_alt: estudiantes aprendiendo código en un bootcamp
+slug: internships-bootcamps-2021
+status: published
+template: landing_post
+title: 'Internships And Bootcamps: The Keys To Prepare Tech Compa...'
 ---
-
 In this article you will find post-pandemic challenges tech companies are facing, how internships and bootcamps are key opportunities to prepare your company for challenging market demands, and successfully lead your workforce into a post-pandemic tech revolution. 
 
 New set-skills and roles are required to keep-up with disruptive technologies that are massively growing and transforming economies, changing forever the way we work, school, consume, entertain and live. 
@@ -173,4 +172,3 @@ Contact us to know more about our internship programs and talents at [4GeeksAcad
 
 By Giovanna Anzola 
 Content Creator at 4Geeks Academy
-

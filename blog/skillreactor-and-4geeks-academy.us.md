@@ -1,13 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-title: "Give Your Learning Curve a Boost with SkillReactor: 4Geeks Academy's Newest Partner!"
-excerpt: "Boost your learning curve with SkillReactor, 4Geeks Academy’s newest partner. Enhance your skills and fast-track your journey to a tech career."
-template: "post" 
-image_alt: ""
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: Boost your learning curve with SkillReactor, 4Geeks Academy’s newest partner.
+  Enhance your skills and fast-track your journey to a tech career.
+image_alt: ''
+status: published
+template: landing_post
+title: 'Give Your Learning Curve A Boost With Skillreactor: 4Geek...'
 ---
-
 **4Geeks Academy** is thrilled to announce our partnership with **SkillReactor**, a self-paced coding platform designed to elevate your coding journey! Through this collaboration, we aim to provide our community with yet another amazing resource to improve their coding skills and keep advancing their careers in tech.
 
 ## About the Platform:

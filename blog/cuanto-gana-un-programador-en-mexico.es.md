@@ -1,12 +1,14 @@
 ---
-author: "alesanchezr"
-excerpt: "Descubre cuánto gana un programador en México, desde juniors hasta seniors. Conoce los salarios, las oportunidades laborales y cómo avanzar en tu carrera con 4Geeks Academy. 📈💻"
-template: "post" 
-title: "¿Cuánto gana un programador en México?"
-image_alt: "Cuánto gana un programdor en México"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Descubre cuánto gana un programador en México, desde juniors hasta seniors.
+  Conoce los salarios, las oportunidades laborales y cómo avanzar en tu carrera con
+  4Geeks Academy. 📈💻
+image_alt: Cuánto gana un programdor en México
+status: published
+template: landing_post
+title: ¿Cuánto Gana Un Programador En México?
 ---
-
 En el mundo actual, globalizado y cada vez más digitalizado, los programadores se han convertido en pilares fundamentales que sostienen gran parte de las actividades cotidianas. Si tienes curiosidad por saber [cuánto gana un programador](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador) en general, este artículo te será de gran utilidad. Pero si te interesa conocer específicamente los salarios de los programadores en México, sigue leyendo.
 
 
@@ -71,4 +73,3 @@ Si estás listo para dar el siguiente paso en tu carrera y convertirte en un pro
 Además, si estás considerando opciones en otros países, te invitamos a explorar cuánto gana un programador en [Perú](https://4geeksacademy.com/es/cuanto-gana-un-programador/cuanto-gana-un-programador-en-peru), y comparar cómo se posiciona este país frente a México.
 
 No esperes más para impulsar tu carrera en la programación. [Aplica hoy a nuestro bootcamp](https://4geeksacademy.com/es/coding-campus/bootcamp-programacion-mexico) y comienza tu camino hacia el éxito.
-

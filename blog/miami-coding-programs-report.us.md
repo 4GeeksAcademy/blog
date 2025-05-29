@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-11-06T20:24:41+00:00"
-excerpt: "Explore the 2018 Miami Coding Bootcamps report from 4Geeks Academy. Learn how our bootcamp can help you launch a tech career in Miami."
-slug: "miami-coding-programs-report"
-template: "post" # post or landing_post
-title: "Miami Coding Bootcamps | 2018 Report"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/11/MIAMI-CODING-04-768x768.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2018-11-06T20:24:41+00:00'
+excerpt: Explore the 2018 Miami Coding Bootcamps report from 4Geeks Academy. Learn
+  how our bootcamp can help you launch a tech career in Miami.
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/11/MIAMI-CODING-04-768x768.jpg
+image_alt: ''
+slug: miami-coding-programs-report
+status: published
+template: landing_post
+title: Miami Coding Bootcamps | 2018 Report
 ---
-
 Coding Bootcamps are the solution to traditional education institutions’ lack of perspective. Tech talent is needed and Coding Bootcamps are graduating skillful students to address complex software challenges. 
 
 According to a [recent report](https://www.payscale.com/research/US/Job=Web_Developer/Salary), a junior web developer annual wage is around $58k. Senior developers are around six figures. But what also matters is Location, just like in Real Estate. Big tech cities are paying way more than that; although the costs of living are also pretty expensive. 

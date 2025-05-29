@@ -1,13 +1,14 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-10-23T12:58:12+00:00"
-template: "post"
-title: "Recursos y Herramientas para Aprender programación desde cero"
-excerpt: "En el mundo del aprendizaje de programación, solo el 8% logra completar cursos en línea. Descubre las razones detrás y cómo superar los desafíos. La programación, una habilidad transformadora Aprender Programacion Desde Cero hoy 🌐✨ "
-image_alt: "Aprender Programacion Desde Cero"
-
+author: 4GeeksAcademy
+date: '2023-10-23T12:58:12+00:00'
+excerpt: 'En el mundo del aprendizaje de programación, solo el 8% logra completar
+  cursos en línea. Descubre las razones detrás y cómo superar los desafíos. La programación,
+  una habilidad transformadora Aprender Programacion Desde Cero hoy 🌐✨ '
+image_alt: Aprender Programacion Desde Cero
+status: published
+template: landing_post
+title: Recursos Y Herramientas Para Aprender Programación Desde ...
 ---
-
 Todo el mundo quiere aprender a programar pero, solo el **8%** de los cursos de programación online son completados con éxito, el area de [tecnología tiene muchas ventajas](https://4geeksacademy.com/es/aprender-a-programar/ventajas-de-trabajar-en-tecnologia) pero al mismo tiempo no todos los que entran parece poder culminar. 😮 **¿Por qué pasa esto?** Muchas razones: Falta de estructura, falta de ayuda, etc. Tenemos años enseñando a programar y queremos sintetizar rápidamente los retos que encontrarás para evitarte el fracaso.
  
 ## Aprender Programación Desde Cero

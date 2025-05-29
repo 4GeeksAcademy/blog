@@ -1,14 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-10-30T02:58:12+00:00"
-excerpt: "4Geeks Academy partners with Quotanda to provide accessible financing for coding bootcamp students. Learn to code with flexible payment options."
-template: "post"
-title: "Quotanda and 4Geeks Academy"
-image_alt: "Quotanda and 4Geeks Academy"
-
-
+author: 4GeeksAcademy
+date: '2023-10-30T02:58:12+00:00'
+excerpt: 4Geeks Academy partners with Quotanda to provide accessible financing for
+  coding bootcamp students. Learn to code with flexible payment options.
+image_alt: Quotanda and 4Geeks Academy
+status: published
+template: landing_post
+title: Quotanda And 4Geeks Academy
 ---
-
 Accessible and affordable educational financing
 **[Income Share Agreements](https://4geeksacademy.com/us/financials)** (ISAs) provide an enticing financing option for higher education. ISAs align the incentives of the educational institution with your career and future, **removing the economic barriers to the educational system and quality employment**. You won't pay interest or much of the principal **until you get a job** and generate income with a minimum salary.
 

@@ -1,11 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Curious about the cost of a coding bootcamp? Learn how much you can expect to pay at 4Geeks Academy and explore affordable options to start your tech career."
-template: "post" 
-title: "How much is a Coding Bootcamp"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Curious about the cost of a coding bootcamp? Learn how much you can expect
+  to pay at 4Geeks Academy and explore affordable options to start your tech career.
+status: published
+template: landing_post
+title: How Much Is A Coding Bootcamp
 ---
-
 A coding bootcamp 💻 is an intensive, accelerated program that teaches students the skills they need to become a software developers. Bootcamps typically last between 8-12 weeks and cover topics such as web development, mobile development, and data science. Bootcamps are designed to give students the skills they need to land a job in the tech industry. 
 
 The cost of a [coding bootcamp](https://4geeksacademy.com/us/coding-bootcamp) depends on a variety of factors, including the length of the program, the type of instruction offered, the location, and the reputation of the bootcamp. Generally, coding bootcamps that offer more comprehensive instruction and are located in larger cities tend to be more expensive. Additionally, bootcamps that have a good reputation and offer job placement assistance may also be more expensive.

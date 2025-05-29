@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-07-16T20:43:46+00:00"
-excerpt: "Learn how to choose the best coding bootcamp with 4Geeks Academy. Get expert advice on finding the right program for your tech career goals."
-slug: "choosing-coding-bootcamp"
-template: "post" # post or landing_post
-title: "How to choose the best coding Bootcamp?"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2018/07/Picture-Post-1.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2018-07-16T20:43:46+00:00'
+excerpt: Learn how to choose the best coding bootcamp with 4Geeks Academy. Get expert
+  advice on finding the right program for your tech career goals.
 featured: true
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2018/07/Picture-Post-1.png
+image_alt: ''
+slug: choosing-coding-bootcamp
+status: published
+template: landing_post
+title: How To Choose The Best Coding Bootcamp?
 ---
-
 Coding Bootcamps are a great option to launching a new career, land in a new job and get great benefits afterward; but there are many factors and options to take into consideration when you are choosing the best coding Bootcamp for you.
 
 We believe that your education decision should address these main four (4) topics:  (i) ROI (how to measure the cost), (ii) Job Placement, (iii) Methodology (Part-Time, Online or Full-time) and (iv) Content ([Syllabus](/wp-content/uploads/2017/09/4GEEKS-ACADEMY-Syllabus-Program-Details.pdf) and learning process: exercises, technologies, projects...). Based on this aspects we want to ensure that you can have all information on hand before choosing to enroll in a coding Bootcamp.
@@ -90,4 +89,4 @@ Let’s go over the main features:
   4. The content should be useful, updated, relevant and in line with job demands (it should lead you to achieve your ROI expectations).
 
 
-Choosing a coding Bootcamp is a significant investment and it will demand a great deal of your time; we are totally aware of it. That’s why we focus on delivering you a premium program, with great pricing options, based on a Part-Time Methodology, with a tailor-made content, exercises, and projects that will get a skillful developer out of you. 
+Choosing a coding Bootcamp is a significant investment and it will demand a great deal of your time; we are totally aware of it. That’s why we focus on delivering you a premium program, with great pricing options, based on a Part-Time Methodology, with a tailor-made content, exercises, and projects that will get a skillful developer out of you.

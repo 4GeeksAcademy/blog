@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-06-22T03:51:55+00:00"
-excerpt: "Discover the emotions you’ll experience when learning to code with 4Geeks Academy. Overcome challenges and celebrate your coding victories."
-slug: "feelings-learning-coding"
-template: "post" # post or landing_post
-title: "The feelings when Learning to Code"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/06/feelings.jpg"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: MRiciglianoC
+cluster: learn-to-code
+date: '2018-06-22T03:51:55+00:00'
+excerpt: Discover the emotions you’ll experience when learning to code with 4Geeks
+  Academy. Overcome challenges and celebrate your coding victories.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/06/feelings.jpg
+image_alt: ''
+slug: feelings-learning-coding
+status: published
+template: landing_post
+title: The Feelings When Learning To Code
 ---
-
 Have you decided to learn to code? Great! But that’s just the beginning. Whether you already had some experience or have never typed a line of code before, the feelings when learning to code are normally the same: a mixture of nervousness and frustration with a very strong motivation pushing you to overcome all barriers in your path.
 
 The idea is simple: keep the same motivation afloat.

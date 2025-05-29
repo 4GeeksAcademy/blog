@@ -1,15 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "La colaboración entre RemoteAndTalent y 4Geeks Academy, tiene como objetivo ofrecer a los profesionales interesados en el mundotech, un acceso más amplio a oportunidades laborales"
-template: "post" 
-title: "Salidas Laborales en el Sector IT en el 2024"
-image: "https://storage.googleapis.com/media-breathecode/f09133dae309659c7a8b34670411793ab702385a95fb34d648be05bf7428ef83"
-image_alt: "4Geeks Academy"
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: La colaboración entre RemoteAndTalent y 4Geeks Academy, tiene como objetivo
+  ofrecer a los profesionales interesados en el mundotech, un acceso más amplio a
+  oportunidades laborales
+image: https://storage.googleapis.com/media-breathecode/f09133dae309659c7a8b34670411793ab702385a95fb34d648be05bf7428ef83
+image_alt: 4Geeks Academy
+status: published
+template: landing_post
+title: Salidas Laborales En El Sector It En El 2024
 ---
-
-
 En el panorama laboral actual, el sector de la tecnología emerge como uno de los más dinámicos y prometedores en términos de oportunidades profesionales. Con el continuo avance de la digitalización. Las salidas laborales en IT se han vuelto especialmente relevantes y atractivas.
 En esta edición, exploramos las oportunidades laborales más destacadas en el ámbito tecnológico que están definiendo el panorama en el año 2024. 
 
@@ -34,7 +34,3 @@ Los graduados de 4Geeks Academy tendrán la oportunidad de explorar y postularse
 
 Las salidas laborales más emocionantes y las tecnologías más candentes que te esperan en el apasionante mundo de la tecnología en 2024. Si quieres que hablemos de un tema en concreto en nuestra Newsletter sobre remoto o recruitment puedes escribirnos a [hello@remoteandtalent.com](hello@remoteandtalent.com)
 Remote and Talent es una compañía que facilita  la atracción y contratación de talento remoto para tu organización. Conoce como podemos crear tu equipo remoto aquí: [www.remoteandtalent.com](http://www.remoteandtalent.com)
-
-
-
-

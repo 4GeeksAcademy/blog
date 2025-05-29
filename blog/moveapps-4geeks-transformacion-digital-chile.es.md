@@ -1,12 +1,14 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "Descubre cómo la alianza entre Moveapps y 4Geeks Academy está impulsando la transformación digital en Chile, ofreciendo oportunidades únicas para programadores y soluciones tecnológicas innovadoras."
-template: "post"
-title: "Moveapps y 4Geeks: Transformando el Futuro Digital con Soluciones Innovadoras en Chile 🚀"
-image_alt: "4geeks academy coding bootcamp chile"
+author: 4GeeksAcademy
+date: '2023-09-06T02:58:12+00:00'
+excerpt: Descubre cómo la alianza entre Moveapps y 4Geeks Academy está impulsando
+  la transformación digital en Chile, ofreciendo oportunidades únicas para programadores
+  y soluciones tecnológicas innovadoras.
+image_alt: 4geeks academy coding bootcamp chile
+status: published
+template: landing_post
+title: 'Moveapps Y 4Geeks: Transformando El Futuro Digital Con So...'
 ---
-
 En el acelerado mundo de la tecnología, donde las empresas buscan constantemente mejorar su **eficiencia** y **competitividad**, contar con un socio confiable es clave. En este contexto, [**Moveapps**](https://www.moveapps.cl/) ha emergido como uno de los líderes en **Chile** 🇨🇱 al ofrecer **soluciones digitales de primer nivel** y servicios tecnológicos personalizados para diversas industrias.
 
 ### **¿Quiénes son Moveapps?** 🤔

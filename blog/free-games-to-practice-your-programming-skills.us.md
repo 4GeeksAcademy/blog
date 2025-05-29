@@ -1,15 +1,15 @@
 ---
-author: "anzolagi"
-date: "2022-05-05T05:29:14+00:00"
-excerpt: "Practice programming with 4Geeks Academy’s list of free games. Improve your coding skills while having fun with interactive challenges."
-slug: "free-games-to-practice-your-programming-skills"
-template: "post" # post or landing_post
-title: "Free games to practice your programming skills"
-image: "https://storage.googleapis.com/media-breathecode/55c33dacdfdae9a3ffebd370ed87f865fe9ab15e80d25232bc88486eaebe582a"
-image_alt: "coding-games"
-cluster: "career-growth"
-status: "published"
-
+author: anzolagi
+cluster: career-growth
+date: '2022-05-05T05:29:14+00:00'
+excerpt: Practice programming with 4Geeks Academy’s list of free games. Improve your
+  coding skills while having fun with interactive challenges.
+image: https://storage.googleapis.com/media-breathecode/55c33dacdfdae9a3ffebd370ed87f865fe9ab15e80d25232bc88486eaebe582a
+image_alt: coding-games
+slug: free-games-to-practice-your-programming-skills
+status: published
+template: landing_post
+title: Free Games To Practice Your Programming Skills
 ---
 # Free games to practice your coding skills
 
@@ -48,4 +48,3 @@ Want to know more? Here is our top 5 games you can play to practice your program
 ![coding.png](https://storage.googleapis.com/media-breathecode/cdbe245edb2c76ec241f1426a39fa7d454850e4e44f17d6a6be9d0d3f9e043f6)
 
 We hope you enjoy playing these games and that they help you to strengthen your coding skills! To learn more about these programming languages and career opportunities as a [Full-Stack Software Developer](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer) or Machine Learning Engineer [click here](https://4geeksacademy.com/) and check out our programs!
-

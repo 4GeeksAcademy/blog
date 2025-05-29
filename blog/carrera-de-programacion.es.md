@@ -1,18 +1,18 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-05-04T14:32:02+00:00"
-excerpt: "La carrera de programación es una de las más demandadas y mejor pagadas actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador."
-template: "landing_post"
-title: "De qué trata la Carrera de Programación"
-description: "La carrera de programación es una de las más demandadas y mejor pagadas actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador."
-image: "https://4geeksacademy.com/images/4geeks-main.jpg"
-image_alt: ""
-status: "published"
+author: 4GeeksAcademy
+cluster: aprender-a-programar
+date: '2016-05-04T14:32:02+00:00'
+description: La carrera de programación es una de las más demandadas y mejor pagadas
+  actualmente. Aquí te decimos qué necesitas para convertirte en un gran programador.
+excerpt: La carrera de programación es una de las más demandadas y mejor pagadas actualmente.
+  Aquí te decimos qué necesitas para convertirte en un gran programador.
 featured: true
-cluster: "aprender-a-programar"
-
+image: https://4geeksacademy.com/images/4geeks-main.jpg
+image_alt: ''
+status: published
+template: landing_post
+title: De Qué Trata La Carrera De Programación
 ---
-
 #### ¿Hay tal cosa como una carrera de programación? 
 
 En el sentido estricto de los estudios universitarios, no hay una carrera de la cual sea posible graduarse con el título de “programador”.

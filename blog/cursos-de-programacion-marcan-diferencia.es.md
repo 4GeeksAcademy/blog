@@ -1,13 +1,12 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-10-03T10:58:12+00:00"
-excerpt: "Acelera tu Carrera: Aprender Programación"
-template: "post"
-title: "Trabajos remotos para programadores: ¿Son óptimos a la hora de buscar tu primer empleo?"
-image_alt: "cursos de programacion"
-
+author: 4GeeksAcademy
+date: '2023-10-03T10:58:12+00:00'
+excerpt: 'Acelera tu Carrera: Aprender Programación'
+image_alt: cursos de programacion
+status: published
+template: landing_post
+title: 'Trabajos Remotos Para Programadores: ¿Son Óptimos A La Ho...'
 ---
-
 No es un secreto para nadie que la Internet ha acercado al mundo e incluso ha cambiado la forma en que trabajamos o encontramos nuestro [primer empleo](https://app.aurorajobs.io/jobs) y el auge de los trabajos tecnológicos en línea es uno de los mayores beneficios de este avance tecnológico.
 
 

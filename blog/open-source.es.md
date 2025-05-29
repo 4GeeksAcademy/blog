@@ -1,13 +1,14 @@
 ---
-author: "Alesanchezr"
-excerpt: "4Geeks se compromete con su misión y anuncia la publicación de todos sus contenidos gratis y open source"
-title: "Anunciamos la publicación de todos nuestros contenidos gratis y open source"
-template: "landing_post" # post or landing_post
-image: "https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source.png?raw=true"
-image_alt: "4Geeks becomes opensource"
-
+author: Alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 4Geeks se compromete con su misión y anuncia la publicación de todos sus
+  contenidos gratis y open source
+image: https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source.png?raw=true
+image_alt: 4Geeks becomes opensource
+status: published
+template: landing_post
+title: Anunciamos La Publicación De Todos Nuestros Contenidos Gr...
 ---
-
 Somos una escuela **de programación y fundada por programadores**, sabemos lo importante del rol que cumplimos. Es por eso que muchos gobiernos, universidades y actores importantes de los ecosistemas [nos tienen como un aliado incondicional](https://4geeksacademy.com/es/alianzas).
 
 Para garantizar nuestra promesa de convertirte en un profesional que consigue un empleo rápidamente y sin conocimientos previos, construir contenido y tecnología es una prioridad, al contar con nuestro propio contenido y tecnología tenemos el control de toda la experiencia del alumno. Cada tutorial interactivo está construido de forma incremental, interactiva, auto-corregida y alineada con nuestros objetivos de [retención de memoria y feedback instantáneo](https://4geeks.com/es/mastering-technical-knowledge).

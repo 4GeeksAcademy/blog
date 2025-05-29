@@ -1,16 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2022-12-06T05:29:14+00:00"
-excerpt: "Wondering how to pay for a coding bootcamp in 2022? 4Geeks Academy explores financing options, scholarships, and flexible payment plans."
-slug: "hot-to-pay-a-coding-bootcamp"
-template: "post" # post or landing_post
-title: "How to Pay for a Coding Bootcamp"
-image: "https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png?"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2022-12-06T05:29:14+00:00'
+excerpt: Wondering how to pay for a coding bootcamp in 2022? 4Geeks Academy explores
+  financing options, scholarships, and flexible payment plans.
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png?
+image_alt: ''
+slug: hot-to-pay-a-coding-bootcamp
+status: published
+template: landing_post
+title: How To Pay For A Coding Bootcamp
 ---
 # HOW TO PAY FOR A CODING BOOTCAMP
 
@@ -77,4 +77,4 @@ On the other hand, if you want to pay on your own and save some money, but at th
 
 
 
-1 People without a permanent full-time job or people with an employment that is not equivalent to the level of skills or education or wage that should be applied to them. 
+1 People without a permanent full-time job or people with an employment that is not equivalent to the level of skills or education or wage that should be applied to them.

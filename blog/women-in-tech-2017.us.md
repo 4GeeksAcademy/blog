@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-01-17T04:01:12+00:00"
-excerpt: "Celebrate Women in Tech with 4Geeks Academy. Discover how women are breaking barriers and leading the charge in the tech industry in 2017."
-slug: "women-in-tech-2017"
-template: "post" # post or landing_post
-title: "Women in Tech 2017"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/01/Screen-Shot-2018-01-16-at-11.58.32-PM.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2018-01-17T04:01:12+00:00'
+excerpt: Celebrate Women in Tech with 4Geeks Academy. Discover how women are breaking
+  barriers and leading the charge in the tech industry in 2017.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/01/Screen-Shot-2018-01-16-at-11.58.32-PM.png
+image_alt: ''
+slug: women-in-tech-2017
+status: published
+template: landing_post
+title: Women In Tech 2017
 ---
-
 Women in tech still represent a small share of the workforce.  Not only are gender gaps a concern, but also the roles they have in the industry.  According to the [World Bank](https://data.worldbank.org/indicator/SL.TLF.TOTL.FE.ZS), women are 40% workforce in the world, and in some countries that number can go up to 59%. However, [Payscale reports](https://www.payscale.com/data-packages/gender-pay-gap/women-in-tech) that the industry is mostly occupied by men at all levels[.](https://www.payscale.com/data-packages/gender-pay-gap/women-in-tech)
 
 ![](/wp-content/uploads/2018/01/Picture12.png)
@@ -44,5 +43,3 @@ According to a [Girls Who Code](https://girlswhocode.com/2016report/) report, t
 That’s why it is so important to both 4Geeks Academy and Bridges Unite to promote more female access to the tech world by supporting opportunities for education, scholarship, guidance and mentoring.  We believe that by encouraging innovation, curiosity, and collaboration to expand our establishment and the positive impact of our community, we will get closer to equality in the tech field.
 
 **We are announcing new scholarships to train and bring women into tech.  **Stay tuned for the upcoming announcements.
-
-

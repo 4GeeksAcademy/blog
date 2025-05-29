@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Discover the average Junior Software Engineer salary with 4Geeks Academy. Learn what you can expect to earn as a beginner in the tech industry."
-template: "post"
-title: "Junior Software Engineer Salary"
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Discover the average Junior Software Engineer salary with 4Geeks Academy.
+  Learn what you can expect to earn as a beginner in the tech industry.
+status: published
+template: landing_post
+title: Junior Software Engineer Salary
 ---
-
 Aspiring software engineers are curious about their expected salary in the start of their career. Earning a competitive salary is very important for those who are thinking of working in the promising field of software engineering. There are various factors that influence the pay scale including, the location, experience, and industry. Therefore, knowing the average [salary of software engineers](https://4geeksacademy.com/us/software-engineer-salary/software-engineer-salary) in different locations and industries is essential. This article covers salary of junior software engineer and examines the average salary in different locations and industries and also tells about the various factors that impact the pay rate. 
 
 ## Average Junior Software Engineer Salary

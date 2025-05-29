@@ -1,11 +1,13 @@
 ---
-author: "alesanchezr"
-excerpt: "Un curso online es un arma de doble filo que puede llevarte lejos siempre que tengas en cuenta los aspectos vitales. ¿Cómo es el curso online ideal? ¿Que búscar o esperar?; ¿Qué retos tienen?."
-template: "post" 
-title: "¿Qué debes saber antes de empezar un Curso online de programación?"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Un curso online es un arma de doble filo que puede llevarte lejos siempre
+  que tengas en cuenta los aspectos vitales. ¿Cómo es el curso online ideal? ¿Que
+  búscar o esperar?; ¿Qué retos tienen?.
+status: published
+template: landing_post
+title: ¿Qué Debes Saber Antes De Empezar Un Curso Online De Prog...
 ---
-
 Hoy en día, ser programador no requiere tener títulos universitarios costosos, que respalden tus conocimientos o experiencia. Gracias a los cientos de cursos online al alcance de todos, una carrera exitosa de programador depende mucho más de tu esfuerzo que nunca antes. En este artículo hablaremos de los beneficios y desafíos que conlleva el estudiar un [curso online de programación](/es/curso-de-programacion-desde-cero).
 
 ## Beneficios de un curso online de programación
@@ -61,4 +63,3 @@ El saber los beneficios tanto como los desafíos de estudiar programación media
 
 - Si no sabes por dónde comenzar a estudiar, recuerda que [4Geeks Academy](/es/inicio) cuenta con distintos [programas y academias](/es/coding-bootcamps/desarrollador-full-stack?caracas-venezuela=&utm_source=google&utm_medium=cpc&utm_campaign=13881753805&utm_content=125220841575&utm_term=aprender%20a%20programar&gclid=Cj0KCQiA-JacBhC0ARIsAIxybyMAk6e-opLj_Wct7c2su_BcKnlLogy80eK1RUqiHPWVGVhyM1qy7kUaAqUuEALw_wcB
 ) alrededor del mundo, donde puden orientarte desde el primer lenguaje que quieras aprender, hasta los fundamentos de la programación. Una vez cumplido estos dos objetivos, tendrás una mejor imagen del camino que quieres tomar en tu carrera de programador.
-

@@ -1,13 +1,14 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "una de las preguntas que recibimos con mayor regularidad. La respuesta tiene varios elementos que queremos considerar y validar con cada uno de manera más detallada aquí.  Depende un poco de..."
-template: "post"
-title: "¿Cómo Pagar mi Bootcamp con 4Geeks?"
-image_alt: "Cómo Pagar mi Bootcamp con 4Geeks"
-
+author: 4GeeksAcademy
+date: '2023-09-06T02:58:12+00:00'
+excerpt: una de las preguntas que recibimos con mayor regularidad. La respuesta tiene
+  varios elementos que queremos considerar y validar con cada uno de manera más detallada
+  aquí.  Depende un poco de...
+image_alt: Cómo Pagar mi Bootcamp con 4Geeks
+status: published
+template: landing_post
+title: ¿Cómo Pagar Mi Bootcamp Con 4Geeks?
 ---
-
 Quizás una de las preguntas que recibimos con mayor regularidad. La respuesta tiene varios elementos que queremos considerar y validar con cada uno de manera más detallada aquí.  Depende un poco de dónde estás ubicado, a qué población perteneces y a cuáles programas tenemos habilitados. 
 
 ### Sobre los tipos de Programas
@@ -49,5 +50,4 @@ Si estás en algunos de los otros Países que no hemos mencionado hasta ahora, t
 
 Por ejemplo, hay opciones de 2 o 3 pagos sin  intereses que reducen el impacto inmediato de la matrícula. También podrías extenderlo hasta 12 meses con intereses bajos, que te dejarían las cuotas mensuales en menos de $100 (USD) al mes. En todos los casos siempre tenemos opciones de pago gracias a posibilidades que hemos ido incorporando con Quotanda en toda la región. 
 
-También debes estar prestando atención a programas especiales que durante el año se abren en Países como Uruguay, Costa Rica, Perú, entre otros. [Aquí puedes encontrar más detalles.](https://4geeksacademy.com/es/20-millones) 
-
+También debes estar prestando atención a programas especiales que durante el año se abren en Países como Uruguay, Costa Rica, Perú, entre otros. [Aquí puedes encontrar más detalles.](https://4geeksacademy.com/es/20-millones)

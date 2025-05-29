@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2021-11-03T12:18:12+00:00"
-excerpt: "En los últimos años, la medicina y la tecnología han formado una alianza increíble y estratégica que ha revolucionado el mundo, te invitamos a conocer cómo"
-slug: "tecnologia-y-medicina-avanzada"
-template: "post"
-title: "Tecnología y medicina avanzada: Una alianza estratégica"
-image: "https://drive.google.com/uc?export=view&id=1tSU89FvlbIvGr8ChE9X6t9_BmsltQIjB"
-image_alt: "Tecnología y medicina avanzada: Una alianza estratégica"
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2021-11-03T12:18:12+00:00'
+excerpt: En los últimos años, la medicina y la tecnología han formado una alianza
+  increíble y estratégica que ha revolucionado el mundo, te invitamos a conocer cómo
+image: https://drive.google.com/uc?export=view&id=1tSU89FvlbIvGr8ChE9X6t9_BmsltQIjB
+image_alt: 'Tecnología y medicina avanzada: Una alianza estratégica'
+slug: tecnologia-y-medicina-avanzada
+status: published
+template: landing_post
+title: 'Tecnología Y Medicina Avanzada: Una Alianza Estratégica'
 ---
-
 En la actualidad, la tecnología se ha convertido en una parte fundamental de nuestras vidas, ha tenido influencia hasta en el sector de la salud, han formado una alianza muy estratégica.
 
 ¿Increíble, no?
@@ -102,5 +101,3 @@ Nuestro egresado de la sede de Chile, Francisco Correa, inició su vida profesio
 Correa nos dice que es recomendable tener equipos multidisciplinarios: “de medicina mucho saben, pero si manejan los conocimientos de la salud y la tecnología es una combinación estratégica y explosiva”.
 
 ¿Tú qué opinas, crees que las disciplinas de la medicina deberían de ligarse con la tecnología?
-
-

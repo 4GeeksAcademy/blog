@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-03-19T22:36:42+00:00"
-excerpt: "Learn about the 2018 salary trends for bootcamp graduates with 4Geeks Academy. See how bootcamp training can lead to competitive tech salaries."
-slug: "wages-report-2018-1"
-template: "post" # post or landing_post
-title: "Bootcamp Graduates Salary 2018"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/03/BOOTCAMP2018-01-768x505.png"
-image_alt: ""
-cluster: "career-growth"
-status: "published"
+author: MRiciglianoC
+cluster: career-growth
+date: '2018-03-19T22:36:42+00:00'
+excerpt: Learn about the 2018 salary trends for bootcamp graduates with 4Geeks Academy.
+  See how bootcamp training can lead to competitive tech salaries.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/03/BOOTCAMP2018-01-768x505.png
+image_alt: ''
+slug: wages-report-2018-1
+status: published
+template: landing_post
+title: Bootcamp Graduates Salary 2018
 ---
-
 It’s time to update our numbers.  Every 6 months we take the task to update the current trends and data related to Developer’s wages.  The question we want to answer with updated data remains the same: What is the average wage for a Software or Web Developer in the US?
 
 Check it out and stop wondering if it’s worth to dedicate the next 4 months of your life to learn to code, because, yeah, it totally is.

@@ -1,0 +1,68 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Blog Post Metadata Standards
+
+## Required Metadata Fields
+All blog posts must include the following metadata fields in their YAML frontmatter:
+
+```yaml
+---
+author: "4Geeks Academy"  # Default author if not specified
+excerpt: "A compelling 50-100 word summary of the article, optimized for SEO"
+template: "landing_post"  # Standard template for all blog posts
+title: "SEO-optimized title (5-10 words)"
+status: "published"  # or "draft" for unpublished posts
+date: "YYYY-MM-DDTHH:MM:SS+00:00"  # ISO 8601 format
+---
+```
+
+## Metadata Guidelines
+
+### Title
+- Must be 5-10 words
+- Include the target keyword naturally
+- Use title case
+- End with a question mark if it's a question
+- Avoid clickbait or misleading titles
+
+### Excerpt
+- 50-100 words
+- Include the target keyword naturally in the first sentence
+- Summarize the main points of the article
+- End with a call to action or key takeaway
+- Avoid keyword stuffing
+
+### Author
+- Default to "4Geeks Academy" if not specified
+- Can include multiple authors separated by "&"
+- Use full names or professional handles
+
+### Date
+- Use ISO 8601 format: YYYY-MM-DDTHH:MM:SS+00:00
+- Set to current date for new posts
+- Can be future-dated for scheduled posts
+
+### Template
+- Use "landing_post" for all blog posts
+- This template includes SEO-optimized layout and structure
+
+### Status
+- "published" for live posts
+- "draft" for unpublished posts
+- Use draft status for posts under review or in progress
+
+## SEO Optimization
+- Include target keyword in title and first paragraph
+- Use natural language in descriptions
+- Avoid keyword stuffing
+- Ensure metadata is unique for each post
+- Keep titles under 60 characters for optimal display in search results
+
+## File Naming Convention
+- Use kebab-case for filenames
+- Include target keyword in filename
+- Add language code suffix (.es.md for Spanish, .us.md for English)
+- Example: how-to-become-full-stack-developer.es.md

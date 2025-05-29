@@ -1,12 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "4Geeks Academy is thrilled to announce our partnership with BITE-CON"
-template: "post"
-title: "Education, Innovation and Community"
-cluster: "trends-and-tech"
-
+author: 4GeeksAcademy
+cluster: trends-and-tech
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 4Geeks Academy is thrilled to announce our partnership with BITE-CON
+status: published
+template: landing_post
+title: Education, Innovation And Community
 ---
-
 4Geeks Academy is thrilled to announce our partnership with BITE-CON with a series of monthly tech education events happening at our Brickell campus. BITE-CON’s mission to spread awareness about innovative technologies aligns perfectly with 4Geeks’ goal of making cutting-edge skills accessible to diverse communities.
 
 Our first joint event on June 22, “BITE-CON Series: Leveraging Blockchain for Social Impact” featured Nandy Martin, the chairman of Captain Haiti Foundation, to discuss how blockchain has already begun uplifting Miami’s Little Haiti neighborhood. Thanks to Martin’s work, Captain Haiti Foundation recently raised an extraordinary $5 million to support Little Haiti against the threat of gentrification. At the event, Martin shared insights into how blockchain made this possible through the creation of LittleHaitiCoin and a partnership with Dargent Group.

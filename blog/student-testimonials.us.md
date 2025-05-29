@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-11-05T22:22:21+00:00"
-excerpt: "Learn to code at 4Geeks Academy and join a community where your voice matters. Gain skills and enter the tech industry with confidence."
-slug: "student-testimonials"
-template: "post" # post or landing_post
-title: "Learn to code at 4Geeks| Voices to be heard"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/11/Jennifer-768x768.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: MRiciglianoC
+cluster: coding-bootcamps
+date: '2018-11-05T22:22:21+00:00'
+excerpt: Learn to code at 4Geeks Academy and join a community where your voice matters.
+  Gain skills and enter the tech industry with confidence.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/11/Jennifer-768x768.png
+image_alt: ''
+slug: student-testimonials
+status: published
+template: landing_post
+title: Learn To Code At 4Geeks| Voices To Be Heard
 ---
-
 Coding is a unique experience for everyone involved. “Software is eating the world,” shares a Quora contributor[ on the Forbes website](https://www.forbes.com/sites/quora/2017/01/20/will-the-demand-for-developers-continue-to-increase/#7090450433ee). Even if dated for internet standards, the article remains current. Companies are doing the same things and users are still relying on apps to make their lives easier. More and more people are joining the internet world daily and the need for more robust technology is imperative.
 
 

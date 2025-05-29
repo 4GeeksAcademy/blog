@@ -1,18 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-05-04T14:32:02+00:00"
-excerpt: "4Geeks Academy llega a Venezuela! Conoce los detalles aquí"
-template: "post"
-title: "¡4Geeks Academy llega a Venezuela!"
-description: "Conoce los detalles de la llegada de 4Geeks Academy a Venezuela"
-image: "https://4GeeksAcademy.com/images/4geeks-main.jpg"
-image_alt: ""
-status: "published"
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2016-05-04T14:32:02+00:00'
+description: Conoce los detalles de la llegada de 4Geeks Academy a Venezuela
+excerpt: 4Geeks Academy llega a Venezuela! Conoce los detalles aquí
 featured: false
-cluster: "tendencias-y-tecnologia"
-
+image: https://4GeeksAcademy.com/images/4geeks-main.jpg
+image_alt: ''
+status: published
+template: landing_post
+title: ¡4Geeks Academy Llega A Venezuela!
 ---
-
 _Entrenamos a futuros súper desarrolladores con los conocimientos más avanzados para convertirse en excelentes programadores._
 
 **4Geeks Academy** abrirá sus puertas en **Caracas** el próximo **30 de mayo de 2016**, con el propósito de formar a los mejores desarrolladores del país con un pensum _part-time_, de la mano de tutores de reconocida trayectoria; ampliando sus posibilidades de abrirse en el campo laboral nacional e internacional, en tan solo 14 semanas.
@@ -76,5 +74,4 @@ La sede de El Nacional, en Caracas, será el lugar donde se impartirán las clas
 **Correo**: [venezuela@4geeksacademy.com](mailto:venezuela@4geeks.co). 
 **Web**: [4Geeks Acedemy - Venezuela](/us/coding-campus/coding-bootcamp-caracas). 
 **Facebook**: [/4geeksacademy](https://www.facebook.com/4geeksacademy). 
-**Twitter e Instagram**: @4GeeksAcademy. 
-
+**Twitter e Instagram**: @4GeeksAcademy.

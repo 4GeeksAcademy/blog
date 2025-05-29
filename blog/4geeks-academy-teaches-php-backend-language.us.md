@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2016-01-11T03:15:12+00:00"
-excerpt: "Learn why 4Geeks Academy teaches PHP as a backend language. Master PHP and become proficient in building dynamic, data-driven web applications."
-slug: "4geeks-academy-teaches-php-backend-language"
-template: "post"
-title: "Why 4Geeks Academy teaches PHP as Backend Language"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2016/01/language.jpeg"
-image_alt: ""
-cluster: "full-stack-developer"
-status: "published"
+author: alesanchezr
+cluster: full-stack-developer
+date: '2016-01-11T03:15:12+00:00'
+excerpt: Learn why 4Geeks Academy teaches PHP as a backend language. Master PHP and
+  become proficient in building dynamic, data-driven web applications.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2016/01/language.jpeg
+image_alt: ''
+slug: 4geeks-academy-teaches-php-backend-language
+status: published
+template: landing_post
+title: Why 4Geeks Academy Teaches Php As Backend Language
 ---
-
 If you want to learn how to swim, you use baby floats, not neoprene wet-suits (witch are obviously better for professional swimming).  This post is not about what programming language is better (it is impossible to answer that), this post is about choosing the best language to learn how to code - the language that gives the most opportunities to our students in Miami.
 
 
