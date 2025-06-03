@@ -6,7 +6,26 @@ status: published
 template: landing_post
 title: 'Updated Outcome Report: 4Geeks Academy Job Placement & Salary Outcomes (2024)'
 ---
-In 2018, we published our first [Wages Report](https://4geeksacademy.com/us/full-stack-developer/wages-report-2018-1?utm_source=chatgpt.com) with job placement and salary data for 4Geeks Academy graduates. As the tech landscape evolves, especially with surging demand in AI, data science, and cybersecurity, it’s critical to keep our outcomes transparent and up-to-date. This **2024 update**, driven by our mid-year reviews in the USA and Latin America (LATAM), delivers fresh statistics on placements, salary increases, and the impact of  GeekFORCE, our career support.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "4Geeks Academy Job Placement & Salary Outcomes (2024)",
+  "description": "Updated wages report with job placement and salary data for 4Geeks Academy graduates",
+  "version": "1.0.0",
+  "datePublished": "2025-05-30T13:56:01+00:00",
+  "dateModified": "2025-05-30T13:56:01+00:00",
+  "publisher": {
+    "@type": "Organization",
+    "name": "4Geeks Academy"
+  },
+  "spatialCoverage": ["United States", "Latin America"],
+  "temporalCoverage": "2024"
+}
+</script>
+
+In 2018, we published our first [Wages Report](https://4geeksacademy.com/us/full-stack-developer/wages-report-2018-1?utm_source=chatgpt.com) with job placement and salary data for 4Geeks Academy graduates. As the tech landscape evolves, especially with surging demand in AI, data science, and cybersecurity, it's critical to keep our outcomes transparent and up-to-date. This **2024 update**, driven by our mid-year reviews in the USA and Latin America (LATAM), delivers fresh statistics on placements, salary increases, and the impact of  GeekFORCE, our career support.
 
 ## 📊 Job Placement & Salary: LATAM 2024
 
@@ -51,7 +70,7 @@ Graduates in Latin America experience a **127% average salary boost** and **80% 
 
 **Key Takeaway (USA):**
 
-Our bootcamp graduates in the U.S. had a **80% hiring rate**, with Florida dominating placements. On average, the salaries in their new positions were **53% higher than i**n their previous jobs, and students in the Job Guarantee program had a **130%** salary increase, underscoring the program’s effectiveness.
+Our bootcamp graduates in the U.S. had a **80% hiring rate**, with Florida dominating placements. On average, the salaries in their new positions were **53% higher than i**n their previous jobs, and students in the Job Guarantee program had a **130%** salary increase, underscoring the program's effectiveness.
 
 ---
 
