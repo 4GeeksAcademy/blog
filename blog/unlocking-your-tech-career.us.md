@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-06T02:58:12+00:00"
-excerpt: "Unlock your tech career with 4Geeks Academy. Seize the end-of-year hiring surge and land your dream job with our coding bootcamp training."
-template: "post"
-title: "Unlocking Your Tech Career Seizing the End-of-Year Hiring Surge"
-image_alt: "Unlocking Your Tech Career"
-
+author: 4GeeksAcademy
+date: '2023-09-06T02:58:12+00:00'
+excerpt: Unlock your tech career with 4Geeks Academy. Seize the end-of-year hiring
+  surge and land your dream job with our coding bootcamp training.
+image_alt: Unlocking Your Tech Career
+status: published
+template: landing_post
+title: Unlocking Your Tech Career Seizing The End-Of-Year Hiring...
 ---
 In the ever-evolving realm of coding and technology, **timing is everything**. At 4Geeks Academy, we believe that knowing when to make your move in the job market can be a game-changer. In this article, we will explore why the final months of the year are the perfect opportunity for tech enthusiasts to apply and land their dream jobs. Let's dive into why you should be excited about these last months of the year.
 

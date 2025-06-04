@@ -1,13 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "4Geeks Academy earns double recognition from Forbes as the best bootcamp for students on a budget, excelling in Full-Stack and Data Science."
-template: "post"
-title: "4Geeks Academy Earns Double Recognition: Named Best Bootcamp for Students on a Budget by Forbes for Full-Stack Development and Data Science"
-image_alt: "4Geeks Academy Earns Double Recognition by Forbes"
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: 4Geeks Academy earns double recognition from Forbes as the best bootcamp
+  for students on a budget, excelling in Full-Stack and Data Science.
+image_alt: 4Geeks Academy Earns Double Recognition by Forbes
+status: published
+template: landing_post
+title: '4Geeks Academy Earns Double Recognition: Named Best Bootc...'
 ---
-
 We're thrilled to announce that **4Geeks Academy has achieved yet another milestone**, earning recognition from Forbes not just in one, but in **two prestigious categories**: [Best Online Full-Stack Bootcamps](https://www.forbes.com/advisor/education/bootcamps/best-full-stack-developer-bootcamp/)  and  [Best Online Data Science Bootcamps for 2024](https://www.forbes.com/advisor/education/bootcamps/best-data-science-bootcamps/#4geeks_academy_data_science_and_machine_learning_course_section).
 
 In both instances, we were named **the best online bootcamp** for students on a budget, a mention we are especially proud of as it highlights our commitment to providing high-quality education at an accessible price.

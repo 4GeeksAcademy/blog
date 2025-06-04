@@ -1,13 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-10-30T02:58:12+00:00"
-excerpt: "Financiamiento educativo accesible y asequible con acuerdos de participación en los ingresos (ISA). Alivio de la carga financiera y educación de alta calidad ofrecida por 4Geeks y Quotanda. Oportunidades de empleo en desarrollo de software y ciencia de datos. Compromiso de brindar educación centrada en la carrera."
-template: "post"
-title: "Acuerdo de Ingresos Compartidos entre Quotanda y 4Geeks Academy "
-image_alt: "Acuerdo de Ingresos Compartidos Bootcamps Latam"
-
+author: 4GeeksAcademy
+date: '2023-10-30T02:58:12+00:00'
+excerpt: Financiamiento educativo accesible y asequible con acuerdos de participación
+  en los ingresos (ISA). Alivio de la carga financiera y educación de alta calidad
+  ofrecida por 4Geeks y Quotanda. Oportunidades de empleo en desarrollo de software
+  y ciencia de datos. Compromiso de brindar educación centrada en la carrera.
+image_alt: Acuerdo de Ingresos Compartidos Bootcamps Latam
+status: published
+template: landing_post
+title: Acuerdo De Ingresos Compartidos Entre Quotanda Y 4Geeks A...
 ---
-
 **Financiamiento educativo accesible y asequible**
 
 Los acuerdos de participación en los ingresos (ISA) están consagrados como una forma de [financiar la educación superior](https://4geeksacademy.com/es/financiacion). 

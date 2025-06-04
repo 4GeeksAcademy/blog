@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "4Geeks Academy’s part-time Data Science Bootcamp offers flexibility. Learn data science skills at your own pace while balancing work or studies."
-template: "post"
-title: "Part Time Data Science Bootcamp"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: 4Geeks Academy’s part-time Data Science Bootcamp offers flexibility. Learn
+  data science skills at your own pace while balancing work or studies.
+status: published
+template: landing_post
+title: Part Time Data Science Bootcamp
 ---
-
 In today's data-driven world, data science has become a crucial field that helps people make better decisions.  The demand for skilled data analysts **has skyrocketed** in recent years due to the increasing dependency on data-driven applications. You can see that data analysts play an essential role in analyzing complex datasets for making decisions. This can help businesses to make informed decisions and bring ultimate success. 
 
 Therefore, data science skills are necessary for job security and lucrative career opportunities. You can [enroll in a part-time Dara science boot camp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning) and design a strong career roadmap. 

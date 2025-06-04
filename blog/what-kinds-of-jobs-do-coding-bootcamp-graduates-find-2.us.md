@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-03-18T00:00:00+00:00"
-excerpt: "Explore the types of jobs 4Geeks Academy bootcamp graduates find after completing training. Start your career in web development, data science, and more."
-slug: "what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2"
-template: "post" # post or landing_post
-title: "What kinds of jobs do coding bootcamp graduates find?"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2017/08/you-are-hired-1024x465.png"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: 4GeeksAcademy
+cluster: coding-bootcamps
+date: '2016-03-18T00:00:00+00:00'
+excerpt: Explore the types of jobs 4Geeks Academy bootcamp graduates find after completing
+  training. Start your career in web development, data science, and more.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2017/08/you-are-hired-1024x465.png
+image_alt: ''
+slug: what-kinds-of-jobs-do-coding-bootcamp-graduates-find-2
+status: published
+template: landing_post
+title: What Kinds Of Jobs Do Coding Bootcamp Graduates Find?
 ---
-
 It seems that companies today need more people who know coding faster than a college or university can put out into the professional market.  The real world has been seeking experts in areas where the business climate is constantly changing and the formal traditional education is lagging.
 
 1 million of the best jobs in America may go unfilled because only 1 in 4 schools is teaching computer science.  So, the opportunity is there for the taking.

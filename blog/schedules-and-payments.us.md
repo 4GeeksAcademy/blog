@@ -1,10 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Discover flexible learning schedules and payment options designed to make tech education accessible while balancing life commitments."
-template: "post"
-title: "Flexible Schedules and Payments"
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Discover flexible learning schedules and payment options designed to make
+  tech education accessible while balancing life commitments.
+status: published
+template: landing_post
+title: Flexible Schedules And Payments
 ---
-
 We offer flexible schedules and payment plans for our coding bootcamps. Anyone, no matter their situation, should be able to leap into a tech career. Our flexible options allow you to learn at your own pace while managing your life's other commitments.
 
 ## About Our Flexible Schedules and Payments

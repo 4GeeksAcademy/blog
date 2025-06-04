@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-01-08T11:19:14+00:00"
-excerpt: "4Geeks Academy partners with LaunchCode.org to help students gain coding skills and land tech jobs through mentorship and hands-on training."
-slug: "launchcode-and-4geeks-academy"
-template: "post" # post or landing_post
-title: "4Geeks Academy and LaunchCode.org"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/launchcode-button-300x89.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: 4GeeksAcademy
+cluster: trends-and-tech
+date: '2016-01-08T11:19:14+00:00'
+excerpt: 4Geeks Academy partners with LaunchCode.org to help students gain coding
+  skills and land tech jobs through mentorship and hands-on training.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/launchcode-button-300x89.png
+image_alt: ''
+slug: launchcode-and-4geeks-academy
+status: published
+template: landing_post
+title: 4Geeks Academy And Launchcode.Org
 ---
-
 Yes, we are exited!  4Geeks Academy partners with LaunchCode.org to help students gain coding skills and land tech jobs through mentorship and hands-on training.
 
 [![launchcode-button-300x89](https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/launchcode-button-300x89.png)](https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/launchcode-button-300x89.png)One of our main goals at 4Geeks Academy is to develop a reliable hiring platform for our students.  We believe in our graduates talents, but we know finding a job is sometimes not just about being a great developer.  That is why we make a huge effort to prepare our students in every possible way.
@@ -43,5 +42,3 @@ Yes, we are exited!  4Geeks Academy partners with LaunchCode.org to help studen
 Now we can add a new bullet, because having LaunchCode as a hiring partner surely elevates our student's chances to get hired by any one of their companies.  Our LaunchCode partnership give our students access to a network of more than 300 hiring companies with a hiring rate of 90%.  Like they say on their website: "90% of LaunchCode apprentices converted to full-time employment within 90 days".
 
 Here you can find more information about LaunchCode: [LaunchCode National Overview](https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/National-Overview.pdf)
-
-

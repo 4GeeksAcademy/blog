@@ -1,11 +1,12 @@
 ---
-author: "alesanchezr"
-excerpt: "Al empezar un curso, existen distintas opciones por las que podemos optar; pero lo que garantiza el exito es saber cuál debemos tomar"
-template: "post" 
-title: "Tipos de Cursos de programación"
-
+author: alesanchezr
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Al empezar un curso, existen distintas opciones por las que podemos optar;
+  pero lo que garantiza el exito es saber cuál debemos tomar
+status: published
+template: landing_post
+title: Tipos De Cursos De Programación
 ---
-
 Estudiar programación puede ser una labor tediosa y difícil de hacer por tu propia cuenta. Tal vez hayas comprado un libro que dice poder enseñarte todo lo necesario para tu éxito como programador. Aún así, encuentras imposible el poder entender los conceptos dictados en este libro y te preguntas si hay una mejor forma de llegar a tu meta de ser un programador. Lo primero que puedes pensar es ver videos en Youtube que te expliquen cada detalle y tema que desees. Pero la cantidad de información puede ser agobiante y no te permite saber desde donde puedes comenzar. Debido a esto los cursos de programación son ideales. El poder proveer un aprendizaje estructurado a un principiante, puede hacer mucho más cómodo una tarea que a primera vista puede parecer imposible.
 
 Pero los [cursos de programación](/es/curso-de-programacion-desde-cero) no están dirigidos solamente a principiantes que busquen comenzar su carrera de programador. Los cursos de programación pueden estar dirigidos a profesionales que busquen actualizar sus conocimientos, especializarse en un área o inclusive certificarse en el uso de herramientas especializadas. En este artículo te vamos a mostrar los distintos tipos de cursos de programación, para que sirven y algunos ejemplos que te permitirán empezar o avanzar tu carrera de programador.

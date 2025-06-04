@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2022-03-06T20:44:51+00:00"
-excerpt: "Hablaremos sobre el impacto actual de las mujeres en la industria STEM, sus historias personales, áreas de especialización y logros."
-slug: "5-mujeres-impactando-la-industria-tech"
-title: "5 mujeres impactando la industria tech"
-image: "https://breathecode.herokuapp.com/v1/media/file/diana-ma-png?"
-image_alt: ""
-cluster: "tendencias-y-tecnologia"
-status: "published"
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2022-03-06T20:44:51+00:00'
+excerpt: Hablaremos sobre el impacto actual de las mujeres en la industria STEM, sus
+  historias personales, áreas de especialización y logros.
 featured: true
-
+image: https://breathecode.herokuapp.com/v1/media/file/diana-ma-png?
+image_alt: ''
+slug: 5-mujeres-impactando-la-industria-tech
+status: published
+template: landing_post
+title: 5 Mujeres Impactando La Industria Tech
 ---
-
-
 "En un análisis global de 2.400 empresas realizado por Credit Suisse, las organizaciones con al menos una mujer en el directorio generaron un mayor retorno sobre el capital y un mayor crecimiento de los ingresos netos que aquellas que no tenían mujeres en el directorio." Harvard Business Review.
 
 ¡Hoy celebramos el Día Internacional de la Mujer y la Niña en la Ciencia y queremos que conozcas a 5 mujeres increíbles que están remodelando la comunidad STEM rompiendo estándares, diseñando nuevas posibilidades y trabajando para cambiar el mundo a través de la ciencia!
@@ -72,4 +71,3 @@ Desde la inclusión hasta la innovación, estas son las historias del día a dí
 
 
 Conoce más sobre las historias de nuestras mujeres graduadas en nuestro website [click here](https://4geeksacademy.com/us/testimonials) y canal de YouTube . Si te sientes inspirad@ por ellas, recuerda que también puedes convertirte en un profesional de la tecnología, solo necesita un vistazo rápido a nuestros programas de 4Geeks Academy.
-

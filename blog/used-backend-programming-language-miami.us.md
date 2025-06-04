@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-05-29T18:16:20+00:00"
-excerpt: "Discover the most used back-end programming languages in Miami with 4Geeks Academy. Learn the in-demand skills for a thriving tech career."
-slug: "used-backend-programming-language-miami"
-template: "post" # post or landing_post
-title: "What is the most used back-end programming language in Miami?"
-image: "https://4GeeksAcademy.com/wp-content/uploads/2017/08/Python.jpg"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: 4GeeksAcademy
+cluster: learn-to-code
+date: '2016-05-29T18:16:20+00:00'
+excerpt: Discover the most used back-end programming languages in Miami with 4Geeks
+  Academy. Learn the in-demand skills for a thriving tech career.
 featured: false
-
+image: https://4GeeksAcademy.com/wp-content/uploads/2017/08/Python.jpg
+image_alt: ''
+slug: used-backend-programming-language-miami
+status: published
+template: landing_post
+title: What Is The Most Used Back-End Programming Language In Mi...
 ---
-
 To begin, we need to know in what area we are going to specialize in, or what the language is being used by the business or organization.  In this article we are going to talk about the three most used languages in the last two years, which are: PHP, Python and Ruby.
 
 First of all, let’s review some concepts:
@@ -69,7 +68,3 @@ If we take a glimpse into some "job-hunter" companies in the Miami area, we find
 
 
 It seems that PHP was not a leading language amount the Miami organizations, but if we combine the _Tiobe_ research with the job hunters company in Miami, we find that PHP was climbing faster than the other languages, and it looks like it will be one of the top languages required by Miami businesses.
-
-
-
-

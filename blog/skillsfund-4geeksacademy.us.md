@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-02-28T20:41:26+00:00"
-excerpt: "4Geeks Academy partners with Skills Fund to offer financing for your coding education. Pay for bootcamp tuition through flexible, low-interest plans."
-slug: "skillsfund-4geeksacademy"
-template: "post" # post or landing_post
-title: "Skills Fund & 4Geeks Academy finally together"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/02/Skill-Fund-04-1-1-768x433.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2018-02-28T20:41:26+00:00'
+excerpt: 4Geeks Academy partners with Skills Fund to offer financing for your coding
+  education. Pay for bootcamp tuition through flexible, low-interest plans.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/02/Skill-Fund-04-1-1-768x433.jpg
+image_alt: ''
+slug: skillsfund-4geeksacademy
+status: published
+template: landing_post
+title: Skills Fund & 4Geeks Academy Finally Together
 ---
-
 ## Great news! Skills Fund & 4Geeks Academy are finally together
 
 

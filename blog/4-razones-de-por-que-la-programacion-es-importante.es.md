@@ -1,16 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2021-10-01T17:18:12+00:00"
-excerpt: "Hoy te contamos cuatro razones de por qué la programación es tan importante en nuestras vidas."
-template: "post"
-title: "4 Razones de por qué la programación es importante"
-image: "https://i.imgur.com/q0SJc0F.jpg"
-image_alt: "4 razones de por qué la programación es importante"
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2021-10-01T17:18:12+00:00'
+excerpt: Hoy te contamos cuatro razones de por qué la programación es tan importante
+  en nuestras vidas.
+image: https://i.imgur.com/q0SJc0F.jpg
+image_alt: 4 razones de por qué la programación es importante
+status: published
+template: landing_post
+title: 4 Razones De Por Qué La Programación Es Importante
 ---
-
 Mira a tu alrededor y trata de identificar los dispositivos electrónicos, son elementos que requieren de programación para funcionar, tu computador, tu TV, tu celular, el router, etc. Porque la tecnología va más allá de enlazar el entorno humano, natural y social, más allá de una simple computadora, de un teléfono o de un videojuego.
 
 Desde el siglo XV, empiezan a aparecer las primeras máquinas, dentro de las cuales están incluidas las computadoras, que tienen como proceso base: la programación, un proceso que involucra codificación, diseño, mantenimiento y protección de programas.

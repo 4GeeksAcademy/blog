@@ -1,13 +1,14 @@
 ---
-author: "alesanchezr"
-date: "2016-01-10T09:21:18+00:00"
-excerpt: "Descubre cómo convertirte en un desarrollador full stack y prueba el prewrok gratuito de 4Geeks Academy. Aprende HTML5, CSS y Javascript en solo dos semanas. ¡No te pierdas esta oportunidad de mejorar tu carrera como programador!"
-template: "post" 
-title: "Por qué nuestro pre-work es gratis y accesible para todos"
-image_alt: "fullstack prework"
-
+author: alesanchezr
+date: '2016-01-10T09:21:18+00:00'
+excerpt: Descubre cómo convertirte en un desarrollador full stack y prueba el prewrok
+  gratuito de 4Geeks Academy. Aprende HTML5, CSS y Javascript en solo dos semanas.
+  ¡No te pierdas esta oportunidad de mejorar tu carrera como programador!
+image_alt: fullstack prework
+status: published
+template: landing_post
+title: Por Qué Nuestro Pre-Work Es Gratis Y Accesible Para Todos
 ---
-
 ¿Quieres convertirte en [full stack developer](/es/coding-bootcamps/desarrollador-full-stack)
 **Tienes tres opciones**: inscribirte en la universidad, un bootcamp o aprender por tu cuenta. Pero, **¿cómo decidir cuál camino elegir**? Tal vez no estés seguro si podrás llegar a ser un buen desarrollador, o si la programación es lo adecuado para ti. Es justo que te demos la oportunidad de probarlo primero.
 

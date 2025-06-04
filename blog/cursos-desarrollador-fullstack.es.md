@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Los cursos de desarrollador full-stack son aquellos que te enseñan las habilidades necesarias para desarrollar aplicaciones web completas."
-template: "post"
-title:  "Cursos de Desarrollador Full-Stack"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Los cursos de desarrollador full-stack son aquellos que te enseñan las habilidades
+  necesarias para desarrollar aplicaciones web completas.
+status: published
+template: landing_post
+title: Cursos De Desarrollador Full-Stack
 ---
-
 ¿Estás buscando cursos de desarrollador full-stack? ¿Sabes que son y cuáles son los mejores? Acá te ayudamos con la información que necesitas para que consigas el que más se adapte a tus necesidades. 
 
 Los cursos de [desarrollador full-stack](https://4geeksacademy.com/desarrollador-full-stack-developer) son aquellos que te enseñan las habilidades necesarias para desarrollar aplicaciones web completas. Los desarrolladores full-stack son los profesionales responsables de todo el proceso de desarrollo, desde el diseño y desarrollo del front-end hasta el desarrollo back-end. 

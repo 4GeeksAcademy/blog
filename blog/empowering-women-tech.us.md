@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2018-04-12T18:18:16+00:00"
-excerpt: "4Geeks Academy is empowering women in tech. Join our supportive community, gain coding skills, and break barriers in the tech industry."
-slug: "empowering-women-tech"
-template: "post" # post or landing_post
-title: "4Geeks Academy empowering Women in Tech"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2018/04/Women-Powering-01-1-1024x645.png"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2018-04-12T18:18:16+00:00'
+excerpt: 4Geeks Academy is empowering women in tech. Join our supportive community,
+  gain coding skills, and break barriers in the tech industry.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2018/04/Women-Powering-01-1-1024x645.png
+image_alt: ''
+slug: empowering-women-tech
+status: published
+template: landing_post
+title: 4Geeks Academy Empowering Women In Tech
 ---
-
 We’ve all seen the statistics about [women in tech](/us/trends-and-tech/women-in-tech-2017).  Gender gaps is a reality, but we are not going to talk about those gaps anymore; we are celebrating gender diversity at 4Geeks Academy.  That’s why we are so proud and happy to announce that our Cohort III at Downtown Miami has a **60% female enrollment**!
 
 ![](https://storage.googleapis.com/4geeks-academy-website/blog/2018/04/Screen-Shot-2018-04-11-at-9.35.05-PM-1.png)
@@ -29,4 +28,4 @@ We acknowledge the importance of closing gender gaps.  In fact, our own team (4
 
 ![](https://storage.googleapis.com/4geeks-academy-website/blog/2018/04/Screen-Shot-2018-04-11-at-9.35.27-PM.png)
 
-In the meantime, we are still working together with Bridges Unite not just to improve the numbers but also towards making this a regular trend.  If you want to get involved and even participate for a full sponsorship of your coding education, please [click here](https://www.bridgesunite.com/contact) and start the process.  You could become a part of it in our upcoming [programs](/us/index#choose-program).  
+In the meantime, we are still working together with Bridges Unite not just to improve the numbers but also towards making this a regular trend.  If you want to get involved and even participate for a full sponsorship of your coding education, please [click here](https://www.bridgesunite.com/contact) and start the process.  You could become a part of it in our upcoming [programs](/us/index#choose-program).

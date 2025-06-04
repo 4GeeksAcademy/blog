@@ -1,16 +1,15 @@
 ---
-author: "MRiciglianoC"
-date: "2015-12-23T05:31:23+00:00"
-excerpt: "Discover the 4Geeks Academy story. Learn how we’ve helped thousands of students launch successful careers in tech through our hands-on bootcamps."
-template: "post"
-title: "4Geeks Academy Story"
-image: "/images/why2.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
-
+author: MRiciglianoC
+cluster: trends-and-tech
+date: '2015-12-23T05:31:23+00:00'
+excerpt: Discover the 4Geeks Academy story. Learn how we’ve helped thousands of students
+  launch successful careers in tech through our hands-on bootcamps.
+image: /images/why2.jpg
+image_alt: ''
+status: published
+template: landing_post
+title: 4Geeks Academy Story
 ---
-
 In 2009, together with two friends, we started a small software company with very big ambitions.  Just like any other startup story, we had no money (we didn't raise any funding), and our main office was our garage.
 
 ![comunidad-rigos-300x274](https://storage.googleapis.com/4geeks-academy-website/blog/2015/12/comunidad-rigos-1.png) Developers Community Members

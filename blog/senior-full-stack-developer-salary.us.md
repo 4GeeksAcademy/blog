@@ -1,11 +1,12 @@
 ---
-author: "jrdelrio"
-excerpt: "Explore the salary trends for Senior Full Stack Developers with 4Geeks Academy. Learn the earning potential and career growth in this role."
-title: "senior Full Stack Developer Salary"
-template: "post"
-
+author: jrdelrio
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Explore the salary trends for Senior Full Stack Developers with 4Geeks Academy.
+  Learn the earning potential and career growth in this role.
+status: published
+template: landing_post
+title: Senior Full Stack Developer Salary
 ---
-
 A Senior Full Stack Developer is an experienced software developer who has expertise in both Front End and [Back End development](https://4geeks.com/lesson/backend-developer). They are responsible for creating and maintaining the entire web application or software, from designing the user interface to programming the server-side logic. Due to their advanced skills and experience, Senior Full Stack Developers command a higher salary than regular [Full Stack Developers](https://4geeksacademy.com/us/full-stack-developer/full-stack-developer).
 
 According to various sources, the average salary of a Full Stack Developer in the United States is around $87,000 per year, while a Senior Full Stack Developer earns an average salary of $119,000 per year. This significant salary difference is due to the additional skills, experience, and responsibilities that come with a senior-level position.

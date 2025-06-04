@@ -1,17 +1,16 @@
 ---
-author: "alesanchezr"
-date: "2015-12-17T17:30:43+00:00"
-excerpt: "Explore the challenges of living and working as a web developer with 4Geeks Academy. Learn about the obstacles and rewards in the tech career path."
-template: "post" # post or landing_post
-title: "The Challenges of a Web Developer, Living and working as a developer"
-image: "https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/web-developer.jpeg?raw=true"
-image_alt: ""
-cluster: "full-stack-developer"
-status: "published"
+author: alesanchezr
+cluster: full-stack-developer
+date: '2015-12-17T17:30:43+00:00'
+excerpt: Explore the challenges of living and working as a web developer with 4Geeks
+  Academy. Learn about the obstacles and rewards in the tech career path.
 featured: false
-
+image: https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/web-developer.jpeg?raw=true
+image_alt: ''
+status: published
+template: landing_post
+title: The Challenges Of A Web Developer, Living And Working As ...
 ---
-
 To be a web developer, we must be able to handle the language perfectly, and that means always staying up to date.  Let’s not forget that technology moves in giant paces and we have to be both fit and agile in order to keep up with all the novelties.
 
 **So, one of the biggest challenges is staying up to date.**

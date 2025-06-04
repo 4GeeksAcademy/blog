@@ -1,14 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2019-03-20T05:29:14+00:00"
-excerpt: "¿Quieres reclutar a los mejores profesionales en IT para tu empresa de forma sencilla? ¡Estás en el lugar correcto!"
-template: "post" # post or landing_post
-title: "¡Impulsa tu equipo con talento IT excepcional!"
-image_alt: ""
-
+author: 4GeeksAcademy
+date: '2019-03-20T05:29:14+00:00'
+excerpt: ¿Quieres reclutar a los mejores profesionales en IT para tu empresa de forma
+  sencilla? ¡Estás en el lugar correcto!
+image_alt: ''
+status: published
+template: landing_post
+title: ¡Impulsa Tu Equipo Con Talento It Excepcional!
 ---
-
-
 En un mercado laboral cada vez más competitivo y dinámico, encontrar y retener talento calificado se ha convertido en una prioridad para las empresas de todos los sectores. En este contexto, contar con un pool de talento diverso, capacitado y listo para enfrentar los desafíos del mundo digital es crucial.
 
 Nos enorgullece ofrecer una solución para las necesidades de contratación, conectando a empresas con algunos de los mejores profesionales de la tecnología en América Latina certificados por [4Geeks Academy Latam](https://www.linkedin.com/school/4geeks-academy-latino/).
@@ -63,4 +62,3 @@ Nuestro talento se extiende por toda América Latina, abarcando una amplia gama 
 Nuestro compromiso es claro: facilitar el proceso de contratación para empresas y proporcionar las herramientas para [aprender a programar](https://4geeksacademy.com/es/landing/aprende-a-programar) y ofrecer  oportunidades laborales significativas para nuestros graduados. Con un pool de talento diverso y altamente capacitado que abarca toda América Latina.
 
 ¡No esperes más para aprovechar nuestras soluciones de contratación! Ponte en contacto con nosotros hoy mismo a través de vancieta@4geeksacademy.com y descubre cómo podemos ayudarte a encontrar el talento que necesitas.
-

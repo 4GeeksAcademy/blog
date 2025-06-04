@@ -1,18 +1,17 @@
 ---
-author: "MRiciglianoC"
-date: "2019-09-18T23:16:33+00:00"
-excerpt: "Learn to code smarter with 4Geeks Academy’s hacks. Read less and focus on the most effective strategies to learn coding faster and better."
-slug: "hacks-learn-to-code"
-template: "post" # post or landing_post
-title: "Hacks for learning to code: Read Less and Learn Better"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/09/Study-Hacks-03-1024x523.jpg"
-image_alt: ""
-cluster: "learn-to-code"
-status: "published"
+author: MRiciglianoC
+cluster: learn-to-code
+date: '2019-09-18T23:16:33+00:00'
+excerpt: Learn to code smarter with 4Geeks Academy’s hacks. Read less and focus on
+  the most effective strategies to learn coding faster and better.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/09/Study-Hacks-03-1024x523.jpg
+image_alt: ''
+slug: hacks-learn-to-code
+status: published
+template: landing_post
+title: 'Hacks For Learning To Code: Read Less And Learn Better'
 ---
-
 # **Hacks for learning to code: Read Less and Learn Better**
 
 

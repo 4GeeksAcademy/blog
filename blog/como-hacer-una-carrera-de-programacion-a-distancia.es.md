@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Revisa los beneficios de aprender una carrera de programación a distancia en una academia"
-template: "post"
-title:  "¿Cómo hacer una carrera de programación a distancia?"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Revisa los beneficios de aprender una carrera de programación a distancia
+  en una academia
+status: published
+template: landing_post
+title: ¿Cómo Hacer Una Carrera De Programación A Distancia?
 ---
-
 El mundo, la vida y el día a día van a millón, a veces sentimos que el día no nos alcanza para todo lo que hay y queremos hacer. Cada vez más dejamos de buscar y alcanzar nuestras metas por la excusa de que no hay tiempo. En la actualidad todo es posible si nos organizamos y dejamos de procrastinar para ponernos manos a la obra. 
 
 Aprender otro idioma, hacer cursos de cocina e incluso [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) cada vez es más fácil gracias a las herramientas que se han ido desarrollando. No es necesario asistir a un lugar en persona para aprender, ya sea por trabajo o por hobby. Ingresar en un campus virtual para adquirir conocimientos nunca antes fue tan sencillo y rápido, tenemos todo el contenido al alcance de un clic. 
@@ -42,4 +43,4 @@ Te invitamos a [aprender a programar](https://4geeksacademy.com/es/aprender-a-pr
 
 Dado que se han establecido academias en línea de excelente calidad, alto rendimiento y con programas de calidad, es posible ir cubriendo, poco a poco, la creciente demanda de programadores e ingenieros de software en todo el mundo. Podemos indicar que según a la oficina de [Estadísticas Laborales de EE. UU.](https://www.bls.gov/) se proyecta que los trabajos en el área de programación tendrá un aumento del 21% entre ahora y el 2028. 
 
-Es tu momento de aprender y cambiar tu vida codificando un mejor futuro. Empieza hoy, impulsa tu carrera profesional aprendiendo a programar. Haz ese cambio que siempre quisiste, elige un programa integral que te permita aprender desde cero si es necesario y ser parte de una comunidad tecnológica como lo hace un Coding Bootcamp. 
+Es tu momento de aprender y cambiar tu vida codificando un mejor futuro. Empieza hoy, impulsa tu carrera profesional aprendiendo a programar. Haz ese cambio que siempre quisiste, elige un programa integral que te permita aprender desde cero si es necesario y ser parte de una comunidad tecnológica como lo hace un Coding Bootcamp.

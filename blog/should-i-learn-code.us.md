@@ -1,17 +1,16 @@
 ---
-author: "MRiciglianoC"
-date: "2021-02-24T05:29:14+00:00"
-excerpt: "Wondering if you should learn to code? 4Geeks Academy shows how coding can transform your career and open doors to tech opportunities."
-slug: "should-i-learn-code"
-template: "post" # post or landing_post
-title: "Should I learn to Code?"
-image: "https://github.com/4GeeksAcademy/website-v2/blob/master/static/images/blog/student-coding.jpg"
-image_alt: "student coding in a notebook"
-cluster: "learn-to-code"
-status: "published"
-
+author: MRiciglianoC
+cluster: learn-to-code
+date: '2021-02-24T05:29:14+00:00'
+excerpt: Wondering if you should learn to code? 4Geeks Academy shows how coding can
+  transform your career and open doors to tech opportunities.
+image: https://github.com/4GeeksAcademy/website-v2/blob/master/static/images/blog/student-coding.jpg
+image_alt: student coding in a notebook
+slug: should-i-learn-code
+status: published
+template: landing_post
+title: Should I Learn To Code?
 ---
-
 Should I learn to Code? 
 Facts about a growing Career
 
@@ -91,6 +90,4 @@ Take and complete some crash courses: Angular, React Native, NodeJS, etc.
 Attend events and be part of the conversation;
 Share and post everything that you are doing. Behave like an open Book and let everyone know about your journey. Use Twitter, Linkedin and Youtube. You are not an influencer, but you are your own process.
 
-It should normally take a 100 days for someone with a background in tech, IT, digital marketing to get a Job as a developer. It could take up to 180 days for someone who has no experience whatsoever. It could always take less but get ready for a long run because nobody said this was a sprint. 
-
-
+It should normally take a 100 days for someone with a background in tech, IT, digital marketing to get a Job as a developer. It could take up to 180 days for someone who has no experience whatsoever. It could always take less but get ready for a long run because nobody said this was a sprint.

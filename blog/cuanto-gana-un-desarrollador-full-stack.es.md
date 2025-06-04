@@ -1,14 +1,14 @@
 ---
-author: "MRiciglianoC"
-date: "2021-02-24T05:29:14+00:00"
-excerpt: "Descubre cuánto gana un Desarrollador Full-Stack en Chile. Conoce las ganancias de este profesional altamente demandado en el mercado laboral actual."
-slug: "cuanto-gana-un-desarrollador-full-stack"
-template: "post" 
-title: "¿Cuánto gana un Desarrollador Web Full-Stack en Chile?"
-image_alt: "cuanto gana un desarrollador full stack"
-
+author: MRiciglianoC
+date: '2021-02-24T05:29:14+00:00'
+excerpt: Descubre cuánto gana un Desarrollador Full-Stack en Chile. Conoce las ganancias
+  de este profesional altamente demandado en el mercado laboral actual.
+image_alt: cuanto gana un desarrollador full stack
+slug: cuanto-gana-un-desarrollador-full-stack
+status: published
+template: landing_post
+title: ¿Cuánto Gana Un Desarrollador Web Full-Stack En Chile?
 ---
-
 En las últimas dos décadas hemos presenciado la mayor aceleración tecnológica a nivel computacional. Pero el 2020 fue el año con nitro en la carrera, ya que la emergencia sanitaria mundial llevó a miles de emprendedores, empresas, negocios e industrias a moverse a lo digital. 
 
 En un estudio reciente, hecho por IT Hunter, el perfil de Desarrollador Web Full-Stack ha sido uno de los más solicitados. Pero además, un perfil clave para este proceso de transformación digital. Si te apasiona este tipo de perfil, sigue leyendo, hablaremos de qué se encarga este profesional y cuánto puede llegar a ganar en Chile.
@@ -68,5 +68,3 @@ Uno de nuestros egresados, Ignacio Codina, nos comparte sobre su experiencia tra
 ![foto de egresado, Ignacio Codima, Engineer Manager](https://storage.googleapis.com/breathecode-asset-images/46309a67ecc4920d6f266a24e5f688667a8aded24060777cfb5c867f59a37e7c.jpeg?raw=true)
 
 Como dice Ignacio, no hay nada más importante que la disciplina en lo que haces para lograr lo que quieres, alcanzar las metas, sobresalir en tu trabajo, siempre y cuando seas constante y tener confianza y seguridad en ti mismo. Para así también continuar con tu crecimiento personal y tomando el control y acción de tus propias decisiones y futuro.
-
-

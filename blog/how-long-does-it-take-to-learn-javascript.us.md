@@ -1,11 +1,12 @@
 ---
-author: "4GeeksAcademy"
-excerpt: "Wondering how long it takes to learn JavaScript? 4Geeks Academy’s bootcamp helps you master JavaScript in a structured, fast-paced learning environment."
-template: "post"
-title: "How long does it take to learn JavaScript?"
-
+author: 4GeeksAcademy
+date: '2025-05-28T15:17:55+00:00'
+excerpt: Wondering how long it takes to learn JavaScript? 4Geeks Academy’s bootcamp
+  helps you master JavaScript in a structured, fast-paced learning environment.
+status: published
+template: landing_post
+title: How Long Does It Take To Learn Javascript?
 ---
- 
 Compared to other programming languages, such as Java or PHP, JavaScript is one of the easiest languages to learn. Ultimately the time it takes to master it will depend on several factors, such as previous experience in web development, your dedication, and the learning method you choose.
  
 **How long does it take to [learn JavaScript](https://4geeksacademy.com/us/learn-javascript/learn-javascript) from scratch?**

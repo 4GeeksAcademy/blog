@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2016-01-10T09:21:18+00:00"
-excerpt: "4Geeks Academy offers a free and open pre-work phase to help everyone get started with coding. Begin learning without any barriers to entry."
-slug: "pre-work-phase-free-open-everybody"
-template: "post" # post or landing_post
-title: "Why our pre-work phase is free and open for everybody"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/welcome-1.jpg"
-image_alt: ""
-cluster: "coding-bootcamps"
-status: "published"
+author: alesanchezr
+cluster: coding-bootcamps
+date: '2016-01-10T09:21:18+00:00'
+excerpt: 4Geeks Academy offers a free and open pre-work phase to help everyone get
+  started with coding. Begin learning without any barriers to entry.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/01/welcome-1.jpg
+image_alt: ''
+slug: pre-work-phase-free-open-everybody
+status: published
+template: landing_post
+title: Why Our Pre-Work Phase Is Free And Open For Everybody
 ---
-
 Do you want to become a developer? You have 3 choices: College, a bootcamp or learning by yourself. But how to decide? You don't even know if you are going to be a good developer, maybe it's not for you at all. That's why we think it's only fair to let you test it out first.
 
 We are like the US Open for bootcamps. We don't have coding interviews, we don't ask for a pedigree, previous coding experience or any credentials. Anyone can enroll and take the pre-work.

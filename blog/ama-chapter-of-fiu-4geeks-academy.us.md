@@ -1,18 +1,17 @@
 ---
-author: "4GeeksAcademy"
-date: "2016-02-11T15:28:28+00:00"
-excerpt: "The AMA Chapter of FIU and 4Geeks Academy work together to bring coding education closer to students, empowering them for successful tech careers."
-slug: "ama-chapter-of-fiu-4geeks-academy"
-template: "post" # post or landing_post
-title: "AMA Chapter of FIU + 4Geeks Academy - Getting Students Closer To A Coding Education"
-image: "https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/ama_logo.jpeg?raw=true"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: 4GeeksAcademy
+cluster: trends-and-tech
+date: '2016-02-11T15:28:28+00:00'
+excerpt: The AMA Chapter of FIU and 4Geeks Academy work together to bring coding education
+  closer to students, empowering them for successful tech careers.
 featured: false
-
+image: https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/ama_logo.jpeg?raw=true
+image_alt: ''
+slug: ama-chapter-of-fiu-4geeks-academy
+status: published
+template: landing_post
+title: Ama Chapter Of Fiu + 4Geeks Academy - Getting Students Cl...
 ---
-
 # AMA Chapter of FIU + 4Geeks Academy - Getting Students Closer To A Coding Education
 
 

@@ -1,18 +1,17 @@
 ---
-author: "alesanchezr"
-date: "2020-11-23T22:32:53+00:00"
-excerpt: "Ruby o Node.js no son las mejores tecnologias para convertirte en programador, aprende porqué enseñamos Python en 4Geeks Academy"
-slug: "porque-ensenamos-python-4geeks"
-template: "post" # post or landing_post
-title: "¿Porqué 4Geeks Academy enseña Python como lenguaje para Backend?"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/Screen-Shot-2019-03-28-at-6.25.55-PM.png"
-image_alt: ""
-cluster: "aprender-a-programar"
-status: "published"
+author: alesanchezr
+cluster: aprender-a-programar
+date: '2020-11-23T22:32:53+00:00'
+excerpt: Ruby o Node.js no son las mejores tecnologias para convertirte en programador,
+  aprende porqué enseñamos Python en 4Geeks Academy
 featured: true
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/03/Screen-Shot-2019-03-28-at-6.25.55-PM.png
+image_alt: ''
+slug: porque-ensenamos-python-4geeks
+status: published
+template: landing_post
+title: ¿Porqué 4Geeks Academy Enseña Python Como Lenguaje Para B...
 ---
-
 # ¿Porqué 4Geeks Academy enseña Python como lenguaje de Backend?
 
 Hace algunos años (al menos 2 o 3 años), la mayoria de los coding bootcamps enseñaban Ruby como su lenguaje principal.Yo estaba seguro de que esa era una mala decisión ((lee aquí por qué)[https://www.linkedin.com/pulse/rip-ruby-rails-thanks-everything-alejandro-s%C3%A1nchez/]) y despues de unas semanas de investigación de varios lenguajes de programación, aún considerando que Javascript estaba creciendo más que Python (gracias a Node.js), en 4Geeks Academy decidimos comenzar a enseñar Python como lenguaje. Y a continuación entenderás por qué.

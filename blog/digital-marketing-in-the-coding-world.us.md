@@ -1,18 +1,17 @@
 ---
-author: "vsegnini"
-date: "2020-01-20T21:09:10+00:00"
-excerpt: "Explore digital marketing in the coding world with 4Geeks Academy. Learn how coding and marketing combine to boost your career in tech."
-slug: "digital-marketing-in-the-coding-world"
-template: "post" # post or landing_post
-title: "Digital Marketing in the Coding World"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2020/01/BLOG-04-1-scaled.jpg"
-image_alt: ""
-cluster: "trends-and-tech"
-status: "published"
+author: vsegnini
+cluster: trends-and-tech
+date: '2020-01-20T21:09:10+00:00'
+excerpt: Explore digital marketing in the coding world with 4Geeks Academy. Learn
+  how coding and marketing combine to boost your career in tech.
 featured: false
-
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2020/01/BLOG-04-1-scaled.jpg
+image_alt: ''
+slug: digital-marketing-in-the-coding-world
+status: published
+template: landing_post
+title: Digital Marketing In The Coding World
 ---
-
 # **Digital marketing in the coding world**
 
 

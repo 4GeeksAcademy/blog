@@ -1,13 +1,13 @@
 ---
-author: "4GeeksAcademy"
-date: "2023-09-21T11:32:02+00:00"
-excerpt: "Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su comunidad a la hora de conseguir un nuevo empleo."
-template: "post"
-title: "Opground y 4Geeks se unen para que buscar un trabajo deje de ser un trabajo"
-image_alt: "consigue trabajo article"
-
+author: 4GeeksAcademy
+date: '2023-09-21T11:32:02+00:00'
+excerpt: Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su comunidad
+  a la hora de conseguir un nuevo empleo.
+image_alt: consigue trabajo article
+status: published
+template: landing_post
+title: Opground Y 4Geeks Se Unen Para Que Buscar Un Trabajo Deje...
 ---
-
 # Opground y 4Geeks se unen para que buscar un trabajo deje de ser un trabajo
 
 Entrevistarse con **cientos de empresas a la vez** a través de una sola conversación es posible gracias a la IA de Opground

@@ -1,17 +1,16 @@
 ---
-author: "4GeeksAcademy"
-date: "2021-12-15T12:18:12+00:00"
-excerpt: "Desde el 2020 la vida laboral ha cambiado mucho, en especial, el área de la tecnología se ha visto enormemente beneficiada, acá verás algunas razones."
-slug: "ventajas-de-trabajar-en-tecnologia"
-template: "post"
-title: "Ventajas de trabajar en el área de tecnología"
-image: "https://drive.google.com/uc?export=view&id=1Wh5H7h2dNx8bUaNXwTZlAm1xN2LBps1n"
-image_alt: "Ventajas de trabajar en el área de tecnología"
-cluster: "desarrollo-profesional"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: desarrollo-profesional
+date: '2021-12-15T12:18:12+00:00'
+excerpt: Desde el 2020 la vida laboral ha cambiado mucho, en especial, el área de
+  la tecnología se ha visto enormemente beneficiada, acá verás algunas razones.
+image: https://drive.google.com/uc?export=view&id=1Wh5H7h2dNx8bUaNXwTZlAm1xN2LBps1n
+image_alt: Ventajas de trabajar en el área de tecnología
+slug: ventajas-de-trabajar-en-tecnologia
+status: published
+template: landing_post
+title: Ventajas De Trabajar En El Área De Tecnología
 ---
-
 Luego de este cambio inesperado que vivimos en el 2020, la pandemia, el ámbito laboral cambió de forma radical, donde los trabajos tecnológicos comenzaron a tomar gran importancia e inclusive a ser de los más demandados a nivel mundial.
 
 Esto era algo que ya estaba ocurriendo en Europa y Estados Unidos, no obstante, en Latinoamérica no ocurría de esta forma, una vez que llegó la pandemia a nuestras vidas, el mercado laboral latinoamericano se tuvo que adaptar al teletrabajo, conferencias a través de videollamadas, estudios online, etc, cuestión que dió pie a que los trabajos tech fuesen los más demandados en la actualidad. Alguno de estos empleos son:

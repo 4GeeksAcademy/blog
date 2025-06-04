@@ -1,17 +1,15 @@
 ---
-author: "4GeeksAcademy"
-date: "2017-07-18T20:38:51+00:00"
-excerpt: "Conoce las becas entregadas a 4 emprendedores del TechCamp Caracas 2017"
-slug: "techcamp-2017-beca"
-template: "post" # post or landing_post
-title: "¡4Geeks Academy becó a 4 emprendedores del TechCamp Caracas 2017!"
-image: "https://storage.googleapis.com/4geeks-academy-website/blog/2017/07/ISA-Blog-Cover.png"
-image_alt: ""
-cluster: "tendencias-y-tecnologia"
-status: "published"
-
+author: 4GeeksAcademy
+cluster: tendencias-y-tecnologia
+date: '2017-07-18T20:38:51+00:00'
+excerpt: Conoce las becas entregadas a 4 emprendedores del TechCamp Caracas 2017
+image: https://storage.googleapis.com/4geeks-academy-website/blog/2017/07/ISA-Blog-Cover.png
+image_alt: ''
+slug: techcamp-2017-beca
+status: published
+template: landing_post
+title: ¡4Geeks Academy Becó A 4 Emprendedores Del Techcamp Carac...
 ---
-
 El pasado mes de junio se celebró la tercera edición del [**TechCamp**](https://techcamp.america.gov/)** Caracas**. El evento contó con 60 proyectos de emprendedores sociales y líderes de Organizaciones No Gubernamentales (ONG’s), que se fueron a casa con herramientas tecnológicas innovadoras que facilitarán el cumplimiento de sus desafíos.
 
 4Geeks Academy participó como colaborador de esta increíble iniciativa con cuatro becas para los programas Full-Stack Web Development en Caracas (2) y Maracaibo (2).
@@ -48,5 +46,3 @@ Para conocer más sobre la academia y los cursos que tenemos para ti, puedes ing
 _Giuliana Rivero Meré._
 
 [_grivero@4geeks.co_](mailto:grivero@4geeks.co)
-
-
