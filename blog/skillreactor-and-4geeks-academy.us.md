@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: Boost your learning curve with SkillReactor, 4Geeks Academy’s newest partner.
   Enhance your skills and fast-track your journey to a tech career.
 image_alt: ''
+slug: skillreactor-and-4geeks-academy-us
 status: published
 template: landing_post
 title: 'Give Your Learning Curve A Boost With Skillreactor: 4Geek...'

@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: 4Geeks Academy is expanding with new locations in Atlanta, GA, and Houston,
   TX! Join our coding bootcamp to start your tech career in these cities.
 image_alt: 4Geeks Academy Opens Two New Locations in Atlanta, GA, and Houston, TX
+slug: 4geeks-academy-location-atlanta-and-houston-us
 status: published
 template: landing_post
 title: 'Expanding Horizons: 4Geeks Academy Opens Two New Location...'

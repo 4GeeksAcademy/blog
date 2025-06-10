@@ -5,6 +5,7 @@ excerpt: 4Geeks se compromete con su misión y anuncia la publicación de todos 
   contenidos gratis y open source
 image: https://github.com/4GeeksAcademy/blog/blob/main/blog_images/open-source.png?raw=true
 image_alt: 4Geeks becomes opensource
+slug: open-source-es
 status: published
 template: landing_post
 title: Anunciamos La Publicación De Todos Nuestros Contenidos Gr...

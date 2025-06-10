@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Conoce los detalles de por qué vale la pena ingresar a un bootcamp de programación
   y las oportunidades laborales que tendrás al graduarte de programador
+slug: bootcamp-programacion-es
 status: published
 template: landing_post
 title: 'Bootcamps De Programacion: Aceleradores De Habilidades'

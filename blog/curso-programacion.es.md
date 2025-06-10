@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Un curso puede ser realizado por cualquiera, pero pocos tenemos la noción
   de saber cual nos conviene, cual nos sirve y cual necesitamos
+slug: curso-programacion-es
 status: published
 template: landing_post
 title: Curso Programación

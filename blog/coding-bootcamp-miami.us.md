@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Looking for a coding bootcamp in Miami? 4Geeks Academy offers expert-led
   programs to help you launch your tech career in the vibrant Miami market.
+slug: coding-bootcamp-miami-us
 status: published
 template: landing_post
 title: A Guide To Coding Bootcamps In Miami

@@ -6,6 +6,7 @@ excerpt: Descubre cuánto gana un programador en 2024, las especializaciones má
   tu carrera ahora! 🚀💻.
 image: https://storage.googleapis.com/media-breathecode/4dff8e8ae1a0936fe65e94542387ac565903941f6456492f898cd7a5ad903bd6
 image_alt: cuanto gana un programador alrededor del mundo
+slug: cuanto-gana-un-programador-es
 status: published
 template: landing_post
 title: Conoce Cuánto Gana Un Programador 💻💰

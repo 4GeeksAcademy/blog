@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Explore the salary trends for Senior Full Stack Developers with 4Geeks Academy.
   Learn the earning potential and career growth in this role.
+slug: senior-full-stack-developer-salary-us
 status: published
 template: landing_post
 title: Senior Full Stack Developer Salary

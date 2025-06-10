@@ -5,6 +5,7 @@ excerpt: El éxito en las contrataciones en septiembre y octubre muestra un aume
   del 43% en comparación con el año anterior. Ahora, en noviembre y diciembre, se
   presentan oportunidades de empleo para...
 image_alt: Desbloqueando tu Carrera Tecnológica
+slug: desbloquea-tu-carrera-tecnologica-auge-fin-2023-es
 status: published
 template: landing_post
 title: Desbloqueando Tu Carrera Tecnológica Aprovechando El Auge...

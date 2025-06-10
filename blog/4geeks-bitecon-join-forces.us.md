@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 cluster: trends-and-tech
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 4Geeks Academy is thrilled to announce our partnership with BITE-CON
+slug: 4geeks-bitecon-join-forces-us
 status: published
 template: landing_post
 title: Education, Innovation And Community

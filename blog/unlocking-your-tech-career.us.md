@@ -4,6 +4,7 @@ date: '2023-09-06T02:58:12+00:00'
 excerpt: Unlock your tech career with 4Geeks Academy. Seize the end-of-year hiring
   surge and land your dream job with our coding bootcamp training.
 image_alt: Unlocking Your Tech Career
+slug: unlocking-your-tech-career-us
 status: published
 template: landing_post
 title: Unlocking Your Tech Career Seizing The End-Of-Year Hiring...

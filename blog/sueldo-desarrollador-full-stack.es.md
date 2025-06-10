@@ -6,12 +6,10 @@ excerpt: 'Requerimientos: ¿Cuánto es el sueldo de un desarrollador full stack 
 
   Acepto proposiciones de un mejor título siempre y cuando incluya la palabra clave
   “Sueldo desarrollador Full stack”'
+slug: sueldo-desarrollador-full-stack-es
 status: published
 template: landing_post
 ---
-
-
-
 Requerimientos: ¿Cuánto es el sueldo de un desarrollador full stack para el 2024?
 Acepto proposiciones de un mejor título siempre y cuando incluya la palabra clave “Sueldo desarrollador Full stack”
 

@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Un curso de programación de Python es una oportunidad educativa diseñada
   para enseñar los fundamentos y las mejores prácticas del lenguaje de programación
+slug: curso-de-programacion-de-python-es
 status: published
 template: landing_post
 title: ¿Por Qué Aplicar A Un Curso De Programación De Python?

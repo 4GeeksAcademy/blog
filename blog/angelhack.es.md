@@ -4,6 +4,7 @@ cluster: aprender-programacion
 date: '2023-09-06T02:58:12+00:00'
 excerpt: 'Acelera tu Carrera: Aprender Programación'
 image_alt: la clave del éxito para los programadores
+slug: angelhack-es
 status: published
 template: landing_post
 title: 'Acelera Tu Carrera: Aprender Programación'

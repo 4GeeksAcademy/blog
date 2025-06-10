@@ -2,11 +2,11 @@
 author: 4Geeks Academy
 date: '2025-05-30T13:56:01+00:00'
 excerpt: 'Updated Wages Report: 4Geeks Academy Job Placement & Salary Outcomes (2024)'
+slug: wages-report-2024
 status: published
 template: landing_post
-title: 'Updated Outcome Report: 4Geeks Academy Job Placement & Salary Outcomes (2024)'
+title: 'Updated Outcome Report: 4Geeks Academy Job Placement & Sa...'
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

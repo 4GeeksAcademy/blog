@@ -6,6 +6,7 @@ excerpt: La programación en Venezuela es un campo dinámico que ha evolucionado
   enfrentando desafíos económicos, políticos y sociales que han moldeado su trayectoria.
   A pesar de los obstáculos, los programadores venezolanos han demostrado su capacidad
   para innovar y adaptarse en un entorno en constante cambio
+slug: cuanto-gana-un-programador-en-venezuela-es
 status: published
 template: landing_post
 ---

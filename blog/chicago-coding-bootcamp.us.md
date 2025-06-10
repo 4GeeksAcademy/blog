@@ -2,12 +2,10 @@
 author: 4Geeks Academy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 'Title: Chicago Coding Bootcamp: Launch Your Tech Career in the Windy City '
+slug: chicago-coding-bootcamp-us
 status: published
 template: landing_post
 ---
-
-
-
 Title: Chicago Coding Bootcamp: Launch Your Tech Career in the Windy City 
 
 Word Count: 1000
@@ -71,4 +69,3 @@ Fuel Your Future with a Rewarding Tech Career:
 Reiterate the benefits of enrolling in 4Geeks Academy's Chicago coding bootcamp, focusing on career support, mentorship, and an AI-driven curriculum.
 Motivate readers to take action and invest in their future by visiting 4Geeks Academy.
 Provide a clear and strong call to action
-

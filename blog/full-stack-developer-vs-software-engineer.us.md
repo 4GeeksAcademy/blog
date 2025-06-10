@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Wondering about the difference between Full Stack Developer and Software
   Engineer? 4Geeks Academy explains the key roles and skills for each career.
+slug: full-stack-developer-vs-software-engineer-us
 status: published
 template: landing_post
 title: Full Stack Developer Vs Software Engineer

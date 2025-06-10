@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: ¡Descubre cómo "hackear el reclutamiento" con la alianza entre 4geeks y RecruHack!
   Potencian el talento TI 💻 Unen fuerzas para captar y formar profesionales en tecnología.
+slug: hackea-el-reclutamiento-es
 status: published
 template: landing_post
 title: ¡Hackea El Reclutamiento!

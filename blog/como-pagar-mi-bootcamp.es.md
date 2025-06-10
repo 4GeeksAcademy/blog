@@ -5,6 +5,7 @@ excerpt: una de las preguntas que recibimos con mayor regularidad. La respuesta 
   varios elementos que queremos considerar y validar con cada uno de manera más detallada
   aquí.  Depende un poco de...
 image_alt: Cómo Pagar mi Bootcamp con 4Geeks
+slug: como-pagar-mi-bootcamp-es
 status: published
 template: landing_post
 title: ¿Cómo Pagar Mi Bootcamp Con 4Geeks?

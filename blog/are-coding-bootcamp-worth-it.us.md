@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: Wondering if coding bootcamps are worth it? 4Geeks Academy explores the pros
   and cons to help you make an informed decision about your tech career.
 image_alt: ''
+slug: are-coding-bootcamp-worth-it-us
 status: published
 template: landing_post
 title: Are Coding Bootcamps Worth It? Exploring The Pros And Cons

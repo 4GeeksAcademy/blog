@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Start your data science career with 4Geeks Academy’s Chicago Bootcamp. Learn
   essential skills and gain the experience needed to succeed.
+slug: bootcamp-data-science-chicago-us
 status: published
 template: landing_post
 title: Best Bootcamp Data Science Chicago

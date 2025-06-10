@@ -7,6 +7,7 @@ excerpt: "Exciting partnership between Kaseya and 4Geeks Academy strengthens Mia
   \ to fuel Miami’s tech talent pipeline. Together, we’re training the next generation\
   \ of tech professionals."
 image_alt: Kaseya and 4Geeks Academy
+slug: kaseya-and-4geeks-us
 status: published
 template: landing_post
 title: Kaseya And 4Geeks Academy Join Forces To Fuel Miami'S Tec...

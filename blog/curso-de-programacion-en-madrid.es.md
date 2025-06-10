@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Hay amplias opciones para todo aquel que quiera inscribirse en un curso de
   programación en Madrid, te presentamos las mejores opciones disponibles
+slug: curso-de-programacion-en-madrid-es
 status: published
 template: landing_post
 title: Los Mejores Cursos De Programación En Madrid

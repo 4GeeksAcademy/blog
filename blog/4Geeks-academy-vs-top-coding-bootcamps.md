@@ -3,12 +3,12 @@ author: 4GeeksAcademy
 cluster: trends-and-tech
 date: '2025-06-03T14:00:10+00:00'
 excerpt: ' 4Geeks Academy vs. Top Coding Bootcamps: Your 2025 Guide'
+slug: 4geeks-academy-vs-top-coding-bootcamps
 status: published
 template: landing_post
 title: '4Geeks Academy Vs. Top Coding Bootcamps: Your 2025 Guide'
 version: 1.0.0
 ---
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

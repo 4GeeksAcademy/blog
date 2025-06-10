@@ -7,6 +7,7 @@ excerpt: 4Geeks Academy partners with Casimiro Global Foundation to provide codi
 featured: false
 image: https://storage.googleapis.com/4geeks-academy-website/blog/2016/02/CGF-INFOGRAPHIC.jpg
 image_alt: ''
+slug: 4geeks-academy-casimiro-global-foundation-us
 status: published
 template: landing_post
 title: 4Geeks Academy + Casimiro Global Foundation
