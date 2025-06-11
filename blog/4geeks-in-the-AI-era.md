@@ -7,7 +7,6 @@ status: published
 template: landing_post
 title: Why 4Geeks is Built for the AI Era
 ---
-# 
 
 ### **Forget the AI "revolution"—at 4Geeks, we’ve been living in it.**
 
