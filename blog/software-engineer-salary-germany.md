@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Explore the Software Engineer salary in Germany with 4Geeks Academy. Learn
   how the German tech market offers great pay and opportunities for growth.
+slug: software-engineer-salary-germany
 status: published
 template: landing_post
 title: How Much Is The Software Engineer Salary In Germany

@@ -5,6 +5,7 @@ excerpt: Para aumentar tu salario y tus oportunidades laborales no solo hay que 
   la empresa con mejores oportunidades. Es necesario que como ingeniero informático
   poseas ciertas certificaciones y habilidades para entrar en competencia en el área
   y encontrar los salarios más altos...
+slug: cuanto-gana-un-ingeniero-informatico-en-espana-es
 status: published
 template: landing_post
 title: ¿Cuánto Gana Un Ingeniero Informático En España?

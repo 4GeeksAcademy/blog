@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 'Build a standout Software Engineer portfolio with 4Geeks Academy. Showcase
   your skills, projects, and experience to attract top tech employers. '
+slug: software-engineer-portfolio
 status: published
 template: landing_post
 title: Software Engineer Portfolio

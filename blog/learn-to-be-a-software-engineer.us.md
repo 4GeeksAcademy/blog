@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: Become a Software Engineer with 4Geeks Academy. Get the training and mentorship
   you need to build software, solve problems, and thrive in the tech world.
 image_alt: learn to be a software engineer
+slug: learn-to-be-a-software-engineer-us
 status: published
 template: landing_post
 title: Code Your Way To Success And Learn To Be A Software Engin...

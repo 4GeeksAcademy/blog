@@ -4,6 +4,7 @@ date: '2023-09-21T11:32:02+00:00'
 excerpt: Master JavaScript with 4Geeks Academy’s comprehensive guide. Learn everything
   from fundamentals to advanced concepts with expert mentorship.
 image_alt: Learn JavaScript
+slug: learn-javascript-us
 status: published
 template: landing_post
 title: A Comprehensive Guide To Learn Javascript

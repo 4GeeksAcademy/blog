@@ -6,6 +6,7 @@ excerpt: La colaboración entre RemoteAndTalent y 4Geeks Academy, tiene como obj
   oportunidades laborales
 image: https://storage.googleapis.com/media-breathecode/f09133dae309659c7a8b34670411793ab702385a95fb34d648be05bf7428ef83
 image_alt: 4Geeks Academy
+slug: remoteandtalent-and-4geeksacademy-es
 status: published
 template: landing_post
 title: Salidas Laborales En El Sector It En El 2024

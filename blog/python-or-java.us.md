@@ -4,6 +4,7 @@ date: '2023-10-23T12:58:12+00:00'
 excerpt: Confused about whether to learn Python or Java? 4Geeks Academy’s guide helps
   you navigate the crossroads and choose the best language for your career.
 image_alt: Should I Learn Python or Java
+slug: python-or-java-us
 status: published
 template: landing_post
 title: Should I Learn Python Or Java? A Comprehensive Guide To N...

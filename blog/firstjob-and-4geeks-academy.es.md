@@ -5,6 +5,7 @@ excerpt: La colaboración estratégica entre 4Geeks Academy y FirstJob se erige 
   un catalizador para los egresados que buscan ingresar al mundo laboral. Esta alianza
   potencia muchísimo nuestra membresía.
 image_alt: ''
+slug: firstjob-and-4geeks-academy-es
 status: published
 template: landing_post
 title: 'Abriendo Puertas Para Nuestros Egresados: Alianza Estraté...'

@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Wondering if Software Engineering is hard? 4Geeks Academy explores the challenges
   and rewards of this dynamic, rewarding career path in tech.
+slug: is-software-engineering-hard-us
 status: published
 template: landing_post
 title: Is Software Engineering Hard? Challenges And Rewards Of A...

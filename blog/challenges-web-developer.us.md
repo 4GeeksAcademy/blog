@@ -7,6 +7,7 @@ excerpt: Explore the challenges of living and working as a web developer with 4G
 featured: false
 image: https://github.com/4geeksacademy/website-v2/blob/master/static/images/blog/web-developer.jpeg?raw=true
 image_alt: ''
+slug: challenges-web-developer-us
 status: published
 template: landing_post
 title: The Challenges Of A Web Developer, Living And Working As ...

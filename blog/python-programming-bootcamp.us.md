@@ -4,6 +4,7 @@ date: '2024-04-24T05:29:14+00:00'
 excerpt: Join 4Geeks Academy’s Python Programming Bootcamp. Learn Python from experts
   and build real-world projects to launch your career in software development.
 image_alt: Python Programming Bootcamp
+slug: python-programming-bootcamp-us
 status: published
 template: landing_post
 title: Python Programming Bootcamp

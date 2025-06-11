@@ -2,11 +2,48 @@ import json
 import os
 from datetime import datetime
 import re
+import yaml
+
+def extract_metadata(file_path):
+    """Extract YAML frontmatter from markdown content"""
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            
+        if not content.startswith('---'):
+            return None
+            
+        parts = content.split('---', 2)
+        if len(parts) < 3:
+            return None
+            
+        try:
+            metadata = yaml.safe_load(parts[1])
+            return metadata
+        except yaml.YAMLError:
+            print('Invalid YAML frontmatter')
+            return None
+    except Exception as e:
+        print(f'Error reading file {file_path}: {str(e)}')
+        return None
 
 def get_slug_from_filename(filename):
+    # First try to get slug from metadata
+    file_path = os.path.join('blog', filename)
+    metadata = extract_metadata(file_path)
+    if metadata and 'slug' in metadata:
+        return metadata['slug']
+        
+    # If no slug in metadata, generate from filename
     # Remove the language suffix and .md extension
     base_name = re.sub(r'\.(us|es)\.md$', '', filename)
-    return base_name
+    # Convert to lowercase
+    slug = base_name.lower()
+    # Replace any non-alphanumeric characters with hyphens
+    slug = re.sub(r'[^a-z0-9]+', '-', slug)
+    # Remove leading and trailing hyphens
+    slug = slug.strip('-')
+    return slug
 
 def get_lang_from_filename(filename):
     if '.es.md' in filename:

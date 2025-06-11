@@ -6,6 +6,7 @@ excerpt: Aprender a programar se ha convertido en una habilidad invaluable. Aqu�
   tan restringido, y por qué nos tardó tanto darnos cuenta. Además hablaremos de si
   es verdaderamente posible, de sus costos y de sus expectativa laborales al concluir.
 image_alt: Aprender a Programar en Español en Estados Unidos
+slug: aprende-a-programar-en-espanol-es
 status: published
 template: landing_post
 title: Aprender A Programar En Español En Estados Unidos

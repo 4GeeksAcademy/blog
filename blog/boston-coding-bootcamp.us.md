@@ -4,6 +4,7 @@ date: '2024-05-28T05:29:14+00:00'
 excerpt: Boost your career in Boston’s thriving tech scene with a coding bootcamp
   from 4Geeks Academy. Learn coding and secure your first tech job in Boston.
 image_alt: Boston Coding Bootcamp
+slug: boston-coding-bootcamp-us
 status: published
 template: landing_post
 title: Boost Your Career In Boston'S Vibrant Tech Ecosystem With...

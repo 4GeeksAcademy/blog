@@ -4,6 +4,7 @@ date: '2024-04-24T05:29:14+00:00'
 excerpt: Master Python with 4Geeks Academy’s online bootcamp. Learn this powerful
   programming language and apply it to real-world coding projects.
 image_alt: Master Python with 4Geeks Academy
+slug: python-bootcamp-online-us
 status: published
 template: landing_post
 title: Master Python With 4Geeks Academy’S Online Bootcamp

@@ -5,6 +5,7 @@ excerpt: Discover our Machine Learning Course Syllabus at 4Geeks Academy! Learn 
   data manipulation, and advanced algorithms. Prepare for a successful career in data
   science and AI.
 image_alt: Machine learning course syllabus
+slug: machine-learning-course-syllabus-us
 status: published
 template: landing_post
 title: Machine Learning Course Syllabus By 4Geeks Academy

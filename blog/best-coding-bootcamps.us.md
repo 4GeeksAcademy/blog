@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Join 4Geeks Academy’s Best Online Coding Bootcamp. Learn coding at your own
   pace with flexible schedules and expert mentorship to advance your career.
+slug: best-coding-bootcamps-us
 status: published
 template: landing_post
 title: Best Online Coding Bootcamp

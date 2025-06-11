@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Join 4Geeks Academy’s dynamic Coding Bootcamp in Berlin. Master coding skills
   and launch your career in Germany’s vibrant tech scene.
+slug: coding-bootcamp-in-berlin
 status: published
 template: landing_post
 title: Coding Bootcamp In Berlin

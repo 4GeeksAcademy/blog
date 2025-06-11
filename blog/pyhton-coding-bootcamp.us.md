@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Launch your tech career with our Python Coding Bootcamp featuring hands-on
   projects, job guarantee, and flexible learning options.
+slug: pyhton-coding-bootcamp-us
 status: published
 template: landing_post
 title: Python Coding Bootcamp With Job Guarantee

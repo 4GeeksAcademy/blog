@@ -5,6 +5,7 @@ excerpt: Descubre cómo la alianza entre Moveapps y 4Geeks Academy está impulsa
   la transformación digital en Chile, ofreciendo oportunidades únicas para programadores
   y soluciones tecnológicas innovadoras.
 image_alt: 4geeks academy coding bootcamp chile
+slug: moveapps-4geeks-transformacion-digital-chile-es
 status: published
 template: landing_post
 title: 'Moveapps Y 4Geeks: Transformando El Futuro Digital Con So...'

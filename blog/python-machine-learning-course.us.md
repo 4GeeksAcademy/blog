@@ -12,12 +12,10 @@ excerpt: 'Python Machine Learning Course
   Machine learning is now utilized by numerous business types. For instance, machine
   learning is used in the field of data analytics to provide predictions based on
   patterns ...'
+slug: python-machine-learning-course-us
 status: published
 template: landing_post
 ---
-
-
-
 Python Machine Learning Course
 What exactly is meant by "machine learning"?
 Machine learning is a branch of science that mainly combines artificial intelligence and science together. It includes the development of software and algorithms that can make predictions based on data, as well as supervised and unsupervised learning.
@@ -52,4 +50,3 @@ Learn how to generate reports.
 Projects
 Create an estimate of the cost of medical insurance, and categorize patients according to whether or not they have diabetes. Conducting a sentiment analysis on the reviews available on the Google Play store. Software for filtering out unwanted email spam. There are also group houses that are dependent on the resident's location or income. Amongst other things, sort the photographs.
 Pick a challenge, and then use machine learning with a python course to solve it.
-

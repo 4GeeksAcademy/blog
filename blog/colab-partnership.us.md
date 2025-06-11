@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 4Geeks Academy partners with Co.Lab to empower students. Together, we’re
   helping you gain the skills and network to succeed in tech.
+slug: colab-partnership-us
 status: published
 template: landing_post
 title: 4Geeksacademy Partners With Co.Lab

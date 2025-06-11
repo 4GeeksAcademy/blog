@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Explore Full Stack Developer salary trends for 2024 with 4Geeks Academy.
   Understand the earning potential and career growth in this in-demand field.
+slug: full-stack-developer-salary-2024-us
 status: published
 template: landing_post
 title: Full Stack Developer Salary Trends For 2024

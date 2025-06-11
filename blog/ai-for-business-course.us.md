@@ -7,12 +7,10 @@ excerpt: 'Requirements : AI For Business Course at 4Geeks Academy
 
   Title: Unlocking Business Potential: The Imperative of AI For Business Course at
   4Geeks Academy'
+slug: ai-for-business-course-us
 status: published
 template: landing_post
 ---
-
-
-
 Requirements : AI For Business Course at 4Geeks Academy
 Word Count: 1000-1500
 Title: Unlocking Business Potential: The Imperative of AI For Business Course at 4Geeks Academy
@@ -64,4 +62,3 @@ Conclusion:
 -	Summary: Recap the key points discussed in the article.
 -	Call to Action: Urge readers to visit the 4Geeks Academy website and enroll in the AI For Business Course.
 -	Disclaimer: Include a disclaimer about the accuracy of the information and the recognition of the certificates.
-

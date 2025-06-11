@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Join 4Geeks Academy’s Full Stack Bootcamp. Learn both front-end and back-end
   development and gain the skills to build complete web applications.
+slug: full-stack-bootcamp
 status: published
 template: landing_post
 title: Full Stack Bootcamps, Opportunities, Varieties And Tips F...

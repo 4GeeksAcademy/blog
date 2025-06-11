@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover how to become an AI engineer without a degree through self-learning,
   certifications, and hands-on projects with this step-by-step guide.
+slug: become-an-ai-engineer-us
 status: published
 template: landing_post
 title: 'How To Become An Ai Engineer Without A Degree: A Step-By-...'

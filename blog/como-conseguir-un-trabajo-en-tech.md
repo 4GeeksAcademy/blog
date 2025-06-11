@@ -4,6 +4,7 @@ date: '2025-05-14T14:32:02+00:00'
 excerpt: 'Estrategias prácticas para conseguir un trabajo tecnológico en 2025: marca
   personal, métodos alternativos de búsqueda de empleo, creación de experiencias creativas
   y networking intencional.'
+slug: como-conseguir-un-trabajo-en-tech
 status: published
 template: landing_post
 title: Cómo Conseguir Un Trabajo En Tech Ahora Mismo

@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Looking for the best data science bootcamp? 4Geeks Academy offers expert-led
   training and real-world projects to kickstart your career in data science.
+slug: data-science-bootcamp-us
 status: published
 template: landing_post
 title: Best Data Science Bootcamps

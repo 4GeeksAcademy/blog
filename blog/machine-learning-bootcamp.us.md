@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Not sure which Machine Learning Bootcamp to choose? 4Geeks Academy helps
   you pick the best option to launch your career in AI and data science.
+slug: machine-learning-bootcamp-us
 status: published
 template: landing_post
 title: 'Machine Learning Bootcamp: Which One To Choose?'

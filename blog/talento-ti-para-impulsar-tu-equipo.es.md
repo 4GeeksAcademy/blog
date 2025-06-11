@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: ¿Quieres reclutar a los mejores profesionales en IT para tu empresa de forma
   sencilla? ¡Estás en el lugar correcto!
 image_alt: ''
+slug: talento-ti-para-impulsar-tu-equipo-es
 status: published
 template: landing_post
 title: ¡Impulsa Tu Equipo Con Talento It Excepcional!

@@ -6,6 +6,7 @@ excerpt: Descubre cuánto gana un programador en Argentina, con salarios promedi
   y oportunidades en el mercado laboral de programación.
 image: https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-programador-jpg
 image_alt: cuanto-gana-un-programador-en-argentina"
+slug: cuanto-gana-un-programador-en-argentina-es
 status: published
 template: landing_post
 title: ¿Cuánto Gana Un Programador En Argentina?

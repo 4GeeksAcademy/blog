@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover flexible learning schedules and payment options designed to make
   tech education accessible while balancing life commitments.
+slug: schedules-and-payments-us
 status: published
 template: landing_post
 title: Flexible Schedules And Payments

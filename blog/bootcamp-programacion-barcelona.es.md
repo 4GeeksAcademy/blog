@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Si decidiste iniciar una nueva carrera o potenciarte en el área, hacer un
   bootcamp de programación es la mejor opción
+slug: bootcamp-programacion-barcelona-es
 status: published
 template: landing_post
 title: Conoce Los Mejores Bootcamps De Programación En Barcelona

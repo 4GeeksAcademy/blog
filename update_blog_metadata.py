@@ -6,6 +6,7 @@ import yaml
 import datetime
 from pathlib import Path
 import glob
+import json
 
 class BlogMetadataUpdater:
     def __init__(self, blog_dir):
@@ -16,6 +17,20 @@ class BlogMetadataUpdater:
             'backups_deleted': 0,
             'updated_files': []
         }
+        # Load slugs from posts.json
+        self.slug_map = {}
+        posts_json_path = Path(__file__).parent / 'api' / 'posts.json'
+        if posts_json_path.exists():
+            try:
+                with open(posts_json_path, 'r', encoding='utf-8') as f:
+                    posts = json.load(f)
+                    for post in posts:
+                        file_name = post.get('fileName')
+                        slug = post.get('slug')
+                        if file_name and slug:
+                            self.slug_map[file_name] = slug
+            except Exception as e:
+                print(f'Error loading posts.json: {e}')
         
     def cleanup_backups(self):
         """Delete existing backup files"""
@@ -80,6 +95,19 @@ class BlogMetadataUpdater:
             title = title[:57] + '...'
         return title
         
+    def generate_slug(self, file_path):
+        """Generate a slug from the filename, or use posts.json if available"""
+        filename = Path(file_path).name
+        # Try to get slug from posts.json
+        if filename in self.slug_map:
+            return self.slug_map[filename]
+        # If not found, generate as before
+        stem = Path(file_path).stem
+        slug = stem.lower()
+        slug = re.sub(r'[^a-z0-9]+', '-', slug)
+        slug = slug.strip('-')
+        return slug
+
     def needs_update(self, metadata):
         """Check if metadata needs to be updated"""
         required_fields = {
@@ -96,6 +124,9 @@ class BlogMetadataUpdater:
             return True
             
         if 'excerpt' not in metadata:
+            return True
+            
+        if 'slug' not in metadata:
             return True
             
         return False
@@ -138,6 +169,10 @@ class BlogMetadataUpdater:
             # Optimize title
             if 'title' in metadata:
                 metadata['title'] = self.optimize_title(metadata['title'])
+                
+            # Add slug only if it doesn't exist
+            if 'slug' not in metadata:
+                metadata['slug'] = self.generate_slug(file_path)
                 
             # Check if any changes were actually made
             if metadata == original_metadata:

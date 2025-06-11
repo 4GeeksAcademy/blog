@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover the top-rated Machine Learning courses with 4Geeks Academy. Learn
   AI, data science, and more to boost your tech career opportunities.
+slug: best-machine-learning-course-us
 status: published
 template: landing_post
 title: Top Machine Learning Courses You Can Take
