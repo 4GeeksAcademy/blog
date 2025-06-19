@@ -2,7 +2,7 @@
 author: 4GeeksAcademy
 cluster: trends-and-tech
 date: '2025-06-03T14:00:10+00:00'
-excerpt: 'Compare 4Geeks Academy to top coding bootcamps in 2025—discover its AI-powered learning, job outcomes, affordability, and why it's a hidden gem for launching your tech career.'
+excerpt: "Compare 4Geeks Academy to top coding bootcamps in 2025—discover its AI-powered learning, job outcomes, affordability, and why it's a hidden gem for launching your tech career."
 status: published
 template: landing_post
 title: '4Geeks Academy Vs. Top Coding Bootcamps: Your 2025 Guide'
