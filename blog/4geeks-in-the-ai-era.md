@@ -1,12 +1,13 @@
 ---
 author: 4Geeks Academy
 date: '2025-06-10T12:39:00+00:00'
-excerpt: 'Learn about 4Geeks In The AI Era. Get expert insights and guidance for your tech career.'
+excerpt: '4Geeks Academy leads the AI era with Rigobot, LearnPack, and human mentorship. Code smarter with our AI-driven curriculum and 85% job placement rate!'
 slug: 4geeks-in-the-ai-era
 status: published
 template: landing_post
 title: Why 4Geeks is Built for the AI Era
 cluster: trends-and-tech
+tags: ["artificial-intelligence", "geekforce", "rigobot"]
 ---
 # 
 
