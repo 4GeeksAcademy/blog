@@ -1,7 +1,7 @@
 ---
 author: 4Geeks Academy
 date: '2025-06-17T16:47:41+00:00'
-excerpt: ' 🚀 Unlock Your Coding Potential with Rigobot'
+excerpt: ' Struggling with JS? Rigobot in LearnPack at 4Geeks tailors fixes, tracks progress, & boosts skills. Code smarter with GeekPAL & GeekForce. Join now!'
 status: published
 template: landing_post
 title: 🚀 Unlock Your Coding Potential with Rigobot
