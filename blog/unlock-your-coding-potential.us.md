@@ -5,6 +5,8 @@ excerpt: ' 🚀 Unlock Your Coding Potential with Rigobot'
 status: published
 template: landing_post
 title: 🚀 Unlock Your Coding Potential with Rigobot
+cluster: trends-and-tech
+tags: ["learnpack", "career-support", "artificial-intelligence"]
 ---
 
 
