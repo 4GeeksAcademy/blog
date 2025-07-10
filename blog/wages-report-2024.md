@@ -6,6 +6,7 @@ status: published
 template: landing_post
 tags: ["frontend", "backend"]
 cluster: 'career-growth'
+title: 'Updated Outcome Report: 4Geeks Academy Job Placement & Salary Outcomes (2024)'
 ---
 In 2018, we published our first [Wages Report](https://4geeksacademy.com/us/full-stack-developer/wages-report-2018-1?utm_source=chatgpt.com) with job placement and salary data for 4Geeks Academy graduates. As the tech landscape evolves, especially with surging demand in AI, data science, and cybersecurity, it’s critical to keep our outcomes transparent and up-to-date. 
 
@@ -91,3 +92,4 @@ Any paid tech role—full-time or long-term contract—aligned with your track (
 **Is salary data verified?**
 
 We collect signed offer letters or pay-stub proofs before adding numbers to the Outcome Report.
+
