@@ -1,14 +1,14 @@
 [
   {
-    "slug": "unlock-your-coding-potential",
-    "fileName": "unlock-your-coding-potential.us.md",
+    "slug": "rigobot-ai-mentor",
+    "fileName": "rigobot-ai-mentor.md",
     "status": "published",
     "authors": null,
-    "title": "Unlock Your Coding Potential",
-    "date": "2025-06-17T16:48:15+00:00",
+    "title": "Rigobot: The AI Coding Mentor That Powers 4Geeks Academy Students 24/7",
+    "date": "2025-07-09T22:41:43+00:00",
     "lang": "us",
     "translations": [],
-    "excerpt": "Learn about Unlock Your Coding Potential with 4Geeks Academy. Get expert insights and guidance for your tech career."
+    "excerpt": "Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack. It debugs your code, explains errors & tailors feedback—so you learn faster & land tech jobs. Your 24/7 coding sidekick! 🚀"
   },
   {
     "slug": "4geeks-in-the-ai-era",
@@ -20,6 +20,17 @@
     "lang": "us",
     "translations": [],
     "excerpt": "Learn about 4Geeks In The Ai Era with 4Geeks Academy. Get expert insights and guidance for your tech career."
+  },
+  {
+    "slug": "unlock-your-coding-potential",
+    "fileName": "unlock-your-coding-potential.us.md",
+    "status": "published",
+    "authors": null,
+    "title": "Unlock Your Coding Potential",
+    "date": "2025-06-17T16:48:15+00:00",
+    "lang": "us",
+    "translations": [],
+    "excerpt": "Learn about Unlock Your Coding Potential with 4Geeks Academy. Get expert insights and guidance for your tech career."
   },
   {
     "slug": "lambda-school-alternative",
