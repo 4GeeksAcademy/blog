@@ -1,5 +1,19 @@
 ---
 author: 4Geeks Academy
+date: '2025-07-16T15:55:21+00:00'
+excerpt: "---\nauthor: 4Geeks Academy\ndate: '2025-07-16T15:53:26+00:00'\nexcerpt:\
+  \ \"---\\nauthor: 4Geeks Academy\\ndate: '2025-07-09T22:41:43+00:00'\\nexcerpt:\\\
+  \n  \\ 'Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack.\
+  \ It\\\n  \\ debugs your code, explains errors & tailors feedback—so you learn faster\
+  \ & land\\\n  \\ tech jobs. Your 24/7 coding sidekick! \\U0001F680'\\nstatus: published\\\
+  ntemplate:\\\n  \\ landing_post\\ncluster: ai-powered-learning\\ntags: [\\\"rigobot\\\
+  \", \\\"learnpack\\\"\\\n  , \\\"artificial-..."
+slug: rigobot-ai-mentor
+status: published
+template: landing_post
+---
+---
+author: 4Geeks Academy
 date: '2025-07-16T15:53:26+00:00'
 excerpt: "---\nauthor: 4Geeks Academy\ndate: '2025-07-09T22:41:43+00:00'\nexcerpt:\
   \ 'Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack. It\
