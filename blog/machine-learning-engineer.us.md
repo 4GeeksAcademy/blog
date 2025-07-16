@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover the exciting world of a Machine Learning Engineer! Learn how they
   use data to create intelligent systems that drive real-world impact.
+slug: machine-learning-engineer
 status: published
 template: landing_post
 title: 'Machine Learning Engineer: A Highly Demanded Career Path'

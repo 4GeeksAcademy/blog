@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Learn about the Full Stack Developer job description at 4Geeks Academy. Understand
   the skills and responsibilities needed to succeed in this role.
+slug: full-stack-developer-job-description
 status: published
 template: landing_post
 title: Full Stack Developer Job Description

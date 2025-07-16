@@ -5,6 +5,7 @@ excerpt: 'En el mundo del aprendizaje de programación, solo el 8% logra complet
   cursos en línea. Descubre las razones detrás y cómo superar los desafíos. La programación,
   una habilidad transformadora Aprender Programacion Desde Cero hoy 🌐✨ '
 image_alt: Aprender Programacion Desde Cero
+slug: aprende-a-programacion-desde-cero
 status: published
 template: landing_post
 title: Recursos Y Herramientas Para Aprender Programación Desde ...

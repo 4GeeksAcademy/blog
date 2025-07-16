@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Wondering how long it takes to learn JavaScript? 4Geeks Academy’s bootcamp
   helps you master JavaScript in a structured, fast-paced learning environment.
+slug: how-long-does-it-take-to-learn-javascript
 status: published
 template: landing_post
 title: How Long Does It Take To Learn Javascript?

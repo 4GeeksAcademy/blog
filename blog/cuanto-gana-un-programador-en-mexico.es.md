@@ -5,6 +5,7 @@ excerpt: Descubre cuánto gana un programador en México, desde juniors hasta se
   Conoce los salarios, las oportunidades laborales y cómo avanzar en tu carrera con
   4Geeks Academy. 📈💻
 image_alt: Cuánto gana un programdor en México
+slug: cuanto-gana-un-programador-en-mexico
 status: published
 template: landing_post
 title: ¿Cuánto Gana Un Programador En México?

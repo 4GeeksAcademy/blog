@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Learn how to build your first portfolio as a Full Stack Developer with 4Geeks
   Academy. Showcase your skills and start your tech career.
+slug: full-stack-developer-portfolio
 status: published
 template: landing_post
 title: Full Stack Developers | Salaries Around The World And How...

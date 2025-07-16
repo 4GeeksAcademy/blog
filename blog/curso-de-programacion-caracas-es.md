@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Ser programador ofrece ventajas y oportunidades atractivas para aquellos
   que elijan esta carrera en Caracas
+slug: curso-de-programacion-caracas-es
 status: published
 template: landing_post
 title: Los Mejores Cursos De Programación En Caracas

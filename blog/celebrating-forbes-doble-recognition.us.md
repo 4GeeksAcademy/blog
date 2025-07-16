@@ -4,6 +4,7 @@ date: '2019-03-20T05:29:14+00:00'
 excerpt: 4Geeks Academy earns double recognition from Forbes as the best bootcamp
   for students on a budget, excelling in Full-Stack and Data Science.
 image_alt: 4Geeks Academy Earns Double Recognition by Forbes
+slug: celebrating-forbes-doble-recognition
 status: published
 template: landing_post
 title: '4Geeks Academy Earns Double Recognition: Named Best Bootc...'

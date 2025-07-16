@@ -7,6 +7,11 @@ import datetime
 from pathlib import Path
 import glob
 
+def get_slug_from_filename(filename):
+    # Remove the language suffix and .md extension
+    base_name = re.sub(r'(\.(us|es))?\.md$', '', filename)
+    return base_name
+
 class BlogMetadataUpdater:
     def __init__(self, blog_dir):
         self.blog_dir = Path(blog_dir)
@@ -138,6 +143,10 @@ class BlogMetadataUpdater:
             # Optimize title
             if 'title' in metadata:
                 metadata['title'] = self.optimize_title(metadata['title'])
+                
+            # Set slug if missing or empty
+            if 'slug' not in metadata or not metadata['slug']:
+                metadata['slug'] = get_slug_from_filename(os.path.basename(str(file_path)))
                 
             # Check if any changes were actually made
             if metadata == original_metadata:

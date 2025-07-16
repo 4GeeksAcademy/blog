@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 4Geeks Academy’s part-time Data Science Bootcamp offers flexibility. Learn
   data science skills at your own pace while balancing work or studies.
+slug: part-time-data-science-bootcamp
 status: published
 template: landing_post
 title: Part Time Data Science Bootcamp

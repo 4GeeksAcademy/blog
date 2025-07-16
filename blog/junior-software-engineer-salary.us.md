@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover the average Junior Software Engineer salary with 4Geeks Academy.
   Learn what you can expect to earn as a beginner in the tech industry.
+slug: junior-software-engineer-salary
 status: published
 template: landing_post
 title: Junior Software Engineer Salary

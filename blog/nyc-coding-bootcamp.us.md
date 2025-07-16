@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Looking for the best New York Coding Bootcamp? Join 4Geeks Academy to gain
   coding skills with expert training and a Job Guarantee.
+slug: nyc-coding-bootcamp
 status: published
 template: landing_post
 title: Best New York Coding Bootcamp

@@ -7,6 +7,7 @@ excerpt: 4Geeks Academy llega a Venezuela! Conoce los detalles aquí
 featured: false
 image: https://4GeeksAcademy.com/images/4geeks-main.jpg
 image_alt: ''
+slug: 4geeks-academy-llega-a-venezuela
 status: published
 template: landing_post
 title: ¡4Geeks Academy Llega A Venezuela!

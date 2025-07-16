@@ -5,6 +5,7 @@ excerpt: La evolución tecnológica en los bootcamps se destaca a través de her
   innovadoras como LearnPack, que emplea inteligencia artificial y feedback en tiempo
   real para potenciar el aprendizaje.
 image_alt: bootcamp de programación
+slug: bootcamp-de-programacion
 status: published
 template: landing_post
 title: Guía Completa Para Elegir El Mejor Bootcamp De Programación

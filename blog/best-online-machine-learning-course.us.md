@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Master AI and data science with 4Geeks Academy’s top online Machine Learning
   course. Learn from experts and start your tech career today.
+slug: best-online-machine-learning-course
 status: published
 template: landing_post
 title: 'The Best Online Machine Learning Course: Master Ai And Da...'

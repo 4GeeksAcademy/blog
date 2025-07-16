@@ -6,6 +6,7 @@ excerpt: Financiamiento educativo accesible y asequible con acuerdos de particip
   ofrecida por 4Geeks y Quotanda. Oportunidades de empleo en desarrollo de software
   y ciencia de datos. Compromiso de brindar educación centrada en la carrera.
 image_alt: Acuerdo de Ingresos Compartidos Bootcamps Latam
+slug: quotanda-y-4geeks
 status: published
 template: landing_post
 title: Acuerdo De Ingresos Compartidos Entre Quotanda Y 4Geeks A...

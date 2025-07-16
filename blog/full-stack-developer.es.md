@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Conoce que es un desarrollador full-stack y a que se dedica, cuanto dinero
   gana, y como puedes convertirte en un desarrollador.
+slug: full-stack-developer
 status: published
 template: landing_post
 title: ¿Qué Es Un Desarrollador Full Stack O Full Stack Developer?

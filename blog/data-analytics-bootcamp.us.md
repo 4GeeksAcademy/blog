@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Launch your data career with our Data Analytics Bootcamp featuring hands-on
   projects, job guarantee, and flexible online learning.
+slug: data-analytics-bootcamp
 status: published
 template: landing_post
 title: Data Analytics Bootcamp With Job Guarantee

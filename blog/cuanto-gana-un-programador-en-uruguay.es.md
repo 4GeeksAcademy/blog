@@ -5,6 +5,7 @@ excerpt: Los programadores en Uruguay desempeñan diversas funciones para contri
   al logro de objetivos empresariales. Esto incluye el diseño, desarrollo y mantenimiento
   de software, así como la creación de aplicaciones web y móviles
 image_alt: Cuanto gana un programador en Uruguay
+slug: cuanto-gana-un-programador-en-uruguay
 status: published
 template: landing_post
 title: ¿Cuánto Gana Un Programador En Uruguay?

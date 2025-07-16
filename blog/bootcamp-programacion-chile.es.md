@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Los bootcamps de programación son programas educativos intensivos diseñados
   para enseñar habilidades de desarrollo y programación en un periodo acelerado
+slug: bootcamp-programacion-chile
 status: published
 template: landing_post
 title: 'Bootcamps De Programación En Chile: Acelerando Carreras T...'

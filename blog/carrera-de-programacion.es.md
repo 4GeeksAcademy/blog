@@ -9,6 +9,7 @@ excerpt: La carrera de programación es una de las más demandadas y mejor pagad
 featured: true
 image: https://4geeksacademy.com/images/4geeks-main.jpg
 image_alt: ''
+slug: carrera-de-programacion
 status: published
 template: landing_post
 title: De Qué Trata La Carrera De Programación

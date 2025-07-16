@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover why 4Geeks Academy stands out among coding bootcamps with its job
   guarantee, unlimited mentorship, and proven student outcomes.
+slug: why-4-geeks
 status: published
 template: landing_post
 title: Why 4Geeks

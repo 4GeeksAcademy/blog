@@ -9,6 +9,7 @@ excerpt: "\n \nIn the expansive world of programming, beginners often stand at a
   \ \n Ease of learning: Python's Simplicity vs. Java's Structure\n \nPython's Gentle\
   \ Learning Curv..."
 image_alt: Applied Machine Learning
+slug: applied-machine-learning
 status: published
 template: landing_post
 title: Applied Machine Learning

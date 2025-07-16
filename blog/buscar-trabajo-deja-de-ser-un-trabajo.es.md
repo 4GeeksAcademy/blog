@@ -4,6 +4,7 @@ date: '2023-09-21T11:32:02+00:00'
 excerpt: Opground y 4geeks unen esfuerzos para hacer la vida más secilla a su comunidad
   a la hora de conseguir un nuevo empleo.
 image_alt: consigue trabajo article
+slug: buscar-trabajo-deja-de-ser-un-trabajo
 status: published
 template: landing_post
 title: Opground Y 4Geeks Se Unen Para Que Buscar Un Trabajo Deje...

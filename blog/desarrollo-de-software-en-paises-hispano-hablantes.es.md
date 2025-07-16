@@ -6,6 +6,7 @@ excerpt: El desarrollo de software ha emergido como un motor clave de innovació
   crecimiento tecnológico en los países hispanohablantes. En este artículo, exploraremos
   cómo esta industria está transformando la región.
 image_alt: desarrollo de software
+slug: desarrollo-de-software-en-paises-hispano-hablantes
 status: published
 template: landing_post
 title: Desarrollo De Software En América Latina

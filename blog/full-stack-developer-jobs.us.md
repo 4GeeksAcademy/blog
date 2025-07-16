@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Explore the growing demand for Full Stack Developer jobs. 4Geeks Academy
   prepares you with the skills needed to succeed in this high-demand field.
+slug: full-stack-developer-jobs
 status: published
 template: landing_post
 title: 'Navigating The Career Path: Full Stack Developer Jobs In ...'

@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Essential cybersecurity tips to protect your digital life, from strong passwords
   to secure browsing habits and data protection strategies.
+slug: cybersecurity-tips
 status: published
 template: landing_post
 title: Cybersecurity Tips Everyone Should Follow

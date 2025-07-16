@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Al empezar un curso, existen distintas opciones por las que podemos optar;
   pero lo que garantiza el exito es saber cuál debemos tomar
+slug: cursos-de-programacion
 status: published
 template: landing_post
 title: Tipos De Cursos De Programación

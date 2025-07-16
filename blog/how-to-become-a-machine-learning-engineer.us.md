@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Learn how to become a Machine Learning Engineer with 4Geeks Academy. Get
   hands-on training in AI and data science to land your dream job.
+slug: how-to-become-a-machine-learning-engineer
 status: published
 template: landing_post
 title: How To Become A Machine Learning Engineer
