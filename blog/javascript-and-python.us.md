@@ -7,6 +7,7 @@ excerpt: Explore the pivotal roles of JavaScript and Python in modern coding. Di
 featured: false
 image: https://storage.googleapis.com/4geeks-academy-website/blog/2019/11/JSandPython-768x552.jpg
 image_alt: ''
+slug: javascript-and-python
 status: published
 template: landing_post
 title: 'Javascript And Python: A-Must For Any Coder'

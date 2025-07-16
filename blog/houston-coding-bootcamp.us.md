@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Looking for the best coding bootcamp in Houston? Here’s how to choose 4Geeks
   Academy to reach your career goals and learn coding with expert mentors.
+slug: houston-coding-bootcamp
 status: published
 template: landing_post
 title: How To Choose The Best Coding Camp In Houston?

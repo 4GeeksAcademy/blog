@@ -5,7 +5,7 @@ import re
 
 def get_slug_from_filename(filename):
     # Remove the language suffix and .md extension
-    base_name = re.sub(r'\.(us|es)\.md$', '', filename)
+    base_name = re.sub(r'(\.(us|es))?\.md$', '', filename)
     return base_name
 
 def get_lang_from_filename(filename):

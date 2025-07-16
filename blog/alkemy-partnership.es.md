@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 4GeeksAcademy se alía con Alkemy para dar a sus estudiantes acceso a más
   de 1000 empleadores
+slug: alkemy-partnership
 status: published
 template: landing_post
 title: Certifica Tus Habilidades Con Alkemy

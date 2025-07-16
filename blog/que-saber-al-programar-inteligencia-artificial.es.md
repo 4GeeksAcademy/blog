@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2023-09-06T02:58:12+00:00'
 excerpt: que saber al programar una IA
 image_alt: Programar tu propia Inteligencia Artificial
+slug: que-saber-al-programar-inteligencia-artificial
 status: published
 template: landing_post
 title: ¿Quieres Aprender A Programar Tu Propia Inteligencia Arti...

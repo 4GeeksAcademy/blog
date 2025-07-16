@@ -5,6 +5,7 @@ excerpt: Descubre cómo convertirte en un desarrollador full stack y prueba el p
   gratuito de 4Geeks Academy. Aprende HTML5, CSS y Javascript en solo dos semanas.
   ¡No te pierdas esta oportunidad de mejorar tu carrera como programador!
 image_alt: fullstack prework
+slug: pre-work-gratis-y-accesible
 status: published
 template: landing_post
 title: Por Qué Nuestro Pre-Work Es Gratis Y Accesible Para Todos

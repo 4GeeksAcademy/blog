@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Choosing the best data science bootcamp? 4Geeks Academy offers expert-led
   training and real-world projects to jumpstart your career.
+slug: best-bootcamp-for-datascience
 status: published
 template: landing_post
 title: Choosing The Best Data Science Bootcamp

@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Revisa los beneficios de aprender una carrera de programación a distancia
   en una academia
+slug: como-hacer-una-carrera-de-programacion-a-distancia
 status: published
 template: landing_post
 title: ¿Cómo Hacer Una Carrera De Programación A Distancia?

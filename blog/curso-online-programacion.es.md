@@ -4,6 +4,7 @@ date: '2025-05-28T15:17:55+00:00'
 excerpt: Un curso online es un arma de doble filo que puede llevarte lejos siempre
   que tengas en cuenta los aspectos vitales. ¿Cómo es el curso online ideal? ¿Que
   búscar o esperar?; ¿Qué retos tienen?.
+slug: curso-online-programacion
 status: published
 template: landing_post
 title: ¿Qué Debes Saber Antes De Empezar Un Curso Online De Prog...

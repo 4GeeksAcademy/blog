@@ -7,6 +7,7 @@ excerpt: Wondering how to pay for coding bootcamp in 2023? 4Geeks Academy offers
 featured: true
 image: https://breathecode.herokuapp.com/v1/media/file/pay-a-coding-bootcamp-png
 image_alt: how-to-pay-for-a-coding-bootcamp
+slug: how-to-pay-a-coding-bootcamp-2022
 status: published
 template: landing_post
 title: How To Pay For A Coding Bootcamp

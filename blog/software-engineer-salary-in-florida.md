@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover the average Software Engineer salary in Florida with 4Geeks Academy.
   Learn how coding can lead to competitive earnings in the tech industry.
+slug: software-engineer-salary-in-florida
 status: published
 template: landing_post
 title: How Much Is The Software Engineer Salary In Florida

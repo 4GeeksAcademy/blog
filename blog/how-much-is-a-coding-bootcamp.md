@@ -3,6 +3,7 @@ author: alesanchezr
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Curious about the cost of a coding bootcamp? Learn how much you can expect
   to pay at 4Geeks Academy and explore affordable options to start your tech career.
+slug: how-much-is-a-coding-bootcamp
 status: published
 template: landing_post
 title: How Much Is A Coding Bootcamp

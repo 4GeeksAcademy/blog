@@ -7,6 +7,14 @@ template: landing_post
 cluster: ai-powered-learning
 tags: ["rigobot", "learnpack", "artificial-intelligence"]
 ---
+author: 4Geeks Academy
+date: '2025-07-09T22:41:43+00:00'
+excerpt: 'Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack. It debugs your code, explains errors & tailors feedback—so you learn faster & land tech jobs. Your 24/7 coding sidekick! 🚀'
+status: published
+template: landing_post
+cluster: ai-powered-learning
+tags: ["rigobot", "learnpack", "artificial-intelligence"]
+---
 # Rigobot: The AI Coding Mentor That Powers 4Geeks Academy Students 24/7
 
 At [**4Geeks Academy**](https://4geeksacademy.com/), we know getting the skills to break into tech can feel daunting—endless bugs, tricky syntax, and the pressure to build job-ready skills fast. That’s why we created **Rigobot**, our AI-powered coding tutor, to guide you every step of the way. Built into our [**LearnPack**](https://www.learnpack.co/) platform, Rigobot is like a mentor who never sleeps, helping you code smarter, learn faster, and land that tech job. Here’s why students love it.

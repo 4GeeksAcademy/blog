@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Descubre el mejor bootcamp de programación en Nueva York y adquiere las habilidades
   necesarias para triunfar en el mundo de la tecnología.
+slug: nyc-coding-bootcamp
 status: published
 template: landing_post
 title: 'Bootcamp De Programación En Nueva York: Impulsa Tu Carrer...'

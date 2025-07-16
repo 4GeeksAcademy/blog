@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2023-10-03T10:58:12+00:00'
 excerpt: 'Acelera tu Carrera: Aprender Programación'
 image_alt: cursos de programacion
+slug: cursos-de-programacion-marcan-diferencia
 status: published
 template: landing_post
 title: 'Trabajos Remotos Para Programadores: ¿Son Óptimos A La Ho...'

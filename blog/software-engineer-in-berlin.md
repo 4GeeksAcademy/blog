@@ -3,6 +3,7 @@ author: VictorManuelG
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Learn how to become a Software Engineer in Berlin with 4Geeks Academy. Gain
   the skills needed to succeed in Germany's thriving tech industry.
+slug: software-engineer-in-berlin
 status: published
 template: landing_post
 title: How To Become A Software Engineer In Berlin

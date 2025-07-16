@@ -3,6 +3,7 @@ author: jrdelrio
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Learn how to become a Full Stack Developer with 4Geeks Academy. Get hands-on
   training, mentorship, and career support to launch your tech career.
+slug: how-to-become-a-full-stack-developer
 status: published
 template: landing_post
 title: How To Become A Full Stack Developer?

@@ -6,6 +6,7 @@ excerpt: Discover the 4Geeks Academy story. Learn how we’ve helped thousands o
   launch successful careers in tech through our hands-on bootcamps.
 image: /images/why2.jpg
 image_alt: ''
+slug: 4geeks-academy-history
 status: published
 template: landing_post
 title: 4Geeks Academy Story

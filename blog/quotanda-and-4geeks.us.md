@@ -4,6 +4,7 @@ date: '2023-10-30T02:58:12+00:00'
 excerpt: 4Geeks Academy partners with Quotanda to provide accessible financing for
   coding bootcamp students. Learn to code with flexible payment options.
 image_alt: Quotanda and 4Geeks Academy
+slug: quotanda-and-4geeks
 status: published
 template: landing_post
 title: Quotanda And 4Geeks Academy

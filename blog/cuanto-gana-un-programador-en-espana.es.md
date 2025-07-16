@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Descubre cuánto gana un programador en España. ¡Las asombrosas cifras revelan
   el potencial de esta profesión en el mercado laboral actual
+slug: cuanto-gana-un-programador-en-espana
 status: published
 template: landing_post
 title: ¿Cuánto Gana Un Programador En España?

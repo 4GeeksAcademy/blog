@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Wondering how long it takes to learn Python? 4Geeks Academy offers a structured
   bootcamp to help you master Python in a flexible and fast-paced environment.
+slug: how-long-does-it-take-to-learn-python
 status: published
 template: landing_post
 title: How Long Does It Take To Learn Python?

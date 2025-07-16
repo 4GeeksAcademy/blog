@@ -4,6 +4,7 @@ date: '2025-05-28T15:17:55+00:00'
 excerpt: Estos partners de 4Geeks Academy son reconocidos en la industria por brindar
   oportunidades de desarrollo profesional en el campo de la ciencia de datos. Al explorar
   las ofertas laborales en estos portales
+slug: encuentra-tu-proximo-trabajo-en-chile
 status: published
 template: landing_post
 title: ¡Encuentra Tu Próximo Trabajo Como Data Scientist! Los Me...

@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: 'Descubre los perfiles más buscados por las empresas en 2024 según Ninja
   Talent. ¡Prepárate para destacar en el sector tecnológico! #profesionalesdemandados'
+slug: tendencias-mundiales-para-2024-ti
 status: published
 template: landing_post
 title: Los Perfiles Más Demandados En It Para 2024

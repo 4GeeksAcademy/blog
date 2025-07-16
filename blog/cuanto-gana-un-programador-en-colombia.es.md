@@ -6,6 +6,7 @@ excerpt: Muchas personas desean poder saber cuánto gana un programador en Colom
   favorable para muchos
 image: https://breathecode.herokuapp.com/v1/media/file/cuanto-gana-un-programador-en-colombia-jpg
 image_alt: cuánto gana un programador en Colombia
+slug: cuanto-gana-un-programador-en-colombia
 status: published
 template: landing_post
 title: Conoce Cuánto Gana Un Programador En Colombia

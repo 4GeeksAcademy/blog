@@ -4,6 +4,7 @@ date: '2023-09-06T02:58:12+00:00'
 excerpt: Start your journey to becoming a Software Engineer with 4Geeks Academy. Gain
   the skills and experience needed to succeed in this in-demand field.
 image_alt: software engineer your path to success
+slug: software-engineer-your-path-to-success
 status: published
 template: landing_post
 title: How To Become A Software Engineer Your Path To Coding Suc...

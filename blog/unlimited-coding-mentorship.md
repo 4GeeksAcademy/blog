@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Get unlimited access to expert coding mentors for personalized guidance throughout
   your learning journey and career development.
+slug: unlimited-coding-mentorship
 status: published
 template: landing_post
 title: Unlimited Coding Mentorship

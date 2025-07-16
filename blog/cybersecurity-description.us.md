@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Discover the role of cybersecurity professionals, their key responsibilities,
   required skills, and why demand is growing in this critical tech field.
+slug: cybersecurity-description
 status: published
 template: landing_post
 title: What Does A Cybersecurity Professional Do? Job Descriptio...

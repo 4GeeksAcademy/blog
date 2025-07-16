@@ -4,6 +4,7 @@ date: '2025-05-28T15:17:55+00:00'
 excerpt: Prepare for Full Stack Developer interviews with 4Geeks Academy. Get key
   tips and top questions to ace your interview and land your dream job.
 image_alt: Full Stack Developer Interview
+slug: full-stack-developer-interview
 status: published
 template: landing_post
 ---

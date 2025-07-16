@@ -6,6 +6,7 @@ excerpt: Hoy te contamos cuatro razones de por qué la programación es tan impo
   en nuestras vidas.
 image: https://i.imgur.com/q0SJc0F.jpg
 image_alt: 4 razones de por qué la programación es importante
+slug: 4-razones-de-por-que-la-programacion-es-importante
 status: published
 template: landing_post
 title: 4 Razones De Por Qué La Programación Es Importante

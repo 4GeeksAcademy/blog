@@ -3,6 +3,7 @@ author: 4GeeksAcademy
 date: '2025-05-28T15:17:55+00:00'
 excerpt: Is Python hard to learn? 4Geeks Academy breaks down how Python compares to
   other languages and how you can master it through hands-on training.
+slug: is-python-hard-to-learn
 status: published
 template: landing_post
 title: Is Python Hard To Learn? Understanding The Basics Of Pyth...
