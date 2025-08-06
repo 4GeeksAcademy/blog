@@ -1,28 +1,7 @@
 ---
-author: 4Geeks Academy
-date: '2025-07-22T15:26:47+00:00'
-excerpt: '---
-  author: "4GeeksAcademy"
-  date: ''2025-07-16T15:38:36+00:00''
-  excerpt: ''4Geeks Academy’s AI Bootcamp in Miami trains full-stack developers in
-  12 weeks with AI tools. Job Guarantee included (refund if not hired in 9 months).
-  84% placement rate.''
-  slug: "launch-your-tech-career-with-confidence",
-  status: "published"
-  template: "landing_post"
-  title: ''Launch Your Tech Career with Confidence: The New Software Engineering with
-  AI Bootcamp in Miami''
-  tags: ["vibe-coding", "front-end", "back-end", "git"]
-  cl...'
-status: published
-template: landing_post
----
----
 author: "4GeeksAcademy"
-date: '2025-07-16T15:38:36+00:00'
 excerpt: '4Geeks Academy’s AI Bootcamp in Miami trains full-stack developers in 12 weeks with AI tools. Job Guarantee included (refund if not hired in 9 months). 84% placement rate.'
 slug: "launch-your-tech-career-with-confidence",
-status: "published"
 template: "landing_post"
 title: 'Launch Your Tech Career with Confidence: The New Software Engineering with AI Bootcamp in Miami'
 tags: ["vibe-coding", "front-end", "back-end", "git"]
