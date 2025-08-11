@@ -63,43 +63,71 @@ title: "SEO-optimized title (5-10 words)"  # Required for English posts
 - Use draft status for posts under review or in progress
 
 ### Cluster
-- Defines the content category
+- Defines the content category and must be chosen carefully to ensure proper content organization
 - Must be one of the predefined clusters from breathecode API
-- English clusters:
-  - "ai-powered-learning" - AI and machine learning content
-  - "trends-and-tech" - Industry trends and technology updates
-  - "career-growth" - Career development and professional growth
-  - "ai-engineer" - AI engineering and development
-  - "cybersecurity" - Cybersecurity related content
-  - "cybersecurity-bootcamp" - Cybersecurity bootcamp specific content
-  - "ai-for-business-course" - AI for business applications
-  - "machine-learning-course" - Machine learning specific content
-  - "machine-learning-engineer" - Machine learning engineering topics
-  - "machine-learning-bootcamp" - Machine learning bootcamp content
-  - "data-science-bootcamp" - Data science education content
-  - "miami-coding-bootcamp" - Location specific bootcamp content
-  - "coding-bootcamp" - General bootcamp content
-  - "online-coding-bootcamp" - Remote learning specific content
-  - "python-bootcamp" - Python specific training
-  - "javascript-bootcamp" - JavaScript specific training
-  - "full-stack-developer" - Full stack development topics
-  - "software-engineer" - Software engineering content
-  - "learn-python" - Python learning resources
-  - "learn-javascript" - JavaScript learning resources
+- **CRITICAL**: Choose the most specific cluster that matches your content's primary focus
 
-- Spanish clusters:
-  - "crecimiento-profesional" - Desarrollo profesional
-  - "aprendizaje-potenciado-con-ia" - Aprendizaje con inteligencia artificial
-  - "curso-ciberseguridad" - Contenido sobre ciberseguridad
-  - "curso-inteligencia-artificial" - Cursos de IA
-  - "que-es-data-science" - Introducción a Data Science
-  - "carrera-de-programacion" - Carrera profesional en programación
-  - "desarrollador-full-stack" - Desarrollo Full Stack
-  - "bootcamp-de-programacion" - Bootcamps de programación
-  - "aprender-a-programar" - Recursos para aprender a programar
-  - "curso-programacion" - Cursos de programación
+**English clusters:**
 
-Note: Some clusters may be shared between languages or have equivalent versions in both languages.
+**AI & Learning Innovation:**
+- **"ai-powered-learning"** - **PRIMARY FOCUS**: Content about using AI tools and technologies to accelerate learning, improve educational outcomes, and enhance the learning experience. This includes articles about Rigobot, AI tutors, automated feedback systems, personalized learning paths, and how 4Geeks Academy leverages cutting-edge AI to make learning faster, more efficient, and more effective. This cluster positions 4Geeks as a vanguardist academy using cutting-edge technologies.
+
+**Technology & Industry:**
+- **"trends-and-tech"** - Industry trends, technology updates, market analysis, and general tech industry insights. Use for articles about emerging technologies, industry shifts, and broad tech trends.
+- **"ai-engineer"** - Content specifically about AI engineering roles, skills, and career paths. Focus on technical AI development, not learning applications.
+- **"ai-for-business-course"** - Content about AI applications in business contexts, AI for business courses, and business-focused AI education.
+
+**Career Development:**
+- **"career-growth"** - Career development, professional growth, job search strategies, salary information, and career advancement topics.
+- **"software-engineer"** - Software engineering roles, skills, career paths, and industry insights specific to software engineering.
+- **"full-stack-developer"** - Full-stack development topics, skills, career paths, and technical content specific to full-stack development.
+
+**Specialized Bootcamps:**
+- **"cybersecurity"** - General cybersecurity content, industry insights, and cybersecurity education topics.
+- **"cybersecurity-bootcamp"** - Specific content about cybersecurity bootcamps, curriculum, and training programs.
+- **"machine-learning-course"** - Machine learning courses, curriculum, and educational content.
+- **"machine-learning-engineer"** - Machine learning engineering roles, skills, and career paths.
+- **"machine-learning-bootcamp"** - Machine learning bootcamp programs, curriculum, and training.
+- **"data-science-bootcamp"** - Data science bootcamp programs, curriculum, and training.
+
+**Location & Format Specific:**
+- **"miami-coding-bootcamp"** - Content specific to Miami-based coding bootcamps and the Miami tech scene.
+- **"coding-bootcamp"** - General bootcamp content, comparisons, and industry insights.
+- **"online-coding-bootcamp"** - Remote learning, online education, and virtual bootcamp experiences.
+
+**Technology-Specific Training:**
+- **"python-bootcamp"** - Python-specific bootcamps, training, and educational content.
+- **"javascript-bootcamp"** - JavaScript-specific bootcamps, training, and educational content.
+- **"learn-python"** - Python learning resources, tutorials, and educational content.
+- **"learn-javascript"** - JavaScript learning resources, tutorials, and educational content.
+
+**Spanish clusters:**
+
+**AI & Learning Innovation:**
+- **"aprendizaje-potenciado-con-ia"** - **PRIMARY FOCUS**: Spanish content about AI-powered learning, similar to "ai-powered-learning" but for Spanish-speaking audiences. Content about using AI tools for faster, more effective learning experiences.
+
+**Career & Professional Development:**
+- **"crecimiento-profesional"** - Professional development, career growth, and career advancement in Spanish.
+- **"carrera-de-programacion"** - Programming careers, career paths, and professional development in programming.
+
+**Technical Education:**
+- **"curso-ciberseguridad"** - Cybersecurity courses and educational content in Spanish.
+- **"curso-inteligencia-artificial"** - AI courses and educational content in Spanish.
+- **"que-es-data-science"** - Introduction to data science concepts and education in Spanish.
+- **"desarrollador-full-stack"** - Full-stack development content in Spanish.
+- **"bootcamp-de-programacion"** - Programming bootcamps and training in Spanish.
+- **"aprender-a-programar"** - Programming learning resources and tutorials in Spanish.
+- **"curso-programacion"** - Programming courses and educational content in Spanish.
+
+**Selection Guidelines:**
+1. **Choose the most specific cluster** that matches your content's primary focus
+2. **For AI-powered learning content**, always use "ai-powered-learning" (English) or "aprendizaje-potenciado-con-ia" (Spanish)
+3. **For general tech trends**, use "trends-and-tech"
+4. **For career-focused content**, use "career-growth" or the specific career cluster
+5. **For location-specific content**, use the appropriate location cluster
+6. **When in doubt**, choose the more specific cluster over the general one
+
+**Note:** Some clusters may be shared between languages or have equivalent versions in both languages.
 
 ### Tags
 - Array of relevant keywords
