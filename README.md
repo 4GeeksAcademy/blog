@@ -32,7 +32,6 @@ All blog posts must include the following metadata in their YAML frontmatter:
 ---
 author: "4Geeks Academy"
 cluster: "trends-and-tech"
-date: "YYYY-MM-DDTHH:MM:SS+00:00"
 excerpt: "A compelling 50-100 word summary (max 160 characters)"
 status: "published"
 tags: ["tag1", "tag2", "tag3"]
