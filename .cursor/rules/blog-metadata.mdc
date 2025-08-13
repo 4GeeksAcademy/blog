@@ -16,6 +16,7 @@ excerpt: "A compelling 50-100 word summary of the article, optimized for SEO"
 tags: ["tag1", "tag2", "tag3"]  # Relevant tags for content categorization
 template: "landing_post"  # Standard template for all blog posts
 title: "SEO-optimized title (5-10 words)"  # Required for English posts
+target_seo_keyword: "some-keyword" #The main kewrod the article will be SEO and LLM optimized for
 ---
 ```
 
