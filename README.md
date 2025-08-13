@@ -35,6 +35,7 @@ cluster: "trends-and-tech"
 excerpt: "A compelling 50-100 word summary (max 160 characters)"
 status: "published"
 tags: ["tag1", "tag2", "tag3"]
+target_seo_keyword: "Some term important for search or llm search"
 template: "landing_post"
 title: "SEO-optimized title (5-10 words)"
 ---
