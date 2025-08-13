@@ -12,9 +12,7 @@ All blog posts must include the following metadata fields in their YAML frontmat
 ---
 author: "4Geeks Academy"  # Default author if not specified
 cluster: "trends-and-tech"  # Content cluster category
-date: "YYYY-MM-DDTHH:MM:SS+00:00"  # ISO 8601 format
 excerpt: "A compelling 50-100 word summary of the article, optimized for SEO"
-status: "published"  # or "draft" for unpublished posts
 tags: ["tag1", "tag2", "tag3"]  # Relevant tags for content categorization
 template: "landing_post"  # Standard template for all blog posts
 title: "SEO-optimized title (5-10 words)"  # Required for English posts
