@@ -1,9 +1,9 @@
 ---
 author: "4GeeksAcademy"
-excerpt: '4Geeks Academy’s AI Bootcamp in Miami trains full-stack developers in 12 weeks with AI tools. Job Guarantee included (refund if not hired in 9 months). 84% placement rate.'
-slug: "launch-your-tech-career-with-confidence",
-template: "landing_post"
 title: 'Launch Your Tech Career with Confidence: The New Software Engineering with AI Bootcamp in Miami'
+excerpt: '4Geeks Academy’s AI Bootcamp in Miami trains full-stack developers in 12 weeks with AI tools. Job Guarantee optionally included (refund if not hired in 9 months). 84% placement rate.'
+slug: "launch-your-tech-career-with-confidence"
+template: "landing_post"
 tags: ["vibe-coding", "front-end", "back-end", "git"]
 cluster: "ai-powered-learning"
 ---
@@ -14,7 +14,7 @@ That’s exactly why 4Geeks Academy created a new **full-time, in-person Softwa
 
 Whether you’re switching careers, reentering the workforce, or leveling up your skills, this bootcamp combines expert instruction, real-world tools, and a **guaranteed pathway to employment** that makes the investment worth it.
 
----
+
 ## Why AI-Integrated Skills Matter Now
 
 AI isn’t replacing developers — it’s changing what developers do and how they work. Tools like **GitHub Copilot**, **Cursor**, and custom coding assistants are becoming standard in modern workflows, helping teams ship faster, iterate smarter, and solve problems with greater creativity.
@@ -23,7 +23,6 @@ In other words, knowing how to **collaborate with AI** is the new must-have sk
 
 This bootcamp teaches you how to do exactly that. You’ll still learn full-stack development — front end, back end, algorithms, databases — but you’ll also learn how to use AI tools throughout the process to build faster, think bigger, and stay ahead of the curve.
 
----
 
 ## What You’ll Learn in 12 Weeks
 
@@ -40,7 +39,6 @@ Here’s what you’ll cover:
 
 Throughout the course, you'll develop the technical foundation and creative mindset needed to build real digital solutions — with or without writing every line of code yourself.
 
----
 
 ## Real Support. Real Outcomes.
 
@@ -52,7 +50,6 @@ You’ll be supported by a **human + AI learning system** that adapts to you e
 - ✅ **24/7 AI feedback through Rigobot**, your personal coding assistant that keeps you moving, practicing, and improving around the clock
 - ✅ **Dedicated career coaches** to refine your resume, build your personal brand, practice mock interviews, and keep your job search on track
 
----
 
 ## What the Job Guarantee Really Means
 
@@ -64,7 +61,6 @@ If you complete the program, follow the career guidance, and don’t land a qual
 
 We offer this because we believe in our teaching model — and in the people we teach.
 
----
 
 ## How Hyper-Personalized Learning Helps You Grow Faster
 
@@ -74,7 +70,6 @@ Our AI coding assistant, **Rigobot**, tracks your progress, identifies your str
 
 This isn’t one-size-fits-all education. It’s the kind of system that helps you **learn smarter, progress faster, and retain more** — so you’re truly ready for what comes next.
 
----
 
 ## Why 4Geeks Academy?
 
@@ -90,7 +85,6 @@ Our graduates report:
 
 We’re not just here to teach you to code. We’re here to help you **build a tech career that lasts**.
 
----
 
 ## Is This Bootcamp Right for You?
 
