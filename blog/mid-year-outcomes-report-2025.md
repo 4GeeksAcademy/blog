@@ -1,9 +1,7 @@
 ---
 author: "4Geeks Academy"
 cluster: "career-growth"
-date: "2025-08-08T15:45:00+00:00"
 excerpt: "Mid-2025 outcomes show record success: 86% US hiring rate, 282% LATAM salary increase, and 25% faster placements. See how our graduates are thriving in tech."
-status: "published"
 template: "landing_post"
 title: "Mid-Year Outcomes Report 2025 — How 4Geeks Academy Graduates Are Advancing So Far"
 tags: ["career-support", "coding-bootcamp", "salary-report", "job-placement", "tech-careers"]
