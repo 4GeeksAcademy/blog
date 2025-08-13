@@ -1,6 +1,6 @@
 ---
 description: 
-globs: 
+globs: blog/*
 alwaysApply: false
 ---
 # Blog Post Metadata Standards
@@ -11,11 +11,12 @@ All blog posts must include the following metadata fields in their YAML frontmat
 ```yaml
 ---
 author: "4Geeks Academy"  # Default author if not specified
+cluster: "trends-and-tech"  # Content cluster category
 excerpt: "A compelling 50-100 word summary of the article, optimized for SEO"
+tags: ["tag1", "tag2", "tag3"]  # Relevant tags for content categorization
 template: "landing_post"  # Standard template for all blog posts
-title: "SEO-optimized title (5-10 words)"
-status: "published"  # or "draft" for unpublished posts
-date: "YYYY-MM-DDTHH:MM:SS+00:00"  # ISO 8601 format
+title: "SEO-optimized title (5-10 words)"  # Required for English posts
+target_seo_keyword: "some-keyword" #The main kewrod the article will be SEO and LLM optimized for
 ---
 ```
 
@@ -27,32 +28,116 @@ date: "YYYY-MM-DDTHH:MM:SS+00:00"  # ISO 8601 format
 - Use title case
 - End with a question mark if it's a question
 - Avoid clickbait or misleading titles
+- For non-English posts, include language suffix in filename (e.g., .es.md for Spanish)
 
 ### Excerpt
-- 50-100 words
+- Maximum 160 characters including spaces (STRICT LIMIT)
 - Include the target keyword naturally in the first sentence
 - Summarize the main points of the article
 - End with a call to action or key takeaway
 - Avoid keyword stuffing
+- Use em dashes (—) for separating thoughts, not hyphens
+- Use a character counter tool to verify length before submitting
 
 ### Author
-- Default to "4Geeks Academy" if not specified
+- Default to "4GeeksAcademy" if not specified
 - Can include multiple authors separated by "&"
 - Use full names or professional handles
+- Maintain consistent capitalization (4GeeksAcademy or 4Geeks Academy)
 
 ### Date
 - Use ISO 8601 format: YYYY-MM-DDTHH:MM:SS+00:00
-- Set to current date for new posts
-- Can be future-dated for scheduled posts
+- Use current date and time when creating new posts
+- Future dates are NOT allowed
+- Ensure timezone is specified (+00:00)
+- Example: if creating a post on August 8, 2025 at 3:45 PM UTC, use "2025-08-08T15:45:00+00:00"
 
 ### Template
 - Use "landing_post" for all blog posts
 - This template includes SEO-optimized layout and structure
 
 ### Status
-- "published" for live posts
+- "published" for live posts (default)
 - "draft" for unpublished posts
 - Use draft status for posts under review or in progress
+
+### Cluster
+- Defines the content category and must be chosen carefully to ensure proper content organization
+- Must be one of the predefined clusters from breathecode API
+- **CRITICAL**: Choose the most specific cluster that matches your content's primary focus
+
+**English clusters:**
+
+**AI & Learning Innovation:**
+- **"ai-powered-learning"** - **PRIMARY FOCUS**: Content about using AI tools and technologies to accelerate learning, improve educational outcomes, and enhance the learning experience. This includes articles about Rigobot, AI tutors, automated feedback systems, personalized learning paths, and how 4Geeks Academy leverages cutting-edge AI to make learning faster, more efficient, and more effective. This cluster positions 4Geeks as a vanguardist academy using cutting-edge technologies.
+
+**Technology & Industry:**
+- **"trends-and-tech"** - Industry trends, technology updates, market analysis, and general tech industry insights. Use for articles about emerging technologies, industry shifts, and broad tech trends.
+- **"ai-engineer"** - Content specifically about AI engineering roles, skills, and career paths. Focus on technical AI development, not learning applications.
+- **"ai-for-business-course"** - Content about AI applications in business contexts, AI for business courses, and business-focused AI education.
+
+**Career Development:**
+- **"career-growth"** - Career development, professional growth, job search strategies, salary information, and career advancement topics.
+- **"software-engineer"** - Software engineering roles, skills, career paths, and industry insights specific to software engineering.
+- **"full-stack-developer"** - Full-stack development topics, skills, career paths, and technical content specific to full-stack development.
+
+**Specialized Bootcamps:**
+- **"cybersecurity"** - General cybersecurity content, industry insights, and cybersecurity education topics.
+- **"cybersecurity-bootcamp"** - Specific content about cybersecurity bootcamps, curriculum, and training programs.
+- **"machine-learning-course"** - Machine learning courses, curriculum, and educational content.
+- **"machine-learning-engineer"** - Machine learning engineering roles, skills, and career paths.
+- **"machine-learning-bootcamp"** - Machine learning bootcamp programs, curriculum, and training.
+- **"data-science-bootcamp"** - Data science bootcamp programs, curriculum, and training.
+
+**Location & Format Specific:**
+- **"miami-coding-bootcamp"** - Content specific to Miami-based coding bootcamps and the Miami tech scene.
+- **"coding-bootcamp"** - General bootcamp content, comparisons, and industry insights.
+- **"online-coding-bootcamp"** - Remote learning, online education, and virtual bootcamp experiences.
+
+**Technology-Specific Training:**
+- **"python-bootcamp"** - Python-specific bootcamps, training, and educational content.
+- **"javascript-bootcamp"** - JavaScript-specific bootcamps, training, and educational content.
+- **"learn-python"** - Python learning resources, tutorials, and educational content.
+- **"learn-javascript"** - JavaScript learning resources, tutorials, and educational content.
+
+**Spanish clusters:**
+
+**AI & Learning Innovation:**
+- **"aprendizaje-potenciado-con-ia"** - **PRIMARY FOCUS**: Spanish content about AI-powered learning, similar to "ai-powered-learning" but for Spanish-speaking audiences. Content about using AI tools for faster, more effective learning experiences.
+
+**Career & Professional Development:**
+- **"crecimiento-profesional"** - Professional development, career growth, and career advancement in Spanish.
+- **"carrera-de-programacion"** - Programming careers, career paths, and professional development in programming.
+
+**Technical Education:**
+- **"curso-ciberseguridad"** - Cybersecurity courses and educational content in Spanish.
+- **"curso-inteligencia-artificial"** - AI courses and educational content in Spanish.
+- **"que-es-data-science"** - Introduction to data science concepts and education in Spanish.
+- **"desarrollador-full-stack"** - Full-stack development content in Spanish.
+- **"bootcamp-de-programacion"** - Programming bootcamps and training in Spanish.
+- **"aprender-a-programar"** - Programming learning resources and tutorials in Spanish.
+- **"curso-programacion"** - Programming courses and educational content in Spanish.
+
+**Selection Guidelines:**
+1. **Choose the most specific cluster** that matches your content's primary focus
+2. **For AI-powered learning content**, always use "ai-powered-learning" (English) or "aprendizaje-potenciado-con-ia" (Spanish)
+3. **For general tech trends**, use "trends-and-tech"
+4. **For career-focused content**, use "career-growth" or the specific career cluster
+5. **For location-specific content**, use the appropriate location cluster
+6. **When in doubt**, choose the more specific cluster over the general one
+
+**Note:** Some clusters may be shared between languages or have equivalent versions in both languages.
+
+### Tags
+- Array of relevant keywords
+- Use lowercase
+- Separate multi-word tags with hyphens
+- Include at least 2 tags, maximum 5
+- Common tags include:
+  - "learnpack"
+  - "career-support"
+  - "artificial-intelligence"
+  - "rigobot"
 
 ## SEO Optimization
 - Include target keyword in title and first paragraph
@@ -60,9 +145,20 @@ date: "YYYY-MM-DDTHH:MM:SS+00:00"  # ISO 8601 format
 - Avoid keyword stuffing
 - Ensure metadata is unique for each post
 - Keep titles under 60 characters for optimal display in search results
+- Use descriptive URLs with target keywords
 
 ## File Naming Convention
 - Use kebab-case for filenames
 - Include target keyword in filename
-- Add language code suffix (.es.md for Spanish, .us.md for English)
+- Add language code suffix:
+  - .us.md or .md for English
+  - .es.md for Spanish
 - Example: how-to-become-full-stack-developer.es.md
+## Content Structure
+- Use markdown formatting
+- Include relevant images with alt text
+- Structure content with clear H2 and H3 headings
+- Use bullet points and numbered lists for better readability
+- Include internal links to other relevant 4Geeks content
+- End with a clear call to action
+

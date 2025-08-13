@@ -16,12 +16,31 @@ In order to add a new post to the website, you have to follow the next steps:
 
     + If you want to publish a post in other language, add the language abreviation at the end of the name, right before the file extension. i.e.: This a post in spanish `bienvenido-a-4geeks.es.md`.
 
-3. Execute `python3 update_posts.py`so the posts get updated in the API    
+    + **Important:** Each post must include proper YAML frontmatter metadata. See `.cursor/rules/blog-metadata.mdc` for detailed guidelines.
 
-4. Add your changes to your repository (`git add .`, `git commit -m "A message describing your contribution"` and `git push`).
+3. Add your changes to your repository (`git add .`, `git commit -m "A message describing your contribution"` and `git push`).
 
-5. Create a pull request in GitHub.
+4. Create a pull request in GitHub.
 
 That's it! Then we'll review your changes and hopefully accept it soon!
+
+## Metadata Requirements
+
+All blog posts must include the following metadata in their YAML frontmatter:
+
+```yaml
+---
+author: "4Geeks Academy"
+cluster: "trends-and-tech"
+excerpt: "A compelling 50-100 word summary (max 160 characters)"
+status: "published"
+tags: ["tag1", "tag2", "tag3"]
+target_seo_keyword: "Some term important for search or llm search"
+template: "landing_post"
+title: "SEO-optimized title (5-10 words)"
+---
+```
+
+For complete metadata guidelines, see `.cursor/rules/blog-metadata.mdc`.
 
 Thanks for contributing to 4Geeks!
