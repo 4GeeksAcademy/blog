@@ -1,7 +1,7 @@
 ---
 author: 4Geeks Academy
 date: '2025-07-09T22:41:43+00:00'
-excerpt: 'Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack. It debugs your code, explains errors & tailors feedback—so you learn faster & land tech jobs. Your 24/7 coding sidekick! 🚀'
+excerpt: "Stuck coding at 2 AM? Meet Rigobot, 4Geeks Academy's AI tutor in LearnPack. It debugs your code, explains errors & tailors feedback—so you learn faster & land tech jobs. Your 24/7 coding sidekick! 🚀"
 status: published
 template: landing_post
 cluster: ai-powered-learning
