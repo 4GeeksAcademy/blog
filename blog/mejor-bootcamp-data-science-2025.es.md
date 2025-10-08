@@ -1,7 +1,7 @@
 ---
 author: "4Geeks Academy"
 cluster: "mejor-bootcamp-data-science-2025-financial-magazine"
-excerpt: "4Geeks Academy reconocido como Mejor Bootcamp de Data Science 2025 por Financial Magazine. Descubre por qué somos líderes en formación de Data Science & AI."
+excerpt: "Descubre por qué Financial Magazine ha reconocido nuestro bootcamp de Data Science & AI como el mejor de 2025. Calidad, empleabilidad y una metodología de vanguardia."
 tags: ["que-es-data-science", "carrera-de-programacion", "machine-learning", "inteligencia-artificial"]
 template: "landing_post"
 title: "4Geeks Academy, Mejor Bootcamp de Data Science en 2025 según Financial Magazine"
