@@ -1,0 +1,320 @@
+---
+description: Translation guidelines for blog articles ensuring consistent multilingual content across English (US) and Spanish (ES), maintaining technical accuracy and youthful tone in markdown format.
+globs: 
+  - "blog/**/*.md"
+alwaysApply: false
+---
+# Translation Rule for Blog Articles
+Type: Workspace Rule
+Description: Translation guidelines for blog articles in markdown format, ensuring consistency between English (US) and Spanish (ES) versions while allowing flexible translation coverage.
+
+**Purpose:**
+This rule ensures consistency in multilingual blog content while maintaining a youthful tone and preserving technical accuracy. Unlike the main website repo, translations are optional and managed through an external content platform.
+
+---
+
+## 1. File Structure
+
+### Naming Convention
+- **English Articles:** `[article-name].us.md` or `[article-name].md`
+- **Spanish Articles:** `[article-name].es.md`
+- **Translation Pairs:** Use identical base name with different language suffixes
+  - ✅ `full-stack-developer.md` + `full-stack-developer.es.md`
+  - ✅ `coding-bootcamp.us.md` + `coding-bootcamp.es.md`
+
+### File Location
+- **All blog articles:** `/blog/` directory
+- **No subdirectories** for language separation
+
+### Translation Approach
+- **Optional Translations:** Not every article requires translation (unlike main repo)
+- **Standalone Articles:** Articles can exist in a single language when:
+  - Content is region-specific (e.g., Miami-only content)
+  - Content is time-sensitive and translation isn't immediately needed
+  - Content targets a specific language audience
+- **No Workflow Statuses:** All articles must use `status: "published"` (workflow statuses are deprecated)
+
+## 2. Frontmatter Metadata Requirements
+
+### Required Fields
+All articles must include YAML frontmatter with these required fields:
+
+```yaml
+---
+author: "4Geeks Academy"  # Or use authors: ["username1", "username2"] as array
+cluster: "relevant-cluster"  # Language-specific cluster (see mapping below)
+excerpt: "Max 160 characters including spaces"
+tags: ["tag1", "tag2", "tag3"]  # Array of relevant keywords
+template: "landing_post"  # Always use this template
+title: "SEO-optimized title (5-10 words)"
+status: "published"  # Always "published" (workflow statuses deprecated)
+date: "2025-01-27T10:30:00+00:00"  # ISO 8601 format, must be valid
+target_seo_keyword: "main-keyword"  # Optional but recommended
+cover: "https://api.example.com/images/cover.jpg"  # Optional: Image URL from API
+---
+```
+
+### Status Values
+**Always use:** `status: "published"`
+
+**Note:** Status workflow functionality is deprecated in this older repo. All articles must have `status: "published"` regardless of translation state or draft status.
+
+### Cover Images
+- **`cover`**: Use for **image URLs from API** (always URLs, never local paths)
+- **Note:** `cover_local` is deprecated - all images now come from the API as URLs
+
+### Authors Field
+- If using `authors`, must be an array: `authors: ["username1", "username2"]`
+- Single author can use: `author: "4Geeks Academy"`
+
+## 3. Content Translation Guidelines
+
+### Metadata Translation Requirements
+
+**Must Translate:**
+- `title`: Full translation maintaining SEO keywords (max 60 chars)
+- `excerpt`: Complete translation within 160 character limit (strict)
+- `cluster`: Use language-appropriate cluster (see mapping below)
+- `tags`: Translate tags to target language
+
+**Keep Unchanged:**
+- `author` or `authors`: Same value across languages
+- `template`: Always "landing_post"
+- `date`: Same publication date
+- `target_seo_keyword`: May adapt for language-specific SEO
+
+### Language Style
+- **Tone:** Informal and direct
+  - ✅ Spanish: Use "tú" form (e.g., "Aprende a programar")
+  - ❌ Spanish: Avoid "usted" form (e.g., "Aprenda a programar")
+- **Target Audience:** 18-25 year olds
+- **Technical Terms:** Keep consistent
+  - "bootcamp", "JavaScript", "Python" remain unchanged
+  - "Full Stack Developer" can remain or translate to "Desarrollador Full Stack"
+
+### Cluster Mapping (Language-Specific)
+
+| English Cluster | Spanish Equivalent |
+|----------------|-------------------|
+| `ai-powered-learning` | `aprendizaje-potenciado-con-ia` |
+| `career-growth` | `crecimiento-profesional` |
+| `coding-bootcamp` | `bootcamp-de-programacion` |
+| `learn-python` | `aprender-a-programar` |
+| `full-stack-developer` | `desarrollador-full-stack` |
+| `software-engineer` | N/A (keep in English) |
+| `trends-and-tech` | N/A (keep in English) |
+
+### Markdown Content Translation
+- **Structure Preservation:** Maintain heading hierarchy (H2, H3, etc.)
+- **Links:** Update internal links to language-specific versions when available
+  - English: `[link text](/us/page)` or `[link text](https://4geeksacademy.com/us/page)`
+  - Spanish: `[link text](/es/pagina)` or `[link text](https://4geeksacademy.com/es/pagina)`
+- **Images:** Keep same image paths; translate alt text to target language
+- **Code Blocks:** Keep code unchanged; translate only comments
+- **Lists & Tables:** Translate all content while preserving formatting
+
+## 4. Quality Control Process
+
+### Pre-commit Checklist
+
+**Frontmatter Validation:**
+- [ ] All required fields present (title, date, status, excerpt, cluster, tags)
+- [ ] Excerpt within 160 character limit (strict)
+- [ ] Cluster matches language (EN/ES clusters from mapping)
+- [ ] Tags translated appropriately
+- [ ] Date format correct: `YYYY-MM-DDTHH:MM:SS+00:00` (ISO 8601)
+- [ ] Status is `"published"` (required - workflow statuses deprecated)
+- [ ] Authors field is array if used (not string)
+
+**Cover Images (Optional):**
+- [ ] `cover` uses API URL only (e.g., `https://api.example.com/images/...`)
+- [ ] Never use local paths or `../` in cover field
+- [ ] `cover_local` is deprecated - don't use
+
+**Content Quality:**
+- [ ] Headings maintain hierarchy
+- [ ] Internal links updated for language
+- [ ] Code blocks preserved correctly
+- [ ] Technical terms handled consistently
+- [ ] Tone matches target audience (informal, "tú" form for ES)
+
+**Translation Pairs (when creating pairs):**
+- [ ] Base filename identical except language suffix
+- [ ] Both files in `/blog/` directory
+- [ ] Content semantically equivalent
+- [ ] Language-specific clusters and tags used
+
+### Platform Validation
+
+**External platform automatically validates:**
+- ✅ Title exists (required)
+- ✅ Date is valid (moment.js validation)
+- ✅ Status is "published" (required)
+- ✅ Authors is an array (if used)
+- ✅ Cover images use correct URL format (if used)
+- ✅ No duplicate slugs across articles
+
+**Note:** No local testing required - validation runs when content syncs to platform.
+
+## 5. Translation Workflow
+
+### When to Translate (Priority)
+**Create translation pairs for:**
+- High-traffic articles (check analytics)
+- Evergreen content (bootcamp guides, career advice)
+- SEO-critical pages
+- Content targeting both EN/ES markets
+
+**Can defer translation for:**
+- Time-sensitive announcements
+- Location-specific content (single market)
+- Partnership announcements (region-specific)
+- Experimental/test content
+
+### Translation Process
+
+**Step 1: Create/Publish English article**
+```yaml
+# full-stack-developer.us.md
+---
+title: "What Is A Full Stack Developer?"
+status: "published"  # Always published
+cluster: "full-stack-developer"
+excerpt: "Learn what a Full Stack Developer is and how to become one."
+tags: ["full-stack", "career-growth", "web-development"]
+date: "2025-01-15T10:00:00+00:00"
+template: "landing_post"
+---
+```
+
+**Step 2: Create Spanish translation**
+```yaml
+# full-stack-developer.es.md (new file)
+---
+title: "¿Qué Es Un Desarrollador Full Stack?"
+status: "published"  # Always published
+cluster: "desarrollador-full-stack"  # Language-specific cluster
+excerpt: "Conoce qué es un desarrollador full-stack y cómo convertirte en uno."
+tags: ["full-stack", "crecimiento-profesional", "desarrollo-web"]
+date: "2025-01-15T10:00:00+00:00"  # Same date as English version
+template: "landing_post"
+---
+```
+
+**Note:** There is no draft or pending status - both files are always `status: "published"`
+
+## 6. Examples
+
+### ✅ Good Translation Pair
+
+**English (`full-stack-developer.us.md`):**
+```yaml
+---
+author: "4Geeks Academy"
+title: "What Is A Full Stack Developer?"
+excerpt: "Learn what a Full Stack Developer is, skills needed, and how to become one."
+cluster: "full-stack-developer"
+tags: ["full-stack", "career-growth", "web-development"]
+status: "published"
+date: "2025-01-15T10:00:00+00:00"
+template: "landing_post"
+---
+## What is a Full Stack Developer?
+
+A full-stack developer is responsible for building...
+```
+
+**Spanish (`full-stack-developer.es.md`):**
+```yaml
+---
+author: "4Geeks Academy"
+title: "¿Qué Es Un Desarrollador Full Stack?"
+excerpt: "Conoce qué es un desarrollador full-stack, habilidades necesarias y cómo convertirte en uno."
+cluster: "desarrollador-full-stack"
+tags: ["full-stack", "crecimiento-profesional", "desarrollo-web"]
+status: "published"
+date: "2025-01-15T10:00:00+00:00"
+template: "landing_post"
+---
+## ¿Qué es un desarrollador Full Stack?
+
+Un desarrollador full stack es el responsable de construir...
+```
+
+### ✅ Acceptable Standalone Article
+
+**Spanish only (`guia-de-supervivencia-2025.es.md`):**
+```yaml
+---
+author: "4Geeks Academy"
+title: "La IA no te quitará el trabajo, pero un developer que la use sí"
+cluster: "aprendizaje-potenciado-con-ia"
+excerpt: "Descubre cómo dominar la IA para impulsar tu carrera tech en 2025."
+tags: ["aprendizaje-potenciado-con-ia", "carrera-de-programacion", "inteligencia-artificial"]
+status: "published"
+date: "2025-01-27T10:30:00+00:00"
+template: "landing_post"
+---
+# Note: Spanish-market specific content, English translation deferred
+```
+
+### ❌ Bad - Incorrect Metadata
+
+**English version:**
+```yaml
+cluster: "ai-powered-learning"
+tags: ["artificial-intelligence", "career"]
+```
+
+**Spanish version (incorrect):**
+```yaml
+cluster: "ai-powered-learning"  # ❌ Should be "aprendizaje-potenciado-con-ia"
+tags: ["artificial-intelligence", "career"]  # ❌ Should be Spanish tags
+```
+
+### ❌ Bad - Excerpt Too Long
+```yaml
+excerpt: "This is a very comprehensive guide about becoming a full stack developer that covers everything you need to know including skills, salaries, and career paths in detail."  # ❌ 168 chars (exceeds 160 limit)
+```
+
+### ❌ Bad - Cover Image Path
+```yaml
+cover: "../blog_images/image.png"  # ❌ Never use local paths
+cover_local: "../../blog_images/image.png"  # ❌ Deprecated, don't use
+```
+
+**Correct:**
+```yaml
+cover: "https://breathecode.herokuapp.com/v1/media/file/cover-image-name"  # ✅ API URL
+# or
+cover: "https://example.com/image.png"  # ✅ Any remote URL
+```
+
+## 7. Enforcement
+
+**Platform Validation (Automated):**
+- Required fields validation (title, date, status, excerpt, cluster, tags)
+- Date format validation (ISO 8601)
+- Status must be "published"
+- Authors array validation (if used)
+- Cover URL format validation (if used)
+- Duplicate slug detection
+
+**Manual Review:**
+- Translation quality and accuracy
+- SEO optimization (title <60 chars, excerpt ≤160 chars)
+- Content accuracy and completeness
+- Tone consistency (informal/"tú" form for Spanish)
+- Character limits strictly enforced
+- Language-specific clusters used correctly
+
+**No Blocking Tests:** Push content and let platform validate. No local `npm test` or `npm build` required in this repo.
+
+**Important Notes:**
+- ⚠️ Status workflow is deprecated - always use `status: "published"`
+- ⚠️ `cover_local` is deprecated - use API URLs in `cover` field only
+
+---
+
+**Version:** v2.1 Blog Adaptation, 2025-10-09
+**Last Updated:** Removed deprecated status workflow and cover_local functionality
