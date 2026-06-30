@@ -60,15 +60,15 @@ Si tu objetivo es cambiar de carrera y conseguir empleo en IA en meses, un progr
 
 Hay cinco preguntas que separan los programas serios del resto:
 
-**¿Aprendes construyendo?** Un curso basado en vídeos pasivos no te da portafolio. Un reclutador no contrata a quien entiende la teoría: contrata a quien puede mostrarte lo que ha construido.
+- **¿Aprendes construyendo?** Un curso basado en vídeos pasivos no te da portafolio. Un reclutador no contrata a quien entiende la teoría: contrata a quien puede mostrarte lo que ha construido.
 
-**¿El temario cubre lo que el mercado contrata hoy?** LLMs, RAG, agentes de IA y despliegue en producción son las habilidades que las empresas buscan ahora. Un programa de hace tres años no te prepara para el mercado de 2026.
+- **¿El temario cubre lo que el mercado contrata hoy?** LLMs, RAG, agentes de IA y despliegue en producción son las habilidades que las empresas buscan ahora. Un programa de hace tres años no te prepara para el mercado de 2026.
 
-**¿Incluye mentoría real?** La diferencia entre terminar un programa y abandonarlo a mitad suele ser el acceso a alguien que resuelve tus dudas cuando te bloqueas. Los tutoriales de YouTube no hacen eso.
+- **¿Incluye mentoría real?** La diferencia entre terminar un programa y abandonarlo a mitad suele ser el acceso a alguien que resuelve tus dudas cuando te bloqueas. Los tutoriales de YouTube no hacen eso.
 
-**¿Ofrece apoyo de empleo?** Un certificado no te consigue trabajo. El acceso a una red de empleadores, los simulacros de entrevista y el coaching de carrera sí marcan la diferencia.
+- **¿Ofrece apoyo de empleo?** Un certificado no te consigue trabajo. El acceso a una red de empleadores, los simulacros de entrevista y el coaching de carrera sí marcan la diferencia.
 
-**¿Tiene datos reales de resultados?** Pide tasas de contratación, tiempos medios para encontrar empleo y rangos salariales de graduados. Si el programa no los publica, hay una razón.
+- **¿Tiene datos reales de resultados?** Pide tasas de contratación, tiempos medios para encontrar empleo y rangos salariales de graduados. Si el programa no los publica, hay una razón.
 
 ## ¿Necesito experiencia previa para hacer un curso de IA?
 
