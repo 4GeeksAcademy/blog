@@ -1,5 +1,4 @@
 ---
-slug: /es/blog/curso-de-inteligencia-artificial
 meta_title: "Curso de Inteligencia Artificial: Guía para Elegir en 2026"
 meta_description: "¿Buscas un curso de inteligencia artificial? Descubre qué aprenderás, cómo elegir el mejor y por qué el de 4Geeks te lleva al empleo en 3-6 meses."
 keywords: curso de inteligencia artificial, curso inteligencia artificial
